@@ -92,16 +92,16 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/05/15/live-coverage-spacex-makes-another-attempt-to-launch-space-station-cargo-mission/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX makes another attempt to launch space station cargo mission
 - <a href="https://www.nasaspaceflight.com/2026/05/fligth12-debut-spacex-ship-evolution/" >🔗</a> **[NASASpaceflight]** Flight 12 readies for the debut SpaceX’s next Ship evolution
 - <a href="https://www.nasa.gov/image-article/curiosity-shakes-loose-a-pesky-rock/" >🔗</a> **[NASA]** Curiosity Shakes Loose a Pesky Rock
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/05/Preparing_Smile_for_space" >🔗</a> **[ESA]** Preparing Smile for space
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_11-15_May_2026" >🔗</a> **[ESA]** Week in images: 11-15 May 2026
 - <a href="https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/" >🔗</a> **[NASA]** Hubble Sights Galaxy in Transition
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Quito_s_volcanic_landscape" >🔗</a> **[ESA]** Earth from Space: Quito’s volcanic landscape
+- <a href="https://europeanspaceflight.com/ohb-space-uk-to-begin-work-on-esa-envision-venus-explorer-mission/" >🔗</a> **[European Spaceflight]** OHB Space UK to Begin Work on ESA EnVision Venus Explorer Mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/A_Lyrid_meteor_from_orbit" >🔗</a> **[ESA]** A Lyrid meteor from orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/picturing-earth-in-a-new-light/" >🔗</a> **[NASA]** Picturing Earth in a New Light
-- <a href="https://www.nasaspaceflight.com/2026/05/rocket-lab-q1-2026/" >🔗</a> **[NASASpaceflight]** Rocket Lab signs new launch contracts and acquires robotics company during Q1 2026
-- <a href="https://spaceflightnow.com/2026/05/14/ula-confirms-successful-solid-rocket-booster-test-as-vulcan-anomaly-investigation-continues/" >🔗</a> **[Spaceflight Now]** ULA confirms successful solid rocket booster test as Vulcan anomaly investigation continues
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260515T170227">2026-05-15 17:02:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260515T175923">2026-05-15 17:59:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
