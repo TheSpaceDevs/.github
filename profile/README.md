@@ -92,6 +92,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/" >🔗</a> **[NASA]** Hubble Sights Galaxy in Transition
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Quito_s_volcanic_landscape" >🔗</a> **[ESA]** Earth from Space: Quito’s volcanic landscape
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/A_Lyrid_meteor_from_orbit" >🔗</a> **[ESA]** A Lyrid meteor from orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/picturing-earth-in-a-new-light/" >🔗</a> **[NASA]** Picturing Earth in a New Light
@@ -101,7 +102,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 - <a href="https://spacepolicyonline.com/news/nasa-shares-early-planning-for-artemis-iii/" >🔗</a> **[SpacePolicyOnline.com]** NASA Shares Early Planning for Artemis III
 - <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/" >🔗</a> **[NASA]** NASA, Industry Prepare Cryogenic Fuel Technology Demo
 - <a href="https://www.nasa.gov/image-article/fresh-food-delivery-for-space-station/" >🔗</a> **[NASA]** Fresh Food Delivery for Space Station
-- <a href="https://science.nasa.gov/earth/earth-observatory/ice-moves-out-of-aniak/" >🔗</a> **[NASA]** Ice Moves Out of Aniak
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260515T120646">2026-05-15 12:06:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260515T130454">2026-05-15 13:04:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
