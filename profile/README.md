@@ -92,6 +92,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/A_Lyrid_meteor_from_orbit" >🔗</a> **[ESA]** A Lyrid meteor from orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/picturing-earth-in-a-new-light/" >🔗</a> **[NASA]** Picturing Earth in a New Light
 - <a href="https://www.nasaspaceflight.com/2026/05/rocket-lab-q1-2026/" >🔗</a> **[NASASpaceflight]** Rocket Lab signs new launch contracts and acquires robotics company during Q1 2026
 - <a href="https://spaceflightnow.com/2026/05/14/ula-confirms-successful-solid-rocket-booster-test-as-vulcan-anomaly-investigation-continues/" >🔗</a> **[Spaceflight Now]** ULA confirms successful solid rocket booster test as Vulcan anomaly investigation continues
@@ -101,7 +102,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 - <a href="https://www.nasa.gov/image-article/fresh-food-delivery-for-space-station/" >🔗</a> **[NASA]** Fresh Food Delivery for Space Station
 - <a href="https://science.nasa.gov/earth/earth-observatory/ice-moves-out-of-aniak/" >🔗</a> **[NASA]** Ice Moves Out of Aniak
 - <a href="https://spacepolicyonline.com/news/house-appropriators-reject-deep-cuts-to-nasa-in-fy2027/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Reject Deep Cuts to NASA in FY2027
-- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/" >🔗</a> **[NASA]** NASA-Supported Space Tech Advances Earthly Construction
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260515T063828">2026-05-15 06:38:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260515T075817">2026-05-15 07:58:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
