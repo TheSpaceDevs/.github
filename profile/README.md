@@ -90,6 +90,7 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/05/artemis-iii-processing-planning-hls/" >🔗</a> **[NASASpaceflight]** Artemis III deep into processing and planning for key HLS test
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-34th-spacex-resupply-mission-to-station/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station
 - <a href="https://spaceflightnow.com/2026/05/15/live-coverage-spacex-makes-another-attempt-to-launch-space-station-cargo-mission/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX makes another attempt to launch space station cargo mission
 - <a href="https://www.nasaspaceflight.com/2026/05/fligth12-debut-spacex-ship-evolution/" >🔗</a> **[NASASpaceflight]** Flight 12 readies for the debut SpaceX’s next Ship evolution
@@ -99,7 +100,6 @@ into *an Elliptical Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/" >🔗</a> **[NASA]** Hubble Sights Galaxy in Transition
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Quito_s_volcanic_landscape" >🔗</a> **[ESA]** Earth from Space: Quito’s volcanic landscape
 - <a href="https://europeanspaceflight.com/ohb-space-uk-to-begin-work-on-esa-envision-venus-explorer-mission/" >🔗</a> **[European Spaceflight]** OHB Space UK to Begin Work on ESA EnVision Venus Explorer Mission
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/A_Lyrid_meteor_from_orbit" >🔗</a> **[ESA]** A Lyrid meteor from orbit
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260517T174558">2026-05-17 17:45:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260517T181735">2026-05-17 18:17:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
