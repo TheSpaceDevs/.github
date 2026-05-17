@@ -90,6 +90,7 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-17-23-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 17-23, 2026
 - <a href="https://www.spacescout.info/2026/05/crs-34-takes-flight/" >🔗</a> **[Space Scout]** CRS-34 Takes Flight
 - <a href="https://www.nasaspaceflight.com/2026/05/artemis-iii-processing-planning-hls/" >🔗</a> **[NASASpaceflight]** Artemis III deep into processing and planning for key HLS test
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-34th-spacex-resupply-mission-to-station/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station
@@ -99,7 +100,6 @@ into *an Elliptical Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/05/Preparing_Smile_for_space" >🔗</a> **[ESA]** Preparing Smile for space
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_11-15_May_2026" >🔗</a> **[ESA]** Week in images: 11-15 May 2026
 - <a href="https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/" >🔗</a> **[NASA]** Hubble Sights Galaxy in Transition
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Quito_s_volcanic_landscape" >🔗</a> **[ESA]** Earth from Space: Quito’s volcanic landscape
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260517T221434">2026-05-17 22:14:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260517T224535">2026-05-17 22:45:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
