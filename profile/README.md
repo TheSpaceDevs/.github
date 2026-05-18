@@ -90,6 +90,7 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/" >🔗</a> **[Arstechnica]** The US space enterprise is desperately waiting for Starship—will it finally deliver?
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/05/Landing_sideways" >🔗</a> **[ESA]** Landing sideways
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-17-23-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 17-23, 2026
 - <a href="https://www.spacescout.info/2026/05/crs-34-takes-flight/" >🔗</a> **[Space Scout]** CRS-34 Takes Flight
@@ -99,7 +100,6 @@ into *an Elliptical Orbit
 - <a href="https://www.nasaspaceflight.com/2026/05/fligth12-debut-spacex-ship-evolution/" >🔗</a> **[NASASpaceflight]** Flight 12 readies for the debut SpaceX’s next Ship evolution
 - <a href="https://www.nasa.gov/image-article/curiosity-shakes-loose-a-pesky-rock/" >🔗</a> **[NASA]** Curiosity Shakes Loose a Pesky Rock
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/05/Preparing_Smile_for_space" >🔗</a> **[ESA]** Preparing Smile for space
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_11-15_May_2026" >🔗</a> **[ESA]** Week in images: 11-15 May 2026
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260518T094503">2026-05-18 09:45:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260518T111453">2026-05-18 11:14:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
