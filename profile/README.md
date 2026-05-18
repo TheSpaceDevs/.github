@@ -90,16 +90,16 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/beacon-of-light/" >🔗</a> **[NASA]** Beacon of Light
 - <a href="https://arstechnica.com/space/2026/05/did-artemis-ii-break-through-registrations-at-space-camp-double-afterward/" >🔗</a> **[Arstechnica]** Did Artemis II break through? Registrations at Space Camp double afterward.
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/ESA_and_CNES_renew_their_commitment_to_Europe_s_Spaceport" >🔗</a> **[ESA]** ESA and CNES renew their commitment to Europe’s Spaceport
 - <a href="https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/" >🔗</a> **[Arstechnica]** The US space enterprise is desperately waiting for Starship—will it finally deliver?
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Inspector_Smile_chapter_3_the_countdown_begins" >🔗</a> **[ESA]** Inspector Smile, chapter 3: the countdown begins
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/05/Landing_sideways" >🔗</a> **[ESA]** Landing sideways
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-17-23-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 17-23, 2026
 - <a href="https://www.spacescout.info/2026/05/crs-34-takes-flight/" >🔗</a> **[Space Scout]** CRS-34 Takes Flight
 - <a href="https://www.nasaspaceflight.com/2026/05/artemis-iii-processing-planning-hls/" >🔗</a> **[NASASpaceflight]** Artemis III deep into processing and planning for key HLS test
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-34th-spacex-resupply-mission-to-station/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station
-- <a href="https://spaceflightnow.com/2026/05/15/live-coverage-spacex-makes-another-attempt-to-launch-space-station-cargo-mission/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX makes another attempt to launch space station cargo mission
-- <a href="https://www.nasaspaceflight.com/2026/05/fligth12-debut-spacex-ship-evolution/" >🔗</a> **[NASASpaceflight]** Flight 12 readies for the debut SpaceX’s next Ship evolution
-- <a href="https://www.nasa.gov/image-article/curiosity-shakes-loose-a-pesky-rock/" >🔗</a> **[NASA]** Curiosity Shakes Loose a Pesky Rock
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260518T140831">2026-05-18 14:08:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260518T154259">2026-05-18 15:42:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
