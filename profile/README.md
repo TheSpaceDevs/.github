@@ -90,6 +90,7 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/05/did-artemis-ii-break-through-registrations-at-space-camp-double-afterward/" >🔗</a> **[Arstechnica]** Did Artemis II break through? Registrations at Space Camp double afterward.
 - <a href="https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/" >🔗</a> **[Arstechnica]** The US space enterprise is desperately waiting for Starship—will it finally deliver?
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/05/Landing_sideways" >🔗</a> **[ESA]** Landing sideways
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-17-23-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 17-23, 2026
@@ -99,7 +100,6 @@ into *an Elliptical Orbit
 - <a href="https://spaceflightnow.com/2026/05/15/live-coverage-spacex-makes-another-attempt-to-launch-space-station-cargo-mission/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX makes another attempt to launch space station cargo mission
 - <a href="https://www.nasaspaceflight.com/2026/05/fligth12-debut-spacex-ship-evolution/" >🔗</a> **[NASASpaceflight]** Flight 12 readies for the debut SpaceX’s next Ship evolution
 - <a href="https://www.nasa.gov/image-article/curiosity-shakes-loose-a-pesky-rock/" >🔗</a> **[NASA]** Curiosity Shakes Loose a Pesky Rock
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/05/Preparing_Smile_for_space" >🔗</a> **[ESA]** Preparing Smile for space
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260518T124138">2026-05-18 12:41:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260518T140831">2026-05-18 14:08:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
