@@ -90,6 +90,7 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-selects-next-class-of-space-health-postdoctoral-fellows/" >🔗</a> **[NASA]** NASA Selects Next Class of Space Health Postdoctoral Fellows
 - <a href="https://www.nasa.gov/image-article/beacon-of-light/" >🔗</a> **[NASA]** Beacon of Light
 - <a href="https://arstechnica.com/space/2026/05/did-artemis-ii-break-through-registrations-at-space-camp-double-afterward/" >🔗</a> **[Arstechnica]** Did Artemis II break through? Registrations at Space Camp double afterward.
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/ESA_and_CNES_renew_their_commitment_to_Europe_s_Spaceport" >🔗</a> **[ESA]** ESA and CNES renew their commitment to Europe’s Spaceport
@@ -99,7 +100,6 @@ into *an Elliptical Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-17-23-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 17-23, 2026
 - <a href="https://www.spacescout.info/2026/05/crs-34-takes-flight/" >🔗</a> **[Space Scout]** CRS-34 Takes Flight
 - <a href="https://www.nasaspaceflight.com/2026/05/artemis-iii-processing-planning-hls/" >🔗</a> **[NASASpaceflight]** Artemis III deep into processing and planning for key HLS test
-- <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-34th-spacex-resupply-mission-to-station/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260518T165424">2026-05-18 16:54:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260518T174036">2026-05-18 17:40:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
