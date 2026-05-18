@@ -90,6 +90,7 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/05/Landing_sideways" >🔗</a> **[ESA]** Landing sideways
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-17-23-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 17-23, 2026
 - <a href="https://www.spacescout.info/2026/05/crs-34-takes-flight/" >🔗</a> **[Space Scout]** CRS-34 Takes Flight
 - <a href="https://www.nasaspaceflight.com/2026/05/artemis-iii-processing-planning-hls/" >🔗</a> **[NASASpaceflight]** Artemis III deep into processing and planning for key HLS test
@@ -99,7 +100,6 @@ into *an Elliptical Orbit
 - <a href="https://www.nasa.gov/image-article/curiosity-shakes-loose-a-pesky-rock/" >🔗</a> **[NASA]** Curiosity Shakes Loose a Pesky Rock
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/05/Preparing_Smile_for_space" >🔗</a> **[ESA]** Preparing Smile for space
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_11-15_May_2026" >🔗</a> **[ESA]** Week in images: 11-15 May 2026
-- <a href="https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/" >🔗</a> **[NASA]** Hubble Sights Galaxy in Transition
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260518T064527">2026-05-18 06:45:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260518T081810">2026-05-18 08:18:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
