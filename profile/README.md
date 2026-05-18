@@ -90,6 +90,7 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/johnson-photographers-honored-for-award-winning-portraits/" >🔗</a> **[NASA]** Johnson Photographers Honored for Award-Winning Portraits
 - <a href="https://arstechnica.com/space/2026/05/one-mars-spacecraft-two-senators-and-a-cloud-of-questions/" >🔗</a> **[Arstechnica]** One Mars spacecraft, two Senators, and a cloud of questions
 - <a href="https://www.nasaspaceflight.com/2026/05/super-heavy-block-3-booster-future/" >🔗</a> **[NASASpaceflight]** Super Heavy Block 3 the Booster of the Future
 - <a href="https://science.nasa.gov/missions/maven/nasas-maven-makes-1st-discovery-of-atmospheric-effect-at-mars/" >🔗</a> **[NASA]** NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars
@@ -99,7 +100,6 @@ into *an Elliptical Orbit
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/ESA_and_CNES_renew_their_commitment_to_Europe_s_Spaceport" >🔗</a> **[ESA]** ESA and CNES renew their commitment to Europe’s Spaceport
 - <a href="https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/" >🔗</a> **[Arstechnica]** The US space enterprise is desperately waiting for Starship—will it finally deliver?
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Inspector_Smile_chapter_3_the_countdown_begins" >🔗</a> **[ESA]** Inspector Smile, chapter 3: the countdown begins
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/05/Landing_sideways" >🔗</a> **[ESA]** Landing sideways
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260518T215239">2026-05-18 21:52:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260518T221729">2026-05-18 22:17:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
