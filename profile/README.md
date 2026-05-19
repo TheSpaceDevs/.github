@@ -19,33 +19,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)**. It is scheduled to be launched by *Avio S.p.A*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/it.svg" />
-from *<a href="https://en.wikipedia.org/wiki/ELA-1">Ariane Launch Area 1 (ELV)</a>, Guiana Space Centre, French Guiana*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260519T035210">2026-05-19 03:52:10 UTC</a>.  Until
-then, this pad will have been used for 54
-out of 332 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Starlink Group 17-42**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T021100">2026-05-20 02:11:00 UTC</a>.  Until
+then, this pad will have been used for 267
+out of 883 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Astrophysics* and the payload will be injected
-into *an Elliptical Orbit
-(Elliptical)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Joint mission between the European Space Agency and the Chinese Academy of Sciences to investigate the interaction between Earth’s protective shield – the magnetosphere – and the supersonic solar wind.
+  A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Vega_(rocket)" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=5.236,-52.775" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260519T035210">2026-05-19 03:52:10 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)&location=Guiana Space Centre, French Guiana&dates=20260519T035210Z%2F20260519T035210Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T021100">2026-05-20 02:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-42&location=Vandenberg SFB, CA, USA&dates=20260520T021100Z%2F20260520T061100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-42** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T092600">2026-05-21 09:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-31&location=Cape Canaveral SFS, FL, USA&dates=20260521T092600Z%2F20260521T132600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-31** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T223000">2026-05-21 22:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 12&location=SpaceX Starbase, TX, USA&dates=20260521T223000Z%2F20260522T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 12** from SpaceX Starbase, TX, USA.
@@ -55,6 +54,7 @@ into *an Elliptical Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260525T114100">2026-05-25 11:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-47&location=Cape Canaveral SFS, FL, USA&dates=20260525T114100Z%2F20260525T154100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-47** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260526T160000">2026-05-26 16:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260526T160000Z%2F20260526T220000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T140000">2026-05-27 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-41&location=Vandenberg SFB, CA, USA&dates=20260527T140000Z%2F20260527T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-41** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T162700">2026-05-29 16:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-07)&location=Cape Canaveral SFS, FL, USA&dates=20260529T162700Z%2F20260529T165600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-07)** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,8 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind" >🔗</a> **[ESA]** Smile lifts off on quest to reveal Earth’s invisible shield against the solar wind
+- <a href="https://science.nasa.gov/earth/earth-observatory/farming-in-ancient-lake-agassiz/" >🔗</a> **[NASA]** Farming in Ancient Lake Agassiz
 - <a href="https://spacepolicyonline.com/news/anderson-confirmed-as-deputy-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Anderson Confirmed as Deputy NASA Administrator
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4893-4899-drilling-at-campo-marte-and-a-visit-from-the-psyche-spacecraft/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4893-4899: Drilling at Campo Marte and a Visit From the Psyche Spacecraft
 - <a href="https://www.nasaspaceflight.com/2026/05/esa-smile-launch/" >🔗</a> **[NASASpaceflight]** Vega C set to launch SMILE to study Earth’s magnetosphere
@@ -98,27 +100,15 @@ into *an Elliptical Orbit
 - <a href="https://www.nasaspaceflight.com/2026/05/super-heavy-block-3-booster-future/" >🔗</a> **[NASASpaceflight]** Super Heavy Block 3 the Booster of the Future
 - <a href="https://science.nasa.gov/missions/maven/nasas-maven-makes-1st-discovery-of-atmospheric-effect-at-mars/" >🔗</a> **[NASA]** NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars
 - <a href="https://www.nasa.gov/news-release/nasa-selects-next-class-of-space-health-postdoctoral-fellows/" >🔗</a> **[NASA]** NASA Selects Next Class of Space Health Postdoctoral Fellows
-- <a href="https://www.nasa.gov/image-article/beacon-of-light/" >🔗</a> **[NASA]** Beacon of Light
-- <a href="https://arstechnica.com/space/2026/05/did-artemis-ii-break-through-registrations-at-space-camp-double-afterward/" >🔗</a> **[Arstechnica]** Did Artemis II break through? Registrations at Space Camp double afterward.
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/05/Preparing_Smile_for_space" >🔗</a> **[ESA]** Preparing Smile for space
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Smile_s_journey_from_launch_to_orbit" >🔗</a> **[ESA]** Smile's journey from launch to orbit
-- <a href="https://www.nasaspaceflight.com/2026/05/china-cargo-crew-reusability/" >🔗</a> **[NASASpaceflight]** China prepares cargo, crew, and deep space missions, as commercial sector steps towards reusability
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May" >🔗</a> **[ESA]** Smile set to launch on 19 May
-- <a href="https://europeanspaceflight.com/avio-delays-smile-launch-after-component-production-issue-identified/" >🔗</a> **[European Spaceflight]** Avio Delays SMILE Launch After Component Production Issue Identified
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live" >🔗</a> **[ESA]** How to follow the Smile launch live
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Smile_A_global_answer_to_a_global_mystery" >🔗</a> **[ESA]** Smile: A global answer to a global mystery
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Last_glimpse_of_Smile" >🔗</a> **[ESA]** Last glimpse of Smile
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Smile_meets_Vega-C" >🔗</a> **[ESA]** Smile meets Vega-C
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/What_is_Smile_about_to_discover" >🔗</a> **[ESA]** What is Smile about to discover?
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260519T034326">2026-05-19 03:43:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260519T051625">2026-05-19 05:16:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
