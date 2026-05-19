@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-051926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, Electron, and Vega C launch missions alongside Starship Flight 12
+- <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-images-mars-huygens-crater/" >🔗</a> **[NASA]** NASA’s Psyche Mission Images Mars’ Huygens Crater
+- <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-spies-mars-wind-blown-craters-during-close-approach/" >🔗</a> **[NASA]** NASA’s Psyche Mission Spies Mars’ Wind-Blown Craters During Close Approach
+- <a href="https://science.nasa.gov/photojournal/psyches-high-resolution-view-of-mars-south-pole/" >🔗</a> **[NASA]** Psyche’s High-Resolution View of Mars’ South Pole
 - <a href="https://spacenews.com/sda-director-sandhoo-takes-on-broader-space-force-missile-warning-portfolio/" >🔗</a> **[SpaceNews]** SDA director Sandhoo takes on broader Space Force missile warning portfolio
+- <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-sees-mars-south-pole-after-flyby/" >🔗</a> **[NASA]** NASA’s Psyche Mission Sees Mars’ South Pole After Flyby
+- <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-images-the-crescent-of-mars/" >🔗</a> **[NASA]** NASA’s Psyche Mission Images the Crescent of Mars
 - <a href="https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid/" >🔗</a> **[NASA]** NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid
 - <a href="https://www.nasa.gov/image-article/moon-venus-conjunction/" >🔗</a> **[NASA]** Moon-Venus Conjunction
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/johnsons-cindy-evans-prepares-artemis-teams-for-lunar-science/" >🔗</a> **[NASA]** Johnson’s Cindy Evans Prepares Artemis Teams for Lunar Science
 - <a href="https://spacenews.com/startup-challenging-satellite-industrys-multi-orbit-playbook/" >🔗</a> **[SpaceNews]** Startup challenging satellite industry’s multi-orbit playbook
-- <a href="https://spacenews.com/portal-space-taps-quindar-for-ground-mission-support-of-its-maneuvering-spacecraft/" >🔗</a> **[SpaceNews]** Portal Space taps Quindar for ground mission support of its maneuvering spacecraft
-- <a href="https://science.nasa.gov/get-involved/citizen-science/nasas-new-shock-detectives-project-invites-volunteers-to-help-study-solar-wind/" >🔗</a> **[NASA]** NASA’s New Shock Detectives Project Invites Volunteers to Help Study Solar Wind
-- <a href="https://arstechnica.com/space/2026/05/vast-space-seeks-to-diversify-by-building-satellites-as-well-as-space-stations/" >🔗</a> **[Arstechnica]** Vast Space seeks to diversify by building satellites as well as space stations
-- <a href="https://spacenews.com/vast-announces-line-of-high-power-satellite-buses/" >🔗</a> **[SpaceNews]** Vast announces line of high-power satellite buses
-- <a href="https://spacenews.com/lynk-and-anterix-get-fcc-nod-to-test-satellite-d2d-for-private-utility-networks/" >🔗</a> **[SpaceNews]** Lynk and Anterix get FCC nod to test satellite D2D for private utility networks
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260519T205902">2026-05-19 20:59:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260519T213744">2026-05-19 21:37:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
