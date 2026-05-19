@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid/" >🔗</a> **[NASA]** NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid
 - <a href="https://www.nasa.gov/image-article/moon-venus-conjunction/" >🔗</a> **[NASA]** Moon-Venus Conjunction
-- <a href="https://spacenews.com/startup-challenging-satellite-industrys-multi-orbit-playbook/" >🔗</a> **[SpaceNews]** Startup challenging satellite industry’s multi-orbit playbook
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/johnsons-cindy-evans-prepares-artemis-teams-for-lunar-science/" >🔗</a> **[NASA]** Johnson’s Cindy Evans Prepares Artemis Teams for Lunar Science
+- <a href="https://spacenews.com/startup-challenging-satellite-industrys-multi-orbit-playbook/" >🔗</a> **[SpaceNews]** Startup challenging satellite industry’s multi-orbit playbook
 - <a href="https://spacenews.com/portal-space-taps-quindar-for-ground-mission-support-of-its-maneuvering-spacecraft/" >🔗</a> **[SpaceNews]** Portal Space taps Quindar for ground mission support of its maneuvering spacecraft
 - <a href="https://science.nasa.gov/get-involved/citizen-science/nasas-new-shock-detectives-project-invites-volunteers-to-help-study-solar-wind/" >🔗</a> **[NASA]** NASA’s New Shock Detectives Project Invites Volunteers to Help Study Solar Wind
 - <a href="https://arstechnica.com/space/2026/05/vast-space-seeks-to-diversify-by-building-satellites-as-well-as-space-stations/" >🔗</a> **[Arstechnica]** Vast Space seeks to diversify by building satellites as well as space stations
 - <a href="https://spacenews.com/vast-announces-line-of-high-power-satellite-buses/" >🔗</a> **[SpaceNews]** Vast announces line of high-power satellite buses
 - <a href="https://spacenews.com/lynk-and-anterix-get-fcc-nod-to-test-satellite-d2d-for-private-utility-networks/" >🔗</a> **[SpaceNews]** Lynk and Anterix get FCC nod to test satellite D2D for private utility networks
 - <a href="https://spacenews.com/anderson-confirmed-as-nasa-deputy-administrator/" >🔗</a> **[SpaceNews]** Anderson confirmed as NASA deputy administrator
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/05/Smile_launch_highlights" >🔗</a> **[ESA]** Smile launch highlights
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260519T191059">2026-05-19 19:10:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260519T200508">2026-05-19 20:05:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
