@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/moon-venus-conjunction/" >🔗</a> **[NASA]** Moon-Venus Conjunction
 - <a href="https://spacenews.com/startup-challenging-satellite-industrys-multi-orbit-playbook/" >🔗</a> **[SpaceNews]** Startup challenging satellite industry’s multi-orbit playbook
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/johnsons-cindy-evans-prepares-artemis-teams-for-lunar-science/" >🔗</a> **[NASA]** Johnson’s Cindy Evans Prepares Artemis Teams for Lunar Science
 - <a href="https://spacenews.com/portal-space-taps-quindar-for-ground-mission-support-of-its-maneuvering-spacecraft/" >🔗</a> **[SpaceNews]** Portal Space taps Quindar for ground mission support of its maneuvering spacecraft
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/lynk-and-anterix-get-fcc-nod-to-test-satellite-d2d-for-private-utility-networks/" >🔗</a> **[SpaceNews]** Lynk and Anterix get FCC nod to test satellite D2D for private utility networks
 - <a href="https://spacenews.com/anderson-confirmed-as-nasa-deputy-administrator/" >🔗</a> **[SpaceNews]** Anderson confirmed as NASA deputy administrator
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/05/Smile_launch_highlights" >🔗</a> **[ESA]** Smile launch highlights
-- <a href="https://spacenews.com/esa-china-smile-mission-lifts-off-to-deliver-first-global-images-of-earths-magnetosphere/" >🔗</a> **[SpaceNews]** ESA-China SMILE mission lifts off to deliver first global images of Earth’s magnetosphere
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260519T161029">2026-05-19 16:10:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260519T172627">2026-05-19 17:26:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
