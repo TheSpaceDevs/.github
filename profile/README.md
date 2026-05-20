@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/05/spacex-submits-detailed-financial-filing-ahead-of-going-public-in-june/" >🔗</a> **[Arstechnica]** SpaceX submits detailed financial filing ahead of going public in June
 - <a href="https://spacenews.com/spacex-files-for-ipo/" >🔗</a> **[SpaceNews]** SpaceX files for IPO
 - <a href="https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/" >🔗</a> **[NASA]** NASA Announces Winners in University Aeronautics Competition
 - <a href="https://www.nasa.gov/news-release/la-nasa-informara-sobre-su-estrategia-y-misiones-para-la-base-lunar/" >🔗</a> **[NASA]** La NASA informará sobre su estrategia y misiones para la Base Lunar
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/" >🔗</a> **[NASA]** NASA-developed AI Could Help Track Harmful Algae
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-update-on-moon-base-strategy-missions/" >🔗</a> **[NASA]** NASA to Provide Update on Moon Base Strategy, Missions
 - <a href="https://www.nasa.gov/technology/nasa-releases-technology-priorities-to-energize-space-industry/" >🔗</a> **[NASA]** NASA Releases Technology Priorities to Energize Space Industry
-- <a href="https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T225642">2026-05-20 22:56:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T232858">2026-05-20 23:28:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
