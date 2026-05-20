@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/la-nasa-informara-sobre-su-estrategia-y-misiones-para-la-base-lunar/" >🔗</a> **[NASA]** La NASA informará sobre su estrategia y misiones para la Base Lunar
+- <a href="https://spacenews.com/u-s-more-prepared-for-next-wrc/" >🔗</a> **[SpaceNews]** U.S. ‘more prepared’ for next WRC
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techleap-prize-robotically-manipulated-payload-challenge/" >🔗</a> **[NASA]** NASA TechLeap Prize: Robotically Manipulated Payload Challenge
 - <a href="https://www.nasa.gov/image-article/psyche-spacecraft-completes-mars-flyby/" >🔗</a> **[NASA]** Psyche Spacecraft Completes Mars Flyby
 - <a href="https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/" >🔗</a> **[NASA]** NASA-developed AI Could Help Track Harmful Algae
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-update-on-moon-base-strategy-missions/" >🔗</a> **[NASA]** NASA to Provide Update on Moon Base Strategy, Missions
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/Hyguane_towards_low-carbon_hydrogen_for_Europe_s_Spaceport" >🔗</a> **[ESA]** Hyguane: towards low-carbon hydrogen for Europe’s Spaceport
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tim-goddard/" >🔗</a> **[NASA]** I Am Artemis: Tim Goddard
-- <a href="https://spacenews.com/scalable-power-and-thermal-architectures-key-to-enabling-orbital-data-centers/" >🔗</a> **[SpaceNews]** Orbital Data Centers: Power and Thermal Management for Scalable Architectures
-- <a href="https://arstechnica.com/space/2026/05/russias-plan-to-advertise-on-rockets-and-spacecraft-takes-off/" >🔗</a> **[Arstechnica]** Russia's plan to advertise on rockets and spacecraft takes off
-- <a href="https://spacenews.com/starfighters-turns-texas-facility-toward-microgravity-flight-testing/" >🔗</a> **[SpaceNews]** Starfighters turns Texas facility toward microgravity flight testing
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T185739">2026-05-20 18:57:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T194636">2026-05-20 19:46:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
