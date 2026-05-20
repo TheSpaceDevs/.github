@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/psyche-spacecraft-completes-mars-flyby/" >🔗</a> **[NASA]** Psyche Spacecraft Completes Mars Flyby
 - <a href="https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/" >🔗</a> **[NASA]** NASA-developed AI Could Help Track Harmful Algae
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-update-on-moon-base-strategy-missions/" >🔗</a> **[NASA]** NASA to Provide Update on Moon Base Strategy, Missions
 - <a href="https://www.nasa.gov/technology/nasa-releases-technology-priorities-to-energize-space-industry/" >🔗</a> **[NASA]** NASA Releases Technology Priorities to Energize Space Industry
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/scalable-power-and-thermal-architectures-key-to-enabling-orbital-data-centers/" >🔗</a> **[SpaceNews]** Orbital Data Centers: Power and Thermal Management for Scalable Architectures
 - <a href="https://arstechnica.com/space/2026/05/russias-plan-to-advertise-on-rockets-and-spacecraft-takes-off/" >🔗</a> **[Arstechnica]** Russia's plan to advertise on rockets and spacecraft takes off
 - <a href="https://spacenews.com/starfighters-turns-texas-facility-toward-microgravity-flight-testing/" >🔗</a> **[SpaceNews]** Starfighters turns Texas facility toward microgravity flight testing
-- <a href="https://spacenews.com/report-finds-u-s-space-supply-chains-rely-heavily-on-chinese-manufacturing/" >🔗</a> **[SpaceNews]** Report finds U.S. space supply chains rely heavily on Chinese manufacturing
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T175836">2026-05-20 17:58:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T185739">2026-05-20 18:57:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
