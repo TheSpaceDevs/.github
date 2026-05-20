@@ -53,7 +53,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260525T114100">2026-05-25 11:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-47&location=Cape Canaveral SFS, FL, USA&dates=20260525T114100Z%2F20260525T154100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-47** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260526T160000">2026-05-26 16:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260526T160000Z%2F20260526T220000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T140000">2026-05-27 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-41&location=Vandenberg SFB, CA, USA&dates=20260527T140000Z%2F20260527T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-41** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T162700">2026-05-29 16:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-07)&location=Cape Canaveral SFS, FL, USA&dates=20260529T162700Z%2F20260529T165600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-07)** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T233300">2026-05-29 23:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-07)&location=Cape Canaveral SFS, FL, USA&dates=20260529T233300Z%2F20260530T000200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-07)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260531T000000">2026-05-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | GISAT-1A (EOS-05)&location=Satish Dhawan Space Centre, India&dates=20260531T000000Z%2F20260531T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | GISAT-1A (EOS-05)** from Satish Dhawan Space Centre, India.
 
 
@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/Hyguane_towards_low-carbon_hydrogen_for_Europe_s_Spaceport" >🔗</a> **[ESA]** Hyguane: towards low-carbon hydrogen for Europe’s Spaceport
+- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tim-goddard/" >🔗</a> **[NASA]** I Am Artemis: Tim Goddard
+- <a href="https://spacenews.com/scalable-power-and-thermal-architectures-key-to-enabling-orbital-data-centers/" >🔗</a> **[SpaceNews]** Orbital Data Centers: Power and Thermal Management for Scalable Architectures
+- <a href="https://arstechnica.com/space/2026/05/russias-plan-to-advertise-on-rockets-and-spacecraft-takes-off/" >🔗</a> **[Arstechnica]** Russia's plan to advertise on rockets and spacecraft takes off
+- <a href="https://spacenews.com/starfighters-turns-texas-facility-toward-microgravity-flight-testing/" >🔗</a> **[SpaceNews]** Starfighters turns Texas facility toward microgravity flight testing
 - <a href="https://spacenews.com/report-finds-u-s-space-supply-chains-rely-heavily-on-chinese-manufacturing/" >🔗</a> **[SpaceNews]** Report finds U.S. space supply chains rely heavily on Chinese manufacturing
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Greenlight_for_next_two_ESA_Scout_missions" >🔗</a> **[ESA]** Greenlight for next two ESA Scout missions
 - <a href="https://spacenews.com/the-cardinality-wall-the-hidden-data-bottleneck-for-leo-constellations/" >🔗</a> **[SpaceNews]** The cardinality wall: The hidden data bottleneck for LEO constellations
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Greenlight_for_next_two_ESA_Scout_missions" >🔗</a> **[ESA]** Greenlight for next two ESA Scout missions
 - <a href="https://science.nasa.gov/missions/fermi/nasas-fermi-glimpses-power-source-of-supercharged-supernovae/" >🔗</a> **[NASA]** NASA’s Fermi Glimpses Power Source of Supercharged Supernovae
 - <a href="https://spacenews.com/isaacman-expects-chinese-crewed-mission-around-the-moon-in-2027/" >🔗</a> **[SpaceNews]** Isaacman expects Chinese crewed mission around the moon in 2027
-- <a href="https://science.nasa.gov/earth/earth-observatory/fire-chars-santa-rosa-island/" >🔗</a> **[NASA]** Fire Chars Santa Rosa Island
-- <a href="https://spacepolicyonline.com/news/isaacman-chinese-taikonauts-likely-to-fly-around-moon-in-2027/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman: Chinese Taikonauts Likely to Fly Around Moon in 2027
-- <a href="https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-launch-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket launch from Vandenberg SFB
-- <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-051926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, Electron, and Vega C launch missions alongside Starship Flight 12
-- <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-images-mars-huygens-crater/" >🔗</a> **[NASA]** NASA’s Psyche Mission Images Mars’ Huygens Crater
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T141855">2026-05-20 14:18:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T154232">2026-05-20 15:42:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
