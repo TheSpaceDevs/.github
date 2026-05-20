@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Greenlight_for_next_two_ESA_Scout_missions" >🔗</a> **[ESA]** Greenlight for next two ESA Scout missions
 - <a href="https://spacenews.com/isaacman-expects-chinese-crewed-mission-around-the-moon-in-2027/" >🔗</a> **[SpaceNews]** Isaacman expects Chinese crewed mission around the moon in 2027
 - <a href="https://science.nasa.gov/earth/earth-observatory/fire-chars-santa-rosa-island/" >🔗</a> **[NASA]** Fire Chars Santa Rosa Island
 - <a href="https://spacepolicyonline.com/news/isaacman-chinese-taikonauts-likely-to-fly-around-moon-in-2027/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman: Chinese Taikonauts Likely to Fly Around Moon in 2027
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-spies-mars-wind-blown-craters-during-close-approach/" >🔗</a> **[NASA]** NASA’s Psyche Mission Spies Mars’ Wind-Blown Craters During Close Approach
 - <a href="https://science.nasa.gov/photojournal/psyches-high-resolution-view-of-mars-south-pole/" >🔗</a> **[NASA]** Psyche’s High-Resolution View of Mars’ South Pole
 - <a href="https://spacenews.com/sda-director-sandhoo-takes-on-broader-space-force-missile-warning-portfolio/" >🔗</a> **[SpaceNews]** SDA director Sandhoo takes on broader Space Force missile warning portfolio
-- <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-sees-mars-south-pole-after-flyby/" >🔗</a> **[NASA]** NASA’s Psyche Mission Sees Mars’ South Pole After Flyby
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T115924">2026-05-20 11:59:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T130904">2026-05-20 13:09:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
