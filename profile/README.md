@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/fire-chars-santa-rosa-island/" >🔗</a> **[NASA]** Fire Chars Santa Rosa Island
 - <a href="https://spacepolicyonline.com/news/isaacman-chinese-taikonauts-likely-to-fly-around-moon-in-2027/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman: Chinese Taikonauts Likely to Fly Around Moon in 2027
 - <a href="https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-launch-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket launch from Vandenberg SFB
 - <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-051926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, Electron, and Vega C launch missions alongside Starship Flight 12
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/sda-director-sandhoo-takes-on-broader-space-force-missile-warning-portfolio/" >🔗</a> **[SpaceNews]** SDA director Sandhoo takes on broader Space Force missile warning portfolio
 - <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-sees-mars-south-pole-after-flyby/" >🔗</a> **[NASA]** NASA’s Psyche Mission Sees Mars’ South Pole After Flyby
 - <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-images-the-crescent-of-mars/" >🔗</a> **[NASA]** NASA’s Psyche Mission Images the Crescent of Mars
-- <a href="https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid/" >🔗</a> **[NASA]** NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T034321">2026-05-20 03:43:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T051717">2026-05-20 05:17:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
