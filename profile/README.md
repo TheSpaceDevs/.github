@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/Hyguane_towards_low-carbon_hydrogen_for_Europe_s_Spaceport" >🔗</a> **[ESA]** Hyguane: towards low-carbon hydrogen for Europe’s Spaceport
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tim-goddard/" >🔗</a> **[NASA]** I Am Artemis: Tim Goddard
 - <a href="https://spacenews.com/scalable-power-and-thermal-architectures-key-to-enabling-orbital-data-centers/" >🔗</a> **[SpaceNews]** Orbital Data Centers: Power and Thermal Management for Scalable Architectures
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-cardinality-wall-the-hidden-data-bottleneck-for-leo-constellations/" >🔗</a> **[SpaceNews]** The cardinality wall: The hidden data bottleneck for LEO constellations
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Greenlight_for_next_two_ESA_Scout_missions" >🔗</a> **[ESA]** Greenlight for next two ESA Scout missions
 - <a href="https://science.nasa.gov/missions/fermi/nasas-fermi-glimpses-power-source-of-supercharged-supernovae/" >🔗</a> **[NASA]** NASA’s Fermi Glimpses Power Source of Supercharged Supernovae
-- <a href="https://spacenews.com/isaacman-expects-chinese-crewed-mission-around-the-moon-in-2027/" >🔗</a> **[SpaceNews]** Isaacman expects Chinese crewed mission around the moon in 2027
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T154232">2026-05-20 15:42:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T165755">2026-05-20 16:57:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
