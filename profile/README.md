@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T021100">2026-05-20 02:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-42&location=Vandenberg SFB, CA, USA&dates=20260520T021100Z%2F20260520T061100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-42** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T092600">2026-05-21 09:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-31&location=Cape Canaveral SFS, FL, USA&dates=20260521T092600Z%2F20260521T132600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-31** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T223000">2026-05-21 22:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 12&location=SpaceX Starbase, TX, USA&dates=20260521T223000Z%2F20260522T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 12** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T093000">2026-05-22 09:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Viva La StriX (StriX Launch 9)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260522T093000Z%2F20260522T093000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Viva La StriX (StriX Launch 9)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
@@ -90,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/isaacman-chinese-taikonauts-likely-to-fly-around-moon-in-2027/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman: Chinese Taikonauts Likely to Fly Around Moon in 2027
 - <a href="https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-launch-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket launch from Vandenberg SFB
 - <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-051926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, Electron, and Vega C launch missions alongside Starship Flight 12
 - <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-images-mars-huygens-crater/" >🔗</a> **[NASA]** NASA’s Psyche Mission Images Mars’ Huygens Crater
@@ -99,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-sees-mars-south-pole-after-flyby/" >🔗</a> **[NASA]** NASA’s Psyche Mission Sees Mars’ South Pole After Flyby
 - <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-images-the-crescent-of-mars/" >🔗</a> **[NASA]** NASA’s Psyche Mission Images the Crescent of Mars
 - <a href="https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid/" >🔗</a> **[NASA]** NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid
-- <a href="https://www.nasa.gov/image-article/moon-venus-conjunction/" >🔗</a> **[NASA]** Moon-Venus Conjunction
 
 
 ### Launch-related News 🚀
@@ -108,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T012331">2026-05-20 01:23:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T021621">2026-05-20 02:16:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
