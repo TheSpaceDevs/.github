@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-launch-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket launch from Vandenberg SFB
 - <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-051926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, Electron, and Vega C launch missions alongside Starship Flight 12
 - <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-images-mars-huygens-crater/" >🔗</a> **[NASA]** NASA’s Psyche Mission Images Mars’ Huygens Crater
 - <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-spies-mars-wind-blown-craters-during-close-approach/" >🔗</a> **[NASA]** NASA’s Psyche Mission Spies Mars’ Wind-Blown Craters During Close Approach
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-images-the-crescent-of-mars/" >🔗</a> **[NASA]** NASA’s Psyche Mission Images the Crescent of Mars
 - <a href="https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid/" >🔗</a> **[NASA]** NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid
 - <a href="https://www.nasa.gov/image-article/moon-venus-conjunction/" >🔗</a> **[NASA]** Moon-Venus Conjunction
-- <a href="https://spacenews.com/startup-challenging-satellite-industrys-multi-orbit-playbook/" >🔗</a> **[SpaceNews]** Startup challenging satellite industry’s multi-orbit playbook
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T002617">2026-05-20 00:26:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T012331">2026-05-20 01:23:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
