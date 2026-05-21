@@ -96,6 +96,9 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-showcase-mission-to-boost-swift-spacecrafts-orbit/" >🔗</a> **[NASA]** NASA to Showcase Mission to Boost Swift Spacecraft’s Orbit
+- <a href="https://spacenews.com/space-force-on-path-to-double-active-duty-force-by-2030/" >🔗</a> **[SpaceNews]** Space Force on path to double active-duty force by 2030
+- <a href="https://www.nasa.gov/news-release/nasa-joins-artemis-accords-workshop-as-global-signings-rise/" >🔗</a> **[NASA]** NASA Joins Artemis Accords Workshop as Global Signings Rise
 - <a href="https://www.nasa.gov/missions/artemis/nasa-seeks-interest-for-artemis-mission-cubesats/" >🔗</a> **[NASA]** NASA Seeks Interest for Artemis Mission CubeSats
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-awe-completes-mission-to-study-earths-effect-on-space-weather/" >🔗</a> **[NASA]** NASA’s AWE Completes Mission to Study Earth’s Effect on Space Weather
 - <a href="https://www.nasa.gov/general/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/" >🔗</a> **[NASA]** NASA Wins Four Telly Awards for Artemis Moon Coverage, More
@@ -103,9 +106,6 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 - <a href="https://www.nasa.gov/image-article/hubble-sights-galaxy-in-transition/" >🔗</a> **[NASA]** Hubble Sights Galaxy in Transition
 - <a href="https://arstechnica.com/space/2026/05/uh-oh-the-international-space-station-is-leaking-again/" >🔗</a> **[Arstechnica]** Uh-oh, the International Space Station is leaking again
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-16th-deputy-administrator-matt-anderson/" >🔗</a> **[NASA]** NASA Welcomes 16th Deputy Administrator Matt Anderson
-- <a href="https://www.nasa.gov/missions/station/iss-research/nasa-highlights-2025-international-space-station-science-results/" >🔗</a> **[NASA]** NASA Highlights 2025 International Space Station Science Results
-- <a href="https://spaceflightnow.com/2026/05/21/live-coverage-spacex-to-launch-first-starship-version-3-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first Starship Version 3 rocket
-- <a href="https://spacenews.com/starship-underpins-spacexs-growth-ambitions/" >🔗</a> **[SpaceNews]** Starship underpins SpaceX’s growth ambitions
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T210205">2026-05-21 21:02:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T215757">2026-05-21 21:57:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
