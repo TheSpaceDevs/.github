@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/05/starship-flight-12-block-3-pad-2/" >🔗</a> **[NASASpaceflight]** Starship Flight 12: Welcome to the Show Block 3 and Pad 2
+- <a href="https://spacenews.com/space-force-eyes-2027-demonstrations-of-in-space-refueling-and-satellite-servicing/" >🔗</a> **[SpaceNews]** Space Force eyes 2027 demonstrations of in-space refueling and satellite servicing
 - <a href="https://arstechnica.com/space/2026/05/spacex-submits-detailed-financial-filing-ahead-of-going-public-in-june/" >🔗</a> **[Arstechnica]** SpaceX submits detailed financial filing ahead of going public in June
 - <a href="https://spacenews.com/spacex-files-for-ipo/" >🔗</a> **[SpaceNews]** SpaceX files for IPO
 - <a href="https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/" >🔗</a> **[NASA]** NASA Announces Winners in University Aeronautics Competition
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techleap-prize-robotically-manipulated-payload-challenge/" >🔗</a> **[NASA]** NASA TechLeap Prize: Robotically Manipulated Payload Challenge
 - <a href="https://www.nasa.gov/image-article/psyche-spacecraft-completes-mars-flyby/" >🔗</a> **[NASA]** Psyche Spacecraft Completes Mars Flyby
 - <a href="https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/" >🔗</a> **[NASA]** NASA-developed AI Could Help Track Harmful Algae
-- <a href="https://www.nasa.gov/news-release/nasa-to-provide-update-on-moon-base-strategy-missions/" >🔗</a> **[NASA]** NASA to Provide Update on Moon Base Strategy, Missions
-- <a href="https://www.nasa.gov/technology/nasa-releases-technology-priorities-to-energize-space-industry/" >🔗</a> **[NASA]** NASA Releases Technology Priorities to Energize Space Industry
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260520T235500">2026-05-20 23:55:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T002552">2026-05-21 00:25:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
