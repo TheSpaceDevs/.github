@@ -19,27 +19,33 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 10-31**. It is scheduled to be launched by *SpaceX*
+**Starship | Flight 12**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/SpaceX_Starbase#Launch_site_(Orbital_Launch_Mount_(Pad_1_and_2))">Orbital Launch Pad 2</a>, SpaceX Starbase, TX, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T092600">2026-05-21 09:26:00 UTC</a>.  Until
-then, this pad will have been used for 381
-out of 1107 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T223000">2026-05-21 22:30:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 20 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Test Flight* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  12th test flight of the two-stage Starship launch vehicle. Maiden Flight of Starship V3.
+
+The flight test’s primary goal will be to demonstrate each of these new pieces in the flight environment for the first time, with each element of the Starship architecture featuring significant redesigns to enable full and rapid reuse that incorporate learnings from years of development and test.
+
+The Starship upper stage will target multiple in-space and reentry objectives, including a payload deployment of 20 Starlink simulators, similar in size to next-generation Starlink V3 satellites, and two specially modified Starlink satellites. The two modified satellites will test hardware planned for Starlink V3 and will attempt to scan Starship’s heat shield and transmit imagery down to operators to test methods of analyzing Starship’s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test. The Starlink simulators will be on the same suborbital trajectory as Starship. A relight of a single Raptor engine while in space is also planned.
+
+For Starship entry, a single heat shield tile has been intentionally removed to measure the aerodynamic load differences on adjacent tiles when there is a tile missing. Finally, the ship will perform experimental actions tested on previous flight tests, including a maneuver to intentionally stress the structural limits of the vehicle’s rear flaps and a dynamic banking maneuver to mimic the trajectory that future missions returning to Starbase will fly.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/SpaceX_Starship#Block_3" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=25.996603,-97.158251" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +60,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T140000">2026-05-28 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-41&location=Vandenberg SFB, CA, USA&dates=20260528T140000Z%2F20260528T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-41** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T115200">2026-05-29 11:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-53&location=Cape Canaveral SFS, FL, USA&dates=20260529T115200Z%2F20260529T155200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-53** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T233300">2026-05-29 23:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-07)&location=Cape Canaveral SFS, FL, USA&dates=20260529T233300Z%2F20260530T000200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-07)** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260531T000000">2026-05-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | GISAT-1A (EOS-05)&location=Satish Dhawan Space Centre, India&dates=20260531T000000Z%2F20260531T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | GISAT-1A (EOS-05)** from Satish Dhawan Space Centre, India.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -103,13 +110,21 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://www.nasaspaceflight.com/2026/05/starship-flight-12-block-3-pad-2/" >🔗</a> **[NASASpaceflight]** Starship Flight 12: Welcome to the Show Block 3 and Pad 2
 - <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-051926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, Electron, and Vega C launch missions alongside Starship Flight 12
+- <a href="https://www.nasaspaceflight.com/2026/05/super-heavy-block-3-booster-future/" >🔗</a> **[NASASpaceflight]** Super Heavy Block 3 the Booster of the Future
+- <a href="https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/" >🔗</a> **[Arstechnica]** The US space enterprise is desperately waiting for Starship—will it finally deliver?
+- <a href="https://www.nasaspaceflight.com/2026/05/fligth12-debut-spacex-ship-evolution/" >🔗</a> **[NASASpaceflight]** Flight 12 readies for the debut SpaceX’s next Ship evolution
+- <a href="https://www.nasaspaceflight.com/2026/05/spacex-starship-pad-first-launch/" >🔗</a> **[NASASpaceflight]** SpaceX’s new Starship pad readies for first launch
+- <a href="https://spaceflightnow.com/2026/05/12/spacex-targets-may-19-for-debut-of-starship-super-heavy-version-3-launch-pad-2/" >🔗</a> **[Spaceflight Now]** SpaceX targets May 19 for debut of Starship Version 3, Launch Pad 2
+- <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-051126/" >🔗</a> **[NASASpaceflight]** Launch Preview: SpaceX and Chinese missions fill busy launch manifest
+- <a href="https://www.nasaspaceflight.com/2026/05/booster-19-33-ship-39-rollout/" >🔗</a> **[NASASpaceflight]** Booster 19 completes Static Fire as Ship 39 prepares for rollout
+- <a href="https://arstechnica.com/space/2026/05/rocket-report-flying-past-peak-falcon-9-rocket-lab-revenue-soars/" >🔗</a> **[Arstechnica]** Rocket Report: Flying past peak Falcon 9; Rocket Lab revenue soars
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T094327">2026-05-21 09:43:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T110104">2026-05-21 11:01:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
