@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/new-eruption-in-the-bismarck-sea/" >🔗</a> **[NASA]** New Eruption in the Bismarck Sea
 - <a href="https://www.nasaspaceflight.com/2026/05/starship-flight-12-block-3-pad-2/" >🔗</a> **[NASASpaceflight]** Starship Flight 12: Welcome to the Show Block 3 and Pad 2
 - <a href="https://spacenews.com/space-force-eyes-2027-demonstrations-of-in-space-refueling-and-satellite-servicing/" >🔗</a> **[SpaceNews]** Space Force eyes 2027 demonstrations of in-space refueling and satellite servicing
 - <a href="https://arstechnica.com/space/2026/05/spacex-submits-detailed-financial-filing-ahead-of-going-public-in-june/" >🔗</a> **[Arstechnica]** SpaceX submits detailed financial filing ahead of going public in June
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-more-prepared-for-next-wrc/" >🔗</a> **[SpaceNews]** U.S. ‘more prepared’ for next WRC
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techleap-prize-robotically-manipulated-payload-challenge/" >🔗</a> **[NASA]** NASA TechLeap Prize: Robotically Manipulated Payload Challenge
 - <a href="https://www.nasa.gov/image-article/psyche-spacecraft-completes-mars-flyby/" >🔗</a> **[NASA]** Psyche Spacecraft Completes Mars Flyby
-- <a href="https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/" >🔗</a> **[NASA]** NASA-developed AI Could Help Track Harmful Algae
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T034335">2026-05-21 03:43:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T052051">2026-05-21 05:20:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
