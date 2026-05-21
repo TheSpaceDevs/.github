@@ -97,19 +97,20 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/05/spacex-submits-detailed-financial-filing-ahead-of-going-public-in-june/" >🔗</a> **[Arstechnica]** SpaceX submits detailed financial filing ahead of going public in June
 - <a href="https://spacenews.com/spacex-files-for-ipo/" >🔗</a> **[SpaceNews]** SpaceX files for IPO
 - <a href="https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/" >🔗</a> **[NASA]** NASA Announces Winners in University Aeronautics Competition
-- <a href="https://www.nasa.gov/news-release/la-nasa-informara-sobre-su-estrategia-y-misiones-para-la-base-lunar/" >🔗</a> **[NASA]** La NASA informará sobre su estrategia y misiones para la Base Lunar
 - <a href="https://spacenews.com/u-s-more-prepared-for-next-wrc/" >🔗</a> **[SpaceNews]** U.S. ‘more prepared’ for next WRC
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techleap-prize-robotically-manipulated-payload-challenge/" >🔗</a> **[NASA]** NASA TechLeap Prize: Robotically Manipulated Payload Challenge
+- <a href="https://www.nasa.gov/image-article/psyche-spacecraft-completes-mars-flyby/" >🔗</a> **[NASA]** Psyche Spacecraft Completes Mars Flyby
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-051926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, Electron, and Vega C launch missions alongside Starship Flight 12
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T064516">2026-05-21 06:45:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T081025">2026-05-21 08:10:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
