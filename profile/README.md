@@ -96,6 +96,8 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-welcomes-16th-deputy-administrator-matt-anderson/" >🔗</a> **[NASA]** NASA Welcomes 16th Deputy Administrator Matt Anderson
+- <a href="https://www.nasa.gov/missions/station/iss-research/nasa-highlights-2025-international-space-station-science-results/" >🔗</a> **[NASA]** NASA Highlights 2025 International Space Station Science Results
 - <a href="https://spaceflightnow.com/2026/05/21/live-coverage-spacex-to-launch-first-starship-version-3-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first Starship Version 3 rocket
 - <a href="https://spacenews.com/starship-underpins-spacexs-growth-ambitions/" >🔗</a> **[SpaceNews]** Starship underpins SpaceX’s growth ambitions
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Join_ESA_for_a_total_solar_eclipse_on_12_August_2026" >🔗</a> **[ESA]** Join ESA for a total solar eclipse on 12 August 2026
@@ -104,8 +106,6 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 - <a href="https://spacenews.com/ceo-series-open-cosmos-rafel-jorda-siquier-on-finding-a-niche-in-space/" >🔗</a> **[SpaceNews]** CEO Series: Open Cosmos’ Rafel Jorda Siquier on finding a niche in space.
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Stay_space_chemical_compliant_in_the_EU" >🔗</a> **[ESA]** Stay space chemical compliant in the EU
 - <a href="https://spacenews.com/latconnect-60-announces-accelerated-growth-investment-round-to-build-aukus-aligned-highest-resolution-swir-satellite-constellation/" >🔗</a> **[SpaceNews]** LatConnect 60 announces accelerated growth investment round to build AUKUS-aligned Highest Resolution SWIR Satellite constellation
-- <a href="https://science.nasa.gov/earth/earth-observatory/new-eruption-in-the-bismarck-sea/" >🔗</a> **[NASA]** New Eruption in the Bismarck Sea
-- <a href="https://www.nasaspaceflight.com/2026/05/starship-flight-12-block-3-pad-2/" >🔗</a> **[NASASpaceflight]** Starship Flight 12: Welcome to the Show Block 3 and Pad 2
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T133810">2026-05-21 13:38:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T150037">2026-05-21 15:00:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
