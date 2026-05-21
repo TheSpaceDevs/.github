@@ -51,7 +51,6 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T223000">2026-05-21 22:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 12&location=SpaceX Starbase, TX, USA&dates=20260521T223000Z%2F20260522T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 12** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T093000">2026-05-22 09:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Viva La StriX (StriX Launch 9)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260522T093000Z%2F20260522T093000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Viva La StriX (StriX Launch 9)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260524T140000">2026-05-24 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-37&location=Vandenberg SFB, CA, USA&dates=20260524T140000Z%2F20260524T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-37** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260524T145800">2026-05-24 14:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 23&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20260524T145800Z%2F20260524T153800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 23** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -96,6 +95,7 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sixth-varda-mission-successfully-returns/" >🔗</a> **[SpaceNews]** Sixth Varda mission successfully returns
 - <a href="https://www.nasa.gov/news-release/nasa-to-showcase-mission-to-boost-swift-spacecrafts-orbit/" >🔗</a> **[NASA]** NASA to Showcase Mission to Boost Swift Spacecraft’s Orbit
 - <a href="https://spacenews.com/space-force-on-path-to-double-active-duty-force-by-2030/" >🔗</a> **[SpaceNews]** Space Force on path to double active-duty force by 2030
 - <a href="https://www.nasa.gov/news-release/nasa-joins-artemis-accords-workshop-as-global-signings-rise/" >🔗</a> **[NASA]** NASA Joins Artemis Accords Workshop as Global Signings Rise
@@ -105,7 +105,6 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 - <a href="https://www.nasa.gov/directorates/msd/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/" >🔗</a> **[NASA]** NASA Wins Four Telly Awards for Artemis Moon Coverage, More
 - <a href="https://www.nasa.gov/image-article/hubble-sights-galaxy-in-transition/" >🔗</a> **[NASA]** Hubble Sights Galaxy in Transition
 - <a href="https://arstechnica.com/space/2026/05/uh-oh-the-international-space-station-is-leaking-again/" >🔗</a> **[Arstechnica]** Uh-oh, the International Space Station is leaking again
-- <a href="https://www.nasa.gov/news-release/nasa-welcomes-16th-deputy-administrator-matt-anderson/" >🔗</a> **[NASA]** NASA Welcomes 16th Deputy Administrator Matt Anderson
 
 
 ### Launch-related News 🚀
@@ -124,7 +123,7 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T215757">2026-05-21 21:57:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T223315">2026-05-21 22:33:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
