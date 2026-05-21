@@ -96,16 +96,16 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/msd/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/" >🔗</a> **[NASA]** NASA Wins Four Telly Awards for Artemis Moon Coverage, More
 - <a href="https://www.nasa.gov/image-article/hubble-sights-galaxy-in-transition/" >🔗</a> **[NASA]** Hubble Sights Galaxy in Transition
 - <a href="https://arstechnica.com/space/2026/05/uh-oh-the-international-space-station-is-leaking-again/" >🔗</a> **[Arstechnica]** Uh-oh, the International Space Station is leaking again
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-16th-deputy-administrator-matt-anderson/" >🔗</a> **[NASA]** NASA Welcomes 16th Deputy Administrator Matt Anderson
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-highlights-2025-international-space-station-science-results/" >🔗</a> **[NASA]** NASA Highlights 2025 International Space Station Science Results
 - <a href="https://spaceflightnow.com/2026/05/21/live-coverage-spacex-to-launch-first-starship-version-3-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first Starship Version 3 rocket
 - <a href="https://spacenews.com/starship-underpins-spacexs-growth-ambitions/" >🔗</a> **[SpaceNews]** Starship underpins SpaceX’s growth ambitions
-- <a href="https://spacenews.com/the-internet-was-too-expensive-too/" >🔗</a> **[SpaceNews]** The internet was ‘too expensive’ too
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Join_ESA_for_a_total_solar_eclipse_on_12_August_2026" >🔗</a> **[ESA]** Join ESA for a total solar eclipse on 12 August 2026
+- <a href="https://spacenews.com/the-internet-was-too-expensive-too/" >🔗</a> **[SpaceNews]** The internet was ‘too expensive’ too
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/lunar-robots-nasa-spotlights-moon-base-at-2026-first-robotics-competition/" >🔗</a> **[NASA]** Lunar Robots: NASA Spotlights Moon Base at 2026 FIRST Robotics Competition
-- <a href="https://spacenews.com/ceo-series-open-cosmos-rafel-jorda-siquier-on-finding-a-niche-in-space/" >🔗</a> **[SpaceNews]** CEO Series: Open Cosmos’ Rafel Jorda Siquier on finding a niche in space.
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T180830">2026-05-21 18:08:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T190918">2026-05-21 19:09:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
