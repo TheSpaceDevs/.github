@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/latconnect-60-announces-accelerated-growth-investment-round-to-build-aukus-aligned-highest-resolution-swir-satellite-constellation/" >🔗</a> **[SpaceNews]** LatConnect 60 announces accelerated growth investment round to build AUKUS-aligned Highest Resolution SWIR Satellite constellation
 - <a href="https://science.nasa.gov/earth/earth-observatory/new-eruption-in-the-bismarck-sea/" >🔗</a> **[NASA]** New Eruption in the Bismarck Sea
 - <a href="https://www.nasaspaceflight.com/2026/05/starship-flight-12-block-3-pad-2/" >🔗</a> **[NASASpaceflight]** Starship Flight 12: Welcome to the Show Block 3 and Pad 2
 - <a href="https://spacenews.com/space-force-eyes-2027-demonstrations-of-in-space-refueling-and-satellite-servicing/" >🔗</a> **[SpaceNews]** Space Force eyes 2027 demonstrations of in-space refueling and satellite servicing
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/la-nasa-informara-sobre-su-estrategia-y-misiones-para-la-base-lunar/" >🔗</a> **[NASA]** La NASA informará sobre su estrategia y misiones para la Base Lunar
 - <a href="https://spacenews.com/u-s-more-prepared-for-next-wrc/" >🔗</a> **[SpaceNews]** U.S. ‘more prepared’ for next WRC
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techleap-prize-robotically-manipulated-payload-challenge/" >🔗</a> **[NASA]** NASA TechLeap Prize: Robotically Manipulated Payload Challenge
-- <a href="https://www.nasa.gov/image-article/psyche-spacecraft-completes-mars-flyby/" >🔗</a> **[NASA]** Psyche Spacecraft Completes Mars Flyby
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T052051">2026-05-21 05:20:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T064516">2026-05-21 06:45:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
