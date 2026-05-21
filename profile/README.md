@@ -45,7 +45,7 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
   <a href="https://en.wikipedia.org/wiki/SpaceX_Starship#Block_3" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=25.996603,-97.158251" >
+  <a href="https://www.google.com/maps?q=25.996770,-97.157990" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -96,7 +96,9 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/nasa-seeks-interest-for-artemis-mission-cubesats/" >🔗</a> **[NASA]** NASA Seeks Interest for Artemis Mission CubeSats
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-awe-completes-mission-to-study-earths-effect-on-space-weather/" >🔗</a> **[NASA]** NASA’s AWE Completes Mission to Study Earth’s Effect on Space Weather
+- <a href="https://www.nasa.gov/general/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/" >🔗</a> **[NASA]** NASA Wins Four Telly Awards for Artemis Moon Coverage, More
 - <a href="https://www.nasa.gov/directorates/msd/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/" >🔗</a> **[NASA]** NASA Wins Four Telly Awards for Artemis Moon Coverage, More
 - <a href="https://www.nasa.gov/image-article/hubble-sights-galaxy-in-transition/" >🔗</a> **[NASA]** Hubble Sights Galaxy in Transition
 - <a href="https://arstechnica.com/space/2026/05/uh-oh-the-international-space-station-is-leaking-again/" >🔗</a> **[Arstechnica]** Uh-oh, the International Space Station is leaking again
@@ -104,8 +106,6 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-highlights-2025-international-space-station-science-results/" >🔗</a> **[NASA]** NASA Highlights 2025 International Space Station Science Results
 - <a href="https://spaceflightnow.com/2026/05/21/live-coverage-spacex-to-launch-first-starship-version-3-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first Starship Version 3 rocket
 - <a href="https://spacenews.com/starship-underpins-spacexs-growth-ambitions/" >🔗</a> **[SpaceNews]** Starship underpins SpaceX’s growth ambitions
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Join_ESA_for_a_total_solar_eclipse_on_12_August_2026" >🔗</a> **[ESA]** Join ESA for a total solar eclipse on 12 August 2026
-- <a href="https://spacenews.com/the-internet-was-too-expensive-too/" >🔗</a> **[SpaceNews]** The internet was ‘too expensive’ too
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T200724">2026-05-21 20:07:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T210205">2026-05-21 21:02:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
