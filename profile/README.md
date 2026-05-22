@@ -96,6 +96,8 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-launches-ninth-synspective-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches ninth Synspective satellite
+- <a href="https://arstechnica.com/space/2026/05/rocket-report-starship-launch-delayed-german-launch-company-may-aid-canada/" >🔗</a> **[Arstechnica]** Rocket Report: Starship launch delayed, German launch company may aid Canada
 - <a href="https://spacenews.com/rocket-lab-wins-first-geo-satellite-production-contract-from-u-s-space-force/" >🔗</a> **[SpaceNews]** Rocket Lab wins first GEO satellite production contract from U.S. Space Force
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Algerian_arid_landscape" >🔗</a> **[ESA]** Earth from Space: Algerian arid landscape
 - <a href="https://science.nasa.gov/earth/earth-observatory/tornado-draws-a-jagged-line-in-mississippi/" >🔗</a> **[NASA]** Tornado Draws a Jagged Line in Mississippi
@@ -104,8 +106,6 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 - <a href="https://spacenews.com/sixth-varda-mission-successfully-returns/" >🔗</a> **[SpaceNews]** Sixth Varda mission successfully returns
 - <a href="https://www.nasa.gov/news-release/nasa-to-showcase-mission-to-boost-swift-spacecrafts-orbit/" >🔗</a> **[NASA]** NASA to Showcase Mission to Boost Swift Spacecraft’s Orbit
 - <a href="https://spacenews.com/space-force-on-path-to-double-active-duty-force-by-2030/" >🔗</a> **[SpaceNews]** Space Force on path to double active-duty force by 2030
-- <a href="https://www.nasa.gov/news-release/nasa-joins-artemis-accords-workshop-as-global-signings-rise/" >🔗</a> **[NASA]** NASA Joins Artemis Accords Workshop as Global Signings Rise
-- <a href="https://www.nasa.gov/missions/artemis/nasa-seeks-interest-for-artemis-mission-cubesats/" >🔗</a> **[NASA]** NASA Seeks Interest for Artemis Mission CubeSats
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T105745">2026-05-22 10:57:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T115652">2026-05-22 11:56:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
