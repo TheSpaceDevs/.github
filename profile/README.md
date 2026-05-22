@@ -19,33 +19,38 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | Viva La StriX (StriX Launch 9)**. It is scheduled to be launched by *Rocket Lab*
+**Starship | Flight 12**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T093000">2026-05-22 09:30:00 UTC</a>.  Until
-then, this pad will have been used for 35
-out of 75 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/SpaceX_Starbase#Launch_site_(Orbital_Launch_Mount_(Pad_1_and_2))">Orbital Launch Pad 2</a>, SpaceX Starbase, TX, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T223000">2026-05-22 22:30:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 20 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Earth Science* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Test Flight* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.
+  12th test flight of the two-stage Starship launch vehicle. Maiden Flight of Starship V3.
+
+The flight test’s primary goal will be to demonstrate each of these new pieces in the flight environment for the first time, with each element of the Starship architecture featuring significant redesigns to enable full and rapid reuse that incorporate learnings from years of development and test.
+
+The Starship upper stage will target multiple in-space and reentry objectives, including a payload deployment of 20 Starlink simulators, similar in size to next-generation Starlink V3 satellites, and two specially modified Starlink satellites. The two modified satellites will test hardware planned for Starlink V3 and will attempt to scan Starship’s heat shield and transmit imagery down to operators to test methods of analyzing Starship’s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test. The Starlink simulators will be on the same suborbital trajectory as Starship. A relight of a single Raptor engine while in space is also planned.
+
+For Starship entry, a single heat shield tile has been intentionally removed to measure the aerodynamic load differences on adjacent tiles when there is a tile missing. Finally, the ship will perform experimental actions tested on previous flight tests, including a maneuver to intentionally stress the structural limits of the vehicle’s rear flaps and a dynamic banking maneuver to mimic the trajectory that future missions returning to Starbase will fly.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
+  <a href="https://en.wikipedia.org/wiki/SpaceX_Starship#Block_3" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
+  <a href="https://www.google.com/maps?q=25.996770,-97.157990" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T093000">2026-05-22 09:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Viva La StriX (StriX Launch 9)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260522T093000Z%2F20260522T093000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Viva La StriX (StriX Launch 9)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T223000">2026-05-22 22:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 12&location=SpaceX Starbase, TX, USA&dates=20260522T223000Z%2F20260523T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 12** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260524T140000">2026-05-24 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-37&location=Vandenberg SFB, CA, USA&dates=20260524T140000Z%2F20260524T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-37** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260524T145800">2026-05-24 14:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 23&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20260524T145800Z%2F20260524T153800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 23** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -55,6 +60,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T115200">2026-05-29 11:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-53&location=Cape Canaveral SFS, FL, USA&dates=20260529T115200Z%2F20260529T155200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-53** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T233300">2026-05-29 23:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-07)&location=Cape Canaveral SFS, FL, USA&dates=20260529T233300Z%2F20260530T000200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-07)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260531T000000">2026-05-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | GISAT-1A (EOS-05)&location=Satish Dhawan Space Centre, India&dates=20260531T000000Z%2F20260531T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | GISAT-1A (EOS-05)** from Satish Dhawan Space Centre, India.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260531T000000">2026-05-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | 16 x Rassvet-3&location=Plesetsk Cosmodrome, Russian Federation&dates=20260531T000000Z%2F20260531T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b | 16 x Rassvet-3** from Plesetsk Cosmodrome, Russian Federation.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +96,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Algerian_arid_landscape" >🔗</a> **[ESA]** Earth from Space: Algerian arid landscape
 - <a href="https://science.nasa.gov/earth/earth-observatory/tornado-draws-a-jagged-line-in-mississippi/" >🔗</a> **[NASA]** Tornado Draws a Jagged Line in Mississippi
 - <a href="https://spacenews.com/ground-equipment-problem-scrubs-starship-launch-attempt/" >🔗</a> **[SpaceNews]** Ground equipment problem scrubs Starship launch attempt
 - <a href="https://spacepolicyonline.com/news/its-a-scrub-for-first-flight-of-starship-v3-but-spacex-has-other-news/" >🔗</a> **[SpacePolicyOnline.com]** It’s a Scrub for First Flight of Starship V3, But SpaceX Has Other News
@@ -99,20 +106,25 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-joins-artemis-accords-workshop-as-global-signings-rise/" >🔗</a> **[NASA]** NASA Joins Artemis Accords Workshop as Global Signings Rise
 - <a href="https://www.nasa.gov/missions/artemis/nasa-seeks-interest-for-artemis-mission-cubesats/" >🔗</a> **[NASA]** NASA Seeks Interest for Artemis Mission CubeSats
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-awe-completes-mission-to-study-earths-effect-on-space-weather/" >🔗</a> **[NASA]** NASA’s AWE Completes Mission to Study Earth’s Effect on Space Weather
-- <a href="https://www.nasa.gov/directorates/msd/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/" >🔗</a> **[NASA]** NASA Wins Four Telly Awards for Artemis Moon Coverage, More
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2026/05/21/live-coverage-spacex-to-launch-first-starship-version-3-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first Starship Version 3 rocket
+- <a href="https://spacenews.com/starship-underpins-spacexs-growth-ambitions/" >🔗</a> **[SpaceNews]** Starship underpins SpaceX’s growth ambitions
+- <a href="https://www.nasaspaceflight.com/2026/05/starship-flight-12-block-3-pad-2/" >🔗</a> **[NASASpaceflight]** Starship Flight 12: Welcome to the Show Block 3 and Pad 2
 - <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-051926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, Electron, and Vega C launch missions alongside Starship Flight 12
-- <a href="https://arstechnica.com/space/2024/06/rocket-report-electron-turns-50-chinas-moon-launcher-breathes-fire/" >🔗</a> **[Arstechnica]** Rocket Report: Electron turns 50, China’s Moon launcher breathes fire
-- <a href="https://tlpnetwork.com/news/asia/synspective-signs-contract-with-rocketlab-for-10-electron-launches" >🔗</a> **[The Launch Pad]** Synspective Signs Contract with Rocket Lab for 10 Electron Launches
-- <a href="https://spacenews.com/synspective-orders-10-rocket-lab-electron-launches/" >🔗</a> **[SpaceNews]** Synspective orders 10 Rocket Lab Electron launches
+- <a href="https://www.nasaspaceflight.com/2026/05/super-heavy-block-3-booster-future/" >🔗</a> **[NASASpaceflight]** Super Heavy Block 3 the Booster of the Future
+- <a href="https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/" >🔗</a> **[Arstechnica]** The US space enterprise is desperately waiting for Starship—will it finally deliver?
+- <a href="https://www.nasaspaceflight.com/2026/05/fligth12-debut-spacex-ship-evolution/" >🔗</a> **[NASASpaceflight]** Flight 12 readies for the debut SpaceX’s next Ship evolution
+- <a href="https://www.nasaspaceflight.com/2026/05/spacex-starship-pad-first-launch/" >🔗</a> **[NASASpaceflight]** SpaceX’s new Starship pad readies for first launch
+- <a href="https://spaceflightnow.com/2026/05/12/spacex-targets-may-19-for-debut-of-starship-super-heavy-version-3-launch-pad-2/" >🔗</a> **[Spaceflight Now]** SpaceX targets May 19 for debut of Starship Version 3, Launch Pad 2
+- <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-051126/" >🔗</a> **[NASASpaceflight]** Launch Preview: SpaceX and Chinese missions fill busy launch manifest
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T080457">2026-05-22 08:04:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T094224">2026-05-22 09:42:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
