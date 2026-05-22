@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/tornado-draws-a-jagged-line-in-mississippi/" >🔗</a> **[NASA]** Tornado Draws a Jagged Line in Mississippi
 - <a href="https://spacenews.com/ground-equipment-problem-scrubs-starship-launch-attempt/" >🔗</a> **[SpaceNews]** Ground equipment problem scrubs Starship launch attempt
 - <a href="https://spacepolicyonline.com/news/its-a-scrub-for-first-flight-of-starship-v3-but-spacex-has-other-news/" >🔗</a> **[SpacePolicyOnline.com]** It’s a Scrub for First Flight of Starship V3, But SpaceX Has Other News
 - <a href="https://spacenews.com/sixth-varda-mission-successfully-returns/" >🔗</a> **[SpaceNews]** Sixth Varda mission successfully returns
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-joins-artemis-accords-workshop-as-global-signings-rise/" >🔗</a> **[NASA]** NASA Joins Artemis Accords Workshop as Global Signings Rise
 - <a href="https://www.nasa.gov/missions/artemis/nasa-seeks-interest-for-artemis-mission-cubesats/" >🔗</a> **[NASA]** NASA Seeks Interest for Artemis Mission CubeSats
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-awe-completes-mission-to-study-earths-effect-on-space-weather/" >🔗</a> **[NASA]** NASA’s AWE Completes Mission to Study Earth’s Effect on Space Weather
-- <a href="https://www.nasa.gov/general/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/" >🔗</a> **[NASA]** NASA Wins Four Telly Awards for Artemis Moon Coverage, More
 - <a href="https://www.nasa.gov/directorates/msd/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/" >🔗</a> **[NASA]** NASA Wins Four Telly Awards for Artemis Moon Coverage, More
 
 
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T034336">2026-05-22 03:43:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T051703">2026-05-22 05:17:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
