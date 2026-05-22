@@ -96,6 +96,8 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/" >🔗</a> **[NASA]** Keeping NASA Flying: Ground Crews Ensure Aircraft Readiness
+- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_GLOBSEC_2026" >🔗</a> **[ESA]** ESA at GLOBSEC 2026
 - <a href="https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/" >🔗</a> **[NASA]** NASA to Compete Contract for Jet Propulsion Laboratory Management
 - <a href="https://arstechnica.com/space/2026/05/to-achieve-major-goals-nasa-seeks-to-streamline-its-organization/" >🔗</a> **[Arstechnica]** To achieve major goals, NASA seeks to streamline its organization
 - <a href="https://www.nasa.gov/news-release/nasa-announces-realignment-to-accelerate-mission-delivery/" >🔗</a> **[NASA]** NASA Announces Realignment to Accelerate Mission Delivery
@@ -104,8 +106,6 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 - <a href="https://spacenews.com/spacex-prospectus-casts-starlink-mobile-as-future-wireless-challenger/" >🔗</a> **[SpaceNews]** SpaceX IPO filing casts Starlink Mobile as future wireless challenger
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_18-22_May_2026" >🔗</a> **[ESA]** Week in images: 18-22 May 2026
 - <a href="https://spacenews.com/rocket-lab-launches-ninth-synspective-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches ninth Synspective satellite
-- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-galaxy-cluster/" >🔗</a> **[NASA]** Hubble Captures Galaxy Cluster
-- <a href="https://arstechnica.com/space/2026/05/rocket-report-starship-launch-delayed-german-launch-company-may-aid-canada/" >🔗</a> **[Arstechnica]** Rocket Report: Starship launch delayed, German launch company may aid Canada
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T145815">2026-05-22 14:58:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T155557">2026-05-22 15:55:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
