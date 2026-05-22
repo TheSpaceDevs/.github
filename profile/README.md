@@ -96,6 +96,7 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-unveils-sweeping-reorganization/" >🔗</a> **[SpaceNews]** NASA unveils sweeping reorganization
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/ESA_s_Prodex_programme_brings_scientific_research_to_space" >🔗</a> **[ESA]** ESA’s Prodex programme brings scientific research to space
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/" >🔗</a> **[NASA]** Keeping NASA Flying: Ground Crews Ensure Aircraft Readiness
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_GLOBSEC_2026" >🔗</a> **[ESA]** ESA at GLOBSEC 2026
@@ -105,7 +106,6 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 - <a href="https://www.nasa.gov/general/new-material-melt-moon-rocks/" >🔗</a> **[NASA]** New Material Could Help NASA Melt Moon Rocks, Harness Lunar Resources
 - <a href="https://spacenews.com/leveraging-aukus-and-southern-geography-building-australias-dual-use-space-infrastructure-for-strategic-resilience/" >🔗</a> **[SpaceNews]** Leveraging AUKUS and southern geography: building Australia’s dual-use space infrastructure for strategic resilience
 - <a href="https://spacenews.com/spacex-prospectus-casts-starlink-mobile-as-future-wireless-challenger/" >🔗</a> **[SpaceNews]** SpaceX IPO filing casts Starlink Mobile as future wireless challenger
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_18-22_May_2026" >🔗</a> **[ESA]** Week in images: 18-22 May 2026
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T164233">2026-05-22 16:42:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T173131">2026-05-22 17:31:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
