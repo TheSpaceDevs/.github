@@ -96,6 +96,7 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-announces-major-reorganization/" >🔗</a> **[SpacePolicyOnline.com]** NASA Announces Major Reorganization
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-outside-space-station-2/" >🔗</a> **[NASA]** NASA Sets Coverage for Roscosmos Spacewalk Outside Space Station
 - <a href="https://www.nasa.gov/image-article/webb-studies-star-clusters/" >🔗</a> **[NASA]** Webb Studies Star Clusters
 - <a href="https://spacenews.com/nasa-unveils-sweeping-reorganization/" >🔗</a> **[SpaceNews]** NASA unveils sweeping reorganization
@@ -104,8 +105,7 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_GLOBSEC_2026" >🔗</a> **[ESA]** ESA at GLOBSEC 2026
 - <a href="https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/" >🔗</a> **[NASA]** NASA to Compete Contract for Jet Propulsion Laboratory Management
 - <a href="https://arstechnica.com/space/2026/05/to-achieve-major-goals-nasa-seeks-to-streamline-its-organization/" >🔗</a> **[Arstechnica]** To achieve major goals, NASA seeks to streamline its organization
-- <a href="https://www.nasa.gov/news-release/nasa-announces-realignment-to-accelerate-mission-delivery/" >🔗</a> **[NASA]** NASA Announces Realignment to Accelerate Mission Delivery
-- <a href="https://www.nasa.gov/general/new-material-melt-moon-rocks/" >🔗</a> **[NASA]** New Material Could Help NASA Melt Moon Rocks, Harness Lunar Resources
+- <a href="https://europeanspaceflight.com/iceye-secures-e300-million-revolving-credit-facility/" >🔗</a> **[European Spaceflight]** ICEYE Secures €300 Million Revolving Credit Facility
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T212302">2026-05-22 21:23:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T214936">2026-05-22 21:49:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
