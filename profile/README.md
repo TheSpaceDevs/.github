@@ -96,7 +96,9 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_18-22_May_2026" >🔗</a> **[ESA]** Week in images: 18-22 May 2026
 - <a href="https://spacenews.com/rocket-lab-launches-ninth-synspective-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches ninth Synspective satellite
+- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-galaxy-cluster/" >🔗</a> **[NASA]** Hubble Captures Galaxy Cluster
 - <a href="https://arstechnica.com/space/2026/05/rocket-report-starship-launch-delayed-german-launch-company-may-aid-canada/" >🔗</a> **[Arstechnica]** Rocket Report: Starship launch delayed, German launch company may aid Canada
 - <a href="https://spacenews.com/rocket-lab-wins-first-geo-satellite-production-contract-from-u-s-space-force/" >🔗</a> **[SpaceNews]** Rocket Lab wins first GEO satellite production contract from U.S. Space Force
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Algerian_arid_landscape" >🔗</a> **[ESA]** Earth from Space: Algerian arid landscape
@@ -104,12 +106,13 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 - <a href="https://spacenews.com/ground-equipment-problem-scrubs-starship-launch-attempt/" >🔗</a> **[SpaceNews]** Ground equipment problem scrubs Starship launch attempt
 - <a href="https://spacepolicyonline.com/news/its-a-scrub-for-first-flight-of-starship-v3-but-spacex-has-other-news/" >🔗</a> **[SpacePolicyOnline.com]** It’s a Scrub for First Flight of Starship V3, But SpaceX Has Other News
 - <a href="https://spacenews.com/sixth-varda-mission-successfully-returns/" >🔗</a> **[SpaceNews]** Sixth Varda mission successfully returns
-- <a href="https://www.nasa.gov/news-release/nasa-to-showcase-mission-to-boost-swift-spacecrafts-orbit/" >🔗</a> **[NASA]** NASA to Showcase Mission to Boost Swift Spacecraft’s Orbit
-- <a href="https://spacenews.com/space-force-on-path-to-double-active-duty-force-by-2030/" >🔗</a> **[SpaceNews]** Space Force on path to double active-duty force by 2030
 
 
 ### Launch-related News 🚀
 
+- <a href="https://arstechnica.com/space/2026/05/rocket-report-starship-launch-delayed-german-launch-company-may-aid-canada/" >🔗</a> **[Arstechnica]** Rocket Report: Starship launch delayed, German launch company may aid Canada
+- <a href="https://spacenews.com/ground-equipment-problem-scrubs-starship-launch-attempt/" >🔗</a> **[SpaceNews]** Ground equipment problem scrubs Starship launch attempt
+- <a href="https://spacepolicyonline.com/news/its-a-scrub-for-first-flight-of-starship-v3-but-spacex-has-other-news/" >🔗</a> **[SpacePolicyOnline.com]** It’s a Scrub for First Flight of Starship V3, But SpaceX Has Other News
 - <a href="https://spaceflightnow.com/2026/05/21/live-coverage-spacex-to-launch-first-starship-version-3-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first Starship Version 3 rocket
 - <a href="https://spacenews.com/starship-underpins-spacexs-growth-ambitions/" >🔗</a> **[SpaceNews]** Starship underpins SpaceX’s growth ambitions
 - <a href="https://www.nasaspaceflight.com/2026/05/starship-flight-12-block-3-pad-2/" >🔗</a> **[NASASpaceflight]** Starship Flight 12: Welcome to the Show Block 3 and Pad 2
@@ -117,14 +120,11 @@ For Starship entry, a single heat shield tile has been intentionally removed to 
 - <a href="https://www.nasaspaceflight.com/2026/05/super-heavy-block-3-booster-future/" >🔗</a> **[NASASpaceflight]** Super Heavy Block 3 the Booster of the Future
 - <a href="https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/" >🔗</a> **[Arstechnica]** The US space enterprise is desperately waiting for Starship—will it finally deliver?
 - <a href="https://www.nasaspaceflight.com/2026/05/fligth12-debut-spacex-ship-evolution/" >🔗</a> **[NASASpaceflight]** Flight 12 readies for the debut SpaceX’s next Ship evolution
-- <a href="https://www.nasaspaceflight.com/2026/05/spacex-starship-pad-first-launch/" >🔗</a> **[NASASpaceflight]** SpaceX’s new Starship pad readies for first launch
-- <a href="https://spaceflightnow.com/2026/05/12/spacex-targets-may-19-for-debut-of-starship-super-heavy-version-3-launch-pad-2/" >🔗</a> **[Spaceflight Now]** SpaceX targets May 19 for debut of Starship Version 3, Launch Pad 2
-- <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-051126/" >🔗</a> **[NASASpaceflight]** Launch Preview: SpaceX and Chinese missions fill busy launch manifest
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T115652">2026-05-22 11:56:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T125133">2026-05-22 12:51:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
