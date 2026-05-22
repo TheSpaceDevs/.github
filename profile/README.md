@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/its-a-scrub-for-first-flight-of-starship-v3-but-spacex-has-other-news/" >🔗</a> **[SpacePolicyOnline.com]** It’s a Scrub for First Flight of Starship V3, But SpaceX Has Other News
 - <a href="https://spacenews.com/sixth-varda-mission-successfully-returns/" >🔗</a> **[SpaceNews]** Sixth Varda mission successfully returns
 - <a href="https://www.nasa.gov/news-release/nasa-to-showcase-mission-to-boost-swift-spacecrafts-orbit/" >🔗</a> **[NASA]** NASA to Showcase Mission to Boost Swift Spacecraft’s Orbit
 - <a href="https://spacenews.com/space-force-on-path-to-double-active-duty-force-by-2030/" >🔗</a> **[SpaceNews]** Space Force on path to double active-duty force by 2030
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/" >🔗</a> **[NASA]** NASA Wins Four Telly Awards for Artemis Moon Coverage, More
 - <a href="https://www.nasa.gov/directorates/msd/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/" >🔗</a> **[NASA]** NASA Wins Four Telly Awards for Artemis Moon Coverage, More
 - <a href="https://www.nasa.gov/image-article/hubble-sights-galaxy-in-transition/" >🔗</a> **[NASA]** Hubble Sights Galaxy in Transition
-- <a href="https://arstechnica.com/space/2026/05/uh-oh-the-international-space-station-is-leaking-again/" >🔗</a> **[Arstechnica]** Uh-oh, the International Space Station is leaking again
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T002432">2026-05-22 00:24:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T012211">2026-05-22 01:22:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
