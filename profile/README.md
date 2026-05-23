@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-awards-viasat-ses-437-million-for-military-satellite-network/" >🔗</a> **[SpaceNews]** Space Force awards Viasat, SES $437 million for military satellite network
 - <a href="https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/" >🔗</a> **[NASA]** Call for Creatives: NASA Seeks Help Illuminating Mission Storytelling
 - <a href="https://spacepolicyonline.com/news/nasa-announces-major-reorganization/" >🔗</a> **[SpacePolicyOnline.com]** NASA Announces Major Reorganization
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-outside-space-station-2/" >🔗</a> **[NASA]** NASA Sets Coverage for Roscosmos Spacewalk Outside Space Station
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/" >🔗</a> **[NASA]** Keeping NASA Flying: Ground Crews Ensure Aircraft Readiness
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_GLOBSEC_2026" >🔗</a> **[ESA]** ESA at GLOBSEC 2026
 - <a href="https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/" >🔗</a> **[NASA]** NASA to Compete Contract for Jet Propulsion Laboratory Management
-- <a href="https://arstechnica.com/space/2026/05/to-achieve-major-goals-nasa-seeks-to-streamline-its-organization/" >🔗</a> **[Arstechnica]** To achieve major goals, NASA seeks to streamline its organization
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T234923">2026-05-22 23:49:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260523T002355">2026-05-23 00:23:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
