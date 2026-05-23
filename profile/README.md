@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/spacex-launches-new-starship-v3-for-first-time/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Launches New Starship V3 For First Time
+- <a href="https://spaceflightnow.com/2026/05/23/musk-praises-epic-super-heavy-starship-launch/" >🔗</a> **[Spaceflight Now]** Musk praises “epic” Super Heavy-Starship launch
+- <a href="https://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/" >🔗</a> **[SpaceNews]** Blue Origin completes investigation into New Glenn launch failure
 - <a href="https://spacenews.com/spacex-launches-first-starship-v3/" >🔗</a> **[SpaceNews]** SpaceX launches first Starship V3
 - <a href="https://spacenews.com/space-force-awards-viasat-ses-437-million-for-military-satellite-network/" >🔗</a> **[SpaceNews]** Space Force awards Viasat, SES $437 million for military satellite network
 - <a href="https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/" >🔗</a> **[NASA]** Call for Creatives: NASA Seeks Help Illuminating Mission Storytelling
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-outside-space-station-2/" >🔗</a> **[NASA]** NASA Sets Coverage for Roscosmos Spacewalk Outside Space Station
 - <a href="https://www.nasa.gov/image-article/webb-studies-star-clusters/" >🔗</a> **[NASA]** Webb Studies Star Clusters
 - <a href="https://spacenews.com/nasa-unveils-sweeping-reorganization/" >🔗</a> **[SpaceNews]** NASA unveils sweeping reorganization
-- <a href="https://www.esa.int/About_Us/Business_with_ESA/ESA_s_Prodex_programme_brings_scientific_research_to_space" >🔗</a> **[ESA]** ESA’s Prodex programme brings scientific research to space
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/" >🔗</a> **[NASA]** Keeping NASA Flying: Ground Crews Ensure Aircraft Readiness
-- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_GLOBSEC_2026" >🔗</a> **[ESA]** ESA at GLOBSEC 2026
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260523T021542">2026-05-23 02:15:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260523T034248">2026-05-23 03:42:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
