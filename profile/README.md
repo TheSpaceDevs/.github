@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/05/shenzhou-23-launch/" >🔗</a> **[NASASpaceflight]** Shenzhou 23 set to launch new crew to Tiangong space station
 - <a href="https://spacepolicyonline.com/news/spacex-launches-new-starship-v3-for-first-time/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Launches New Starship V3 For First Time
 - <a href="https://spaceflightnow.com/2026/05/23/musk-praises-epic-super-heavy-starship-launch/" >🔗</a> **[Spaceflight Now]** Musk praises “epic” Super Heavy-Starship launch
 - <a href="https://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/" >🔗</a> **[SpaceNews]** Blue Origin completes investigation into New Glenn launch failure
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-announces-major-reorganization/" >🔗</a> **[SpacePolicyOnline.com]** NASA Announces Major Reorganization
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-outside-space-station-2/" >🔗</a> **[NASA]** NASA Sets Coverage for Roscosmos Spacewalk Outside Space Station
 - <a href="https://www.nasa.gov/image-article/webb-studies-star-clusters/" >🔗</a> **[NASA]** Webb Studies Star Clusters
-- <a href="https://spacenews.com/nasa-unveils-sweeping-reorganization/" >🔗</a> **[SpaceNews]** NASA unveils sweeping reorganization
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260523T221431">2026-05-23 22:14:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260523T224449">2026-05-23 22:44:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
