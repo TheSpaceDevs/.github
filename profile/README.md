@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/05/24/live-coverage-spacex-to-launch-29-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on a Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/" >🔗</a> **[SpaceNews]** NASA to add missions to SpaceX commercial crew contract
 - <a href="https://www.nasaspaceflight.com/2026/05/shenzhou-23-launch/" >🔗</a> **[NASASpaceflight]** Shenzhou 23 set to launch new crew to Tiangong space station
 - <a href="https://spacepolicyonline.com/news/spacex-launches-new-starship-v3-for-first-time/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Launches New Starship V3 For First Time
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-force-awards-viasat-ses-437-million-for-military-satellite-network/" >🔗</a> **[SpaceNews]** Space Force awards Viasat, SES $437 million for military satellite network
 - <a href="https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/" >🔗</a> **[NASA]** Call for Creatives: NASA Seeks Help Illuminating Mission Storytelling
 - <a href="https://spacepolicyonline.com/news/nasa-announces-major-reorganization/" >🔗</a> **[SpacePolicyOnline.com]** NASA Announces Major Reorganization
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-outside-space-station-2/" >🔗</a> **[NASA]** NASA Sets Coverage for Roscosmos Spacewalk Outside Space Station
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260524T174614">2026-05-24 17:46:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260524T181701">2026-05-24 18:17:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
