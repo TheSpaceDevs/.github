@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/shenzhou-23-crew-arrives-at-tiangong-as-china-maps-path-to-2030-lunar-landing/" >🔗</a> **[SpaceNews]** Shenzhou-23 crew arrives at Tiangong as China maps path to 2030 lunar landing
 - <a href="https://www.nasaspaceflight.com/2026/05/iss-roundup-april/" >🔗</a> **[NASASpaceflight]** Vehicle arrivals, science experiments, and maintenance keep Expedition 74 busy through April
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-24-30-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 24-30, 2026
 - <a href="https://spaceflightnow.com/2026/05/24/live-coverage-spacex-to-launch-29-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on a Falcon 9 rocket from Cape Canaveral
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/05/23/musk-praises-epic-super-heavy-starship-launch/" >🔗</a> **[Spaceflight Now]** Musk praises “epic” Super Heavy-Starship launch
 - <a href="https://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/" >🔗</a> **[SpaceNews]** Blue Origin completes investigation into New Glenn launch failure
 - <a href="https://spacenews.com/spacex-launches-first-starship-v3/" >🔗</a> **[SpaceNews]** SpaceX launches first Starship V3
-- <a href="https://spacenews.com/space-force-awards-viasat-ses-437-million-for-military-satellite-network/" >🔗</a> **[SpaceNews]** Space Force awards Viasat, SES $437 million for military satellite network
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260524T214518">2026-05-24 21:45:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260524T221617">2026-05-24 22:16:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
