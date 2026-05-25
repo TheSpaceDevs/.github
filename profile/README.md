@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-052526/" >🔗</a> **[NASASpaceflight]** Launch Preview: Starlink and Amazon Leo missions fill manifest
 - <a href="https://www.spacescout.info/2026/05/starship-v3-debuts-with-mixed-results/" >🔗</a> **[Space Scout]** Starship V3 Debuts, with Mixed Results
 - <a href="https://europeanspaceflight.com/redwire-delivers-argonaut-robotic-arm-prototype/" >🔗</a> **[European Spaceflight]** Redwire Delivers Argonaut Robotic Arm Prototype
 - <a href="https://spacenews.com/northern-norway-is-ready-to-launch-eu-space-regulation-and-its-new-arctic-policy-is-not/" >🔗</a> **[SpaceNews]** Northern Norway is ready to launch. EU Space Regulation — and its new Arctic policy – is not.
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/05/24/live-coverage-spacex-to-launch-29-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on a Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/" >🔗</a> **[SpaceNews]** NASA to add missions to SpaceX commercial crew contract
 - <a href="https://www.nasaspaceflight.com/2026/05/shenzhou-23-launch/" >🔗</a> **[NASASpaceflight]** Shenzhou 23 set to launch new crew to Tiangong space station
-- <a href="https://spacepolicyonline.com/news/spacex-launches-new-starship-v3-for-first-time/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Launches New Starship V3 For First Time
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260525T215102">2026-05-25 21:51:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260525T221931">2026-05-25 22:19:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
