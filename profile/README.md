@@ -19,33 +19,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 7A | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Wenchang_Spacecraft_Launch_Site">201</a>, Wenchang Space Launch Site, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260526T160800">2026-05-26 16:08:00 UTC</a>.  Until
-then, this pad will have been used for 29
-out of 61 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Starlink Group 10-53**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T115200">2026-05-29 11:52:00 UTC</a>.  Until
+then, this pad will have been used for 383
+out of 1109 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Details TBD.
+  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=19.618452,110.955356" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260526T160800">2026-05-26 16:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260526T160800Z%2F20260526T170800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T115200">2026-05-29 11:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-53&location=Cape Canaveral SFS, FL, USA&dates=20260529T115200Z%2F20260529T155200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-53** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T233300">2026-05-29 23:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-07)&location=Cape Canaveral SFS, FL, USA&dates=20260529T233300Z%2F20260530T000200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-07)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260530T140000">2026-05-30 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-41&location=Vandenberg SFB, CA, USA&dates=20260530T140000Z%2F20260530T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-41** from Vandenberg SFB, CA, USA.
@@ -90,6 +89,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/voyager-wins-darpa-contract-for-solid-rocket-propellant-technology/" >🔗</a> **[SpaceNews]** Voyager wins DARPA contract for solid rocket propellant technology
 - <a href="https://europeanspaceflight.com/italys-lunar-habitat-clears-nasa-system-requirements-review/" >🔗</a> **[European Spaceflight]** Italy’s Lunar Habitat Clears NASA System Requirements Review
 - <a href="https://www.nasa.gov/image-article/chennai-city-lights/" >🔗</a> **[NASA]** Chennai City Lights
 - <a href="https://arstechnica.com/space/2026/05/analyst-on-chinas-spent-rocket-stages-things-only-continue-to-get-worse/" >🔗</a> **[Arstechnica]** Analyst on China's spent rocket stages: "Things only continue to get worse"
@@ -99,17 +99,15 @@ into *an Unknown
 - <a href="https://spacenews.com/chinese-startup-mega-engine-advances-reusable-staged-combustion-rocket-engine/" >🔗</a> **[SpaceNews]** Chinese startup Mega Engine advances reusable staged-combustion rocket engine
 - <a href="https://spacenews.com/orbit-fab-thales-alenia-to-study-refueling-for-electric-propulsion-satellites/" >🔗</a> **[SpaceNews]** Orbit Fab, Thales Alenia to study refueling for electric-propulsion satellites
 - <a href="https://spacenews.com/exolaunch-and-seops-purchase-falcon-9-launches-for-dedicated-rideshare-missions/" >🔗</a> **[SpaceNews]** Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions
-- <a href="https://science.nasa.gov/earth/earth-observatory/a-full-moon-checkup/" >🔗</a> **[NASA]** A Full Moon Checkup
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2026/01/launch-roundup-012626/" >🔗</a> **[NASASpaceflight]** Launch Roundup: GPS, Starlink, Electron launches scheduled for last week of January
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260526T154308">2026-05-26 15:43:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260526T170236">2026-05-26 17:02:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
