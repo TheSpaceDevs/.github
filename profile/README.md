@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions/" >🔗</a> **[NASA]** NASA Provides Update on Moon Base Rovers, Landers, Missions
 - <a href="https://spaceflightnow.com/2026/05/26/live-coverage-nasa-updates-progress-towards-established-a-moon-base-artemis-3-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA updates progress towards established a Moon Base, Artemis 3 mission
 - <a href="https://spacenews.com/starcloud-orders-starlink-lasers-for-orbital-data-center-network/" >🔗</a> **[SpaceNews]** Starcloud orders Starlink lasers for orbital data center network
 - <a href="https://spacenews.com/the-surge-in-military-budgets-can-help-europes-entrepreneurial-space-sector-if-spending-speeds-up/" >🔗</a> **[SpaceNews]** The surge in military budgets can help Europe’s entrepreneurial space sector — if spending speeds up
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/05/analyst-on-chinas-spent-rocket-stages-things-only-continue-to-get-worse/" >🔗</a> **[Arstechnica]** Analyst on China's spent rocket stages: "Things only continue to get worse"
 - <a href="https://spacenews.com/regulations-and-access-to-capital-continue-to-hinder-europes-smallsat-industry/" >🔗</a> **[SpaceNews]** Regulations and access to capital continue to hinder Europe’s smallsat industry
 - <a href="https://spaceflightnow.com/2026/05/26/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-8/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/new-instrument-used-antarctic-ice-sheet-to-probe-extreme-universe/" >🔗</a> **[NASA]** New Instrument Used Antarctic Ice Sheet to Probe Extreme Universe
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260526T191429">2026-05-26 19:14:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260526T201326">2026-05-26 20:13:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
