@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-selects-four-companies-for-initial-moon-base-awards/" >🔗</a> **[SpaceNews]** NASA selects four companies for initial moon base awards
+- <a href="https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update/" >🔗</a> **[NASA]** NASA to Announce Artemis III Crew, Provide Mission Progress Update
+- <a href="https://spacenews.com/open-cosmos-ceo-on-what-it-takes-to-bring-iot-to-space/" >🔗</a> **[SpaceNews]** Open Cosmos’ CEO on what it takes to bring IoT to space
+- <a href="https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-students-in-new-york/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in New York
+- <a href="https://arstechnica.com/space/2026/05/nasa-takes-steps-toward-building-moon-base-including-discussing-a-perimeter/" >🔗</a> **[Arstechnica]** NASA takes steps toward building Moon Base, including discussing a "perimeter"
 - <a href="https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions/" >🔗</a> **[NASA]** NASA Provides Update on Moon Base Rovers, Landers, Missions
 - <a href="https://spaceflightnow.com/2026/05/26/live-coverage-nasa-updates-progress-towards-established-a-moon-base-artemis-3-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA updates progress towards established a Moon Base, Artemis 3 mission
 - <a href="https://spacenews.com/starcloud-orders-starlink-lasers-for-orbital-data-center-network/" >🔗</a> **[SpaceNews]** Starcloud orders Starlink lasers for orbital data center network
 - <a href="https://spacenews.com/the-surge-in-military-budgets-can-help-europes-entrepreneurial-space-sector-if-spending-speeds-up/" >🔗</a> **[SpaceNews]** The surge in military budgets can help Europe’s entrepreneurial space sector — if spending speeds up
 - <a href="https://spacenews.com/voyager-wins-darpa-contract-for-solid-rocket-propellant-technology/" >🔗</a> **[SpaceNews]** Voyager wins DARPA contract for solid rocket propellant technology
-- <a href="https://europeanspaceflight.com/italys-lunar-habitat-clears-nasa-system-requirements-review/" >🔗</a> **[European Spaceflight]** Italy’s Lunar Habitat Clears NASA System Requirements Review
-- <a href="https://www.nasa.gov/image-article/chennai-city-lights/" >🔗</a> **[NASA]** Chennai City Lights
-- <a href="https://arstechnica.com/space/2026/05/analyst-on-chinas-spent-rocket-stages-things-only-continue-to-get-worse/" >🔗</a> **[Arstechnica]** Analyst on China's spent rocket stages: "Things only continue to get worse"
-- <a href="https://spacenews.com/regulations-and-access-to-capital-continue-to-hinder-europes-smallsat-industry/" >🔗</a> **[SpaceNews]** Regulations and access to capital continue to hinder Europe’s smallsat industry
-- <a href="https://spaceflightnow.com/2026/05/26/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-8/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260526T210242">2026-05-26 21:02:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260526T220025">2026-05-26 22:00:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
