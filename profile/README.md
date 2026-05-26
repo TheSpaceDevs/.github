@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-wins-2-29-billion-space-force-contract-for-military-data-network/" >🔗</a> **[SpaceNews]** SpaceX wins $2.29 billion Space Force contract for military data network
 - <a href="https://spacenews.com/nasa-selects-four-companies-for-initial-moon-base-awards/" >🔗</a> **[SpaceNews]** NASA selects four companies for initial moon base awards
 - <a href="https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update/" >🔗</a> **[NASA]** NASA to Announce Artemis III Crew, Provide Mission Progress Update
 - <a href="https://spacenews.com/open-cosmos-ceo-on-what-it-takes-to-bring-iot-to-space/" >🔗</a> **[SpaceNews]** Open Cosmos’ CEO on what it takes to bring IoT to space
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/05/26/live-coverage-nasa-updates-progress-towards-established-a-moon-base-artemis-3-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA updates progress towards established a Moon Base, Artemis 3 mission
 - <a href="https://spacenews.com/starcloud-orders-starlink-lasers-for-orbital-data-center-network/" >🔗</a> **[SpaceNews]** Starcloud orders Starlink lasers for orbital data center network
 - <a href="https://spacenews.com/the-surge-in-military-budgets-can-help-europes-entrepreneurial-space-sector-if-spending-speeds-up/" >🔗</a> **[SpaceNews]** The surge in military budgets can help Europe’s entrepreneurial space sector — if spending speeds up
-- <a href="https://spacenews.com/voyager-wins-darpa-contract-for-solid-rocket-propellant-technology/" >🔗</a> **[SpaceNews]** Voyager wins DARPA contract for solid rocket propellant technology
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260526T220025">2026-05-26 22:00:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260526T225216">2026-05-26 22:52:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
