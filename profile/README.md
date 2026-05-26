@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/regulations-and-access-to-capital-continue-to-hinder-europes-smallsat-industry/" >🔗</a> **[SpaceNews]** Regulations and access to capital continue to hinder Europe’s smallsat industry
+- <a href="https://spaceflightnow.com/2026/05/26/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-8/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
+- <a href="https://spacenews.com/chinese-startup-mega-engine-advances-reusable-staged-combustion-rocket-engine/" >🔗</a> **[SpaceNews]** Chinese startup Mega Engine advances reusable staged-combustion rocket engine
 - <a href="https://spacenews.com/orbit-fab-thales-alenia-to-study-refueling-for-electric-propulsion-satellites/" >🔗</a> **[SpaceNews]** Orbit Fab, Thales Alenia to study refueling for electric-propulsion satellites
 - <a href="https://spacenews.com/exolaunch-and-seops-purchase-falcon-9-launches-for-dedicated-rideshare-missions/" >🔗</a> **[SpaceNews]** Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions
 - <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-052526/" >🔗</a> **[NASASpaceflight]** Launch Preview: Starlink and Amazon Leo missions fill manifest
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/redwire-delivers-argonaut-robotic-arm-prototype/" >🔗</a> **[European Spaceflight]** Redwire Delivers Argonaut Robotic Arm Prototype
 - <a href="https://spacenews.com/northern-norway-is-ready-to-launch-eu-space-regulation-and-its-new-arctic-policy-is-not/" >🔗</a> **[SpaceNews]** Northern Norway is ready to launch. EU Space Regulation — and its new Arctic policy – is not.
 - <a href="https://spacenews.com/shenzhou-23-crew-arrives-at-tiangong-as-china-maps-path-to-2030-lunar-landing/" >🔗</a> **[SpaceNews]** Shenzhou-23 crew arrives at Tiangong as China maps path to 2030 lunar landing
-- <a href="https://www.nasaspaceflight.com/2026/05/iss-roundup-april/" >🔗</a> **[NASASpaceflight]** Vehicle arrivals, science experiments, and maintenance keep Expedition 74 busy through April
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-24-30-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 24-30, 2026
-- <a href="https://spaceflightnow.com/2026/05/24/live-coverage-spacex-to-launch-29-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on a Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260526T094441">2026-05-26 09:44:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260526T132856">2026-05-26 13:28:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
