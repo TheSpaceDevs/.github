@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/orbit-fab-thales-alenia-to-study-refueling-for-electric-propulsion-satellites/" >🔗</a> **[SpaceNews]** Orbit Fab, Thales Alenia to study refueling for electric-propulsion satellites
 - <a href="https://spacenews.com/exolaunch-and-seops-purchase-falcon-9-launches-for-dedicated-rideshare-missions/" >🔗</a> **[SpaceNews]** Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions
 - <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-052526/" >🔗</a> **[NASASpaceflight]** Launch Preview: Starlink and Amazon Leo missions fill manifest
 - <a href="https://www.spacescout.info/2026/05/starship-v3-debuts-with-mixed-results/" >🔗</a> **[Space Scout]** Starship V3 Debuts, with Mixed Results
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/05/iss-roundup-april/" >🔗</a> **[NASASpaceflight]** Vehicle arrivals, science experiments, and maintenance keep Expedition 74 busy through April
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-24-30-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 24-30, 2026
 - <a href="https://spaceflightnow.com/2026/05/24/live-coverage-spacex-to-launch-29-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on a Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/" >🔗</a> **[SpaceNews]** NASA to add missions to SpaceX commercial crew contract
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260526T080953">2026-05-26 08:09:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260526T094441">2026-05-26 09:44:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
