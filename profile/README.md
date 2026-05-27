@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/05/rovers-drones-nasa-moon-base/" >🔗</a> **[NASASpaceflight]** Rovers and Drones laying the foundations for NASA Moon Base
+- <a href="https://www.nasa.gov/news-release/la-nasa-ofrece-informacion-actualizada-sobre-rovers-modulos-de-alunizaje-y-misiones-de-base-lunar/" >🔗</a> **[NASA]** La NASA ofrece información actualizada sobre rovers, módulos de alunizaje y misiones de Base Lunar
+- <a href="https://spaceflightnow.com/2026/05/27/faa-requires-spacex-led-mishap-investigation-before-resumption-of-starship-launches/" >🔗</a> **[Spaceflight Now]** FAA requires SpaceX-led mishap investigation before resumption of Starship launches
 - <a href="https://science.nasa.gov/learning-resources/science-activation/girl-scouts-event-brings-space-science-to-the-next-generation/" >🔗</a> **[NASA]** Girl Scouts Event Brings Space Science to the Next Generation
 - <a href="https://spacenews.com/mars-to-titan-the-next-rallying-call/" >🔗</a> **[SpaceNews]** Mars to Titan: the next rallying call?
 - <a href="https://spacenews.com/european-space-industry-warns-eu-space-act-could-slow-competitiveness/" >🔗</a> **[SpaceNews]** European space industry warns EU Space Act could slow competitiveness
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/as-geopolitics-reshape-space-spinlaunch-sees-an-opening/" >🔗</a> **[SpaceNews]** As geopolitics reshape space, SpinLaunch sees an opening
 - <a href="https://spacenews.com/kongsberg-nanoavionics-sets-sights-on-building-and-supporting-sovereign-constellations/" >🔗</a> **[SpaceNews]** Kongsberg NanoAvionics sets sights on building and supporting sovereign constellations
 - <a href="https://www.nasa.gov/image-article/students-build-moon-robots-for-nasas-2026-lunabotics-challenge/" >🔗</a> **[NASA]** Students Build Moon Robots for NASA’s 2026 Lunabotics Challenge
-- <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-european-sea-level-mission-homes-in-on-el-nino/" >🔗</a> **[NASA]** NASA-European Sea Level Mission Homes in on El Niño
-- <a href="https://spacenews.com/former-ukraine-official-calls-for-stricter-restrictions-on-russian-use-of-starlink/" >🔗</a> **[SpaceNews]** Former Ukraine official calls for stricter restrictions on Russian use of Starlink
-- <a href="https://science.nasa.gov/science-research/earth-science/webinar-6-17-discover-access-and-task-commercial-data-with-nasas-satellite-data-explorer/" >🔗</a> **[NASA]** Webinar 6/17: Discover, Access, and Task Commercial Data with NASA’s Satellite Data Explorer
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T191457">2026-05-27 19:14:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T201421">2026-05-27 20:14:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
