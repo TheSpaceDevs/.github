@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/house-armed-services-draft-bill-eliminates-sda-space-rco-as-separate-entities/" >🔗</a> **[SpaceNews]** House Armed Services draft bill eliminates SDA, Space RCO as separate entities
 - <a href="https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/" >🔗</a> **[NASA]** NASA Develops Sensor to Improve Firefighter Safety
 - <a href="https://science.nasa.gov/missions/landsat/released-nasa-goddard-issues-draft-request-for-proposal-for-the-landsat-10-spacecraft/" >🔗</a> **[NASA]** Released: NASA Goddard Issues Draft Request for Proposal for the Landsat 10 Spacecraft
 - <a href="https://www.nasaspaceflight.com/2026/05/rovers-drones-nasa-moon-base/" >🔗</a> **[NASASpaceflight]** Rovers and Drones laying the foundations for NASA Moon Base
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/mars-to-titan-the-next-rallying-call/" >🔗</a> **[SpaceNews]** Mars to Titan: the next rallying call?
 - <a href="https://spacenews.com/european-space-industry-warns-eu-space-act-could-slow-competitiveness/" >🔗</a> **[SpaceNews]** European space industry warns EU Space Act could slow competitiveness
 - <a href="https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/" >🔗</a> **[NASA]** La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión
-- <a href="https://spacenews.com/as-geopolitics-reshape-space-spinlaunch-sees-an-opening/" >🔗</a> **[SpaceNews]** As geopolitics reshape space, SpinLaunch sees an opening
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T220701">2026-05-27 22:07:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T225745">2026-05-27 22:57:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
