@@ -54,7 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260603T140000">2026-06-03 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-47&location=Vandenberg SFB, CA, USA&dates=20260603T140000Z%2F20260603T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-47** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T172100">2026-06-04 17:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Glenn | Amazon Leo (LN-01)&location=Cape Canaveral SFS, FL, USA&dates=20260604T172100Z%2F20260604T193000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Glenn | Amazon Leo (LN-01)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260605T050000">2026-06-05 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260605T050000Z%2F20260605T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T000000">2026-06-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | GISAT-1A (EOS-05)&location=Satish Dhawan Space Centre, India&dates=20260610T000000Z%2F20260610T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | GISAT-1A (EOS-05)** from Satish Dhawan Space Centre, India.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260608T100700">2026-06-08 10:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-35&location=Cape Canaveral SFS, FL, USA&dates=20260608T100700Z%2F20260608T140700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-35** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/" >🔗</a> **[NASA]** NASA Develops Sensor to Improve Firefighter Safety
+- <a href="https://science.nasa.gov/missions/landsat/released-nasa-goddard-issues-draft-request-for-proposal-for-the-landsat-10-spacecraft/" >🔗</a> **[NASA]** Released: NASA Goddard Issues Draft Request for Proposal for the Landsat 10 Spacecraft
 - <a href="https://www.nasaspaceflight.com/2026/05/rovers-drones-nasa-moon-base/" >🔗</a> **[NASASpaceflight]** Rovers and Drones laying the foundations for NASA Moon Base
 - <a href="https://www.nasa.gov/news-release/la-nasa-ofrece-informacion-actualizada-sobre-rovers-modulos-de-alunizaje-y-misiones-de-base-lunar/" >🔗</a> **[NASA]** La NASA ofrece información actualizada sobre rovers, módulos de alunizaje y misiones de Base Lunar
 - <a href="https://spaceflightnow.com/2026/05/27/faa-requires-spacex-led-mishap-investigation-before-resumption-of-starship-launches/" >🔗</a> **[Spaceflight Now]** FAA requires SpaceX-led mishap investigation before resumption of Starship launches
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/european-space-industry-warns-eu-space-act-could-slow-competitiveness/" >🔗</a> **[SpaceNews]** European space industry warns EU Space Act could slow competitiveness
 - <a href="https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/" >🔗</a> **[NASA]** La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión
 - <a href="https://spacenews.com/as-geopolitics-reshape-space-spinlaunch-sees-an-opening/" >🔗</a> **[SpaceNews]** As geopolitics reshape space, SpinLaunch sees an opening
-- <a href="https://spacenews.com/kongsberg-nanoavionics-sets-sights-on-building-and-supporting-sovereign-constellations/" >🔗</a> **[SpaceNews]** Kongsberg NanoAvionics sets sights on building and supporting sovereign constellations
-- <a href="https://www.nasa.gov/image-article/students-build-moon-robots-for-nasas-2026-lunabotics-challenge/" >🔗</a> **[NASA]** Students Build Moon Robots for NASA’s 2026 Lunabotics Challenge
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T210752">2026-05-27 21:07:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T220701">2026-05-27 22:07:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
