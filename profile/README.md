@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nations-opt-for-a-mix-of-sovereign-bilateral-federated-and-commercial-space-capabilities/" >🔗</a> **[SpaceNews]** Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities
 - <a href="https://science.nasa.gov/earth/earth-observatory/ever-restless-mount-dukono-erupts/" >🔗</a> **[NASA]** Ever Restless Mount Dukono Erupts
 - <a href="https://spacepolicyonline.com/news/nasa-awards-initial-moon-base-rover-and-lander-contracts/" >🔗</a> **[SpacePolicyOnline.com]** NASA Awards Initial Moon Base Rover and Lander Contracts
 - <a href="https://spaceflightnow.com/2026/05/27/nasa-outlines-nearly-1-billion-investment-into-initial-moon-base-missions/" >🔗</a> **[Spaceflight Now]** NASA outlines nearly $1 billion investment into initial Moon Base missions
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update/" >🔗</a> **[NASA]** NASA to Announce Artemis III Crew, Provide Mission Progress Update
 - <a href="https://spacenews.com/open-cosmos-ceo-on-what-it-takes-to-bring-iot-to-space/" >🔗</a> **[SpaceNews]** Open Cosmos’ CEO on what it takes to bring IoT to space
 - <a href="https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-students-in-new-york/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in New York
-- <a href="https://arstechnica.com/space/2026/05/nasa-takes-steps-toward-building-moon-base-including-discussing-a-perimeter/" >🔗</a> **[Arstechnica]** NASA takes steps toward building Moon Base, including discussing a "perimeter"
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T064828">2026-05-27 06:48:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T081534">2026-05-27 08:15:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
