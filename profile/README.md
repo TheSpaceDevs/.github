@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/ever-restless-mount-dukono-erupts/" >🔗</a> **[NASA]** Ever Restless Mount Dukono Erupts
+- <a href="https://spacepolicyonline.com/news/nasa-awards-initial-moon-base-rover-and-lander-contracts/" >🔗</a> **[SpacePolicyOnline.com]** NASA Awards Initial Moon Base Rover and Lander Contracts
 - <a href="https://spaceflightnow.com/2026/05/27/nasa-outlines-nearly-1-billion-investment-into-initial-moon-base-missions/" >🔗</a> **[Spaceflight Now]** NASA outlines nearly $1 billion investment into initial Moon Base missions
 - <a href="https://www.nasaspaceflight.com/2026/05/starship-flight-12-v3-follow/" >🔗</a> **[NASASpaceflight]** Following Starship V3 debut, SpaceX prepares for follow up
 - <a href="https://spacenews.com/spacex-wins-2-29-billion-space-force-contract-for-military-data-network/" >🔗</a> **[SpaceNews]** SpaceX wins $2.29 billion Space Force contract for military data network
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/open-cosmos-ceo-on-what-it-takes-to-bring-iot-to-space/" >🔗</a> **[SpaceNews]** Open Cosmos’ CEO on what it takes to bring IoT to space
 - <a href="https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-students-in-new-york/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in New York
 - <a href="https://arstechnica.com/space/2026/05/nasa-takes-steps-toward-building-moon-base-including-discussing-a-perimeter/" >🔗</a> **[Arstechnica]** NASA takes steps toward building Moon Base, including discussing a "perimeter"
-- <a href="https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions/" >🔗</a> **[NASA]** NASA Provides Update on Moon Base Rovers, Landers, Missions
-- <a href="https://spaceflightnow.com/2026/05/26/live-coverage-nasa-updates-progress-towards-established-a-moon-base-artemis-3-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA updates progress towards established a Moon Base, Artemis 3 mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T034349">2026-05-27 03:43:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T052543">2026-05-27 05:25:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
