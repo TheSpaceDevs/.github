@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/05/27/nasa-outlines-nearly-1-billion-investment-into-initial-moon-base-missions/" >🔗</a> **[Spaceflight Now]** NASA outlines nearly $1 billion investment into initial Moon Base missions
+- <a href="https://www.nasaspaceflight.com/2026/05/starship-flight-12-v3-follow/" >🔗</a> **[NASASpaceflight]** Following Starship V3 debut, SpaceX prepares for follow up
 - <a href="https://spacenews.com/spacex-wins-2-29-billion-space-force-contract-for-military-data-network/" >🔗</a> **[SpaceNews]** SpaceX wins $2.29 billion Space Force contract for military data network
 - <a href="https://spacenews.com/nasa-selects-four-companies-for-initial-moon-base-awards/" >🔗</a> **[SpaceNews]** NASA selects four companies for initial moon base awards
 - <a href="https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update/" >🔗</a> **[NASA]** NASA to Announce Artemis III Crew, Provide Mission Progress Update
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/05/nasa-takes-steps-toward-building-moon-base-including-discussing-a-perimeter/" >🔗</a> **[Arstechnica]** NASA takes steps toward building Moon Base, including discussing a "perimeter"
 - <a href="https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions/" >🔗</a> **[NASA]** NASA Provides Update on Moon Base Rovers, Landers, Missions
 - <a href="https://spaceflightnow.com/2026/05/26/live-coverage-nasa-updates-progress-towards-established-a-moon-base-artemis-3-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA updates progress towards established a Moon Base, Artemis 3 mission
-- <a href="https://spacenews.com/starcloud-orders-starlink-lasers-for-orbital-data-center-network/" >🔗</a> **[SpaceNews]** Starcloud orders Starlink lasers for orbital data center network
-- <a href="https://spacenews.com/the-surge-in-military-budgets-can-help-europes-entrepreneurial-space-sector-if-spending-speeds-up/" >🔗</a> **[SpaceNews]** The surge in military budgets can help Europe’s entrepreneurial space sector — if spending speeds up
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T002547">2026-05-27 00:25:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T012445">2026-05-27 01:24:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
