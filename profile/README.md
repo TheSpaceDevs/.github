@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/european-space-industry-warns-eu-space-act-could-slow-competitiveness/" >🔗</a> **[SpaceNews]** European space industry warns EU Space Act could slow competitiveness
+- <a href="https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/" >🔗</a> **[NASA]** La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión
+- <a href="https://spacenews.com/as-geopolitics-reshape-space-spinlaunch-sees-an-opening/" >🔗</a> **[SpaceNews]** As geopolitics reshape space, SpinLaunch sees an opening
+- <a href="https://spacenews.com/kongsberg-nanoavionics-sets-sights-on-building-and-supporting-sovereign-constellations/" >🔗</a> **[SpaceNews]** Kongsberg NanoAvionics sets sights on building and supporting sovereign constellations
+- <a href="https://www.nasa.gov/image-article/students-build-moon-robots-for-nasas-2026-lunabotics-challenge/" >🔗</a> **[NASA]** Students Build Moon Robots for NASA’s 2026 Lunabotics Challenge
 - <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-european-sea-level-mission-homes-in-on-el-nino/" >🔗</a> **[NASA]** NASA-European Sea Level Mission Homes in on El Niño
 - <a href="https://spacenews.com/former-ukraine-official-calls-for-stricter-restrictions-on-russian-use-of-starlink/" >🔗</a> **[SpaceNews]** Former Ukraine official calls for stricter restrictions on Russian use of Starlink
+- <a href="https://science.nasa.gov/science-research/earth-science/webinar-6-17-discover-access-and-task-commercial-data-with-nasas-satellite-data-explorer/" >🔗</a> **[NASA]** Webinar 6/17: Discover, Access, and Task Commercial Data with NASA’s Satellite Data Explorer
 - <a href="https://spacenews.com/sitael-accelerates-growth-in-spacenew-missions-industrial-capacity-and-a-trajectory-towards-2031/" >🔗</a> **[SpaceNews]** Sitael Accelerates Growth in Space:New Missions, Industrial Capacity and a Trajectory Towards 2031
 - <a href="https://spacenews.com/schaeffler-ag-joins-forces-with-spire-to-build-sovereign-european-satellites/" >🔗</a> **[SpaceNews]** Schaeffler AG joins forces with Spire to build sovereign European satellites
-- <a href="https://spacenews.com/starclouds-path-to-88000-computing-satellites/" >🔗</a> **[SpaceNews]** Starcloud’s path to 88,000 computing satellites
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-black-hole-that-formed-before-its-galaxy/" >🔗</a> **[NASA]** NASA’s Webb Reveals Black Hole That Formed Before Its Galaxy
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_black_hole_that_formed_before_its_galaxy" >🔗</a> **[ESA]** Webb reveals black hole that formed before its galaxy
-- <a href="https://spacenews.com/spire-expands-european-manufacturing-with-munich-plant/" >🔗</a> **[SpaceNews]** Spire expands European manufacturing with Munich plant
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/national-institutes-of-health-nutrition-education-challenge/" >🔗</a> **[NASA]** National Institutes of Health Nutrition Education Challenge
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Hot_surfaces_during_Europe_s_heatwave_seen_by_Sentinel-3" >🔗</a> **[ESA]** Hot surfaces during Europe's heatwave 'seen' by Sentinel-3
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T154340">2026-05-27 15:43:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T165955">2026-05-27 16:59:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
