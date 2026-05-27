@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/learning-resources/science-activation/girl-scouts-event-brings-space-science-to-the-next-generation/" >🔗</a> **[NASA]** Girl Scouts Event Brings Space Science to the Next Generation
 - <a href="https://spacenews.com/mars-to-titan-the-next-rallying-call/" >🔗</a> **[SpaceNews]** Mars to Titan: the next rallying call?
 - <a href="https://spacenews.com/european-space-industry-warns-eu-space-act-could-slow-competitiveness/" >🔗</a> **[SpaceNews]** European space industry warns EU Space Act could slow competitiveness
 - <a href="https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/" >🔗</a> **[NASA]** La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-european-sea-level-mission-homes-in-on-el-nino/" >🔗</a> **[NASA]** NASA-European Sea Level Mission Homes in on El Niño
 - <a href="https://spacenews.com/former-ukraine-official-calls-for-stricter-restrictions-on-russian-use-of-starlink/" >🔗</a> **[SpaceNews]** Former Ukraine official calls for stricter restrictions on Russian use of Starlink
 - <a href="https://science.nasa.gov/science-research/earth-science/webinar-6-17-discover-access-and-task-commercial-data-with-nasas-satellite-data-explorer/" >🔗</a> **[NASA]** Webinar 6/17: Discover, Access, and Task Commercial Data with NASA’s Satellite Data Explorer
-- <a href="https://spacenews.com/sitael-accelerates-growth-in-spacenew-missions-industrial-capacity-and-a-trajectory-towards-2031/" >🔗</a> **[SpaceNews]** Sitael Accelerates Growth in Space:New Missions, Industrial Capacity and a Trajectory Towards 2031
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T180434">2026-05-27 18:04:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T191457">2026-05-27 19:14:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
