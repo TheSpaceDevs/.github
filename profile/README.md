@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/europes-satellite-spectrum-proposal-clouds-spacex-and-viasat-plans/" >🔗</a> **[SpaceNews]** Europe’s satellite spectrum proposal clouds SpaceX and Viasat plans
+- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasas-2026-lunabotics-winning-student-teams-engineering-lunar-future/" >🔗</a> **[NASA]** NASA’s 2026 Lunabotics: Winning Student Teams Engineering Lunar Future
+- <a href="https://spacenews.com/artemis-2-captured-the-worlds-attention-it-should-change-how-we-think-about-supply-chains/" >🔗</a> **[SpaceNews]** Artemis 2 captured the world’s attention. It should change how we think about supply chains.
+- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-faint-irregular-galaxy/" >🔗</a> **[NASA]** Hubble Spies Faint Irregular Galaxy
 - <a href="https://spacenews.com/worlds-smallest-deployable-operational-optical-ground-station-proves-capability-in-successful-trials/" >🔗</a> **[SpaceNews]** World’s smallest deployable operational optical ground station proves capability in successful trials
 - <a href="https://spacenews.com/european-space-industry-watching-spacex-ipo-plans/" >🔗</a> **[SpaceNews]** European space industry watching SpaceX IPO plans
 - <a href="https://europeanspaceflight.com/sitael-accelerates-growth-in-space-new-missions-industrial-capacity-and-a-trajectory-towards-2031/" >🔗</a> **[European Spaceflight]** SITAEL Accelerates Growth in Space: New Missions, Industrial Capacity and a Trajectory Towards 2031
 - <a href="https://spacenews.com/nations-opt-for-a-mix-of-sovereign-bilateral-federated-and-commercial-space-capabilities/" >🔗</a> **[SpaceNews]** Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities
 - <a href="https://science.nasa.gov/earth/earth-observatory/ever-restless-mount-dukono-erupts/" >🔗</a> **[NASA]** Ever Restless Mount Dukono Erupts
 - <a href="https://spacepolicyonline.com/news/nasa-awards-initial-moon-base-rover-and-lander-contracts/" >🔗</a> **[SpacePolicyOnline.com]** NASA Awards Initial Moon Base Rover and Lander Contracts
-- <a href="https://spaceflightnow.com/2026/05/27/nasa-outlines-nearly-1-billion-investment-into-initial-moon-base-missions/" >🔗</a> **[Spaceflight Now]** NASA outlines nearly $1 billion investment into initial Moon Base missions
-- <a href="https://www.nasaspaceflight.com/2026/05/starship-flight-12-v3-follow/" >🔗</a> **[NASASpaceflight]** Following Starship V3 debut, SpaceX prepares for follow up
-- <a href="https://spacenews.com/spacex-wins-2-29-billion-space-force-contract-for-military-data-network/" >🔗</a> **[SpaceNews]** SpaceX wins $2.29 billion Space Force contract for military data network
-- <a href="https://spacenews.com/nasa-selects-four-companies-for-initial-moon-base-awards/" >🔗</a> **[SpaceNews]** NASA selects four companies for initial moon base awards
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T123345">2026-05-27 12:33:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T140513">2026-05-27 14:05:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
