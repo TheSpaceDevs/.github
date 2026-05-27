@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/mars-to-titan-the-next-rallying-call/" >🔗</a> **[SpaceNews]** Mars to Titan: the next rallying call?
 - <a href="https://spacenews.com/european-space-industry-warns-eu-space-act-could-slow-competitiveness/" >🔗</a> **[SpaceNews]** European space industry warns EU Space Act could slow competitiveness
 - <a href="https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/" >🔗</a> **[NASA]** La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión
 - <a href="https://spacenews.com/as-geopolitics-reshape-space-spinlaunch-sees-an-opening/" >🔗</a> **[SpaceNews]** As geopolitics reshape space, SpinLaunch sees an opening
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/former-ukraine-official-calls-for-stricter-restrictions-on-russian-use-of-starlink/" >🔗</a> **[SpaceNews]** Former Ukraine official calls for stricter restrictions on Russian use of Starlink
 - <a href="https://science.nasa.gov/science-research/earth-science/webinar-6-17-discover-access-and-task-commercial-data-with-nasas-satellite-data-explorer/" >🔗</a> **[NASA]** Webinar 6/17: Discover, Access, and Task Commercial Data with NASA’s Satellite Data Explorer
 - <a href="https://spacenews.com/sitael-accelerates-growth-in-spacenew-missions-industrial-capacity-and-a-trajectory-towards-2031/" >🔗</a> **[SpaceNews]** Sitael Accelerates Growth in Space:New Missions, Industrial Capacity and a Trajectory Towards 2031
-- <a href="https://spacenews.com/schaeffler-ag-joins-forces-with-spire-to-build-sovereign-european-satellites/" >🔗</a> **[SpaceNews]** Schaeffler AG joins forces with Spire to build sovereign European satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T165955">2026-05-27 16:59:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260527T180434">2026-05-27 18:04:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
