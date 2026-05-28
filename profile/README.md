@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/astromaterials/nasa-uses-mineralogical-marker-to-understand-ancient-martian-climate/" >🔗</a> **[NASA]** NASA Uses Mineralogical Marker to Understand Ancient Martian Climate
 - <a href="https://science.nasa.gov/image-article/nancy-grace-roman-space-telescope-poster/" >🔗</a> **[NASA]** Nancy Grace Roman Space Telescope Poster
 - <a href="https://spacenews.com/setting-up-a-permanent-lunar-presence-needs-investment-in-biology/" >🔗</a> **[SpaceNews]** Setting up a permanent lunar presence needs investment in biology
 - <a href="https://www.nasa.gov/general/contractor-to-civil-servant-nasa-welcomes-kenny-heckle/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Kenny Heckle
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/germany-pushes-european-military-space-command-initiative/" >🔗</a> **[SpaceNews]** Germany pushes European military space command initiative
 - <a href="https://spacenews.com/ceo-series-lux-aeternas-brian-taylor-on-whats-next-for-on-orbit-servicing/" >🔗</a> **[SpaceNews]** CEO Series: Lux Aeterna’s Brian Taylor on what’s next for on-orbit servicing
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-mission-preps-to-unveil-new-populations-of-faraway-worlds/" >🔗</a> **[NASA]** NASA’s Roman Mission Preps to Unveil New Populations of Faraway Worlds
-- <a href="https://europeanspaceflight.com/isar-aerospace-signs-agreement-to-launch-from-future-canadian-spaceport/" >🔗</a> **[European Spaceflight]** Isar Aerospace Signs Agreement to Launch from Future Canadian Spaceport
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T182357">2026-05-28 18:23:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T192119">2026-05-28 19:21:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
