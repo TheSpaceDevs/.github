@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/landsat/new-landsat-science-team-holds-first-in-person-meeting/" >🔗</a> **[NASA]** New Landsat Science Team Holds First In-Person Meeting
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4900-4907-pasadena-we-have-a-drill-sample/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4900-4907: Pasadena, We Have a Drill Sample!
 - <a href="https://science.nasa.gov/science-research/astromaterials/nasa-uses-mineralogical-marker-to-understand-ancient-martian-climate/" >🔗</a> **[NASA]** NASA Uses Mineralogical Marker to Understand Ancient Martian Climate
 - <a href="https://science.nasa.gov/image-article/nancy-grace-roman-space-telescope-poster/" >🔗</a> **[NASA]** Nancy Grace Roman Space Telescope Poster
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/revolv-space-enters-in-orbit-servicing-market-with-infinite-orbits-deal/" >🔗</a> **[SpaceNews]** Revolv Space enters in-orbit servicing market with Infinite Orbits deal
 - <a href="https://www.nasa.gov/image-article/going-low-and-slow-in-testing/" >🔗</a> **[NASA]** Going Low and Slow in Testing
 - <a href="https://spacenews.com/germany-pushes-european-military-space-command-initiative/" >🔗</a> **[SpaceNews]** Germany pushes European military space command initiative
-- <a href="https://spacenews.com/ceo-series-lux-aeternas-brian-taylor-on-whats-next-for-on-orbit-servicing/" >🔗</a> **[SpaceNews]** CEO Series: Lux Aeterna’s Brian Taylor on what’s next for on-orbit servicing
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T201422">2026-05-28 20:14:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T211212">2026-05-28 21:12:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
