@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/iss-research/growing-stem-cells-in-space-to-improve-cancer-and-disease-treatments/" >🔗</a> **[NASA]** Growing Stem Cells in Space to Improve Cancer and Disease Treatments
+- <a href="https://spacenews.com/the-propulsion-imperative-behind-golden-dome/" >🔗</a> **[SpaceNews]** The Propulsion Imperative Behind Golden Dome
+- <a href="https://spacenews.com/the-propulsion-imperative-behind-golden-dome-2/" >🔗</a> **[SpaceNews]** The Propulsion Imperative Behind Golden Dome
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/MTG-I2_embarks_on_journey_to_Europe_s_Spaceport" >🔗</a> **[ESA]** MTG-I2 embarks on journey to Europe’s Spaceport
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Helix_rocket_engine_power_pack_upgrade" >🔗</a> **[ESA]** Helix rocket engine power pack upgrade
 - <a href="https://spacenews.com/europes-biggest-space-opportunity-comes-after-launch/" >🔗</a> **[SpaceNews]** Europe’s biggest space opportunity comes after launch
 - <a href="https://spacenews.com/virgin-galactic-returns-unity-to-flight-to-prepare-for-next-generation-spaceplane/" >🔗</a> **[SpaceNews]** Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane
 - <a href="https://spacenews.com/faa-requires-mishap-investigation-into-latest-starship-launch/" >🔗</a> **[SpaceNews]** FAA requires mishap investigation into latest Starship launch
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-shift-in-whats-shaping-u-s-landscapes/" >🔗</a> **[NASA]** A Shift in What’s Shaping U.S. Landscapes
 - <a href="https://spacenews.com/house-armed-services-draft-bill-eliminates-sda-space-rco-as-separate-entities/" >🔗</a> **[SpaceNews]** House Armed Services draft bill eliminates SDA, Space RCO as separate entities
-- <a href="https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/" >🔗</a> **[NASA]** NASA Develops Sensor to Improve Firefighter Safety
-- <a href="https://science.nasa.gov/missions/landsat/released-nasa-goddard-issues-draft-request-for-proposal-for-the-landsat-10-spacecraft/" >🔗</a> **[NASA]** Released: NASA Goddard Issues Draft Request for Proposal for the Landsat 10 Spacecraft
-- <a href="https://www.nasaspaceflight.com/2026/05/rovers-drones-nasa-moon-base/" >🔗</a> **[NASASpaceflight]** Rovers and Drones laying the foundations for NASA Moon Base
-- <a href="https://www.nasa.gov/news-release/la-nasa-ofrece-informacion-actualizada-sobre-rovers-modulos-de-alunizaje-y-misiones-de-base-lunar/" >🔗</a> **[NASA]** La NASA ofrece información actualizada sobre rovers, módulos de alunizaje y misiones de Base Lunar
-- <a href="https://spaceflightnow.com/2026/05/27/faa-requires-spacex-led-mishap-investigation-before-resumption-of-starship-launches/" >🔗</a> **[Spaceflight Now]** FAA requires SpaceX-led mishap investigation before resumption of Starship launches
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T124008">2026-05-28 12:40:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T141155">2026-05-28 14:11:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
