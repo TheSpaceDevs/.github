@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/contractor-to-civil-servant-nasa-welcomes-kenny-heckle/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Kenny Heckle
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-andrew-morgan-retires/" >🔗</a> **[NASA]** NASA Astronaut Andrew Morgan Retires
+- <a href="https://spacenews.com/revolv-space-enters-in-orbit-servicing-market-with-infinite-orbits-deal/" >🔗</a> **[SpaceNews]** Revolv Space enters in-orbit servicing market with Infinite Orbits deal
+- <a href="https://www.nasa.gov/image-article/going-low-and-slow-in-testing/" >🔗</a> **[NASA]** Going Low and Slow in Testing
 - <a href="https://spacenews.com/germany-pushes-european-military-space-command-initiative/" >🔗</a> **[SpaceNews]** Germany pushes European military space command initiative
 - <a href="https://spacenews.com/ceo-series-lux-aeternas-brian-taylor-on-whats-next-for-on-orbit-servicing/" >🔗</a> **[SpaceNews]** CEO Series: Lux Aeterna’s Brian Taylor on what’s next for on-orbit servicing
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-mission-preps-to-unveil-new-populations-of-faraway-worlds/" >🔗</a> **[NASA]** NASA’s Roman Mission Preps to Unveil New Populations of Faraway Worlds
 - <a href="https://europeanspaceflight.com/isar-aerospace-signs-agreement-to-launch-from-future-canadian-spaceport/" >🔗</a> **[European Spaceflight]** Isar Aerospace Signs Agreement to Launch from Future Canadian Spaceport
 - <a href="https://science.nasa.gov/earth/how-nasa-uses-light-to-detect-waste-from-mines/" >🔗</a> **[NASA]** How NASA Uses Light to Detect Waste From Mines
 - <a href="https://www.nasa.gov/missions/station/iss-research/growing-stem-cells-in-space-to-improve-cancer-and-disease-treatments/" >🔗</a> **[NASA]** Growing Stem Cells in Space to Improve Cancer and Disease Treatments
-- <a href="https://spacenews.com/the-propulsion-imperative-behind-golden-dome/" >🔗</a> **[SpaceNews]** The Propulsion Imperative Behind Golden Dome
-- <a href="https://spacenews.com/the-propulsion-imperative-behind-golden-dome-2/" >🔗</a> **[SpaceNews]** The Propulsion Imperative Behind Golden Dome
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/MTG-I2_embarks_on_journey_to_Europe_s_Spaceport" >🔗</a> **[ESA]** MTG-I2 embarks on journey to Europe’s Spaceport
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Helix_rocket_engine_power_pack_upgrade" >🔗</a> **[ESA]** Helix rocket engine power pack upgrade
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T154417">2026-05-28 15:44:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T170950">2026-05-28 17:09:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
