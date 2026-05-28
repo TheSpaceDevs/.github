@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/faa-requires-mishap-investigation-into-latest-starship-launch/" >🔗</a> **[SpaceNews]** FAA requires mishap investigation into latest Starship launch
+- <a href="https://science.nasa.gov/earth/earth-observatory/a-shift-in-whats-shaping-u-s-landscapes/" >🔗</a> **[NASA]** A Shift in What’s Shaping U.S. Landscapes
 - <a href="https://spacenews.com/house-armed-services-draft-bill-eliminates-sda-space-rco-as-separate-entities/" >🔗</a> **[SpaceNews]** House Armed Services draft bill eliminates SDA, Space RCO as separate entities
 - <a href="https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/" >🔗</a> **[NASA]** NASA Develops Sensor to Improve Firefighter Safety
 - <a href="https://science.nasa.gov/missions/landsat/released-nasa-goddard-issues-draft-request-for-proposal-for-the-landsat-10-spacecraft/" >🔗</a> **[NASA]** Released: NASA Goddard Issues Draft Request for Proposal for the Landsat 10 Spacecraft
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/05/27/faa-requires-spacex-led-mishap-investigation-before-resumption-of-starship-launches/" >🔗</a> **[Spaceflight Now]** FAA requires SpaceX-led mishap investigation before resumption of Starship launches
 - <a href="https://science.nasa.gov/learning-resources/science-activation/girl-scouts-event-brings-space-science-to-the-next-generation/" >🔗</a> **[NASA]** Girl Scouts Event Brings Space Science to the Next Generation
 - <a href="https://spacenews.com/mars-to-titan-the-next-rallying-call/" >🔗</a> **[SpaceNews]** Mars to Titan: the next rallying call?
-- <a href="https://spacenews.com/european-space-industry-warns-eu-space-act-could-slow-competitiveness/" >🔗</a> **[SpaceNews]** European space industry warns EU Space Act could slow competitiveness
-- <a href="https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/" >🔗</a> **[NASA]** La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T034328">2026-05-28 03:43:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T052105">2026-05-28 05:21:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
