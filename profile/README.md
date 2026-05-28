@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/" >🔗</a> **[NASA]** NASA’s X-59 Prepares for First Supersonic Flight
+- <a href="https://spacenews.com/observable-space-raises-90-million-and-wins-space-force-contract-for-optical-systems/" >🔗</a> **[SpaceNews]** Observable Space raises $90 million and wins Space Force contract for optical systems
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-daniel-stubbs/" >🔗</a> **[NASA]** I Am Artemis: Daniel Stubbs
 - <a href="https://science.nasa.gov/missions/landsat/new-landsat-science-team-holds-first-in-person-meeting/" >🔗</a> **[NASA]** New Landsat Science Team Holds First In-Person Meeting
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4900-4907-pasadena-we-have-a-drill-sample/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4900-4907: Pasadena, We Have a Drill Sample!
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/setting-up-a-permanent-lunar-presence-needs-investment-in-biology/" >🔗</a> **[SpaceNews]** Setting up a permanent lunar presence needs investment in biology
 - <a href="https://www.nasa.gov/general/contractor-to-civil-servant-nasa-welcomes-kenny-heckle/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Kenny Heckle
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-andrew-morgan-retires/" >🔗</a> **[NASA]** NASA Astronaut Andrew Morgan Retires
-- <a href="https://spacenews.com/revolv-space-enters-in-orbit-servicing-market-with-infinite-orbits-deal/" >🔗</a> **[SpaceNews]** Revolv Space enters in-orbit servicing market with Infinite Orbits deal
-- <a href="https://www.nasa.gov/image-article/going-low-and-slow-in-testing/" >🔗</a> **[NASA]** Going Low and Slow in Testing
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T220616">2026-05-28 22:06:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T225617">2026-05-28 22:56:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
