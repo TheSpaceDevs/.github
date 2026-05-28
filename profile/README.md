@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-plans-nationwide-network-of-resilient-operations-centers/" >🔗</a> **[SpaceNews]** Space Force plans nationwide network of ‘resilient operations centers’
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/" >🔗</a> **[NASA]** NASA’s X-59 Prepares for First Supersonic Flight
 - <a href="https://spacenews.com/observable-space-raises-90-million-and-wins-space-force-contract-for-optical-systems/" >🔗</a> **[SpaceNews]** Observable Space raises $90 million and wins Space Force contract for optical systems
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-daniel-stubbs/" >🔗</a> **[NASA]** I Am Artemis: Daniel Stubbs
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/nancy-grace-roman-space-telescope-poster/" >🔗</a> **[NASA]** Nancy Grace Roman Space Telescope Poster
 - <a href="https://spacenews.com/setting-up-a-permanent-lunar-presence-needs-investment-in-biology/" >🔗</a> **[SpaceNews]** Setting up a permanent lunar presence needs investment in biology
 - <a href="https://www.nasa.gov/general/contractor-to-civil-servant-nasa-welcomes-kenny-heckle/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Kenny Heckle
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-andrew-morgan-retires/" >🔗</a> **[NASA]** NASA Astronaut Andrew Morgan Retires
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T225617">2026-05-28 22:56:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T232833">2026-05-28 23:28:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
