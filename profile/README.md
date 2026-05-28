@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/europes-biggest-space-opportunity-comes-after-launch/" >🔗</a> **[SpaceNews]** Europe’s biggest space opportunity comes after launch
 - <a href="https://spacenews.com/virgin-galactic-returns-unity-to-flight-to-prepare-for-next-generation-spaceplane/" >🔗</a> **[SpaceNews]** Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane
 - <a href="https://spacenews.com/faa-requires-mishap-investigation-into-latest-starship-launch/" >🔗</a> **[SpaceNews]** FAA requires mishap investigation into latest Starship launch
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-shift-in-whats-shaping-u-s-landscapes/" >🔗</a> **[NASA]** A Shift in What’s Shaping U.S. Landscapes
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/05/rovers-drones-nasa-moon-base/" >🔗</a> **[NASASpaceflight]** Rovers and Drones laying the foundations for NASA Moon Base
 - <a href="https://www.nasa.gov/news-release/la-nasa-ofrece-informacion-actualizada-sobre-rovers-modulos-de-alunizaje-y-misiones-de-base-lunar/" >🔗</a> **[NASA]** La NASA ofrece información actualizada sobre rovers, módulos de alunizaje y misiones de Base Lunar
 - <a href="https://spaceflightnow.com/2026/05/27/faa-requires-spacex-led-mishap-investigation-before-resumption-of-starship-launches/" >🔗</a> **[Spaceflight Now]** FAA requires SpaceX-led mishap investigation before resumption of Starship launches
-- <a href="https://science.nasa.gov/learning-resources/science-activation/girl-scouts-event-brings-space-science-to-the-next-generation/" >🔗</a> **[NASA]** Girl Scouts Event Brings Space Science to the Next Generation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T094521">2026-05-28 09:45:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T110811">2026-05-28 11:08:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
