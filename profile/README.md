@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-daniel-stubbs/" >🔗</a> **[NASA]** I Am Artemis: Daniel Stubbs
 - <a href="https://science.nasa.gov/missions/landsat/new-landsat-science-team-holds-first-in-person-meeting/" >🔗</a> **[NASA]** New Landsat Science Team Holds First In-Person Meeting
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4900-4907-pasadena-we-have-a-drill-sample/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4900-4907: Pasadena, We Have a Drill Sample!
 - <a href="https://science.nasa.gov/science-research/astromaterials/nasa-uses-mineralogical-marker-to-understand-ancient-martian-climate/" >🔗</a> **[NASA]** NASA Uses Mineralogical Marker to Understand Ancient Martian Climate
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-andrew-morgan-retires/" >🔗</a> **[NASA]** NASA Astronaut Andrew Morgan Retires
 - <a href="https://spacenews.com/revolv-space-enters-in-orbit-servicing-market-with-infinite-orbits-deal/" >🔗</a> **[SpaceNews]** Revolv Space enters in-orbit servicing market with Infinite Orbits deal
 - <a href="https://www.nasa.gov/image-article/going-low-and-slow-in-testing/" >🔗</a> **[NASA]** Going Low and Slow in Testing
-- <a href="https://spacenews.com/germany-pushes-european-military-space-command-initiative/" >🔗</a> **[SpaceNews]** Germany pushes European military space command initiative
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T211212">2026-05-28 21:12:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T220616">2026-05-28 22:06:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
