@@ -52,9 +52,9 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260601T050000">2026-06-01 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=South Korean ADD Solid-Fuel SLV | Demo Flight&location=Sea Launch&dates=20260601T050000Z%2F20260601T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **South Korean ADD Solid-Fuel SLV | Demo Flight** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260603T080200">2026-06-03 08:02:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-43&location=Cape Canaveral SFS, FL, USA&dates=20260603T080200Z%2F20260603T120200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-43** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260603T140000">2026-06-03 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-47&location=Vandenberg SFB, CA, USA&dates=20260603T140000Z%2F20260603T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-47** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T113100">2026-06-04 11:31:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20260604T113100Z%2F20260604T115100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T172100">2026-06-04 17:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Glenn | Amazon Leo (LN-01)&location=Cape Canaveral SFS, FL, USA&dates=20260604T172100Z%2F20260604T193000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Glenn | Amazon Leo (LN-01)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260605T050000">2026-06-05 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260605T050000Z%2F20260605T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260608T100700">2026-06-08 10:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-35&location=Cape Canaveral SFS, FL, USA&dates=20260608T100700Z%2F20260608T140700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-35** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/germany-pushes-european-military-space-command-initiative/" >🔗</a> **[SpaceNews]** Germany pushes European military space command initiative
+- <a href="https://spacenews.com/ceo-series-lux-aeternas-brian-taylor-on-whats-next-for-on-orbit-servicing/" >🔗</a> **[SpaceNews]** CEO Series: Lux Aeterna’s Brian Taylor on what’s next for on-orbit servicing
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-mission-preps-to-unveil-new-populations-of-faraway-worlds/" >🔗</a> **[NASA]** NASA’s Roman Mission Preps to Unveil New Populations of Faraway Worlds
+- <a href="https://europeanspaceflight.com/isar-aerospace-signs-agreement-to-launch-from-future-canadian-spaceport/" >🔗</a> **[European Spaceflight]** Isar Aerospace Signs Agreement to Launch from Future Canadian Spaceport
+- <a href="https://science.nasa.gov/earth/how-nasa-uses-light-to-detect-waste-from-mines/" >🔗</a> **[NASA]** How NASA Uses Light to Detect Waste From Mines
 - <a href="https://www.nasa.gov/missions/station/iss-research/growing-stem-cells-in-space-to-improve-cancer-and-disease-treatments/" >🔗</a> **[NASA]** Growing Stem Cells in Space to Improve Cancer and Disease Treatments
 - <a href="https://spacenews.com/the-propulsion-imperative-behind-golden-dome/" >🔗</a> **[SpaceNews]** The Propulsion Imperative Behind Golden Dome
 - <a href="https://spacenews.com/the-propulsion-imperative-behind-golden-dome-2/" >🔗</a> **[SpaceNews]** The Propulsion Imperative Behind Golden Dome
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/MTG-I2_embarks_on_journey_to_Europe_s_Spaceport" >🔗</a> **[ESA]** MTG-I2 embarks on journey to Europe’s Spaceport
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Helix_rocket_engine_power_pack_upgrade" >🔗</a> **[ESA]** Helix rocket engine power pack upgrade
-- <a href="https://spacenews.com/europes-biggest-space-opportunity-comes-after-launch/" >🔗</a> **[SpaceNews]** Europe’s biggest space opportunity comes after launch
-- <a href="https://spacenews.com/virgin-galactic-returns-unity-to-flight-to-prepare-for-next-generation-spaceplane/" >🔗</a> **[SpaceNews]** Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane
-- <a href="https://spacenews.com/faa-requires-mishap-investigation-into-latest-starship-launch/" >🔗</a> **[SpaceNews]** FAA requires mishap investigation into latest Starship launch
-- <a href="https://science.nasa.gov/earth/earth-observatory/a-shift-in-whats-shaping-u-s-landscapes/" >🔗</a> **[NASA]** A Shift in What’s Shaping U.S. Landscapes
-- <a href="https://spacenews.com/house-armed-services-draft-bill-eliminates-sda-space-rco-as-separate-entities/" >🔗</a> **[SpaceNews]** House Armed Services draft bill eliminates SDA, Space RCO as separate entities
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T141155">2026-05-28 14:11:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260528T154417">2026-05-28 15:44:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
