@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/05/29/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-14/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/space-force-plans-nationwide-network-of-resilient-operations-centers/" >🔗</a> **[SpaceNews]** Space Force plans nationwide network of ‘resilient operations centers’
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/" >🔗</a> **[NASA]** NASA’s X-59 Prepares for First Supersonic Flight
 - <a href="https://spacenews.com/observable-space-raises-90-million-and-wins-space-force-contract-for-optical-systems/" >🔗</a> **[SpaceNews]** Observable Space raises $90 million and wins Space Force contract for optical systems
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/astromaterials/nasa-uses-mineralogical-marker-to-understand-ancient-martian-climate/" >🔗</a> **[NASA]** NASA Uses Mineralogical Marker to Understand Ancient Martian Climate
 - <a href="https://science.nasa.gov/image-article/nancy-grace-roman-space-telescope-poster/" >🔗</a> **[NASA]** Nancy Grace Roman Space Telescope Poster
 - <a href="https://spacenews.com/setting-up-a-permanent-lunar-presence-needs-investment-in-biology/" >🔗</a> **[SpaceNews]** Setting up a permanent lunar presence needs investment in biology
-- <a href="https://www.nasa.gov/general/contractor-to-civil-servant-nasa-welcomes-kenny-heckle/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Kenny Heckle
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T002748">2026-05-29 00:27:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T012534">2026-05-29 01:25:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
