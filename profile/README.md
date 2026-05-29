@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/" >🔗</a> **[NASA]** NASA Awards Contract for Johnson Space Center Infrastructure
+- <a href="https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/" >🔗</a> **[NASA]** NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters
 - <a href="https://spacepolicyonline.com/news/chinas-shenzhou-21-crew-returns-to-earth/" >🔗</a> **[SpacePolicyOnline.com]** China’s Shenzhou-21 Crew Returns to Earth
 - <a href="https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/" >🔗</a> **[SpaceNews]** Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/" >🔗</a> **[NASA]** NASA’s Roman Space Telescope Primary Mirror Gets Last Look
@@ -100,8 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-forces-commercial-gatekeeper-offers-a-playbook-for-startups-seeking-defense-business/" >🔗</a> **[SpaceNews]** Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business
 - <a href="https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/" >🔗</a> **[SpaceNews]** Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_25-29_May_2026" >🔗</a> **[ESA]** Week in images: 25-29 May 2026
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/ESA_and_EDF_strengthen_their_partnership_for_energy_efficiency_at_Europe_s_Spaceport" >🔗</a> **[ESA]** ESA and EDF strengthen their partnership for energy efficiency at Europe’s Spaceport
-- <a href="https://arstechnica.com/features/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/" >🔗</a> **[Arstechnica]** Here's why the failure of Blue Origin's New Glenn rocket is so catastrophic
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T204345">2026-05-29 20:43:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T213126">2026-05-29 21:31:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
