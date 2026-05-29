@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/" >🔗</a> **[SpaceNews]** Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/" >🔗</a> **[NASA]** NASA’s Roman Space Telescope Primary Mirror Gets Last Look
 - <a href="https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/" >🔗</a> **[NASA]** Hubble Spies Faint Irregular Galaxy
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/05/This_Month_at_ESA_May_2026" >🔗</a> **[ESA]** This Month at ESA: May 2026
 - <a href="https://spacenews.com/space-forces-commercial-gatekeeper-offers-a-playbook-for-startups-seeking-defense-business/" >🔗</a> **[SpaceNews]** Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business
@@ -100,8 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/ESA_and_EDF_strengthen_their_partnership_for_energy_efficiency_at_Europe_s_Spaceport" >🔗</a> **[ESA]** ESA and EDF strengthen their partnership for energy efficiency at Europe’s Spaceport
 - <a href="https://arstechnica.com/features/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/" >🔗</a> **[Arstechnica]** Here's why the failure of Blue Origin's New Glenn rocket is so catastrophic
 - <a href="https://arstechnica.com/space/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/" >🔗</a> **[Arstechnica]** Here's why the failure of Blue Origin's New Glenn rocket is so catastrophic
-- <a href="https://spacenews.com/spatial-data-has-become-a-weapon-of-war-in-the-us-iran-war/" >🔗</a> **[SpaceNews]** Spatial data has become a weapon of war in the US-Iran war
-- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-m88-on-journey-to-center-of-virgo-cluster/" >🔗</a> **[NASA]** Hubble Captures M88 on Journey to Center of Virgo Cluster
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T162150">2026-05-29 16:21:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T173933">2026-05-29 17:39:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
