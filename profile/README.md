@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/05/29/blue-origins-new-glenn-rocket-explodes-during-prelaunch-testing-at-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Blue Origin’s New Glenn rocket explodes during prelaunch testing at Cape Canaveral
+- <a href="https://science.nasa.gov/earth/earth-observatory/painting-the-growing-season-in-the-maize-triangle/" >🔗</a> **[NASA]** Painting the Growing Season in the Maize Triangle
+- <a href="https://www.nasaspaceflight.com/2026/05/blue-origin-new-glenn-explodes/" >🔗</a> **[NASASpaceflight]** Blue Origin’s New Glenn explodes during Static Fire test at LC-36
+- <a href="https://spacepolicyonline.com/news/blue-origins-new-glenn-rocket-explodes-during-pre-launch-test/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin’s New Glenn Rocket Explodes During Pre-Launch Test
 - <a href="https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/" >🔗</a> **[Arstechnica]** Blue Origin's New Glenn rocket just exploded during a static fire test
 - <a href="https://spaceflightnow.com/2026/05/29/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-14/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/space-force-plans-nationwide-network-of-resilient-operations-centers/" >🔗</a> **[SpaceNews]** Space Force plans nationwide network of ‘resilient operations centers’
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/" >🔗</a> **[NASA]** NASA’s X-59 Prepares for First Supersonic Flight
 - <a href="https://spacenews.com/observable-space-raises-90-million-and-wins-space-force-contract-for-optical-systems/" >🔗</a> **[SpaceNews]** Observable Space raises $90 million and wins Space Force contract for optical systems
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-daniel-stubbs/" >🔗</a> **[NASA]** I Am Artemis: Daniel Stubbs
-- <a href="https://science.nasa.gov/missions/landsat/new-landsat-science-team-holds-first-in-person-meeting/" >🔗</a> **[NASA]** New Landsat Science Team Holds First In-Person Meeting
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4900-4907-pasadena-we-have-a-drill-sample/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4900-4907: Pasadena, We Have a Drill Sample!
-- <a href="https://science.nasa.gov/science-research/astromaterials/nasa-uses-mineralogical-marker-to-understand-ancient-martian-climate/" >🔗</a> **[NASA]** NASA Uses Mineralogical Marker to Understand Ancient Martian Climate
-- <a href="https://science.nasa.gov/image-article/nancy-grace-roman-space-telescope-poster/" >🔗</a> **[NASA]** Nancy Grace Roman Space Telescope Poster
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T034336">2026-05-29 03:43:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T052255">2026-05-29 05:22:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
