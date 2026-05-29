@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T115200">2026-05-29 11:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-53&location=Cape Canaveral SFS, FL, USA&dates=20260529T115200Z%2F20260529T155200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-53** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T233300">2026-05-29 23:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-07)&location=Cape Canaveral SFS, FL, USA&dates=20260529T233300Z%2F20260530T000200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-07)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260530T140000">2026-05-30 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-41&location=Vandenberg SFB, CA, USA&dates=20260530T140000Z%2F20260530T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-41** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260530T175700">2026-05-30 17:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20260530T175700Z%2F20260530T181700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
@@ -90,16 +89,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spatial-data-has-become-a-weapon-of-war-in-the-us-iran-war/" >🔗</a> **[SpaceNews]** Spatial data has become a weapon of war in the US-Iran war
+- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-m88-on-journey-to-center-of-virgo-cluster/" >🔗</a> **[NASA]** Hubble Captures M88 on Journey to Center of Virgo Cluster
 - <a href="https://spacenews.com/chinas-latest-batch-of-new-and-reusable-rockets-are-close-to-launch/" >🔗</a> **[SpaceNews]** China’s latest batch of new and reusable rockets are close to launch
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Journey_to_the_centre_of_a_galaxy_cluster" >🔗</a> **[ESA]** Journey to the centre of a galaxy cluster
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Batagaika_Crater" >🔗</a> **[ESA]** Earth from Space: Batagaika Crater
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Journey_to_the_centre_of_a_galaxy_cluster" >🔗</a> **[ESA]** Journey to the centre of a galaxy cluster
 - <a href="https://europeanspaceflight.com/esa-greenlights-two-budget-friendly-earth-observation-missions/" >🔗</a> **[European Spaceflight]** ESA Greenlights Two Budget-Friendly Earth Observation Missions
 - <a href="https://spacenews.com/new-glenn-rocket-explodes-on-cape-canaveral-pad/" >🔗</a> **[SpaceNews]** New Glenn rocket explodes on Cape Canaveral pad
 - <a href="https://spaceflightnow.com/2026/05/29/blue-origins-new-glenn-rocket-explodes-during-prelaunch-testing-at-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Blue Origin’s New Glenn rocket explodes during prelaunch testing at Cape Canaveral
 - <a href="https://science.nasa.gov/earth/earth-observatory/painting-the-growing-season-in-the-maize-triangle/" >🔗</a> **[NASA]** Painting the Growing Season in the Maize Triangle
 - <a href="https://www.nasaspaceflight.com/2026/05/blue-origin-new-glenn-explodes/" >🔗</a> **[NASASpaceflight]** Blue Origin’s New Glenn explodes during Static Fire test at LC-36
-- <a href="https://spacepolicyonline.com/news/blue-origins-new-glenn-rocket-explodes-during-pre-launch-test/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin’s New Glenn Rocket Explodes During Pre-Launch Test
-- <a href="https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/" >🔗</a> **[Arstechnica]** Blue Origin's New Glenn rocket just exploded during a static fire test
 
 
 ### Launch-related News 🚀
@@ -110,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T110123">2026-05-29 11:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T122941">2026-05-29 12:29:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
