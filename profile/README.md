@@ -23,7 +23,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T233300">2026-05-29 23:33:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T233330">2026-05-29 23:33:30 UTC</a>.  Until
 then, this pad will have been used for 123
 out of 1110 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -47,7 +47,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T233300">2026-05-29 23:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-07)&location=Cape Canaveral SFS, FL, USA&dates=20260529T233300Z%2F20260530T000200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-07)** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T233330">2026-05-29 23:33:30 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-07)&location=Cape Canaveral SFS, FL, USA&dates=20260529T233330Z%2F20260530T000230Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-07)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260530T140000">2026-05-30 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-41&location=Vandenberg SFB, CA, USA&dates=20260530T140000Z%2F20260530T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-41** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260530T175700">2026-05-30 17:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20260530T175700Z%2F20260530T181700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260601T050000">2026-06-01 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=South Korean ADD Solid-Fuel SLV | Demo Flight&location=Sea Launch&dates=20260601T050000Z%2F20260601T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **South Korean ADD Solid-Fuel SLV | Demo Flight** from Sea Launch.
@@ -92,6 +92,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/" >🔗</a> **[NASA]** Hubble Spies Faint Irregular Galaxy
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/05/This_Month_at_ESA_May_2026" >🔗</a> **[ESA]** This Month at ESA: May 2026
+- <a href="https://spacenews.com/space-forces-commercial-gatekeeper-offers-a-playbook-for-startups-seeking-defense-business/" >🔗</a> **[SpaceNews]** Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business
 - <a href="https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/" >🔗</a> **[SpaceNews]** Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_25-29_May_2026" >🔗</a> **[ESA]** Week in images: 25-29 May 2026
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/ESA_and_EDF_strengthen_their_partnership_for_energy_efficiency_at_Europe_s_Spaceport" >🔗</a> **[ESA]** ESA and EDF strengthen their partnership for energy efficiency at Europe’s Spaceport
@@ -99,9 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/" >🔗</a> **[Arstechnica]** Here's why the failure of Blue Origin's New Glenn rocket is so catastrophic
 - <a href="https://spacenews.com/spatial-data-has-become-a-weapon-of-war-in-the-us-iran-war/" >🔗</a> **[SpaceNews]** Spatial data has become a weapon of war in the US-Iran war
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-m88-on-journey-to-center-of-virgo-cluster/" >🔗</a> **[NASA]** Hubble Captures M88 on Journey to Center of Virgo Cluster
-- <a href="https://spacenews.com/chinas-latest-batch-of-new-and-reusable-rockets-are-close-to-launch/" >🔗</a> **[SpaceNews]** China’s latest batch of new and reusable rockets are close to launch
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Batagaika_Crater" >🔗</a> **[ESA]** Earth from Space: Batagaika Crater
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Journey_to_the_centre_of_a_galaxy_cluster" >🔗</a> **[ESA]** Journey to the centre of a galaxy cluster
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T150003">2026-05-29 15:00:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T162150">2026-05-29 16:21:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
