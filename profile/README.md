@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Journey_to_the_centre_of_a_galaxy_cluster" >🔗</a> **[ESA]** Journey to the centre of a galaxy cluster
+- <a href="https://europeanspaceflight.com/esa-greenlights-two-budget-friendly-earth-observation-missions/" >🔗</a> **[European Spaceflight]** ESA Greenlights Two Budget-Friendly Earth Observation Missions
 - <a href="https://spacenews.com/new-glenn-rocket-explodes-on-cape-canaveral-pad/" >🔗</a> **[SpaceNews]** New Glenn rocket explodes on Cape Canaveral pad
 - <a href="https://spaceflightnow.com/2026/05/29/blue-origins-new-glenn-rocket-explodes-during-prelaunch-testing-at-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Blue Origin’s New Glenn rocket explodes during prelaunch testing at Cape Canaveral
 - <a href="https://science.nasa.gov/earth/earth-observatory/painting-the-growing-season-in-the-maize-triangle/" >🔗</a> **[NASA]** Painting the Growing Season in the Maize Triangle
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/" >🔗</a> **[Arstechnica]** Blue Origin's New Glenn rocket just exploded during a static fire test
 - <a href="https://spaceflightnow.com/2026/05/29/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-14/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/space-force-plans-nationwide-network-of-resilient-operations-centers/" >🔗</a> **[SpaceNews]** Space Force plans nationwide network of ‘resilient operations centers’
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/" >🔗</a> **[NASA]** NASA’s X-59 Prepares for First Supersonic Flight
-- <a href="https://spacenews.com/observable-space-raises-90-million-and-wins-space-force-contract-for-optical-systems/" >🔗</a> **[SpaceNews]** Observable Space raises $90 million and wins Space Force contract for optical systems
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T064523">2026-05-29 06:45:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T081423">2026-05-29 08:14:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
