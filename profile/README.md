@@ -90,7 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-latest-batch-of-new-and-reusable-rockets-are-close-to-launch/" >🔗</a> **[SpaceNews]** China’s latest batch of new and reusable rockets are close to launch
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Journey_to_the_centre_of_a_galaxy_cluster" >🔗</a> **[ESA]** Journey to the centre of a galaxy cluster
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Batagaika_Crater" >🔗</a> **[ESA]** Earth from Space: Batagaika Crater
 - <a href="https://europeanspaceflight.com/esa-greenlights-two-budget-friendly-earth-observation-missions/" >🔗</a> **[European Spaceflight]** ESA Greenlights Two Budget-Friendly Earth Observation Missions
 - <a href="https://spacenews.com/new-glenn-rocket-explodes-on-cape-canaveral-pad/" >🔗</a> **[SpaceNews]** New Glenn rocket explodes on Cape Canaveral pad
 - <a href="https://spaceflightnow.com/2026/05/29/blue-origins-new-glenn-rocket-explodes-during-prelaunch-testing-at-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Blue Origin’s New Glenn rocket explodes during prelaunch testing at Cape Canaveral
@@ -98,18 +100,17 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/05/blue-origin-new-glenn-explodes/" >🔗</a> **[NASASpaceflight]** Blue Origin’s New Glenn explodes during Static Fire test at LC-36
 - <a href="https://spacepolicyonline.com/news/blue-origins-new-glenn-rocket-explodes-during-pre-launch-test/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin’s New Glenn Rocket Explodes During Pre-Launch Test
 - <a href="https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/" >🔗</a> **[Arstechnica]** Blue Origin's New Glenn rocket just exploded during a static fire test
-- <a href="https://spaceflightnow.com/2026/05/29/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-14/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacenews.com/space-force-plans-nationwide-network-of-resilient-operations-centers/" >🔗</a> **[SpaceNews]** Space Force plans nationwide network of ‘resilient operations centers’
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2026/05/29/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-14/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-052526/" >🔗</a> **[NASASpaceflight]** Launch Preview: Starlink and Amazon Leo missions fill manifest
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T081423">2026-05-29 08:14:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T094433">2026-05-29 09:44:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
