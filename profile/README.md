@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/05/29/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/" >🔗</a> **[NASA]** NASA Awards Contract for Johnson Space Center Infrastructure
 - <a href="https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/" >🔗</a> **[NASA]** NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters
 - <a href="https://spacepolicyonline.com/news/chinas-shenzhou-21-crew-returns-to-earth/" >🔗</a> **[SpacePolicyOnline.com]** China’s Shenzhou-21 Crew Returns to Earth
@@ -101,7 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/05/This_Month_at_ESA_May_2026" >🔗</a> **[ESA]** This Month at ESA: May 2026
 - <a href="https://spacenews.com/space-forces-commercial-gatekeeper-offers-a-playbook-for-startups-seeking-defense-business/" >🔗</a> **[SpaceNews]** Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business
 - <a href="https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/" >🔗</a> **[SpaceNews]** Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_25-29_May_2026" >🔗</a> **[ESA]** Week in images: 25-29 May 2026
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T213126">2026-05-29 21:31:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T222850">2026-05-29 22:28:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
