@@ -92,27 +92,26 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/" >🔗</a> **[SpaceNews]** Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_25-29_May_2026" >🔗</a> **[ESA]** Week in images: 25-29 May 2026
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/ESA_and_EDF_strengthen_their_partnership_for_energy_efficiency_at_Europe_s_Spaceport" >🔗</a> **[ESA]** ESA and EDF strengthen their partnership for energy efficiency at Europe’s Spaceport
+- <a href="https://arstechnica.com/features/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/" >🔗</a> **[Arstechnica]** Here's why the failure of Blue Origin's New Glenn rocket is so catastrophic
+- <a href="https://arstechnica.com/space/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/" >🔗</a> **[Arstechnica]** Here's why the failure of Blue Origin's New Glenn rocket is so catastrophic
 - <a href="https://spacenews.com/spatial-data-has-become-a-weapon-of-war-in-the-us-iran-war/" >🔗</a> **[SpaceNews]** Spatial data has become a weapon of war in the US-Iran war
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-m88-on-journey-to-center-of-virgo-cluster/" >🔗</a> **[NASA]** Hubble Captures M88 on Journey to Center of Virgo Cluster
 - <a href="https://spacenews.com/chinas-latest-batch-of-new-and-reusable-rockets-are-close-to-launch/" >🔗</a> **[SpaceNews]** China’s latest batch of new and reusable rockets are close to launch
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Batagaika_Crater" >🔗</a> **[ESA]** Earth from Space: Batagaika Crater
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Journey_to_the_centre_of_a_galaxy_cluster" >🔗</a> **[ESA]** Journey to the centre of a galaxy cluster
-- <a href="https://europeanspaceflight.com/esa-greenlights-two-budget-friendly-earth-observation-missions/" >🔗</a> **[European Spaceflight]** ESA Greenlights Two Budget-Friendly Earth Observation Missions
-- <a href="https://spacenews.com/new-glenn-rocket-explodes-on-cape-canaveral-pad/" >🔗</a> **[SpaceNews]** New Glenn rocket explodes on Cape Canaveral pad
-- <a href="https://spaceflightnow.com/2026/05/29/blue-origins-new-glenn-rocket-explodes-during-prelaunch-testing-at-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Blue Origin’s New Glenn rocket explodes during prelaunch testing at Cape Canaveral
-- <a href="https://science.nasa.gov/earth/earth-observatory/painting-the-growing-season-in-the-maize-triangle/" >🔗</a> **[NASA]** Painting the Growing Season in the Maize Triangle
-- <a href="https://www.nasaspaceflight.com/2026/05/blue-origin-new-glenn-explodes/" >🔗</a> **[NASASpaceflight]** Blue Origin’s New Glenn explodes during Static Fire test at LC-36
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2026/05/29/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-14/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-052526/" >🔗</a> **[NASASpaceflight]** Launch Preview: Starlink and Amazon Leo missions fill manifest
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T133911">2026-05-29 13:39:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260529T150003">2026-05-29 15:00:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
