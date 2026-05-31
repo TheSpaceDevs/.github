@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/italy-turns-to-tall-ship-to-simulate-stresses-of-long-duration-spaceflight/" >🔗</a> **[European Spaceflight]** Italy Turns to Tall Ship to Simulate Stresses of Long-Duration Spaceflight
 - <a href="https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/" >🔗</a> **[SpaceNews]** FAA documents outline SpaceX plans for Starfall reentry vehicles
 - <a href="https://spacenews.com/blue-origin-gets-national-security-launch-task-order-hours-before-new-glenn-explosion/" >🔗</a> **[SpaceNews]** Blue Origin gets national security launch task order hours before New Glenn explosion
 - <a href="https://spaceflightnow.com/2026/05/30/live-coverage-spacex-to-launch-50th-starlink-mission-of-2026/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 50th Starlink mission of 2026
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/" >🔗</a> **[NASA]** NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters
 - <a href="https://spacepolicyonline.com/news/chinas-shenzhou-21-crew-returns-to-earth/" >🔗</a> **[SpacePolicyOnline.com]** China’s Shenzhou-21 Crew Returns to Earth
 - <a href="https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/" >🔗</a> **[SpaceNews]** Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/" >🔗</a> **[NASA]** NASA’s Roman Space Telescope Primary Mirror Gets Last Look
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260531T132957">2026-05-31 13:29:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260531T141201">2026-05-31 14:12:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
