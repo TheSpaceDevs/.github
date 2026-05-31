@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/" >🔗</a> **[SpaceNews]** FAA documents outline SpaceX plans for Starfall reentry vehicles
 - <a href="https://spacenews.com/blue-origin-gets-national-security-launch-task-order-hours-before-new-glenn-explosion/" >🔗</a> **[SpaceNews]** Blue Origin gets national security launch task order hours before New Glenn explosion
 - <a href="https://spaceflightnow.com/2026/05/30/live-coverage-spacex-to-launch-50th-starlink-mission-of-2026/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 50th Starlink mission of 2026
 - <a href="https://spacepolicyonline.com/news/repercussions-of-new-glenns-explosion-still-coming-into-focus/" >🔗</a> **[SpacePolicyOnline.com]** Repercussions of New Glenn’s Explosion Still Coming Into Focus
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/chinas-shenzhou-21-crew-returns-to-earth/" >🔗</a> **[SpacePolicyOnline.com]** China’s Shenzhou-21 Crew Returns to Earth
 - <a href="https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/" >🔗</a> **[SpaceNews]** Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/" >🔗</a> **[NASA]** NASA’s Roman Space Telescope Primary Mirror Gets Last Look
-- <a href="https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/" >🔗</a> **[NASA]** Hubble Spies Faint Irregular Galaxy
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260531T101823">2026-05-31 10:18:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260531T110606">2026-05-31 11:06:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
