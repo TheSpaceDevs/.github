@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-060126/" >🔗</a> **[NASASpaceflight]** Launch Preview: SpaceX and Chinese rockets to launch internet satellites to LEO
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-see-roman-space-telescope-arrive-at-kennedy/" >🔗</a> **[NASA]** NASA Invites Media to See Roman Space Telescope Arrive at Kennedy
 - <a href="https://europeanspaceflight.com/pld-space-triples-investment-in-launch-facility-to-e35-million/" >🔗</a> **[European Spaceflight]** PLD Space Triples Investment in Launch Facility to €35 Million
 - <a href="https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-near-houston/" >🔗</a> **[NASA]** NASA to Conduct Low-Altitude Flights Near Houston
 - <a href="https://science.nasa.gov/solar-system/whats-up-june-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: June 2026 Skywatching Tips from NASA
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/aeronautics/aeronautics-stem/pilot-flight-logs/" >🔗</a> **[NASA]** Pilot Flight Logs
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Webb_sniffs_methane_from_interstellar_Comet_3I_ATLAS" >🔗</a> **[ESA]** Webb sniffs methane from interstellar Comet 3I/ATLAS
 - <a href="https://spacenews.com/northrop-grumman-partners-with-apex-on-space-based-interceptors-for-golden-dome/" >🔗</a> **[SpaceNews]** Northrop Grumman partners with Apex on space-based interceptors for Golden Dome
-- <a href="https://www.nasa.gov/image-article/pretty-in-pink-2/" >🔗</a> **[NASA]** Pretty in Pink
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Smile_cleanroom_to_space" >🔗</a> **[ESA]** Smile: cleanroom to space
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260601T210859">2026-06-01 21:08:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260601T222301">2026-06-01 22:23:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
