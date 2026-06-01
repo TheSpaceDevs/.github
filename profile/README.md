@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-modification-contract-for-reduced-gravity-test-aircraft/" >🔗</a> **[NASA]** NASA Awards Modification Contract for Reduced Gravity Test Aircraft
 - <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-060126/" >🔗</a> **[NASASpaceflight]** Launch Preview: SpaceX and Chinese rockets to launch internet satellites to LEO
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-see-roman-space-telescope-arrive-at-kennedy/" >🔗</a> **[NASA]** NASA Invites Media to See Roman Space Telescope Arrive at Kennedy
 - <a href="https://europeanspaceflight.com/pld-space-triples-investment-in-launch-facility-to-e35-million/" >🔗</a> **[European Spaceflight]** PLD Space Triples Investment in Launch Facility to €35 Million
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/aeronautics/aeronautics-stem/flight-log-about-pilots/" >🔗</a> **[NASA]** Flight Log—About Pilots
 - <a href="https://www.nasa.gov/aeronautics/aeronautics-stem/pilot-flight-logs/" >🔗</a> **[NASA]** Pilot Flight Logs
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Webb_sniffs_methane_from_interstellar_Comet_3I_ATLAS" >🔗</a> **[ESA]** Webb sniffs methane from interstellar Comet 3I/ATLAS
-- <a href="https://spacenews.com/northrop-grumman-partners-with-apex-on-space-based-interceptors-for-golden-dome/" >🔗</a> **[SpaceNews]** Northrop Grumman partners with Apex on space-based interceptors for Golden Dome
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260601T230742">2026-06-01 23:07:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260601T235346">2026-06-01 23:53:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
