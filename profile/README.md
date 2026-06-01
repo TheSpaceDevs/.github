@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/05/webb-abell2744-qso1/" >🔗</a> **[NASASpaceflight]** Ancient black hole sheds new light on Webb’s Little Red Dots
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-31-june-6-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 31-June 6, 2026
 - <a href="https://europeanspaceflight.com/italy-turns-to-tall-ship-to-simulate-stresses-of-long-duration-spaceflight/" >🔗</a> **[European Spaceflight]** Italy Turns to Tall Ship to Simulate Stresses of Long-Duration Spaceflight
 - <a href="https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/" >🔗</a> **[SpaceNews]** FAA documents outline SpaceX plans for Starfall reentry vehicles
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/05/29/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/" >🔗</a> **[NASA]** NASA Awards Contract for Johnson Space Center Infrastructure
 - <a href="https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/" >🔗</a> **[NASA]** NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters
-- <a href="https://spacepolicyonline.com/news/chinas-shenzhou-21-crew-returns-to-earth/" >🔗</a> **[SpacePolicyOnline.com]** China’s Shenzhou-21 Crew Returns to Earth
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260531T234845">2026-05-31 23:48:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260601T002601">2026-06-01 00:26:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
