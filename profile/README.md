@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spaceport-facility-bonds-are-now-law-and-they-fundamentally-change-space-infrastructure-finance/" >🔗</a> **[SpaceNews]** Spaceport facility bonds are now law – and they fundamentally change space infrastructure finance
 - <a href="https://spacenews.com/china-conducts-surprise-launch-of-long-march-12b-delivers-qianfan-satellites-on-debut-flight/" >🔗</a> **[SpaceNews]** China conducts surprise launch of Long March 12B, delivers Qianfan satellites on debut flight
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Space_science_for_your_heart" >🔗</a> **[ESA]** Space science for your heart
 - <a href="https://spacenews.com/new-glenn-failure-worsens-constrained-launch-market/" >🔗</a> **[SpaceNews]** New Glenn failure worsens constrained launch market
 - <a href="https://spacenews.com/china-launches-test-direct-to-device-satellites-for-multiple-projects/" >🔗</a> **[SpaceNews]** China launches test direct-to-device satellites for multiple projects
+- <a href="https://science.nasa.gov/earth/earth-observatory/gravity-waves-from-super-typhoon-sinlaku/" >🔗</a> **[NASA]** Gravity Waves From Super Typhoon Sinlaku
 - <a href="https://www.nasaspaceflight.com/2026/05/webb-abell2744-qso1/" >🔗</a> **[NASASpaceflight]** Ancient black hole sheds new light on Webb’s Little Red Dots
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-31-june-6-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 31-June 6, 2026
 - <a href="https://europeanspaceflight.com/italy-turns-to-tall-ship-to-simulate-stresses-of-long-duration-spaceflight/" >🔗</a> **[European Spaceflight]** Italy Turns to Tall Ship to Simulate Stresses of Long-Duration Spaceflight
 - <a href="https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/" >🔗</a> **[SpaceNews]** FAA documents outline SpaceX plans for Starfall reentry vehicles
-- <a href="https://spacenews.com/blue-origin-gets-national-security-launch-task-order-hours-before-new-glenn-explosion/" >🔗</a> **[SpaceNews]** Blue Origin gets national security launch task order hours before New Glenn explosion
-- <a href="https://spaceflightnow.com/2026/05/30/live-coverage-spacex-to-launch-50th-starlink-mission-of-2026/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 50th Starlink mission of 2026
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260601T111518">2026-06-01 11:15:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260601T131754">2026-06-01 13:17:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
