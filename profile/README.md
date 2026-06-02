@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/researchers-call-for-regulations-to-protect-low-earth-orbit-environment/" >🔗</a> **[SpaceNews]** Researchers call for regulations to protect low Earth orbit environment
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/spacewalking-with-scott-wray-artemis-eva-training-lead/" >🔗</a> **[NASA]** Spacewalking With Scott Wray, Artemis EVA Training Lead
 - <a href="https://www.esa.int/Applications/Satellite_navigation/ESA_joins_agreement_to_strengthen_global_geodesy_supply_chain" >🔗</a> **[ESA]** ESA joins agreement to strengthen global geodesy supply chain
 - <a href="https://spacenews.com/nasa-abandons-core-module-concept-for-commercial-space-station-development/" >🔗</a> **[SpaceNews]** NASA abandons ‘core module’ concept for commercial space station development
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-awards-modification-contract-for-reduced-gravity-test-aircraft/" >🔗</a> **[NASA]** NASA Awards Modification Contract for Reduced Gravity Test Aircraft
 - <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-060126/" >🔗</a> **[NASASpaceflight]** Launch Preview: SpaceX and Chinese rockets to launch internet satellites to LEO
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-see-roman-space-telescope-arrive-at-kennedy/" >🔗</a> **[NASA]** NASA Invites Media to See Roman Space Telescope Arrive at Kennedy
-- <a href="https://europeanspaceflight.com/pld-space-triples-investment-in-launch-facility-to-e35-million/" >🔗</a> **[European Spaceflight]** PLD Space Triples Investment in Launch Facility to €35 Million
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260602T102909">2026-06-02 10:29:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260602T115319">2026-06-02 11:53:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
