@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nro-nominee-says-commercial-space-ai-are-reshaping-spy-satellite-agency/" >🔗</a> **[SpaceNews]** NRO nominee says commercial space, AI are reshaping spy satellite agency
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/" >🔗</a> **[NASA]** NASA Space Roboticist Challenge
 - <a href="https://www.nasa.gov/image-article/look-up/" >🔗</a> **[NASA]** Look Up!
 - <a href="https://arstechnica.com/space/2026/06/blue-origin-vows-to-fly-its-new-glenn-rocket-before-the-end-of-this-year/" >🔗</a> **[Arstechnica]** Blue Origin vows to fly its New Glenn rocket "before the end of this year"
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-importance-of-determining-an-equilibrium-state-for-space-traffic-management/" >🔗</a> **[SpaceNews]** The importance of determining an equilibrium state for space traffic management
 - <a href="https://spacenews.com/uk-explores-vast-space-station-mission-for-astronaut-with-physical-disability/" >🔗</a> **[SpaceNews]** UK explores Vast space station mission for astronaut with physical disability
 - <a href="https://spacenews.com/impulse-space-raises-500-million/" >🔗</a> **[SpaceNews]** Impulse Space raises $500 million
-- <a href="https://arstechnica.com/space/2026/06/impulse-space-raises-500-million-as-orbital-maneuvering-race-heats-up/" >🔗</a> **[Arstechnica]** Impulse Space raises $500 million as orbital maneuvering race heats up
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260602T213123">2026-06-02 21:31:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260602T223824">2026-06-02 22:38:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
