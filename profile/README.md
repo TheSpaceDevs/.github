@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/look-up/" >🔗</a> **[NASA]** Look Up!
+- <a href="https://arstechnica.com/space/2026/06/blue-origin-vows-to-fly-its-new-glenn-rocket-before-the-end-of-this-year/" >🔗</a> **[Arstechnica]** Blue Origin vows to fly its New Glenn rocket "before the end of this year"
+- <a href="https://spacenews.com/global-ssa-market-to-reach-61b-as-governments-prioritize-space-security-resilience-and-orbital-safety/" >🔗</a> **[SpaceNews]** Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-testing-wastewater-treatment-facility-for-future-moon-base/" >🔗</a> **[NASA]** NASA Testing Wastewater Treatment Facility for Future Moon Base
 - <a href="https://science.nasa.gov/get-involved/citizen-science/help-galaxy-zoo-clump-scout-ii-project/" >🔗</a> **[NASA]** Be a Clump Scout and Help Reveal Secrets of Stellar Nurseries
 - <a href="https://spacenews.com/the-importance-of-determining-an-equilibrium-state-for-space-traffic-management/" >🔗</a> **[SpaceNews]** The importance of determining an equilibrium state for space traffic management
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/impulse-space-raises-500-million/" >🔗</a> **[SpaceNews]** Impulse Space raises $500 million
 - <a href="https://arstechnica.com/space/2026/06/impulse-space-raises-500-million-as-orbital-maneuvering-race-heats-up/" >🔗</a> **[Arstechnica]** Impulse Space raises $500 million as orbital maneuvering race heats up
 - <a href="https://spacenews.com/voyager-to-acquire-lunar-lander-developer-astrobotic/" >🔗</a> **[SpaceNews]** Voyager to acquire lunar lander developer Astrobotic
-- <a href="https://spacenews.com/researchers-call-for-regulations-to-protect-low-earth-orbit-environment/" >🔗</a> **[SpaceNews]** Researchers call for regulations to protect low Earth orbit environment
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/spacewalking-with-scott-wray-artemis-eva-training-lead/" >🔗</a> **[NASA]** Spacewalking With Scott Wray, Artemis EVA Training Lead
-- <a href="https://www.esa.int/Applications/Satellite_navigation/ESA_joins_agreement_to_strengthen_global_geodesy_supply_chain" >🔗</a> **[ESA]** ESA joins agreement to strengthen global geodesy supply chain
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260602T144505">2026-06-02 14:45:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260602T162911">2026-06-02 16:29:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
