@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/france-to-fly-two-astronauts-on-vast-missions/" >🔗</a> **[SpaceNews]** France to fly two astronauts on Vast missions
+- <a href="https://spacepolicyonline.com/news/nasa-agrees-with-industry-keep-cld-program-as-is/" >🔗</a> **[SpacePolicyOnline.com]** NASA Agrees with Industry, Keep CLD Program As Is
 - <a href="https://www.nasa.gov/news-release/nasa-awards-modification-contract-for-reduced-gravity-test-aircraft/" >🔗</a> **[NASA]** NASA Awards Modification Contract for Reduced Gravity Test Aircraft
 - <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-060126/" >🔗</a> **[NASASpaceflight]** Launch Preview: SpaceX and Chinese rockets to launch internet satellites to LEO
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-see-roman-space-telescope-arrive-at-kennedy/" >🔗</a> **[NASA]** NASA Invites Media to See Roman Space Telescope Arrive at Kennedy
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/solar-system/whats-up-june-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: June 2026 Skywatching Tips from NASA
 - <a href="https://www.spacescout.info/2026/06/op-ed-misuse-of-commercial-programs-sets-nasa-up-for-failure/" >🔗</a> **[Space Scout]** Op-Ed: Misuse of Commercial Programs Sets NASA Up for Failure
 - <a href="https://www.nasa.gov/aeronautics/aeronautics-stem/flight-log-about-pilots/" >🔗</a> **[NASA]** Flight Log—About Pilots
-- <a href="https://www.nasa.gov/aeronautics/aeronautics-stem/pilot-flight-logs/" >🔗</a> **[NASA]** Pilot Flight Logs
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Webb_sniffs_methane_from_interstellar_Comet_3I_ATLAS" >🔗</a> **[ESA]** Webb sniffs methane from interstellar Comet 3I/ATLAS
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260602T003116">2026-06-02 00:31:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260602T014533">2026-06-02 01:45:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
