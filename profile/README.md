@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/uk-explores-vast-space-station-mission-for-astronaut-with-physical-disability/" >🔗</a> **[SpaceNews]** UK explores Vast space station mission for astronaut with physical disability
+- <a href="https://spacenews.com/impulse-space-raises-500-million/" >🔗</a> **[SpaceNews]** Impulse Space raises $500 million
+- <a href="https://arstechnica.com/space/2026/06/impulse-space-raises-500-million-as-orbital-maneuvering-race-heats-up/" >🔗</a> **[Arstechnica]** Impulse Space raises $500 million as orbital maneuvering race heats up
+- <a href="https://spacenews.com/voyager-to-acquire-lunar-lander-developer-astrobotic/" >🔗</a> **[SpaceNews]** Voyager to acquire lunar lander developer Astrobotic
 - <a href="https://spacenews.com/researchers-call-for-regulations-to-protect-low-earth-orbit-environment/" >🔗</a> **[SpaceNews]** Researchers call for regulations to protect low Earth orbit environment
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/spacewalking-with-scott-wray-artemis-eva-training-lead/" >🔗</a> **[NASA]** Spacewalking With Scott Wray, Artemis EVA Training Lead
 - <a href="https://www.esa.int/Applications/Satellite_navigation/ESA_joins_agreement_to_strengthen_global_geodesy_supply_chain" >🔗</a> **[ESA]** ESA joins agreement to strengthen global geodesy supply chain
 - <a href="https://spacenews.com/nasa-abandons-core-module-concept-for-commercial-space-station-development/" >🔗</a> **[SpaceNews]** NASA abandons ‘core module’ concept for commercial space station development
 - <a href="https://science.nasa.gov/earth/earth-observatory/fires-footprint-on-santa-rosa-island/" >🔗</a> **[NASA]** Fire’s Footprint on Santa Rosa Island
 - <a href="https://spacenews.com/france-to-fly-two-astronauts-on-vast-missions/" >🔗</a> **[SpaceNews]** France to fly two astronauts on Vast missions
-- <a href="https://spacepolicyonline.com/news/nasa-agrees-with-industry-keep-cld-program-as-is/" >🔗</a> **[SpacePolicyOnline.com]** NASA Agrees with Industry, Keep CLD Program As Is
-- <a href="https://www.nasa.gov/news-release/nasa-awards-modification-contract-for-reduced-gravity-test-aircraft/" >🔗</a> **[NASA]** NASA Awards Modification Contract for Reduced Gravity Test Aircraft
-- <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-060126/" >🔗</a> **[NASASpaceflight]** Launch Preview: SpaceX and Chinese rockets to launch internet satellites to LEO
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-see-roman-space-telescope-arrive-at-kennedy/" >🔗</a> **[NASA]** NASA Invites Media to See Roman Space Telescope Arrive at Kennedy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260602T115319">2026-06-02 11:53:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260602T130545">2026-06-02 13:05:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
