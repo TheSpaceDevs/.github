@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg
+- <a href="https://spaceflightnow.com/2026/06/03/blue-origin-vows-to-resume-new-glenn-flights-by-years-end/" >🔗</a> **[Spaceflight Now]** Blue Origin vows to resume New Glenn flights by year’s end
+- <a href="https://www.nasaspaceflight.com/2026/06/blue-lc-36-recovery-rtf-end-2026/" >🔗</a> **[NASASpaceflight]** Blue Origin initiates LC-36 recovery, targets RTF by end of 2026
+- <a href="https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-15/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://spacepolicyonline.com/news/nasa-sets-launch-date-for-roman-space-telescope/" >🔗</a> **[SpacePolicyOnline.com]** NASA Sets Launch Date for Roman Space Telescope
 - <a href="https://spacenews.com/nro-nominee-says-commercial-space-ai-are-reshaping-spy-satellite-agency/" >🔗</a> **[SpaceNews]** NRO nominee says commercial space, AI are reshaping spy satellite agency
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/" >🔗</a> **[NASA]** NASA Space Roboticist Challenge
 - <a href="https://www.nasa.gov/image-article/look-up/" >🔗</a> **[NASA]** Look Up!
 - <a href="https://arstechnica.com/space/2026/06/blue-origin-vows-to-fly-its-new-glenn-rocket-before-the-end-of-this-year/" >🔗</a> **[Arstechnica]** Blue Origin vows to fly its New Glenn rocket "before the end of this year"
 - <a href="https://spacenews.com/global-ssa-market-to-reach-61b-as-governments-prioritize-space-security-resilience-and-orbital-safety/" >🔗</a> **[SpaceNews]** Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety
-- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-testing-wastewater-treatment-facility-for-future-moon-base/" >🔗</a> **[NASA]** NASA Testing Wastewater Treatment Facility for Future Moon Base
-- <a href="https://science.nasa.gov/get-involved/citizen-science/help-galaxy-zoo-clump-scout-ii-project/" >🔗</a> **[NASA]** Be a Clump Scout and Help Reveal Secrets of Stellar Nurseries
-- <a href="https://spacenews.com/the-importance-of-determining-an-equilibrium-state-for-space-traffic-management/" >🔗</a> **[SpaceNews]** The importance of determining an equilibrium state for space traffic management
-- <a href="https://spacenews.com/uk-explores-vast-space-station-mission-for-astronaut-with-physical-disability/" >🔗</a> **[SpaceNews]** UK explores Vast space station mission for astronaut with physical disability
-- <a href="https://spacenews.com/impulse-space-raises-500-million/" >🔗</a> **[SpaceNews]** Impulse Space raises $500 million
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260603T003533">2026-06-03 00:35:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260603T015025">2026-06-03 01:50:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
