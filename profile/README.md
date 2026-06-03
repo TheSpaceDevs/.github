@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/typhoon-jangmi/" >🔗</a> **[NASA]** Typhoon Jangmi
 - <a href="https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://spaceflightnow.com/2026/06/03/blue-origin-vows-to-resume-new-glenn-flights-by-years-end/" >🔗</a> **[Spaceflight Now]** Blue Origin vows to resume New Glenn flights by year’s end
 - <a href="https://www.nasaspaceflight.com/2026/06/blue-lc-36-recovery-rtf-end-2026/" >🔗</a> **[NASASpaceflight]** Blue Origin initiates LC-36 recovery, targets RTF by end of 2026
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/" >🔗</a> **[NASA]** NASA Space Roboticist Challenge
 - <a href="https://www.nasa.gov/image-article/look-up/" >🔗</a> **[NASA]** Look Up!
 - <a href="https://arstechnica.com/space/2026/06/blue-origin-vows-to-fly-its-new-glenn-rocket-before-the-end-of-this-year/" >🔗</a> **[Arstechnica]** Blue Origin vows to fly its New Glenn rocket "before the end of this year"
-- <a href="https://spacenews.com/global-ssa-market-to-reach-61b-as-governments-prioritize-space-security-resilience-and-orbital-safety/" >🔗</a> **[SpaceNews]** Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260603T030221">2026-06-03 03:02:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260603T050826">2026-06-03 05:08:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
