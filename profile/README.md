@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/06/artemis-iii-srb-shipment/" >🔗</a> **[NASASpaceflight]** Artemis III’s remaining solid rocket booster segments shipped from Utah to Florida
 - <a href="https://spacenews.com/after-cooperation-on-smile-mission-esa-and-china-chart-parallel-but-separate-paths/" >🔗</a> **[SpaceNews]** After cooperation on SMILE mission, ESA and China chart parallel but separate paths
 - <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/" >🔗</a> **[NASA]** NASA Finds New Way Earth May Have Received Elements Needed for Life
 - <a href="https://science.nasa.gov/photojournal/international-sea-level-satellite-observes-el-nino-precursor/" >🔗</a> **[NASA]** International Sea Level Satellite Observes El Niño Precursor
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/reservoir-drained-to-upgrade-water-system/" >🔗</a> **[NASA]** NASA Drains 66-Million-Gallon Reservoir to Upgrade Critical Water System
 - <a href="https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/" >🔗</a> **[NASA]** NASA Says Farewell to MAVEN Mars Mission, Hosts Media Call Today
 - <a href="https://spacenews.com/europe-is-rearming-together-except-in-space/" >🔗</a> **[SpaceNews]** Europe is rearming together — except in space
-- <a href="https://spacenews.com/muon-space-unveils-starship-class-satellite-platform-for-orbital-data-centers/" >🔗</a> **[SpaceNews]** Muon Space unveils Starship-class satellite platform for orbital data centers
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260603T194425">2026-06-03 19:44:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260603T205912">2026-06-03 20:59:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
