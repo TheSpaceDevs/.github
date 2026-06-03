@@ -89,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-seeks-to-resume-new-glenn-launches-by-years-end/" >🔗</a> **[SpaceNews]** Blue Origin seeks to resume New Glenn launches by year’s end
+- <a href="https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/" >🔗</a> **[Arstechnica]** How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.
 - <a href="https://europeanspaceflight.com/ssc-space-launches-red-kite-powered-sounding-rocket-carrying-12-experiments/" >🔗</a> **[European Spaceflight]** SSC Space Launches Red Kite-Powered Sounding Rocket Carrying 12 Experiments
 - <a href="https://science.nasa.gov/earth/earth-observatory/typhoon-jangmi/" >🔗</a> **[NASA]** Typhoon Jangmi
 - <a href="https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg
@@ -97,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-15/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/nasa-sets-launch-date-for-roman-space-telescope/" >🔗</a> **[SpacePolicyOnline.com]** NASA Sets Launch Date for Roman Space Telescope
 - <a href="https://spacenews.com/nro-nominee-says-commercial-space-ai-are-reshaping-spy-satellite-agency/" >🔗</a> **[SpaceNews]** NRO nominee says commercial space, AI are reshaping spy satellite agency
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/" >🔗</a> **[NASA]** NASA Space Roboticist Challenge
-- <a href="https://www.nasa.gov/image-article/look-up/" >🔗</a> **[NASA]** Look Up!
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260603T090434">2026-06-03 09:04:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260603T111229">2026-06-03 11:12:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
