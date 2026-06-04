@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/06/04/nasa-head-urges-new-launcher-for-blue-origins-moon-landers-to-meet-artemis-mission-deadlines/" >🔗</a> **[Spaceflight Now]** NASA head urges new launcher for Blue Origin’s moon landers to meet Artemis mission deadlines
+- <a href="https://science.nasa.gov/earth/nasa-funded-study-shows-wildfire-smokes-hidden-ozone-toll/" >🔗</a> **[NASA]** NASA-Funded Study Shows Wildfire Smoke’s Hidden Ozone Toll
 - <a href="https://europeanspaceflight.com/the-exploration-company-is-developing-a-reusable-heavy-lift-rocket/" >🔗</a> **[European Spaceflight]** The Exploration Company is Developing a Reusable Heavy-Lift Rocket
 - <a href="https://spacenews.com/astroforge-completes-deepspace-2-spacecraft/" >🔗</a> **[SpaceNews]** AstroForge completes DeepSpace-2 spacecraft
 - <a href="https://www.nasa.gov/image-article/colorful-chaotic-jupiter/" >🔗</a> **[NASA]** Colorful, Chaotic Jupiter
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/06/the-exploration-company-nyx-parachute-recovery/" >🔗</a> **[NASASpaceflight]** The Exploration Company advances Nyx parachute recovery
 - <a href="https://europeanspaceflight.com/the-exploration-company-completes-nyx-drop-test/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Nyx Drop Test
 - <a href="https://spacenews.com/nasa-working-to-streamline-development-of-nuclear-electric-propulsion-demo-mission/" >🔗</a> **[SpaceNews]** NASA working to streamline development of nuclear electric propulsion demo mission
-- <a href="https://spacenews.com/china-builds-institutional-framework-for-space-computing-push/" >🔗</a> **[SpaceNews]** China builds institutional framework for space computing push
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2020/03/Dry_immersion_infographic" >🔗</a> **[ESA]** Dry immersion infographic
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T173243">2026-06-04 17:32:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T184035">2026-06-04 18:40:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
