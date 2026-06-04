@@ -54,7 +54,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T140000">2026-06-10 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-44&location=Vandenberg SFB, CA, USA&dates=20260610T140000Z%2F20260610T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-44** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260611T040000">2026-06-11 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | Curveball&location=Wallops Flight Facility, Virginia, USA&dates=20260611T040000Z%2F20260611T091500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | Curveball** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260612T122700">2026-06-12 12:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-54&location=Cape Canaveral SFS, FL, USA&dates=20260612T122700Z%2F20260612T162700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-54** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260614T021100">2026-06-14 02:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-54&location=Vandenberg SFB, CA, USA&dates=20260614T021100Z%2F20260614T061100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-54** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260614T140000">2026-06-14 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-54&location=Vandenberg SFB, CA, USA&dates=20260614T140000Z%2F20260614T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-54** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astroforge-completes-deepspace-2-spacecraft/" >🔗</a> **[SpaceNews]** AstroForge completes DeepSpace-2 spacecraft
+- <a href="https://www.nasa.gov/image-article/colorful-chaotic-jupiter/" >🔗</a> **[NASA]** Colorful, Chaotic Jupiter
+- <a href="https://spacenews.com/delian-asparouhov-and-philip-johnston-on-making-the-case-for-orbital-data-centers/" >🔗</a> **[SpaceNews]** Delian Asparouhov and Philip Johnston on making the case for orbital data centers
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Tessera_AI_model_offers_accessible_way_to_view_Earth" >🔗</a> **[ESA]** Tessera AI model offers accessible way to view Earth
 - <a href="https://www.nasaspaceflight.com/2026/06/the-exploration-company-nyx-parachute-recovery/" >🔗</a> **[NASASpaceflight]** The Exploration Company advances Nyx parachute recovery
 - <a href="https://europeanspaceflight.com/the-exploration-company-completes-nyx-drop-test/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Nyx Drop Test
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/china-builds-institutional-framework-for-space-computing-push/" >🔗</a> **[SpaceNews]** China builds institutional framework for space computing push
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2020/03/Dry_immersion_infographic" >🔗</a> **[ESA]** Dry immersion infographic
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/A_new_chapter_for_ESA_s_brand" >🔗</a> **[ESA]** A new chapter for ESA’s brand
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life" >🔗</a> **[ESA]** ExoMars rover targets vast bed of clay in search for life
-- <a href="https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/" >🔗</a> **[NASA]** A Moonlit Earth as Seen From Artemis II
-- <a href="https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/" >🔗</a> **[SpaceNews]** SpaceX to raise at least $75 billion in IPO
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T151026">2026-06-04 15:10:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T163010">2026-06-04 16:30:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
