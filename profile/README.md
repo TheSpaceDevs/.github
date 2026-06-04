@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/hasc-ndaa-markup-challenges-space-force-on-satellite-programs/" >🔗</a> **[SpaceNews]** HASC NDAA markup challenges Space Force on satellite programs
 - <a href="https://www.nasa.gov/directorates/armd/aavp/hicam/nasa-hosts-2026-review-on-advanced-composite-manufacturing/" >🔗</a> **[NASA]** NASA Hosts 2026 Review on Advanced Composite Manufacturing
 - <a href="https://spaceflightnow.com/2026/06/04/nasa-head-urges-new-launcher-for-blue-origins-moon-landers-to-meet-artemis-mission-deadlines/" >🔗</a> **[Spaceflight Now]** NASA head urges new launcher for Blue Origin’s moon landers to meet Artemis mission deadlines
 - <a href="https://science.nasa.gov/earth/nasa-funded-study-shows-wildfire-smokes-hidden-ozone-toll/" >🔗</a> **[NASA]** NASA-Funded Study Shows Wildfire Smoke’s Hidden Ozone Toll
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/delian-asparouhov-and-philip-johnston-on-making-the-case-for-orbital-data-centers/" >🔗</a> **[SpaceNews]** Delian Asparouhov and Philip Johnston on making the case for orbital data centers
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Tessera_AI_model_offers_accessible_way_to_view_Earth" >🔗</a> **[ESA]** Tessera AI model offers accessible way to view Earth
 - <a href="https://www.nasaspaceflight.com/2026/06/the-exploration-company-nyx-parachute-recovery/" >🔗</a> **[NASASpaceflight]** The Exploration Company advances Nyx parachute recovery
-- <a href="https://europeanspaceflight.com/the-exploration-company-completes-nyx-drop-test/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Nyx Drop Test
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T220428">2026-06-04 22:04:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T225346">2026-06-04 22:53:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
