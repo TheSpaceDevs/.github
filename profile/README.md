@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T080000">2026-06-04 08:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-43&location=Cape Canaveral SFS, FL, USA&dates=20260604T080000Z%2F20260604T120000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-43** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T113100">2026-06-04 11:31:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20260604T113100Z%2F20260604T115100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260605T062500">2026-06-05 06:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260605T062500Z%2F20260605T064800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260607T020000">2026-06-07 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-43&location=Vandenberg SFB, CA, USA&dates=20260607T020000Z%2F20260607T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-43** from Vandenberg SFB, CA, USA.
@@ -90,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/A_new_chapter_for_ESA_s_brand" >🔗</a> **[ESA]** A new chapter for ESA’s brand
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life" >🔗</a> **[ESA]** ExoMars rover targets vast bed of clay in search for life
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/" >🔗</a> **[NASA]** A Moonlit Earth as Seen From Artemis II
 - <a href="https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/" >🔗</a> **[SpaceNews]** SpaceX to raise at least $75 billion in IPO
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4908-4912-goodbye-campo-marte-its-been-fun/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun!
@@ -98,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ast-spacemobile-sees-new-glenn-setback-delaying-initial-commercial-service-into-2027/" >🔗</a> **[SpaceNews]** AST SpaceMobile sees New Glenn setback delaying initial commercial service into 2027
 - <a href="https://www.nasaspaceflight.com/2026/06/artemis-iii-srb-shipment/" >🔗</a> **[NASASpaceflight]** Artemis III’s remaining solid rocket booster segments shipped from Utah to Florida
 - <a href="https://spacenews.com/after-cooperation-on-smile-mission-esa-and-china-chart-parallel-but-separate-paths/" >🔗</a> **[SpaceNews]** After cooperation on SMILE mission, ESA and China chart parallel but separate paths
-- <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/" >🔗</a> **[NASA]** NASA Finds New Way Earth May Have Received Elements Needed for Life
-- <a href="https://science.nasa.gov/photojournal/international-sea-level-satellite-observes-el-nino-precursor/" >🔗</a> **[NASA]** International Sea Level Satellite Observes El Niño Precursor
 
 
 ### Launch-related News 🚀
@@ -110,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T065937">2026-06-04 06:59:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T083128">2026-06-04 08:31:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
