@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 10-43**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T080000">2026-06-04 08:00:00 UTC</a>.  Until
-then, this pad will have been used for 384
-out of 1111 launches from this location. The launch status is currently
+**Long March 6A | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="None">Launch Complex 9A</a>, Taiyuan Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T113100">2026-06-04 11:31:00 UTC</a>.  Until
+then, this pad will have been used for 24
+out of 155 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Unknown* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Details TBD, probably SpaceSail Polar Orbit LEO communication satellites.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_6" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=38.8583,111.5802" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T005359">2026-06-10 00:53:59 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-30 | H3-30 Test Flight&location=Tanegashima Space Center, Japan&dates=20260610T005359Z%2F20260610T025246Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-30 | H3-30 Test Flight** from Tanegashima Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T060000">2026-06-10 06:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 5 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260610T060000Z%2F20260610T100000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 5 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T140000">2026-06-10 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-44&location=Vandenberg SFB, CA, USA&dates=20260610T140000Z%2F20260610T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-44** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260612T122700">2026-06-12 12:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-54&location=Cape Canaveral SFS, FL, USA&dates=20260612T122700Z%2F20260612T162700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-54** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,27 +90,25 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/06/the-exploration-company-nyx-parachute-recovery/" >🔗</a> **[NASASpaceflight]** The Exploration Company advances Nyx parachute recovery
+- <a href="https://europeanspaceflight.com/the-exploration-company-completes-nyx-drop-test/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Nyx Drop Test
+- <a href="https://spacenews.com/nasa-working-to-streamline-development-of-nuclear-electric-propulsion-demo-mission/" >🔗</a> **[SpaceNews]** NASA working to streamline development of nuclear electric propulsion demo mission
 - <a href="https://spacenews.com/china-builds-institutional-framework-for-space-computing-push/" >🔗</a> **[SpaceNews]** China builds institutional framework for space computing push
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2020/03/Dry_immersion_infographic" >🔗</a> **[ESA]** Dry immersion infographic
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/A_new_chapter_for_ESA_s_brand" >🔗</a> **[ESA]** A new chapter for ESA’s brand
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life" >🔗</a> **[ESA]** ExoMars rover targets vast bed of clay in search for life
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/" >🔗</a> **[NASA]** A Moonlit Earth as Seen From Artemis II
 - <a href="https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/" >🔗</a> **[SpaceNews]** SpaceX to raise at least $75 billion in IPO
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4908-4912-goodbye-campo-marte-its-been-fun/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun!
-- <a href="https://spacenews.com/nasa-declares-end-to-maven-mars-mission/" >🔗</a> **[SpaceNews]** NASA declares end to MAVEN Mars mission
-- <a href="https://www.nasaspaceflight.com/2026/06/eastern-range-blast-danger-areas/" >🔗</a> **[NASASpaceflight]** Space Force evaluating anomaly-related damage, future danger areas
-- <a href="https://spacenews.com/ast-spacemobile-sees-new-glenn-setback-delaying-initial-commercial-service-into-2027/" >🔗</a> **[SpaceNews]** AST SpaceMobile sees New Glenn setback delaying initial commercial service into 2027
-- <a href="https://www.nasaspaceflight.com/2026/06/artemis-iii-srb-shipment/" >🔗</a> **[NASASpaceflight]** Artemis III’s remaining solid rocket booster segments shipped from Utah to Florida
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-15/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-060126/" >🔗</a> **[NASASpaceflight]** Launch Preview: SpaceX and Chinese rockets to launch internet satellites to LEO
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T101512">2026-06-04 10:15:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T112856">2026-06-04 11:28:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
