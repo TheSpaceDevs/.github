@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/the-exploration-company-is-developing-a-reusable-heavy-lift-rocket/" >🔗</a> **[European Spaceflight]** The Exploration Company is Developing a Reusable Heavy-Lift Rocket
 - <a href="https://spacenews.com/astroforge-completes-deepspace-2-spacecraft/" >🔗</a> **[SpaceNews]** AstroForge completes DeepSpace-2 spacecraft
 - <a href="https://www.nasa.gov/image-article/colorful-chaotic-jupiter/" >🔗</a> **[NASA]** Colorful, Chaotic Jupiter
 - <a href="https://spacenews.com/delian-asparouhov-and-philip-johnston-on-making-the-case-for-orbital-data-centers/" >🔗</a> **[SpaceNews]** Delian Asparouhov and Philip Johnston on making the case for orbital data centers
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/nasa-working-to-streamline-development-of-nuclear-electric-propulsion-demo-mission/" >🔗</a> **[SpaceNews]** NASA working to streamline development of nuclear electric propulsion demo mission
 - <a href="https://spacenews.com/china-builds-institutional-framework-for-space-computing-push/" >🔗</a> **[SpaceNews]** China builds institutional framework for space computing push
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2020/03/Dry_immersion_infographic" >🔗</a> **[ESA]** Dry immersion infographic
-- <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/A_new_chapter_for_ESA_s_brand" >🔗</a> **[ESA]** A new chapter for ESA’s brand
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T163010">2026-06-04 16:30:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T173243">2026-06-04 17:32:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
