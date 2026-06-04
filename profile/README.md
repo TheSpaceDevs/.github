@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/" >🔗</a> **[SpaceNews]** SpaceX to raise at least $75 billion in IPO
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4908-4912-goodbye-campo-marte-its-been-fun/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun!
 - <a href="https://spacenews.com/nasa-declares-end-to-maven-mars-mission/" >🔗</a> **[SpaceNews]** NASA declares end to MAVEN Mars mission
 - <a href="https://www.nasaspaceflight.com/2026/06/eastern-range-blast-danger-areas/" >🔗</a> **[NASASpaceflight]** Space Force evaluating anomaly-related damage, future danger areas
 - <a href="https://spacenews.com/ast-spacemobile-sees-new-glenn-setback-delaying-initial-commercial-service-into-2027/" >🔗</a> **[SpaceNews]** AST SpaceMobile sees New Glenn setback delaying initial commercial service into 2027
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/" >🔗</a> **[NASA]** NASA Finds New Way Earth May Have Received Elements Needed for Life
 - <a href="https://science.nasa.gov/photojournal/international-sea-level-satellite-observes-el-nino-precursor/" >🔗</a> **[NASA]** International Sea Level Satellite Observes El Niño Precursor
 - <a href="https://www.nasa.gov/image-article/journey-to-the-center-of-the-virgo-cluster/" >🔗</a> **[NASA]** Journey to the Center of the Virgo Cluster
-- <a href="https://spacenews.com/electronics-manufacturer-murata-to-explore-xona-satellite-timing-service-for-telecom-data-centers/" >🔗</a> **[SpaceNews]** Electronics manufacturer Murata to explore Xona satellite timing service for telecom, data centers
-- <a href="https://europeanspaceflight.com/venturi-space-to-build-e250m-lunar-and-martian-rover-factory-in-toulouse/" >🔗</a> **[European Spaceflight]** Venturi Space to Build €250M Lunar and Martian Rover Factory in Toulouse
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T013510">2026-06-04 01:35:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260604T030153">2026-06-04 03:01:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
