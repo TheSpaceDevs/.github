@@ -19,7 +19,7 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 8 | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+**Long March 8 | SpaceSail Polar Group #12**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Wenchang_Commercial_Space_Launch_Site">Commercial LC-1</a>, Wenchang Space Launch Site, People's Republic of China*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
@@ -27,12 +27,14 @@ at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260605T0
 then, this pad will have been used for 10
 out of 62 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Communications* and the payload will be injected
+into *a Polar Orbit
+(PO)*.
 <br>
 <blockquote>
-  Details TBD, probably SpaceSail Polar Orbit LEO communication satellites.
+  18 Low Earth Orbit communication satellites with Ku, Q and V band payloads for the G60 constellation operated by Shanghai Spacesail Technologies with funding backed by the Shanghai local government.
+
+Initial constellation will consist of 1296 satellites by 2027 with long term plans to expand it to 12000 satellites.
 </blockquote>
 
 <p float="left" align="center">
@@ -45,7 +47,7 @@ into *an Unknown
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260605T062500">2026-06-05 06:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260605T062500Z%2F20260605T064800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260605T062500">2026-06-05 06:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 | SpaceSail Polar Group #12&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260605T062500Z%2F20260605T064800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8 | SpaceSail Polar Group #12** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260607T020000">2026-06-07 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-43&location=Vandenberg SFB, CA, USA&dates=20260607T020000Z%2F20260607T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-43** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260608T100700">2026-06-08 10:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-35&location=Cape Canaveral SFS, FL, USA&dates=20260608T100700Z%2F20260608T140700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-35** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260609T081100">2026-06-09 08:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2E Block 2 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20260609T081100Z%2F20260609T085500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Zhuque-2E Block 2 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -90,6 +92,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/" >🔗</a> **[NASA]** Fighting Fire With Fire
 - <a href="https://spacenews.com/hasc-ndaa-markup-challenges-space-force-on-satellite-programs/" >🔗</a> **[SpaceNews]** HASC NDAA markup challenges Space Force on satellite programs
 - <a href="https://www.nasa.gov/directorates/armd/aavp/hicam/nasa-hosts-2026-review-on-advanced-composite-manufacturing/" >🔗</a> **[NASA]** NASA Hosts 2026 Review on Advanced Composite Manufacturing
 - <a href="https://spaceflightnow.com/2026/06/04/nasa-head-urges-new-launcher-for-blue-origins-moon-landers-to-meet-artemis-mission-deadlines/" >🔗</a> **[Spaceflight Now]** NASA head urges new launcher for Blue Origin’s moon landers to meet Artemis mission deadlines
@@ -99,7 +102,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/colorful-chaotic-jupiter/" >🔗</a> **[NASA]** Colorful, Chaotic Jupiter
 - <a href="https://spacenews.com/delian-asparouhov-and-philip-johnston-on-making-the-case-for-orbital-data-centers/" >🔗</a> **[SpaceNews]** Delian Asparouhov and Philip Johnston on making the case for orbital data centers
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Tessera_AI_model_offers_accessible_way_to_view_Earth" >🔗</a> **[ESA]** Tessera AI model offers accessible way to view Earth
-- <a href="https://www.nasaspaceflight.com/2026/06/the-exploration-company-nyx-parachute-recovery/" >🔗</a> **[NASASpaceflight]** The Exploration Company advances Nyx parachute recovery
 
 
 ### Launch-related News 🚀
@@ -109,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260605T034401">2026-06-05 03:44:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260605T052712">2026-06-05 05:27:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
