@@ -92,16 +92,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/" >🔗</a> **[SpaceNews]** Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise
+- <a href="https://spacenews.com/the-exploration-company-completes-drop-test-of-nyx-capsule/" >🔗</a> **[SpaceNews]** The Exploration Company completes drop test of Nyx capsule
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Webb_unveils_young_stars_across_every_stage_of_formation" >🔗</a> **[ESA]** Webb unveils young stars across every stage of formation
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Baku_Azerbaijan" >🔗</a> **[ESA]** Earth from Space: Baku, Azerbaijan
 - <a href="https://spacenews.com/axiom-space-adds-more-than-175-million-to-funding-round/" >🔗</a> **[SpaceNews]** Axiom Space adds more than $175 million to funding round
 - <a href="https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/" >🔗</a> **[NASA]** Fighting Fire With Fire
 - <a href="https://spacenews.com/hasc-ndaa-markup-challenges-space-force-on-satellite-programs/" >🔗</a> **[SpaceNews]** HASC NDAA markup challenges Space Force on satellite programs
 - <a href="https://www.nasa.gov/directorates/armd/aavp/hicam/nasa-hosts-2026-review-on-advanced-composite-manufacturing/" >🔗</a> **[NASA]** NASA Hosts 2026 Review on Advanced Composite Manufacturing
 - <a href="https://spaceflightnow.com/2026/06/04/nasa-head-urges-new-launcher-for-blue-origins-moon-landers-to-meet-artemis-mission-deadlines/" >🔗</a> **[Spaceflight Now]** NASA head urges new launcher for Blue Origin’s moon landers to meet Artemis mission deadlines
 - <a href="https://science.nasa.gov/earth/nasa-funded-study-shows-wildfire-smokes-hidden-ozone-toll/" >🔗</a> **[NASA]** NASA-Funded Study Shows Wildfire Smoke’s Hidden Ozone Toll
-- <a href="https://europeanspaceflight.com/the-exploration-company-is-developing-a-reusable-heavy-lift-rocket/" >🔗</a> **[European Spaceflight]** The Exploration Company is Developing a Reusable Heavy-Lift Rocket
-- <a href="https://spacenews.com/astroforge-completes-deepspace-2-spacecraft/" >🔗</a> **[SpaceNews]** AstroForge completes DeepSpace-2 spacecraft
-- <a href="https://www.nasa.gov/image-article/colorful-chaotic-jupiter/" >🔗</a> **[NASA]** Colorful, Chaotic Jupiter
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260605T081841">2026-06-05 08:18:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260605T094402">2026-06-05 09:44:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
