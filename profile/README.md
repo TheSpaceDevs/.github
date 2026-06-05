@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Webb_unveils_young_stars_across_every_stage_of_formation" >🔗</a> **[ESA]** Webb unveils young stars across every stage of formation
+- <a href="https://spacenews.com/axiom-space-adds-more-than-175-million-to-funding-round/" >🔗</a> **[SpaceNews]** Axiom Space adds more than $175 million to funding round
 - <a href="https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/" >🔗</a> **[NASA]** Fighting Fire With Fire
 - <a href="https://spacenews.com/hasc-ndaa-markup-challenges-space-force-on-satellite-programs/" >🔗</a> **[SpaceNews]** HASC NDAA markup challenges Space Force on satellite programs
 - <a href="https://www.nasa.gov/directorates/armd/aavp/hicam/nasa-hosts-2026-review-on-advanced-composite-manufacturing/" >🔗</a> **[NASA]** NASA Hosts 2026 Review on Advanced Composite Manufacturing
@@ -100,8 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/the-exploration-company-is-developing-a-reusable-heavy-lift-rocket/" >🔗</a> **[European Spaceflight]** The Exploration Company is Developing a Reusable Heavy-Lift Rocket
 - <a href="https://spacenews.com/astroforge-completes-deepspace-2-spacecraft/" >🔗</a> **[SpaceNews]** AstroForge completes DeepSpace-2 spacecraft
 - <a href="https://www.nasa.gov/image-article/colorful-chaotic-jupiter/" >🔗</a> **[NASA]** Colorful, Chaotic Jupiter
-- <a href="https://spacenews.com/delian-asparouhov-and-philip-johnston-on-making-the-case-for-orbital-data-centers/" >🔗</a> **[SpaceNews]** Delian Asparouhov and Philip Johnston on making the case for orbital data centers
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Tessera_AI_model_offers_accessible_way_to_view_Earth" >🔗</a> **[ESA]** Tessera AI model offers accessible way to view Earth
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260605T065229">2026-06-05 06:52:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260605T081841">2026-06-05 08:18:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
