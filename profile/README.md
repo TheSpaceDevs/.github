@@ -92,16 +92,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lets-build-the-moon-base-but-not-lose-sight-of-mars/" >🔗</a> **[SpaceNews]** Let’s build the moon base, but not lose sight of Mars
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Putting_the_pieces_together_for_Galileo_second_generation" >🔗</a> **[ESA]** Putting the pieces together for Galileo second generation
 - <a href="https://spacenews.com/qianfan-constellation-deployment-hits-200-satellites-with-long-march-8-and-6a-launches/" >🔗</a> **[SpaceNews]** Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches
 - <a href="https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/" >🔗</a> **[SpaceNews]** Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise
 - <a href="https://spacenews.com/the-exploration-company-completes-drop-test-of-nyx-capsule/" >🔗</a> **[SpaceNews]** The Exploration Company completes drop test of Nyx capsule
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Webb_unveils_young_stars_across_every_stage_of_formation" >🔗</a> **[ESA]** Webb unveils young stars across every stage of formation
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Baku_Azerbaijan" >🔗</a> **[ESA]** Earth from Space: Baku, Azerbaijan
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Webb_unveils_young_stars_across_every_stage_of_formation" >🔗</a> **[ESA]** Webb unveils young stars across every stage of formation
 - <a href="https://spacenews.com/axiom-space-adds-more-than-175-million-to-funding-round/" >🔗</a> **[SpaceNews]** Axiom Space adds more than $175 million to funding round
 - <a href="https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/" >🔗</a> **[NASA]** Fighting Fire With Fire
 - <a href="https://spacenews.com/hasc-ndaa-markup-challenges-space-force-on-satellite-programs/" >🔗</a> **[SpaceNews]** HASC NDAA markup challenges Space Force on satellite programs
-- <a href="https://www.nasa.gov/directorates/armd/aavp/hicam/nasa-hosts-2026-review-on-advanced-composite-manufacturing/" >🔗</a> **[NASA]** NASA Hosts 2026 Review on Advanced Composite Manufacturing
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260605T122353">2026-06-05 12:23:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260605T132957">2026-06-05 13:29:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
