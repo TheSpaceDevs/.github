@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/qianfan-constellation-deployment-hits-200-satellites-with-long-march-8-and-6a-launches/" >🔗</a> **[SpaceNews]** Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches
 - <a href="https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/" >🔗</a> **[SpaceNews]** Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise
 - <a href="https://spacenews.com/the-exploration-company-completes-drop-test-of-nyx-capsule/" >🔗</a> **[SpaceNews]** The Exploration Company completes drop test of Nyx capsule
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Webb_unveils_young_stars_across_every_stage_of_formation" >🔗</a> **[ESA]** Webb unveils young stars across every stage of formation
@@ -101,7 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/hasc-ndaa-markup-challenges-space-force-on-satellite-programs/" >🔗</a> **[SpaceNews]** HASC NDAA markup challenges Space Force on satellite programs
 - <a href="https://www.nasa.gov/directorates/armd/aavp/hicam/nasa-hosts-2026-review-on-advanced-composite-manufacturing/" >🔗</a> **[NASA]** NASA Hosts 2026 Review on Advanced Composite Manufacturing
 - <a href="https://spaceflightnow.com/2026/06/04/nasa-head-urges-new-launcher-for-blue-origins-moon-landers-to-meet-artemis-mission-deadlines/" >🔗</a> **[Spaceflight Now]** NASA head urges new launcher for Blue Origin’s moon landers to meet Artemis mission deadlines
-- <a href="https://science.nasa.gov/earth/nasa-funded-study-shows-wildfire-smokes-hidden-ozone-toll/" >🔗</a> **[NASA]** NASA-Funded Study Shows Wildfire Smoke’s Hidden Ozone Toll
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260605T094402">2026-06-05 09:44:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260605T110157">2026-06-05 11:01:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
