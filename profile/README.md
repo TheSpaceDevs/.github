@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/06/maven-end-of-mission/" >🔗</a> **[NASASpaceflight]** NASA concludes MAVEN mission at Mars, uses data to discover new atmospheric phenomenon
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-7-13-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 7-13, 2026
 - <a href="https://spaceflightnow.com/2026/06/07/live-coverage-spacex-to-launch-falcon-9-rocket-booster-on-record-breaking-35th-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket booster on record-breaking 35th flight
 - <a href="https://spacenews.com/nasa-to-select-new-headquarters-building-by-end-of-year/" >🔗</a> **[SpaceNews]** NASA to select new headquarters building by end of year
 - <a href="https://spacenews.com/rounding-up-the-space-unicorns/" >🔗</a> **[SpaceNews]** Rounding up the space unicorns
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/06/06/spacex-to-launch-2-starshield-satellites-during-saturday-night-starlink-mission/" >🔗</a> **[Spaceflight Now]** SpaceX launches 2 Starshield satellites during Saturday night Starlink mission
 - <a href="https://www.nasaspaceflight.com/2026/06/blue-moon-mto-update/" >🔗</a> **[NASASpaceflight]** After New Glenn anomaly, Blue Origin keeps focus on upcoming Blue Moon and Mars missions
 - <a href="https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/" >🔗</a> **[NASA]** NASA’s X-59 Aircraft Flies Supersonic for First Time
-- <a href="https://spacepolicyonline.com/news/five-iss-crew-members-temporarily-take-shelter-due-to-russian-segment-air-leak/" >🔗</a> **[SpacePolicyOnline.com]** Five ISS Crew Members Temporarily Take Shelter Due to Russian Segment Air Leak
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/" >🔗</a> **[NASA]** NASA Announces Winners of 2026 University Innovation Competition
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260607T195752">2026-06-07 19:57:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260607T203142">2026-06-07 20:31:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
