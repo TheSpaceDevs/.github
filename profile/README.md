@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/next-ariane-6-launch-to-carry-36-amazon-leo-satellites-using-upgraded-boosters/" >🔗</a> **[SpaceNews]** Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_Jun_2026" >🔗</a> **[ESA]** Week in images: 01-05 Jun 2026
-- <a href="https://spacenews.com/lets-build-the-moon-base-but-not-lose-sight-of-mars/" >🔗</a> **[SpaceNews]** Let’s build the moon base, but not lose sight of Mars
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Putting_the_pieces_together_for_Galileo_second_generation" >🔗</a> **[ESA]** Putting the pieces together for Galileo second generation
-- <a href="https://spacenews.com/qianfan-constellation-deployment-hits-200-satellites-with-long-march-8-and-6a-launches/" >🔗</a> **[SpaceNews]** Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches
-- <a href="https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/" >🔗</a> **[SpaceNews]** Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise
-- <a href="https://spacenews.com/the-exploration-company-completes-drop-test-of-nyx-capsule/" >🔗</a> **[SpaceNews]** The Exploration Company completes drop test of Nyx capsule
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Webb_unveils_young_stars_across_every_stage_of_formation" >🔗</a> **[ESA]** Webb unveils young stars across every stage of formation
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Baku_Azerbaijan" >🔗</a> **[ESA]** Earth from Space: Baku, Azerbaijan
-- <a href="https://spacenews.com/axiom-space-adds-more-than-175-million-to-funding-round/" >🔗</a> **[SpaceNews]** Axiom Space adds more than $175 million to funding round
+- <a href="https://spacenews.com/nasa-to-select-new-headquarters-building-by-end-of-year/" >🔗</a> **[SpaceNews]** NASA to select new headquarters building by end of year
+- <a href="https://spacenews.com/rounding-up-the-space-unicorns/" >🔗</a> **[SpaceNews]** Rounding up the space unicorns
+- <a href="https://spacenews.com/nasa-interested-in-hubble-reboost-if-costs-can-be-reduced/" >🔗</a> **[SpaceNews]** NASA interested in Hubble reboost if costs can be reduced
+- <a href="https://spacenews.com/nasa-concerns-about-russian-repairs-prompted-iss-safe-haven-decision/" >🔗</a> **[SpaceNews]** NASA concerns about Russian repairs prompted ISS safe haven decision
+- <a href="https://spaceflightnow.com/2026/06/06/spacex-to-launch-2-starshield-satellites-during-saturday-night-starlink-mission/" >🔗</a> **[Spaceflight Now]** SpaceX launches 2 Starshield satellites during Saturday night Starlink mission
+- <a href="https://www.nasaspaceflight.com/2026/06/blue-moon-mto-update/" >🔗</a> **[NASASpaceflight]** After New Glenn anomaly, Blue Origin keeps focus on upcoming Blue Moon and Mars missions
+- <a href="https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/" >🔗</a> **[NASA]** NASA’s X-59 Aircraft Flies Supersonic for First Time
+- <a href="https://spacepolicyonline.com/news/five-iss-crew-members-temporarily-take-shelter-due-to-russian-segment-air-leak/" >🔗</a> **[SpacePolicyOnline.com]** Five ISS Crew Members Temporarily Take Shelter Due to Russian Segment Air Leak
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/" >🔗</a> **[NASA]** NASA Announces Winners of 2026 University Innovation Competition
+- <a href="https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/" >🔗</a> **[NASA]** NASA’s Artemis II Moon Mission Research Continues on Earth
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260607T130128">2026-06-07 13:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260607T141214">2026-06-07 14:12:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
