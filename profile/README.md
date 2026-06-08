@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_Berlin_International_Airshow_2026" >🔗</a> **[ESA]** ESA at ILA Berlin International Airshow 2026
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/ESA_and_EBRD_to_advance_Earth_observation_for_development_and_impact_finance" >🔗</a> **[ESA]** ESA and EBRD to advance Earth observation for development and impact finance
 - <a href="https://spacenews.com/uk-startup-neworbit-raises-18-5-million-in-series-a-round/" >🔗</a> **[SpaceNews]** UK startup NewOrbit raises $18.5 million in Series A round
 - <a href="https://spacenews.com/oq-technology-plans-direct-to-smartphone-demo-with-cellular-spectrum/" >🔗</a> **[SpaceNews]** OQ Technology plans direct-to-smartphone demo with cellular spectrum
 - <a href="https://europeanspaceflight.com/french-space-electronics-firm-erems-completes-e10-million-expansion/" >🔗</a> **[European Spaceflight]** French Space Electronics Firm EREMS Completes €10 Million Expansion
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/06/07/live-coverage-spacex-to-launch-falcon-9-rocket-booster-on-record-breaking-35th-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket booster on record-breaking 35th flight
 - <a href="https://spacenews.com/nasa-to-select-new-headquarters-building-by-end-of-year/" >🔗</a> **[SpaceNews]** NASA to select new headquarters building by end of year
 - <a href="https://spacenews.com/rounding-up-the-space-unicorns/" >🔗</a> **[SpaceNews]** Rounding up the space unicorns
-- <a href="https://spacenews.com/nasa-interested-in-hubble-reboost-if-costs-can-be-reduced/" >🔗</a> **[SpaceNews]** NASA interested in Hubble reboost if costs can be reduced
-- <a href="https://spacenews.com/nasa-concerns-about-russian-repairs-prompted-iss-safe-haven-decision/" >🔗</a> **[SpaceNews]** NASA concerns about Russian repairs prompted ISS safe haven decision
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260608T070443">2026-06-08 07:04:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260608T090417">2026-06-08 09:04:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
