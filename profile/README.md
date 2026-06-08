@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-060826/" >🔗</a> **[NASASpaceflight]** Launch Preview: Chinese, Rocket Lab, and Starlink flights scheduled
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/" >🔗</a> **[NASA]** How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup
 - <a href="https://spacenews.com/fcc-lets-amazon-leo-miss-deployment-deadline-with-temporary-spectrum-penalty/" >🔗</a> **[SpaceNews]** FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty
 - <a href="https://arstechnica.com/space/2026/06/a-falcon-9-booster-turns-five-years-old-and-just-set-a-remarkable-reuse-record/" >🔗</a> **[Arstechnica]** A Falcon 9 booster turns five years old—and just set a remarkable reuse record
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/quantum-space-to-go-public-in-spac-deal/" >🔗</a> **[SpaceNews]** Quantum Space to go public in SPAC deal
 - <a href="https://spacenews.com/wrc-27-the-next-arena-for-u-s-china-space-competition/" >🔗</a> **[SpaceNews]** WRC-27: the next arena for U.S.-China space competition
 - <a href="https://spacenews.com/axiom-and-prada-advance-design-of-spacesuit/" >🔗</a> **[SpaceNews]** Axiom and Prada advance design of spacesuit
-- <a href="https://spacenews.com/speed-as-a-strategic-advantage-in-border-monitoring/" >🔗</a> **[SpaceNews]** Speed as a Strategic Advantage in Border Monitoring
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260608T220251">2026-06-08 22:02:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260608T225735">2026-06-08 22:57:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
