@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/quantum-space-to-go-public-in-spac-deal/" >🔗</a> **[SpaceNews]** Quantum Space to go public in SPAC deal
+- <a href="https://spacenews.com/wrc-27-the-next-arena-for-u-s-china-space-competition/" >🔗</a> **[SpaceNews]** WRC-27: the next arena for U.S.-China space competition
 - <a href="https://spacenews.com/axiom-and-prada-advance-design-of-spacesuit/" >🔗</a> **[SpaceNews]** Axiom and Prada advance design of spacesuit
 - <a href="https://spacenews.com/speed-as-a-strategic-advantage-in-border-monitoring/" >🔗</a> **[SpaceNews]** Speed as a Strategic Advantage in Border Monitoring
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_Berlin_International_Airshow_2026" >🔗</a> **[ESA]** ESA at ILA Berlin International Airshow 2026
@@ -97,9 +99,7 @@ into *an Unknown
 - <a href="https://spacenews.com/uk-startup-neworbit-raises-18-5-million-in-series-a-round/" >🔗</a> **[SpaceNews]** UK startup NewOrbit raises $18.5 million in Series A round
 - <a href="https://spacenews.com/oq-technology-plans-direct-to-smartphone-demo-with-cellular-spectrum/" >🔗</a> **[SpaceNews]** OQ Technology plans direct-to-smartphone demo with cellular spectrum
 - <a href="https://europeanspaceflight.com/french-space-electronics-firm-erems-completes-e10-million-expansion/" >🔗</a> **[European Spaceflight]** French Space Electronics Firm EREMS Completes €10 Million Expansion
-- <a href="https://www.nasaspaceflight.com/2026/06/maven-end-of-mission/" >🔗</a> **[NASASpaceflight]** NASA concludes MAVEN mission at Mars, uses data to discover new atmospheric phenomenon
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-7-13-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 7-13, 2026
-- <a href="https://spaceflightnow.com/2026/06/07/live-coverage-spacex-to-launch-falcon-9-rocket-booster-on-record-breaking-35th-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket booster on record-breaking 35th flight
+- <a href="https://science.nasa.gov/earth/earth-observatory/digging-back-in-time-in-the-uae/" >🔗</a> **[NASA]** Digging Back in Time in the UAE
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260608T124953">2026-06-08 12:49:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260608T142217">2026-06-08 14:22:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
