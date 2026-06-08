@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/uk-startup-neworbit-raises-18-5-million-in-series-a-round/" >🔗</a> **[SpaceNews]** UK startup NewOrbit raises $18.5 million in Series A round
+- <a href="https://spacenews.com/oq-technology-plans-direct-to-smartphone-demo-with-cellular-spectrum/" >🔗</a> **[SpaceNews]** OQ Technology plans direct-to-smartphone demo with cellular spectrum
+- <a href="https://europeanspaceflight.com/french-space-electronics-firm-erems-completes-e10-million-expansion/" >🔗</a> **[European Spaceflight]** French Space Electronics Firm EREMS Completes €10 Million Expansion
 - <a href="https://www.nasaspaceflight.com/2026/06/maven-end-of-mission/" >🔗</a> **[NASASpaceflight]** NASA concludes MAVEN mission at Mars, uses data to discover new atmospheric phenomenon
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-7-13-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 7-13, 2026
 - <a href="https://spaceflightnow.com/2026/06/07/live-coverage-spacex-to-launch-falcon-9-rocket-booster-on-record-breaking-35th-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket booster on record-breaking 35th flight
@@ -97,19 +100,17 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rounding-up-the-space-unicorns/" >🔗</a> **[SpaceNews]** Rounding up the space unicorns
 - <a href="https://spacenews.com/nasa-interested-in-hubble-reboost-if-costs-can-be-reduced/" >🔗</a> **[SpaceNews]** NASA interested in Hubble reboost if costs can be reduced
 - <a href="https://spacenews.com/nasa-concerns-about-russian-repairs-prompted-iss-safe-haven-decision/" >🔗</a> **[SpaceNews]** NASA concerns about Russian repairs prompted ISS safe haven decision
-- <a href="https://spaceflightnow.com/2026/06/06/spacex-to-launch-2-starshield-satellites-during-saturday-night-starlink-mission/" >🔗</a> **[Spaceflight Now]** SpaceX launches 2 Starshield satellites during Saturday night Starlink mission
-- <a href="https://www.nasaspaceflight.com/2026/06/blue-moon-mto-update/" >🔗</a> **[NASASpaceflight]** After New Glenn anomaly, Blue Origin keeps focus on upcoming Blue Moon and Mars missions
-- <a href="https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/" >🔗</a> **[NASA]** NASA’s X-59 Aircraft Flies Supersonic for First Time
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2026/06/07/live-coverage-spacex-to-launch-falcon-9-rocket-booster-on-record-breaking-35th-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket booster on record-breaking 35th flight
 - <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-060126/" >🔗</a> **[NASASpaceflight]** Launch Preview: SpaceX and Chinese rockets to launch internet satellites to LEO
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260608T050341">2026-06-08 05:03:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260608T070443">2026-06-08 07:04:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
