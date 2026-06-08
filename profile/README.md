@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/axiom-and-prada-advance-design-of-spacesuit/" >🔗</a> **[SpaceNews]** Axiom and Prada advance design of spacesuit
 - <a href="https://spacenews.com/speed-as-a-strategic-advantage-in-border-monitoring/" >🔗</a> **[SpaceNews]** Speed as a Strategic Advantage in Border Monitoring
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_Berlin_International_Airshow_2026" >🔗</a> **[ESA]** ESA at ILA Berlin International Airshow 2026
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/ESA_and_EBRD_to_advance_Earth_observation_for_development_and_impact_finance" >🔗</a> **[ESA]** ESA and EBRD to advance Earth observation for development and impact finance
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/06/maven-end-of-mission/" >🔗</a> **[NASASpaceflight]** NASA concludes MAVEN mission at Mars, uses data to discover new atmospheric phenomenon
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-7-13-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 7-13, 2026
 - <a href="https://spaceflightnow.com/2026/06/07/live-coverage-spacex-to-launch-falcon-9-rocket-booster-on-record-breaking-35th-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket booster on record-breaking 35th flight
-- <a href="https://spacenews.com/nasa-to-select-new-headquarters-building-by-end-of-year/" >🔗</a> **[SpaceNews]** NASA to select new headquarters building by end of year
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260608T111221">2026-06-08 11:12:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260608T124953">2026-06-08 12:49:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
