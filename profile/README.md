@@ -90,7 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/06/a-falcon-9-booster-turns-five-years-old-and-just-set-a-remarkable-reuse-record/" >🔗</a> **[Arstechnica]** A Falcon 9 booster turns five years old—and just set a remarkable reuse record
 - <a href="https://www.nasa.gov/image-article/supersonic/" >🔗</a> **[NASA]** Supersonic!
+- <a href="https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/" >🔗</a> **[NASA]** NASA’s INCUS Satellites Progress Toward Launch
 - <a href="https://spacenews.com/russia-is-jamming-gps-from-space/" >🔗</a> **[SpaceNews]** Russia is jamming GPS from space
 - <a href="https://spacenews.com/quantum-space-to-go-public-in-spac-deal/" >🔗</a> **[SpaceNews]** Quantum Space to go public in SPAC deal
 - <a href="https://spacenews.com/wrc-27-the-next-arena-for-u-s-china-space-competition/" >🔗</a> **[SpaceNews]** WRC-27: the next arena for U.S.-China space competition
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/speed-as-a-strategic-advantage-in-border-monitoring/" >🔗</a> **[SpaceNews]** Speed as a Strategic Advantage in Border Monitoring
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_Berlin_International_Airshow_2026" >🔗</a> **[ESA]** ESA at ILA Berlin International Airshow 2026
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/ESA_and_EBRD_to_advance_Earth_observation_for_development_and_impact_finance" >🔗</a> **[ESA]** ESA and EBRD to advance Earth observation for development and impact finance
-- <a href="https://spacenews.com/uk-startup-neworbit-raises-18-5-million-in-series-a-round/" >🔗</a> **[SpaceNews]** UK startup NewOrbit raises $18.5 million in Series A round
-- <a href="https://spacenews.com/oq-technology-plans-direct-to-smartphone-demo-with-cellular-spectrum/" >🔗</a> **[SpaceNews]** OQ Technology plans direct-to-smartphone demo with cellular spectrum
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260608T154420">2026-06-08 15:44:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260608T170142">2026-06-08 17:01:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
