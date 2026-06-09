@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_astronaut_Luca_Parmitano_joins_NASA_s_Artemis_III_mission_as_pilot" >🔗</a> **[ESA]** ESA astronaut Luca Parmitano joins NASA’s Artemis III mission as pilot
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Luca_Parmitano_on_Artemis_III_selection" >🔗</a> **[ESA]** Luca Parmitano on Artemis III selection
+- <a href="https://www.nasa.gov/news-release/la-nasa-avanza-hacia-la-mision-artemis-iii-en-2027-y-anuncia-a-su-tripulacion/" >🔗</a> **[NASA]** La NASA avanza hacia la misión Artemis III en 2027 y anuncia a su tripulación
+- <a href="https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/" >🔗</a> **[NASA]** NASA Marches Toward Artemis III Mission in 2027, Names Crew Members
+- <a href="https://science.nasa.gov/earth/earth-observatory/june-2026-satellite-puzzler/" >🔗</a> **[NASA]** June 2026 Satellite Puzzler
 - <a href="https://europeanspaceflight.com/isar-aerospace-announces-new-launch-date-alongside-series-d-funding/" >🔗</a> **[European Spaceflight]** Isar Aerospace Announces New Launch Date Alongside Series D Funding
 - <a href="https://spacenews.com/warren-ai-risk-analysis-engine-is-now-live-building-the-risk-intelligence-infrastructure-layer-for-the-space-economy/" >🔗</a> **[SpaceNews]** Warren AI™ Risk analysis engine Is now Live: Building The Risk Intelligence Infrastructure Layer for The Space Economy
 - <a href="https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/" >🔗</a> **[NASA]** NASA Knows: What Is Mass Distribution?
 - <a href="https://www.nasaspaceflight.com/2026/06/booster-20-cryogenic-testing-ahead-flight-13/" >🔗</a> **[NASASpaceflight]** Booster 20 into Cryogenic Testing ahead of Starship Flight 13
 - <a href="https://spacenews.com/blacksky-to-accelerate-broad-area-collection-work-under-nro-contract-modification/" >🔗</a> **[SpaceNews]** BlackSky to accelerate broad-area collection work under NRO contract modification
-- <a href="https://spacenews.com/new-glenn-forced-an-explosive-rewrite-for-nasas-plans-to-build-a-moon-base/" >🔗</a> **[SpaceNews]** New Glenn forced an explosive rewrite for NASA’s plans to build a moon base
-- <a href="https://spacenews.com/iceye-raises-1-billion-euros-to-expand-sar-satellite-systems/" >🔗</a> **[SpaceNews]** Iceye raises 1 billion euros to expand SAR satellite systems
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/We_re_back_Proba-3_ready_for_more_science" >🔗</a> **[ESA]** We’re back: Proba-3 ready for more science
-- <a href="https://spacenews.com/isar-aerospace-raises-270-million-euros-for-global-launch-expansion/" >🔗</a> **[SpaceNews]** Isar Aerospace raises 270 million euros for global launch expansion
-- <a href="https://spaceflightnow.com/2026/06/09/live-coverage-nasa-to-unveil-artemis-3-crew-provide-updates-on-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA to unveil Artemis 3 crew, provide updates on mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260609T153059">2026-06-09 15:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260609T165028">2026-06-09 16:50:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
