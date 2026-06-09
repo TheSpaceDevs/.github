@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-names-crew-for-artemis-3-mission-to-test-lunar-landers/" >🔗</a> **[SpaceNews]** NASA names crew for Artemis 3 mission to test lunar landers
+- <a href="https://www.nasa.gov/image-article/artemis-iii-crew-announced/" >🔗</a> **[NASA]** Artemis III Crew Announced
 - <a href="https://arstechnica.com/space/2026/06/nasa-assigns-crew-for-artemis-iii-sets-aggressive-timeline-for-flying-it/" >🔗</a> **[Arstechnica]** NASA assigns crew for Artemis III, sets aggressive timeline for flying it
 - <a href="https://spaceflightnow.com/2026/06/09/73614/" >🔗</a> **[Spaceflight Now]** NASA names four-man crew to Artemis 3 mission
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Replay_Artemis_III_announcement" >🔗</a> **[ESA]** Replay: Artemis III announcement
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_astronaut_Luca_Parmitano_joins_NASA_s_Artemis_III_mission_as_pilot" >🔗</a> **[ESA]** ESA astronaut Luca Parmitano joins NASA’s Artemis III mission as pilot
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Luca_Parmitano_on_Artemis_III_selection" >🔗</a> **[ESA]** Luca Parmitano on Artemis III selection
 - <a href="https://www.nasa.gov/news-release/la-nasa-avanza-hacia-la-mision-artemis-iii-en-2027-y-anuncia-a-su-tripulacion/" >🔗</a> **[NASA]** La NASA avanza hacia la misión Artemis III en 2027 y anuncia a su tripulación
-- <a href="https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/" >🔗</a> **[NASA]** NASA Marches Toward Artemis III Mission in 2027, Names Crew Members
-- <a href="https://science.nasa.gov/earth/earth-observatory/june-2026-satellite-puzzler/" >🔗</a> **[NASA]** June 2026 Satellite Puzzler
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260609T193818">2026-06-09 19:38:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260609T203637">2026-06-09 20:36:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
