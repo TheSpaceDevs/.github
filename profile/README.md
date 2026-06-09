@@ -90,25 +90,26 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/isar-aerospace-raises-270-million-euros-for-global-launch-expansion/" >🔗</a> **[SpaceNews]** Isar Aerospace raises 270 million euros for global launch expansion
+- <a href="https://spaceflightnow.com/2026/06/09/live-coverage-nasa-to-unveil-artemis-3-crew-provide-updates-on-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA to unveil Artemis 3 crew, provide updates on mission
+- <a href="https://spacenews.com/commercial-launch-providers-shortlisted-for-chinas-low-cost-cargo-spacecraft/" >🔗</a> **[SpaceNews]** Commercial launch providers shortlisted for China’s low-cost cargo spacecraft
+- <a href="https://spacenews.com/lets-procure-in-orbit-services-like-earth-observation-data-and-services/" >🔗</a> **[SpaceNews]** Let’s procure in-orbit services like Earth observation data and services
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Cleaner_air_and_prosperity_can_go_hand_in_hand" >🔗</a> **[ESA]** Cleaner air and prosperity can go hand in hand
 - <a href="https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/" >🔗</a> **[NASA]** San Francisco’s Metropolitan Mosaic
 - <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-060826/" >🔗</a> **[NASASpaceflight]** Launch Preview: Chinese, Rocket Lab, and Starlink flights scheduled
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/" >🔗</a> **[NASA]** How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup
 - <a href="https://spacenews.com/fcc-lets-amazon-leo-miss-deployment-deadline-with-temporary-spectrum-penalty/" >🔗</a> **[SpaceNews]** FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty
 - <a href="https://arstechnica.com/space/2026/06/a-falcon-9-booster-turns-five-years-old-and-just-set-a-remarkable-reuse-record/" >🔗</a> **[Arstechnica]** A Falcon 9 booster turns five years old—and just set a remarkable reuse record
-- <a href="https://www.nasa.gov/image-article/supersonic/" >🔗</a> **[NASA]** Supersonic!
-- <a href="https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/" >🔗</a> **[NASA]** NASA’s INCUS Satellites Progress Toward Launch
-- <a href="https://spacenews.com/russia-is-jamming-gps-from-space/" >🔗</a> **[SpaceNews]** Russia is jamming GPS from space
-- <a href="https://spacenews.com/quantum-space-to-go-public-in-spac-deal/" >🔗</a> **[SpaceNews]** Quantum Space to go public in SPAC deal
-- <a href="https://spacenews.com/wrc-27-the-next-arena-for-u-s-china-space-competition/" >🔗</a> **[SpaceNews]** WRC-27: the next arena for U.S.-China space competition
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-060826/" >🔗</a> **[NASASpaceflight]** Launch Preview: Chinese, Rocket Lab, and Starlink flights scheduled
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260609T094337">2026-06-09 09:43:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260609T105935">2026-06-09 10:59:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
