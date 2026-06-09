@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/armd/aetc/fdrf-characteristics/" >🔗</a> **[NASA]** Flight Dynamics Research Facility Characteristics
 - <a href="https://spacenews.com/nasa-names-crew-for-artemis-3-mission-to-test-lunar-landers/" >🔗</a> **[SpaceNews]** NASA names crew for Artemis 3 mission to test lunar landers
 - <a href="https://www.nasa.gov/image-article/artemis-iii-crew-announced/" >🔗</a> **[NASA]** Artemis III Crew Announced
 - <a href="https://arstechnica.com/space/2026/06/nasa-assigns-crew-for-artemis-iii-sets-aggressive-timeline-for-flying-it/" >🔗</a> **[Arstechnica]** NASA assigns crew for Artemis III, sets aggressive timeline for flying it
@@ -97,9 +98,8 @@ into *a Suborbital
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Replay_Artemis_III_announcement" >🔗</a> **[ESA]** Replay: Artemis III announcement
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Artemis_III_NASA_announcement_highlights_Luca_Parmitano_assigned_as_pilot" >🔗</a> **[ESA]** Artemis III NASA announcement highlights : Luca Parmitano assigned as pilot
 - <a href="https://www.nasaspaceflight.com/2026/06/artemis-iii-veteran-astronauts-test-lunar-landers-leo/" >🔗</a> **[NASASpaceflight]** Artemis III Crew Named: Veteran Astronauts to test Lunar Landers in LEO
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_astronaut_Luca_Parmitano_joins_NASA_s_Artemis_III_mission_as_pilot" >🔗</a> **[ESA]** ESA astronaut Luca Parmitano joins NASA’s Artemis III mission as pilot
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Luca_Parmitano_on_Artemis_III_selection" >🔗</a> **[ESA]** Luca Parmitano on Artemis III selection
-- <a href="https://www.nasa.gov/news-release/la-nasa-avanza-hacia-la-mision-artemis-iii-en-2027-y-anuncia-a-su-tripulacion/" >🔗</a> **[NASA]** La NASA avanza hacia la misión Artemis III en 2027 y anuncia a su tripulación
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_astronaut_Luca_Parmitano_joins_NASA_s_Artemis_III_mission_as_pilot" >🔗</a> **[ESA]** ESA astronaut Luca Parmitano joins NASA’s Artemis III mission as pilot
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260609T203637">2026-06-09 20:36:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260609T213055">2026-06-09 21:30:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
