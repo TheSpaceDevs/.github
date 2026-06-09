@@ -90,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/06/09/73614/" >🔗</a> **[Spaceflight Now]** NASA names four-man crew to Artemis 3 mission
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Artemis_III_NASA_announcement_highlights_Luca_Parmitano_assigned_as_pilot" >🔗</a> **[ESA]** Artemis III NASA announcement highlights : Luca Parmitano assigned as pilot
 - <a href="https://www.nasaspaceflight.com/2026/06/artemis-iii-veteran-astronauts-test-lunar-landers-leo/" >🔗</a> **[NASASpaceflight]** Artemis III Crew Named: Veteran Astronauts to test Lunar Landers in LEO
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_astronaut_Luca_Parmitano_joins_NASA_s_Artemis_III_mission_as_pilot" >🔗</a> **[ESA]** ESA astronaut Luca Parmitano joins NASA’s Artemis III mission as pilot
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Luca_Parmitano_on_Artemis_III_selection" >🔗</a> **[ESA]** Luca Parmitano on Artemis III selection
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_astronaut_Luca_Parmitano_joins_NASA_s_Artemis_III_mission_as_pilot" >🔗</a> **[ESA]** ESA astronaut Luca Parmitano joins NASA’s Artemis III mission as pilot
 - <a href="https://www.nasa.gov/news-release/la-nasa-avanza-hacia-la-mision-artemis-iii-en-2027-y-anuncia-a-su-tripulacion/" >🔗</a> **[NASA]** La NASA avanza hacia la misión Artemis III en 2027 y anuncia a su tripulación
 - <a href="https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/" >🔗</a> **[NASA]** NASA Marches Toward Artemis III Mission in 2027, Names Crew Members
 - <a href="https://science.nasa.gov/earth/earth-observatory/june-2026-satellite-puzzler/" >🔗</a> **[NASA]** June 2026 Satellite Puzzler
 - <a href="https://europeanspaceflight.com/isar-aerospace-announces-new-launch-date-alongside-series-d-funding/" >🔗</a> **[European Spaceflight]** Isar Aerospace Announces New Launch Date Alongside Series D Funding
 - <a href="https://spacenews.com/warren-ai-risk-analysis-engine-is-now-live-building-the-risk-intelligence-infrastructure-layer-for-the-space-economy/" >🔗</a> **[SpaceNews]** Warren AI™ Risk analysis engine Is now Live: Building The Risk Intelligence Infrastructure Layer for The Space Economy
-- <a href="https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/" >🔗</a> **[NASA]** NASA Knows: What Is Mass Distribution?
-- <a href="https://www.nasaspaceflight.com/2026/06/booster-20-cryogenic-testing-ahead-flight-13/" >🔗</a> **[NASASpaceflight]** Booster 20 into Cryogenic Testing ahead of Starship Flight 13
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260609T173714">2026-06-09 17:37:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260609T183840">2026-06-09 18:38:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
