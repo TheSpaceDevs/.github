@@ -90,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/uk-startup-applied-atomics-to-enter-us-market-with-focus-on-military-space-mobility/" >🔗</a> **[SpaceNews]** UK startup Applied Atomics to enter US market with focus on military space mobility
+- <a href="https://spacenews.com/orbital-raises-5-million-to-join-orbital-data-center-race/" >🔗</a> **[SpaceNews]** Orbital raises $5 million to join orbital data center race
+- <a href="https://science.nasa.gov/learning-resources/science-activation/globe-mission-earth-educators-participate-in-land-cover-community-of-practice/" >🔗</a> **[NASA]** GLOBE Mission Earth Educators Participate in Land Cover Community of Practice
+- <a href="https://spacenews.com/leolabs-deploys-mobile-space-tracking-radar-in-indo-pacific/" >🔗</a> **[SpaceNews]** LeoLabs deploys mobile space-tracking radar in Indo-Pacific
 - <a href="https://spacenews.com/arkadia-space-to-supply-thrusters-for-reflex-aerospace-satellite/" >🔗</a> **[SpaceNews]** Arkadia Space to supply thrusters for Reflex Aerospace satellite
 - <a href="https://spacenews.com/spaceport-crunch-reviving-interest-in-sea-based-launch/" >🔗</a> **[SpaceNews]** Spaceport crunch reviving interest in sea-based launch
 - <a href="https://europeanspaceflight.com/iceyes-bet-pays-off-with-e10-billion-valuation/" >🔗</a> **[European Spaceflight]** ICEYE’s Bet Pays Off with €10 Billion Valuation
 - <a href="https://spacenews.com/after-the-launch-why-europes-space-ambitions-depend-on-what-comes-next/" >🔗</a> **[SpaceNews]** After the launch: Why Europe’s space ambitions depend on what comes next
 - <a href="https://science.nasa.gov/earth/earth-observatory/tyndalls-trail-of-bergs/" >🔗</a> **[NASA]** Tyndall’s Trail of Bergs
 - <a href="https://spacepolicyonline.com/news/three-americans-and-a-european-named-crew-of-artemis-iii/" >🔗</a> **[SpacePolicyOnline.com]** Three Americans and a European Named Crew of Artemis III
-- <a href="https://www.nasa.gov/directorates/armd/aetc/fdrf-characteristics/" >🔗</a> **[NASA]** Flight Dynamics Research Facility Characteristics
-- <a href="https://spacenews.com/nasa-names-crew-for-artemis-3-mission-to-test-lunar-landers/" >🔗</a> **[SpaceNews]** NASA names crew for Artemis 3 mission to test lunar landers
-- <a href="https://www.nasa.gov/image-article/artemis-iii-crew-announced/" >🔗</a> **[NASA]** Artemis III Crew Announced
-- <a href="https://arstechnica.com/space/2026/06/nasa-assigns-crew-for-artemis-iii-sets-aggressive-timeline-for-flying-it/" >🔗</a> **[Arstechnica]** NASA assigns crew for Artemis III, sets aggressive timeline for flying it
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T123540">2026-06-10 12:35:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T140425">2026-06-10 14:04:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
