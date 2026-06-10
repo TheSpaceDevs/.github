@@ -54,7 +54,7 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260615T140000">2026-06-15 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-54&location=Vandenberg SFB, CA, USA&dates=20260615T140000Z%2F20260615T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-54** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260615T200000">2026-06-15 20:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Onward and Upward&location=Andøya Spaceport&dates=20260615T200000Z%2F20260615T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Onward and Upward** from Andøya Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260616T093700">2026-06-16 09:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20260616T093700Z%2F20260616T102300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T020000">2026-06-17 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 12 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260617T020000Z%2F20260617T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 12 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T063900">2026-06-17 06:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | BlueBird Block 2 #3-5&location=Cape Canaveral SFS, FL, USA&dates=20260617T063900Z%2F20260617T081500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | BlueBird Block 2 #3-5** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/arkadia-space-to-supply-thrusters-for-reflex-aerospace-satellite/" >🔗</a> **[SpaceNews]** Arkadia Space to supply thrusters for Reflex Aerospace satellite
+- <a href="https://spacenews.com/spaceport-crunch-reviving-interest-in-sea-based-launch/" >🔗</a> **[SpaceNews]** Spaceport crunch reviving interest in sea-based launch
 - <a href="https://europeanspaceflight.com/iceyes-bet-pays-off-with-e10-billion-valuation/" >🔗</a> **[European Spaceflight]** ICEYE’s Bet Pays Off with €10 Billion Valuation
 - <a href="https://spacenews.com/after-the-launch-why-europes-space-ambitions-depend-on-what-comes-next/" >🔗</a> **[SpaceNews]** After the launch: Why Europe’s space ambitions depend on what comes next
 - <a href="https://science.nasa.gov/earth/earth-observatory/tyndalls-trail-of-bergs/" >🔗</a> **[NASA]** Tyndall’s Trail of Bergs
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/nasa-names-crew-for-artemis-3-mission-to-test-lunar-landers/" >🔗</a> **[SpaceNews]** NASA names crew for Artemis 3 mission to test lunar landers
 - <a href="https://www.nasa.gov/image-article/artemis-iii-crew-announced/" >🔗</a> **[NASA]** Artemis III Crew Announced
 - <a href="https://arstechnica.com/space/2026/06/nasa-assigns-crew-for-artemis-iii-sets-aggressive-timeline-for-flying-it/" >🔗</a> **[Arstechnica]** NASA assigns crew for Artemis III, sets aggressive timeline for flying it
-- <a href="https://spaceflightnow.com/2026/06/09/73614/" >🔗</a> **[Spaceflight Now]** NASA names four-man crew to Artemis 3 mission
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Replay_Artemis_III_announcement" >🔗</a> **[ESA]** Replay: Artemis III announcement
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T111114">2026-06-10 11:11:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T123540">2026-06-10 12:35:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
