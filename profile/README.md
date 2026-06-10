@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/06/10/nasa-chief-defends-selection-of-all-male-artemis-iii-crew/" >🔗</a> **[Spaceflight Now]** NASA chief defends selection of all-male Artemis 3 crew
 - <a href="https://spacepolicyonline.com/news/isaacman-responds-to-criticism-of-all-male-artemis-iii-crew/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Responds to Criticism of All-Male Artemis III Crew
 - <a href="https://spacenews.com/artemis-3-commander-confident-crew-will-be-ready-for-2027-mission/" >🔗</a> **[SpaceNews]** Artemis 3 commander confident crew will be ready for 2027 mission
 - <a href="https://www.nasaspaceflight.com/2026/06/stoke-nova-update/" >🔗</a> **[NASASpaceflight]** Stoke Space completes Nova Stage 1 structural verification
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://science.nasa.gov/science-research/earth-science/nasa-noaa-to-hold-joint-session-at-23rd-symposium-on-operational-environmental-satellite-systems/" >🔗</a> **[NASA]** NASA, NOAA to Hold Joint Session at 23rd Symposium on Operational Environmental Satellite Systems
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_2026_Day_1_highlights" >🔗</a> **[ESA]** ESA at ILA 2026 – Day 1 highlights
 - <a href="https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/" >🔗</a> **[Arstechnica]** We managed to glean some interesting details about the Artemis III mission
-- <a href="https://www.spacescout.info/2026/06/meet-the-artemis-iii-astronauts-and-their-mission/" >🔗</a> **[Space Scout]** Meet the Artemis III Astronauts and their Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T230113">2026-06-10 23:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T235722">2026-06-10 23:57:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
