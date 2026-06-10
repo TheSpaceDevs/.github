@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/house-appropriators-back-55-5-billion-space-force-budget-omit-reconciliation-funds/" >🔗</a> **[SpaceNews]** House appropriators back $55.5 billion Space Force budget, omit reconciliation funds
 - <a href="https://science.nasa.gov/science-research/earth-science/nasa-noaa-to-hold-joint-session-at-23rd-symposium-on-operational-environmental-satellite-systems/" >🔗</a> **[NASA]** NASA, NOAA to Hold Joint Session at 23rd Symposium on Operational Environmental Satellite Systems
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_2026_Day_1_highlights" >🔗</a> **[ESA]** ESA at ILA 2026 – Day 1 highlights
 - <a href="https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/" >🔗</a> **[Arstechnica]** We managed to glean some interesting details about the Artemis III mission
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments/" >🔗</a> **[NASA]** Train Ride to NASA Kennedy for Artemis III Booster Segments
 - <a href="https://europeanspaceflight.com/esa-awards-initial-e700m-contract-for-next-gen-sentinel-1-satellites/" >🔗</a> **[European Spaceflight]** ESA Awards Initial €700M Contract for Next-Gen Sentinel-1 Satellites
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-space-supply-chain-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes Two New Space Supply Chain Members
-- <a href="https://spacenews.com/spire-to-pursue-space-based-missile-warning-in-partnership-with-german-defense-firm/" >🔗</a> **[SpaceNews]** Spire to pursue space-based missile warning in partnership with German defense firm
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T192011">2026-06-10 19:20:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T201515">2026-06-10 20:15:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
