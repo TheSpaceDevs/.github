@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/ESA_adopts_galactic_archaeology_mission_Arrakihs" >🔗</a> **[ESA]** ESA adopts galactic archaeology mission Arrakihs
+- <a href="https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments/" >🔗</a> **[NASA]** Train Ride to NASA Kennedy for Artemis III Booster Segments
 - <a href="https://europeanspaceflight.com/esa-awards-initial-e700m-contract-for-next-gen-sentinel-1-satellites/" >🔗</a> **[European Spaceflight]** ESA Awards Initial €700M Contract for Next-Gen Sentinel-1 Satellites
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-space-supply-chain-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes Two New Space Supply Chain Members
 - <a href="https://spacenews.com/spire-to-pursue-space-based-missile-warning-in-partnership-with-german-defense-firm/" >🔗</a> **[SpaceNews]** Spire to pursue space-based missile warning in partnership with German defense firm
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/uk-startup-applied-atomics-to-enter-us-market-with-focus-on-military-space-mobility/" >🔗</a> **[SpaceNews]** UK startup Applied Atomics to enter US market with focus on military space mobility
 - <a href="https://spacenews.com/orbital-raises-5-million-to-join-orbital-data-center-race/" >🔗</a> **[SpaceNews]** Orbital raises $5 million to join orbital data center race
 - <a href="https://science.nasa.gov/learning-resources/science-activation/globe-mission-earth-educators-participate-in-land-cover-community-of-practice/" >🔗</a> **[NASA]** GLOBE Mission Earth Educators Participate in Land Cover Community of Practice
-- <a href="https://spacenews.com/leolabs-deploys-mobile-space-tracking-radar-in-indo-pacific/" >🔗</a> **[SpaceNews]** LeoLabs deploys mobile space-tracking radar in Indo-Pacific
-- <a href="https://spacenews.com/arkadia-space-to-supply-thrusters-for-reflex-aerospace-satellite/" >🔗</a> **[SpaceNews]** Arkadia Space to supply thrusters for Reflex Aerospace satellite
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T154331">2026-06-10 15:43:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T165848">2026-06-10 16:58:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
