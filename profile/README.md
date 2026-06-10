@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/06/stoke-nova-update/" >🔗</a> **[NASASpaceflight]** Stoke Space completes Nova Stage 1 structural verification
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit/" >🔗</a> **[NASA]** Curiosity Blog: Sols 4913-4919: Planetary explorers, freewheeling to the Yardang unit!
 - <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-construction-services-in-california/" >🔗</a> **[NASA]** NASA Awards Contract for Construction Services in California
 - <a href="https://spacenews.com/house-appropriators-back-55-5-billion-space-force-budget-omit-reconciliation-funds/" >🔗</a> **[SpaceNews]** House appropriators back $55.5 billion Space Force budget, omit reconciliation funds
 - <a href="https://science.nasa.gov/science-research/earth-science/nasa-noaa-to-hold-joint-session-at-23rd-symposium-on-operational-environmental-satellite-systems/" >🔗</a> **[NASA]** NASA, NOAA to Hold Joint Session at 23rd Symposium on Operational Environmental Satellite Systems
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://www.spacescout.info/2026/06/meet-the-artemis-iii-astronauts-and-their-mission/" >🔗</a> **[Space Scout]** Meet the Artemis III Astronauts and their Mission
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-equips-astronauts-industry-with-robotic-intelligence/" >🔗</a> **[NASA]** NASA Equips Astronauts, Industry with Robotic Intelligence
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/ESA_adopts_galactic_archaeology_mission_Arrakihs" >🔗</a> **[ESA]** ESA adopts galactic archaeology mission Arrakihs
-- <a href="https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments/" >🔗</a> **[NASA]** Train Ride to NASA Kennedy for Artemis III Booster Segments
-- <a href="https://europeanspaceflight.com/esa-awards-initial-e700m-contract-for-next-gen-sentinel-1-satellites/" >🔗</a> **[European Spaceflight]** ESA Awards Initial €700M Contract for Next-Gen Sentinel-1 Satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T211750">2026-06-10 21:17:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T221213">2026-06-10 22:12:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
