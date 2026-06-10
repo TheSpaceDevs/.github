@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/isaacman-responds-to-criticism-of-all-male-artemis-iii-crew/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Responds to Criticism of All-Male Artemis III Crew
+- <a href="https://spacenews.com/artemis-3-commander-confident-crew-will-be-ready-for-2027-mission/" >🔗</a> **[SpaceNews]** Artemis 3 commander confident crew will be ready for 2027 mission
 - <a href="https://www.nasaspaceflight.com/2026/06/stoke-nova-update/" >🔗</a> **[NASASpaceflight]** Stoke Space completes Nova Stage 1 structural verification
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit/" >🔗</a> **[NASA]** Curiosity Blog: Sols 4913-4919: Planetary explorers, freewheeling to the Yardang unit!
 - <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-construction-services-in-california/" >🔗</a> **[NASA]** NASA Awards Contract for Construction Services in California
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_2026_Day_1_highlights" >🔗</a> **[ESA]** ESA at ILA 2026 – Day 1 highlights
 - <a href="https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/" >🔗</a> **[Arstechnica]** We managed to glean some interesting details about the Artemis III mission
 - <a href="https://www.spacescout.info/2026/06/meet-the-artemis-iii-astronauts-and-their-mission/" >🔗</a> **[Space Scout]** Meet the Artemis III Astronauts and their Mission
-- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-equips-astronauts-industry-with-robotic-intelligence/" >🔗</a> **[NASA]** NASA Equips Astronauts, Industry with Robotic Intelligence
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/ESA_adopts_galactic_archaeology_mission_Arrakihs" >🔗</a> **[ESA]** ESA adopts galactic archaeology mission Arrakihs
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T221213">2026-06-10 22:12:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T230113">2026-06-10 23:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
