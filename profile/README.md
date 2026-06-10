@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/tyndalls-trail-of-bergs/" >🔗</a> **[NASA]** Tyndall’s Trail of Bergs
 - <a href="https://spacepolicyonline.com/news/three-americans-and-a-european-named-crew-of-artemis-iii/" >🔗</a> **[SpacePolicyOnline.com]** Three Americans and a European Named Crew of Artemis III
 - <a href="https://www.nasa.gov/directorates/armd/aetc/fdrf-characteristics/" >🔗</a> **[NASA]** Flight Dynamics Research Facility Characteristics
 - <a href="https://spacenews.com/nasa-names-crew-for-artemis-3-mission-to-test-lunar-landers/" >🔗</a> **[SpaceNews]** NASA names crew for Artemis 3 mission to test lunar landers
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Replay_Artemis_III_announcement" >🔗</a> **[ESA]** Replay: Artemis III announcement
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Artemis_III_NASA_announcement_highlights_Luca_Parmitano_assigned_as_pilot" >🔗</a> **[ESA]** Artemis III NASA announcement highlights : Luca Parmitano assigned as pilot
 - <a href="https://www.nasaspaceflight.com/2026/06/artemis-iii-veteran-astronauts-test-lunar-landers-leo/" >🔗</a> **[NASASpaceflight]** Artemis III Crew Named: Veteran Astronauts to test Lunar Landers in LEO
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_astronaut_Luca_Parmitano_joins_NASA_s_Artemis_III_mission_as_pilot" >🔗</a> **[ESA]** ESA astronaut Luca Parmitano joins NASA’s Artemis III mission as pilot
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T034343">2026-06-10 03:43:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T052706">2026-06-10 05:27:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
