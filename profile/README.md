@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/iceyes-bet-pays-off-with-e10-billion-valuation/" >🔗</a> **[European Spaceflight]** ICEYE’s Bet Pays Off with €10 Billion Valuation
+- <a href="https://spacenews.com/after-the-launch-why-europes-space-ambitions-depend-on-what-comes-next/" >🔗</a> **[SpaceNews]** After the launch: Why Europe’s space ambitions depend on what comes next
 - <a href="https://science.nasa.gov/earth/earth-observatory/tyndalls-trail-of-bergs/" >🔗</a> **[NASA]** Tyndall’s Trail of Bergs
 - <a href="https://spacepolicyonline.com/news/three-americans-and-a-european-named-crew-of-artemis-iii/" >🔗</a> **[SpacePolicyOnline.com]** Three Americans and a European Named Crew of Artemis III
 - <a href="https://www.nasa.gov/directorates/armd/aetc/fdrf-characteristics/" >🔗</a> **[NASA]** Flight Dynamics Research Facility Characteristics
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://arstechnica.com/space/2026/06/nasa-assigns-crew-for-artemis-iii-sets-aggressive-timeline-for-flying-it/" >🔗</a> **[Arstechnica]** NASA assigns crew for Artemis III, sets aggressive timeline for flying it
 - <a href="https://spaceflightnow.com/2026/06/09/73614/" >🔗</a> **[Spaceflight Now]** NASA names four-man crew to Artemis 3 mission
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Replay_Artemis_III_announcement" >🔗</a> **[ESA]** Replay: Artemis III announcement
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Artemis_III_NASA_announcement_highlights_Luca_Parmitano_assigned_as_pilot" >🔗</a> **[ESA]** Artemis III NASA announcement highlights : Luca Parmitano assigned as pilot
-- <a href="https://www.nasaspaceflight.com/2026/06/artemis-iii-veteran-astronauts-test-lunar-landers-leo/" >🔗</a> **[NASASpaceflight]** Artemis III Crew Named: Veteran Astronauts to test Lunar Landers in LEO
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T094451">2026-06-10 09:44:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260610T111114">2026-06-10 11:11:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
