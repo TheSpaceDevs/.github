@@ -100,6 +100,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/" >🔗</a> **[NASA]** NASA Award Boosts Space Technology Research Capabilities
 - <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/" >🔗</a> **[NASA]** NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena/" >🔗</a> **[NASA]** I Am Artemis: Elkin Norena
 - <a href="https://www.nasaspaceflight.com/2026/06/h3-return-to-flight/" >🔗</a> **[NASASpaceflight]** Japan’s H3 to return to flight with debut launch of lightest configuration
@@ -109,7 +110,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/senate-ndaa-backs-plan-to-fold-sda-space-rco-into-space-force/" >🔗</a> **[SpaceNews]** Senate NDAA backs plan to fold SDA, Space RCO into Space Force
 - <a href="https://spacenews.com/esa-astronaut-assignment-on-artemis-3-part-of-negotiations-on-revised-artemis-roles/" >🔗</a> **[SpaceNews]** ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles
 - <a href="https://www.nasa.gov/image-article/soccer-meets-space-science/" >🔗</a> **[NASA]** Soccer Meets Space Science
-- <a href="https://spacenews.com/hyimpulse-signs-letter-of-intent-with-omans-spaceport/" >🔗</a> **[SpaceNews]** HyImpulse signs letter of intent with Oman’s spaceport
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260611T211511">2026-06-11 21:15:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260611T221022">2026-06-11 22:10:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
