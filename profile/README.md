@@ -19,33 +19,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**HASTE | Curveball**. It is scheduled to be launched by *Rocket Lab*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="None">Rocket Lab Launch Complex 2 (Launch Area 0 C)</a>, Wallops Flight Facility, Virginia, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260611T040000">2026-06-11 04:00:00 UTC</a>.  Until
-then, this pad will have been used for 12
-out of 86 launches from this location. The launch status is currently
+**Long March 5 | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Wenchang_Spacecraft_Launch_Site">101</a>, Wenchang Space Launch Site, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260611T072200">2026-06-11 07:22:00 UTC</a>.  Until
+then, this pad will have been used for 17
+out of 63 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+*Unknown* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  Sub-orbital launch under Rocket Lab’s Hypersonic Accelerator Suborbital Test Electron (HASTE) program, details TBD.
+  Details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_5" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=37.833262,-75.488235" >
+  <a href="https://www.google.com/maps?q=19.614334,110.951011" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260611T040000">2026-06-11 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | Curveball&location=Wallops Flight Facility, Virginia, USA&dates=20260611T040000Z%2F20260611T091500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | Curveball** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260611T072200">2026-06-11 07:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 5 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260611T072200Z%2F20260611T084000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 5 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260611T140000">2026-06-11 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-44&location=Vandenberg SFB, CA, USA&dates=20260611T140000Z%2F20260611T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-44** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260612T005359">2026-06-12 00:53:59 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-30 | H3-30 Test Flight&location=Tanegashima Space Center, Japan&dates=20260612T005359Z%2F20260612T025246Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-30 | H3-30 Test Flight** from Tanegashima Space Center, Japan.
@@ -55,6 +54,7 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260615T200000">2026-06-15 20:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Onward and Upward&location=Andøya Spaceport&dates=20260615T200000Z%2F20260615T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Onward and Upward** from Andøya Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260616T093700">2026-06-16 09:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20260616T093700Z%2F20260616T102300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T063900">2026-06-17 06:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | BlueBird Block 2 #3-5&location=Cape Canaveral SFS, FL, USA&dates=20260617T063900Z%2F20260617T081500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | BlueBird Block 2 #3-5** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T115300">2026-06-17 11:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 64 Block 2 | Amazon Leo (LE-03)&location=Guiana Space Centre, French Guiana&dates=20260617T115300Z%2F20260617T122200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 64 Block 2 | Amazon Leo (LE-03)** from Guiana Space Centre, French Guiana.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/" >🔗</a> **[NASA]** Air Pollution’s Daily Pulse Over the Northeast
 - <a href="https://spaceflightnow.com/2026/06/10/nasa-chief-defends-selection-of-all-male-artemis-iii-crew/" >🔗</a> **[Spaceflight Now]** NASA chief defends selection of all-male Artemis 3 crew
 - <a href="https://spacepolicyonline.com/news/isaacman-responds-to-criticism-of-all-male-artemis-iii-crew/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Responds to Criticism of All-Male Artemis III Crew
 - <a href="https://spacenews.com/artemis-3-commander-confident-crew-will-be-ready-for-2027-mission/" >🔗</a> **[SpaceNews]** Artemis 3 commander confident crew will be ready for 2027 mission
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/house-appropriators-back-55-5-billion-space-force-budget-omit-reconciliation-funds/" >🔗</a> **[SpaceNews]** House appropriators back $55.5 billion Space Force budget, omit reconciliation funds
 - <a href="https://science.nasa.gov/science-research/earth-science/nasa-noaa-to-hold-joint-session-at-23rd-symposium-on-operational-environmental-satellite-systems/" >🔗</a> **[NASA]** NASA, NOAA to Hold Joint Session at 23rd Symposium on Operational Environmental Satellite Systems
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_2026_Day_1_highlights" >🔗</a> **[ESA]** ESA at ILA 2026 – Day 1 highlights
-- <a href="https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/" >🔗</a> **[Arstechnica]** We managed to glean some interesting details about the Artemis III mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260611T030226">2026-06-11 03:02:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260611T050154">2026-06-11 05:01:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
