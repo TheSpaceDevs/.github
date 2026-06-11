@@ -100,6 +100,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/" >🔗</a> **[NASA]** NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors
+- <a href="https://spacenews.com/senate-ndaa-backs-plan-to-fold-sda-space-rco-into-space-force/" >🔗</a> **[SpaceNews]** Senate NDAA backs plan to fold SDA, Space RCO into Space Force
 - <a href="https://spacenews.com/esa-astronaut-assignment-on-artemis-3-part-of-negotiations-on-revised-artemis-roles/" >🔗</a> **[SpaceNews]** ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles
 - <a href="https://www.nasa.gov/image-article/soccer-meets-space-science/" >🔗</a> **[NASA]** Soccer Meets Space Science
 - <a href="https://spacenews.com/hyimpulse-signs-letter-of-intent-with-omans-spaceport/" >🔗</a> **[SpaceNews]** HyImpulse signs letter of intent with Oman’s spaceport
@@ -108,8 +110,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_2026_Day_2_highlights" >🔗</a> **[ESA]** ESA at ILA 2026 – Day 2 highlights
 - <a href="https://spacenews.com/tilebox-launches-verifiable-ai-workflows-for-satellite-data/" >🔗</a> **[SpaceNews]** Tilebox Launches Verifiable AI Workflows for Satellite Data
 - <a href="https://europeanspaceflight.com/italy-skips-crew-allocation-queue-thanks-to-astronauts-test-pilot-experience/" >🔗</a> **[European Spaceflight]** Italy Skips Crew Allocation Queue Thanks to Astronaut’s Test Pilot Experience
-- <a href="https://spacenews.com/k2-space-rocket-lab-win-key-supplier-roles-in-space-force-satcom-program/" >🔗</a> **[SpaceNews]** K2 Space, Rocket Lab win key supplier roles in Space Force satcom program
-- <a href="https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/" >🔗</a> **[NASA]** NASA to Preview Katalyst Mission to Boost Swift Spacecraft’s Orbit
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260611T180049">2026-06-11 18:00:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260611T192202">2026-06-11 19:22:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
