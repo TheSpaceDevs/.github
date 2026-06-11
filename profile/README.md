@@ -100,16 +100,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasas-career-technical-education-day-highlights-technical-careers/" >🔗</a> **[NASA]** NASA’s Career Technical Education Day Highlights Technical Careers
+- <a href="https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/" >🔗</a> **[NASA]** NASA, USGS Scientists Go Rock Hounding in California’s High Desert
+- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_2026_Day_2_highlights" >🔗</a> **[ESA]** ESA at ILA 2026 – Day 2 highlights
+- <a href="https://spacenews.com/tilebox-launches-verifiable-ai-workflows-for-satellite-data/" >🔗</a> **[SpaceNews]** Tilebox Launches Verifiable AI Workflows for Satellite Data
 - <a href="https://europeanspaceflight.com/italy-skips-crew-allocation-queue-thanks-to-astronauts-test-pilot-experience/" >🔗</a> **[European Spaceflight]** Italy Skips Crew Allocation Queue Thanks to Astronaut’s Test Pilot Experience
 - <a href="https://spacenews.com/k2-space-rocket-lab-win-key-supplier-roles-in-space-force-satcom-program/" >🔗</a> **[SpaceNews]** K2 Space, Rocket Lab win key supplier roles in Space Force satcom program
 - <a href="https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/" >🔗</a> **[NASA]** NASA to Preview Katalyst Mission to Boost Swift Spacecraft’s Orbit
 - <a href="https://spacenews.com/geo-cancellations-complicate-space-insurance-recovery/" >🔗</a> **[SpaceNews]** GEO cancellations complicate space insurance recovery
 - <a href="https://spacenews.com/open-cosmos-seeks-deadline-extension-for-broadband-constellation/" >🔗</a> **[SpaceNews]** Open Cosmos seeks deadline extension for broadband constellation
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/ILA_Berlin_2026_in-flight_call_with_ESA_Astronaut_Sophie_Adenot" >🔗</a> **[ESA]** ILA Berlin 2026: in-flight call with ESA Astronaut Sophie Adenot
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Luca_Parmitano_Artemis_III_pilot" >🔗</a> **[ESA]** Luca Parmitano: Artemis III pilot
-- <a href="https://spacenews.com/esa-awards-contract-for-next-generation-radar-imaging-satellites/" >🔗</a> **[SpaceNews]** ESA awards contract for next-generation radar imaging satellites
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Same_rocket_new_boost" >🔗</a> **[ESA]** Same rocket, new boost
-- <a href="https://spacenews.com/long-march-5-launches-classified-satellite-zhuque-2e-lofts-direct-to-device-test-sats/" >🔗</a> **[SpaceNews]** Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260611T150651">2026-06-11 15:06:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260611T164540">2026-06-11 16:45:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
