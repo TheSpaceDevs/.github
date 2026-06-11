@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Luca_Parmitano_Artemis_III_pilot" >🔗</a> **[ESA]** Luca Parmitano: Artemis III pilot
+- <a href="https://spacenews.com/esa-awards-contract-for-next-generation-radar-imaging-satellites/" >🔗</a> **[SpaceNews]** ESA awards contract for next-generation radar imaging satellites
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Same_rocket_new_boost" >🔗</a> **[ESA]** Same rocket, new boost
+- <a href="https://spacenews.com/long-march-5-launches-classified-satellite-zhuque-2e-lofts-direct-to-device-test-sats/" >🔗</a> **[SpaceNews]** Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats
+- <a href="https://spacenews.com/missile-defense-in-the-age-of-saturation-warfare/" >🔗</a> **[SpaceNews]** Missile defense in the age of saturation warfare
 - <a href="https://spaceflightnow.com/2026/06/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/ILA_Berlin_2026_ESA_Director_General_press_conference" >🔗</a> **[ESA]** ILA Berlin 2026: ESA Director General press conference
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Tracking_urban_expansion_in_hazard-prone_areas" >🔗</a> **[ESA]** Tracking urban expansion in hazard-prone areas
 - <a href="https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/" >🔗</a> **[NASA]** Air Pollution’s Daily Pulse Over the Northeast
 - <a href="https://spaceflightnow.com/2026/06/10/nasa-chief-defends-selection-of-all-male-artemis-iii-crew/" >🔗</a> **[Spaceflight Now]** NASA chief defends selection of all-male Artemis 3 crew
-- <a href="https://spacepolicyonline.com/news/isaacman-responds-to-criticism-of-all-male-artemis-iii-crew/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Responds to Criticism of All-Male Artemis III Crew
-- <a href="https://spacenews.com/artemis-3-commander-confident-crew-will-be-ready-for-2027-mission/" >🔗</a> **[SpaceNews]** Artemis 3 commander confident crew will be ready for 2027 mission
-- <a href="https://www.nasaspaceflight.com/2026/06/stoke-nova-update/" >🔗</a> **[NASASpaceflight]** Stoke Space completes Nova Stage 1 structural verification
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit/" >🔗</a> **[NASA]** Curiosity Blog: Sols 4913-4919: Planetary explorers, freewheeling to the Yardang unit!
-- <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-construction-services-in-california/" >🔗</a> **[NASA]** NASA Awards Contract for Construction Services in California
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260611T103552">2026-06-11 10:35:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260611T121900">2026-06-11 12:19:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
