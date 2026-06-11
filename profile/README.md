@@ -100,16 +100,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena/" >🔗</a> **[NASA]** I Am Artemis: Elkin Norena
+- <a href="https://www.nasaspaceflight.com/2026/06/h3-return-to-flight/" >🔗</a> **[NASASpaceflight]** Japan’s H3 to return to flight with debut launch of lightest configuration
+- <a href="https://spacenews.com/vandenberg-offers-new-launch-site-for-small-and-medium-rockets/" >🔗</a> **[SpaceNews]** Vandenberg offers new launch site for small and medium rockets
+- <a href="https://spacenews.com/understanding-whats-next-for-orbital-data-centers/" >🔗</a> **[SpaceNews]** Understanding what’s next for orbital data centers
 - <a href="https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/" >🔗</a> **[NASA]** NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors
 - <a href="https://spacenews.com/senate-ndaa-backs-plan-to-fold-sda-space-rco-into-space-force/" >🔗</a> **[SpaceNews]** Senate NDAA backs plan to fold SDA, Space RCO into Space Force
 - <a href="https://spacenews.com/esa-astronaut-assignment-on-artemis-3-part-of-negotiations-on-revised-artemis-roles/" >🔗</a> **[SpaceNews]** ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles
 - <a href="https://www.nasa.gov/image-article/soccer-meets-space-science/" >🔗</a> **[NASA]** Soccer Meets Space Science
 - <a href="https://spacenews.com/hyimpulse-signs-letter-of-intent-with-omans-spaceport/" >🔗</a> **[SpaceNews]** HyImpulse signs letter of intent with Oman’s spaceport
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasas-career-technical-education-day-highlights-technical-careers/" >🔗</a> **[NASA]** NASA’s Career Technical Education Day Highlights Technical Careers
-- <a href="https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/" >🔗</a> **[NASA]** NASA, USGS Scientists Go Rock Hounding in California’s High Desert
-- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_2026_Day_2_highlights" >🔗</a> **[ESA]** ESA at ILA 2026 – Day 2 highlights
-- <a href="https://spacenews.com/tilebox-launches-verifiable-ai-workflows-for-satellite-data/" >🔗</a> **[SpaceNews]** Tilebox Launches Verifiable AI Workflows for Satellite Data
-- <a href="https://europeanspaceflight.com/italy-skips-crew-allocation-queue-thanks-to-astronauts-test-pilot-experience/" >🔗</a> **[European Spaceflight]** Italy Skips Crew Allocation Queue Thanks to Astronaut’s Test Pilot Experience
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260611T192202">2026-06-11 19:22:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260611T201439">2026-06-11 20:14:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
