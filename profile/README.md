@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/latitude-ditches-the-name-zephyr-for-its-two-stage-rocket/" >🔗</a> **[European Spaceflight]** Latitude Ditches the Name Zephyr for Its Two-Stage Rocket
 - <a href="https://www.nasa.gov/image-article/black-eye-galaxy/" >🔗</a> **[NASA]** Black Eye Galaxy
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_08-12_June_2026" >🔗</a> **[ESA]** Week in images: 08-12 June 2026
 - <a href="https://spacenews.com/all-in-on-ai-at-astra/" >🔗</a> **[SpaceNews]** All in on AI at Astra
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/in-aerospace-ai-isnt-replacing-workers-its-filling-a-shortage/" >🔗</a> **[SpaceNews]** In aerospace, AI isn’t replacing workers. It’s filling a shortage
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Mission_Control_Keeping_Columbus_Running_24_7_ESA_Explores_19" >🔗</a> **[ESA]** Mission Control | Keeping Columbus Running 24/7 | ESA Explores #19
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Buenos_Aires" >🔗</a> **[ESA]** Earth from Space: Buenos Aires
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Conversations_in_the_sky_Galileo_s_intersatellite_links_tested" >🔗</a> **[ESA]** Conversations in the sky: Galileo’s intersatellite links tested
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260612T140656">2026-06-12 14:06:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260612T153655">2026-06-12 15:36:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
