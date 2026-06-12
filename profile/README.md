@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Buenos_Aires" >🔗</a> **[ESA]** Earth from Space: Buenos Aires
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Conversations_in_the_sky_Galileo_s_intersatellite_links_tested" >🔗</a> **[ESA]** Conversations in the sky: Galileo’s intersatellite links tested
 - <a href="https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/" >🔗</a> **[NASA]** World Cup Fever in Guadalajara
 - <a href="https://spaceflightnow.com/2026/06/12/live-coverage-spacex-to-launch-final-starlink-mission-as-it-begins-publicly-trade-its-stock-on-the-nasdaq-for-the-first-time/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final Starlink mission as it begins publicly trade its stock on the Nasdaq for the first time
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena/" >🔗</a> **[NASA]** I Am Artemis: Elkin Norena
 - <a href="https://www.nasaspaceflight.com/2026/06/h3-return-to-flight/" >🔗</a> **[NASASpaceflight]** Japan’s H3 to return to flight with debut launch of lightest configuration
 - <a href="https://spacenews.com/vandenberg-offers-new-launch-site-for-small-and-medium-rockets/" >🔗</a> **[SpaceNews]** Vandenberg offers new launch site for small and medium rockets
-- <a href="https://spacenews.com/understanding-whats-next-for-orbital-data-centers/" >🔗</a> **[SpaceNews]** Understanding what’s next for orbital data centers
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260612T072957">2026-06-12 07:29:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260612T085232">2026-06-12 08:52:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
