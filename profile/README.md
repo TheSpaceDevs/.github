@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/06/12/live-coverage-spacex-to-launch-final-starlink-mission-as-it-begins-publicly-trade-its-stock-on-the-nasdaq-for-the-first-time/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final Starlink mission as it begins publicly trade its stock on the Nasdaq for the first time
 - <a href="https://spacenews.com/aac-clyde-space-wins-esa-contract-to-complete-maritime-monitoring-constellation/" >🔗</a> **[SpaceNews]** AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation
 - <a href="https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/" >🔗</a> **[NASA]** NASA Award Boosts Space Technology Research Capabilities
 - <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/" >🔗</a> **[NASA]** NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/understanding-whats-next-for-orbital-data-centers/" >🔗</a> **[SpaceNews]** Understanding what’s next for orbital data centers
 - <a href="https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/" >🔗</a> **[NASA]** NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors
 - <a href="https://spacenews.com/senate-ndaa-backs-plan-to-fold-sda-space-rco-into-space-force/" >🔗</a> **[SpaceNews]** Senate NDAA backs plan to fold SDA, Space RCO into Space Force
-- <a href="https://spacenews.com/esa-astronaut-assignment-on-artemis-3-part-of-negotiations-on-revised-artemis-roles/" >🔗</a> **[SpaceNews]** ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260612T012210">2026-06-12 01:22:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260612T021613">2026-06-12 02:16:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
