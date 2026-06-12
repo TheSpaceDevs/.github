@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Satellite_navigation/Conversations_in_the_sky_Galileo_s_intersatellite_links_tested" >🔗</a> **[ESA]** Conversations in the sky: Galileo’s intersatellite links tested
 - <a href="https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/" >🔗</a> **[NASA]** World Cup Fever in Guadalajara
 - <a href="https://spaceflightnow.com/2026/06/12/live-coverage-spacex-to-launch-final-starlink-mission-as-it-begins-publicly-trade-its-stock-on-the-nasdaq-for-the-first-time/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final Starlink mission as it begins publicly trade its stock on the Nasdaq for the first time
 - <a href="https://spacenews.com/aac-clyde-space-wins-esa-contract-to-complete-maritime-monitoring-constellation/" >🔗</a> **[SpaceNews]** AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation
@@ -99,17 +100,17 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/06/h3-return-to-flight/" >🔗</a> **[NASASpaceflight]** Japan’s H3 to return to flight with debut launch of lightest configuration
 - <a href="https://spacenews.com/vandenberg-offers-new-launch-site-for-small-and-medium-rockets/" >🔗</a> **[SpaceNews]** Vandenberg offers new launch site for small and medium rockets
 - <a href="https://spacenews.com/understanding-whats-next-for-orbital-data-centers/" >🔗</a> **[SpaceNews]** Understanding what’s next for orbital data centers
-- <a href="https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/" >🔗</a> **[NASA]** NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2026/06/12/live-coverage-spacex-to-launch-final-starlink-mission-as-it-begins-publicly-trade-its-stock-on-the-nasdaq-for-the-first-time/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final Starlink mission as it begins publicly trade its stock on the Nasdaq for the first time
 - <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-060826/" >🔗</a> **[NASASpaceflight]** Launch Preview: Chinese, Rocket Lab, and Starlink flights scheduled
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260612T053027">2026-06-12 05:30:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260612T072957">2026-06-12 07:29:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
