@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/in-aerospace-ai-isnt-replacing-workers-its-filling-a-shortage/" >🔗</a> **[SpaceNews]** In aerospace, AI isn’t replacing workers. It’s filling a shortage
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Mission_Control_Keeping_Columbus_Running_24_7_ESA_Explores_19" >🔗</a> **[ESA]** Mission Control | Keeping Columbus Running 24/7 | ESA Explores #19
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Buenos_Aires" >🔗</a> **[ESA]** Earth from Space: Buenos Aires
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Conversations_in_the_sky_Galileo_s_intersatellite_links_tested" >🔗</a> **[ESA]** Conversations in the sky: Galileo’s intersatellite links tested
 - <a href="https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/" >🔗</a> **[NASA]** World Cup Fever in Guadalajara
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/" >🔗</a> **[NASA]** NASA Award Boosts Space Technology Research Capabilities
 - <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/" >🔗</a> **[NASA]** NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena/" >🔗</a> **[NASA]** I Am Artemis: Elkin Norena
-- <a href="https://www.nasaspaceflight.com/2026/06/h3-return-to-flight/" >🔗</a> **[NASASpaceflight]** Japan’s H3 to return to flight with debut launch of lightest configuration
-- <a href="https://spacenews.com/vandenberg-offers-new-launch-site-for-small-and-medium-rockets/" >🔗</a> **[SpaceNews]** Vandenberg offers new launch site for small and medium rockets
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260612T085232">2026-06-12 08:52:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260612T102740">2026-06-12 10:27:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
