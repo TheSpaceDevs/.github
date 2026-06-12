@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/" >🔗</a> **[Arstechnica]** SpaceX is now a public company valued for its AI potential, so what comes next?
 - <a href="https://www.nasaspaceflight.com/2026/06/china-roundup-061226/" >🔗</a> **[NASASpaceflight]** China successfully debuts tallest rocket, LandSpace prepares for second landing attempt
 - <a href="https://spacenews.com/spacex-shares-rise-nearly-20-in-historic-ipo/" >🔗</a> **[SpaceNews]** SpaceX shares rise nearly 20% in historic IPO
 - <a href="https://spacenews.com/avanti-trims-geo-exposure-with-hylas-3-sale/" >🔗</a> **[SpaceNews]** Avanti trims GEO exposure with Hylas-3 sale
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/black-eye-galaxy/" >🔗</a> **[NASA]** Black Eye Galaxy
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_08-12_June_2026" >🔗</a> **[ESA]** Week in images: 08-12 June 2026
 - <a href="https://spacenews.com/all-in-on-ai-at-astra/" >🔗</a> **[SpaceNews]** All in on AI at Astra
-- <a href="https://spacenews.com/h3-successfully-returns-to-flight/" >🔗</a> **[SpaceNews]** H3 successfully returns to flight
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260612T220607">2026-06-12 22:06:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260612T225742">2026-06-12 22:57:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
