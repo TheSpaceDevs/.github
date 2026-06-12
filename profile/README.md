@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/" >🔗</a> **[SpaceNews]** Astronomers fear orbital data centers will interfere with observations
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/" >🔗</a> **[NASA]** NASA to Cover 34th SpaceX Resupply Mission Space Station Departure
 - <a href="https://europeanspaceflight.com/latitude-ditches-the-name-zephyr-for-its-two-stage-rocket/" >🔗</a> **[European Spaceflight]** Latitude Ditches the Name Zephyr for Its Two-Stage Rocket
 - <a href="https://www.nasa.gov/image-article/black-eye-galaxy/" >🔗</a> **[NASA]** Black Eye Galaxy
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/hubble/hubble-sees-swarm-of-galaxies/" >🔗</a> **[NASA]** Hubble Sees Swarm of Galaxies
 - <a href="https://arstechnica.com/space/2026/06/rocket-report-nova-moving-through-test-campaign-spacex-ipo-launches-friday/" >🔗</a> **[Arstechnica]** Rocket Report: Nova moving through test campaign; SpaceX IPO launches Friday
 - <a href="https://spacenews.com/in-aerospace-ai-isnt-replacing-workers-its-filling-a-shortage/" >🔗</a> **[SpaceNews]** In aerospace, AI isn’t replacing workers. It’s filling a shortage
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Mission_Control_Keeping_Columbus_Running_24_7_ESA_Explores_19" >🔗</a> **[ESA]** Mission Control | Keeping Columbus Running 24/7 | ESA Explores #19
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260612T193527">2026-06-12 19:35:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260612T204047">2026-06-12 20:40:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
