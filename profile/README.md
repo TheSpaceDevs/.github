@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-14-20-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 14-20, 2026
 - <a href="https://spacenews.com/missile-production-push-runs-into-solid-rocket-motor-bottleneck/" >🔗</a> **[SpaceNews]** Missile production push runs into solid rocket motor bottleneck
 - <a href="https://www.nasaspaceflight.com/2026/06/booster-20-cryo-ship-40-static-fire/" >🔗</a> **[NASASpaceflight]** Booster 20 Completes Cryo, As Ship 40 Nears Static Fire
 - <a href="https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/" >🔗</a> **[SpaceNews]** Revised Artemis lunar lander plans take shape
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/avanti-trims-geo-exposure-with-hylas-3-sale/" >🔗</a> **[SpaceNews]** Avanti trims GEO exposure with Hylas-3 sale
 - <a href="https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/" >🔗</a> **[SpaceNews]** Astronomers fear orbital data centers will interfere with observations
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/" >🔗</a> **[NASA]** NASA to Cover 34th SpaceX Resupply Mission Space Station Departure
-- <a href="https://europeanspaceflight.com/latitude-ditches-the-name-zephyr-for-its-two-stage-rocket/" >🔗</a> **[European Spaceflight]** Latitude Ditches the Name Zephyr for Its Two-Stage Rocket
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260614T225101">2026-06-14 22:51:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260614T232444">2026-06-14 23:24:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
