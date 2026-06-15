@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/gilat-to-buy-comtech-satcoms-business-six-years-after-failed-merger/" >🔗</a> **[SpaceNews]** Gilat to buy Comtech satcoms business six years after failed merger
 - <a href="https://spacenews.com/space-force-orders-two-more-gps-satellites-from-lockheed-martin-for-514-million/" >🔗</a> **[SpaceNews]** Space Force orders two more GPS satellites from Lockheed Martin for $514 million
 - <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions/" >🔗</a> **[NASA]** NASA’s Chandra Finds Unexpected Fireworks in Aftermath of Stellar Explosions
 - <a href="https://www.nasa.gov/learning-resources/for-colleges-universities/nasa-stem-projects/in-flight-education-downlinks/nasa-astronauts-to-answer-questions-from-new-jersey-students/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from New Jersey Students
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/san-franciscos-patchwork-streets/" >🔗</a> **[NASA]** San Francisco’s Patchwork Streets
 - <a href="https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-roman-space-telescope/" >🔗</a> **[NASA]** Experience the Launch of NASA’s Roman Space Telescope
 - <a href="https://europeanspaceflight.com/t-minus-barracuda-suffers-anomaly-after-launch-from-nova-scotia/" >🔗</a> **[European Spaceflight]** T-Minus Barracuda Suffers Anomaly After Launch from Nova Scotia
-- <a href="https://spacenews.com/darpa-to-explore-ways-to-rapidly-rebuild-satellite-networks-if-attacked/" >🔗</a> **[SpaceNews]** DARPA to explore ways to rapidly rebuild satellite networks if attacked
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260615T205854">2026-06-15 20:58:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260615T215639">2026-06-15 21:56:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
