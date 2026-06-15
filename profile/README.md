@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260615T140000">2026-06-15 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-54&location=Vandenberg SFB, CA, USA&dates=20260615T140000Z%2F20260615T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-54** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260615T200000">2026-06-15 20:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Onward and Upward&location=Andøya Spaceport&dates=20260615T200000Z%2F20260615T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Onward and Upward** from Andøya Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260616T093700">2026-06-16 09:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20260616T093700Z%2F20260616T102300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T023700">2026-06-17 02:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 12 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260617T023700Z%2F20260617T030600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 12 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
@@ -90,16 +89,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/t-minus-barracuda-suffers-anomaly-after-launch-from-nova-scotia/" >🔗</a> **[European Spaceflight]** T-Minus Barracuda Suffers Anomaly After Launch from Nova Scotia
+- <a href="https://spacenews.com/darpa-to-explore-ways-to-rapidly-rebuild-satellite-networks-if-attacked/" >🔗</a> **[SpaceNews]** DARPA to explore ways to rapidly rebuild satellite networks if attacked
+- <a href="https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/" >🔗</a> **[Arstechnica]** Russia appears set to finally address long-term, serious space station cracks
+- <a href="https://spacenews.com/whats-the-best-way-to-monetize-space-energy/" >🔗</a> **[SpaceNews]** What’s the Best Way to Monetize Space Energy?
+- <a href="https://spacenews.com/sustained-maneuver-has-a-propulsion-problem/" >🔗</a> **[SpaceNews]** Sustained maneuver has a propulsion problem
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Watch_live_bigger_booster_more_powerful_Ariane_6_launch" >🔗</a> **[ESA]** Watch live: bigger booster, more powerful Ariane 6 launch
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Pacific_warming_signals_El_Nino_has_stirred" >🔗</a> **[ESA]** Pacific warming signals El Niño has stirred
+- <a href="https://science.nasa.gov/earth/earth-observatory/pumice-rafts-encroach-on-admiralty-islands/" >🔗</a> **[NASA]** Pumice Rafts Encroach on Admiralty Islands
 - <a href="https://spaceflightnow.com/2026/06/14/live-coverage-spacex-to-launch-its-first-falcon-9-rocket-since-nasdaq-debut/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch its first Falcon 9 rocket since Nasdaq debut
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-14-20-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 14-20, 2026
-- <a href="https://spacenews.com/missile-production-push-runs-into-solid-rocket-motor-bottleneck/" >🔗</a> **[SpaceNews]** Missile production push runs into solid rocket motor bottleneck
-- <a href="https://www.nasaspaceflight.com/2026/06/booster-20-cryo-ship-40-static-fire/" >🔗</a> **[NASASpaceflight]** Booster 20 Completes Cryo, As Ship 40 Nears Static Fire
-- <a href="https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/" >🔗</a> **[SpaceNews]** Revised Artemis lunar lander plans take shape
-- <a href="https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/" >🔗</a> **[Arstechnica]** SpaceX is now a public company valued for its AI potential, so what comes next?
-- <a href="https://www.nasaspaceflight.com/2026/06/china-roundup-061226/" >🔗</a> **[NASASpaceflight]** China successfully debuts tallest rocket, LandSpace prepares for second landing attempt
-- <a href="https://spacenews.com/spacex-shares-rise-nearly-20-in-historic-ipo/" >🔗</a> **[SpaceNews]** SpaceX shares rise nearly 20% in historic IPO
-- <a href="https://spacenews.com/avanti-trims-geo-exposure-with-hylas-3-sale/" >🔗</a> **[SpaceNews]** Avanti trims GEO exposure with Hylas-3 sale
-- <a href="https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/" >🔗</a> **[SpaceNews]** Astronomers fear orbital data centers will interfere with observations
 
 
 ### Launch-related News 🚀
@@ -110,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260615T115922">2026-06-15 11:59:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260615T142144">2026-06-15 14:21:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
