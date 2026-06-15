@@ -104,12 +104,13 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2026/06/14/live-coverage-spacex-to-launch-its-first-falcon-9-rocket-since-nasdaq-debut/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch its first Falcon 9 rocket since Nasdaq debut
 - <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-060826/" >🔗</a> **[NASASpaceflight]** Launch Preview: Chinese, Rocket Lab, and Starlink flights scheduled
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260615T093508">2026-06-15 09:35:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260615T115922">2026-06-15 11:59:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
