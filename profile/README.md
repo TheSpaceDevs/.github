@@ -97,6 +97,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crs-34-dragon-returns-packed-with-space-station-science/" >🔗</a> **[NASA]** NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science
+- <a href="https://www.nasa.gov/general/frontiers-forum-speaker-series/" >🔗</a> **[NASA]** Frontiers Forum Speaker Series
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-available-for-prelaunch-virtual-interviews/" >🔗</a> **[NASA]** NASA Astronaut Anil Menon Available for Prelaunch Virtual Interviews
 - <a href="https://www.nasa.gov/image-article/san-franciscos-patchwork-streets/" >🔗</a> **[NASA]** San Francisco’s Patchwork Streets
 - <a href="https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-roman-space-telescope/" >🔗</a> **[NASA]** Experience the Launch of NASA’s Roman Space Telescope
@@ -105,8 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/" >🔗</a> **[Arstechnica]** Russia appears set to finally address long-term, serious space station cracks
 - <a href="https://spacenews.com/whats-the-best-way-to-monetize-space-energy/" >🔗</a> **[SpaceNews]** What’s the Best Way to Monetize Space Energy?
 - <a href="https://spacenews.com/sustained-maneuver-has-a-propulsion-problem/" >🔗</a> **[SpaceNews]** Sustained maneuver has a propulsion problem
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Watch_live_bigger_booster_more_powerful_Ariane_6_launch" >🔗</a> **[ESA]** Watch live: bigger booster, more powerful Ariane 6 launch
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Pacific_warming_signals_El_Nino_has_stirred" >🔗</a> **[ESA]** Pacific warming signals El Niño has stirred
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260615T161427">2026-06-15 16:14:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260615T180318">2026-06-15 18:03:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
