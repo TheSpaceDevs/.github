@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/arianespace-ceo-says-strike-will-not-affect-ariane-6-launch/" >🔗</a> **[European Spaceflight]** Arianespace CEO Says Strike Will Not Affect Ariane 6 Launch
+- <a href="https://spacenews.com/swiss-decision-to-not-contribute-to-copernicus-tests-programs-value-model/" >🔗</a> **[SpaceNews]** Swiss decision to not contribute to Copernicus tests program’s value model
+- <a href="https://science.nasa.gov/missions/webb/nasa-webb-hubble-reveal-history-of-relic-of-milky-ways-formation/" >🔗</a> **[NASA]** NASA Webb, Hubble Reveal History of Relic of Milky Way’s Formation
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_reveal_relic_of_our_galaxy_s_formation" >🔗</a> **[ESA]** Webb & Hubble reveal relic of our galaxy’s formation
 - <a href="https://www.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasas-quantum-lab-aboard-space-station-gets-chilly-upgrade/" >🔗</a> **[NASA]** NASA’s Quantum Lab Aboard Space Station Gets Chilly Upgrade
 - <a href="https://www.spacescout.info/2026/06/artemis-under-ignition/" >🔗</a> **[Space Scout]** Artemis Under Ignition
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-unicorns-spacenews-billion-valuation/" >🔗</a> **[SpaceNews]** The SpaceNews space unicorn tracker
 - <a href="https://spacenews.com/katalyst-space-raises-12-million-for-geo-servicing-demo-mission/" >🔗</a> **[SpaceNews]** Katalyst Space raises $12 million for GEO servicing demo mission
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/nasa-uses-machine-learning-to-enhance-flash-flood-warnings/" >🔗</a> **[NASA]** NASA Uses Machine Learning to Enhance Flash Flood Warnings
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/department-of-health-and-human-services-digital-stockpile-manufacturing-response-network-challenge/" >🔗</a> **[NASA]** Department of Health and Human Services Digital Stockpile & Manufacturing Response Network Challenge
-- <a href="https://www.nasa.gov/image-article/aurora-australis-7/" >🔗</a> **[NASA]** Aurora Australis
-- <a href="https://spacenews.com/pilogic-partners-with-air-force-lab-to-test-satellite-fault-prediction-software/" >🔗</a> **[SpaceNews]** PiLogic partners with Air Force lab to test satellite fault-prediction software
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260616T171228">2026-06-16 17:12:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260616T184733">2026-06-16 18:47:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
