@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/06/16/astrobotic-showcases-griffin-1-lander-ahead-of-environmental-testing-in-california/" >🔗</a> **[Spaceflight Now]** Astrobotic showcases Griffin-1 lander ahead of environmental testing in California
+- <a href="https://spacepolicyonline.com/news/astrobotic-unveils-griffin-moon-base-ii-lander/" >🔗</a> **[SpacePolicyOnline.com]** Astrobotic Unveils Griffin “Moon Base II” Lander
+- <a href="https://www.nasa.gov/centers-and-facilities/jpl/explore-jpl-to-take-place-oct-10-11/" >🔗</a> **[NASA]** Explore JPL to Take Place Oct. 10, 11
 - <a href="https://spacenews.com/gilat-to-buy-comtech-satcoms-business-six-years-after-failed-merger/" >🔗</a> **[SpaceNews]** Gilat to buy Comtech satcoms business six years after failed merger
 - <a href="https://spacenews.com/space-force-orders-two-more-gps-satellites-from-lockheed-martin-for-514-million/" >🔗</a> **[SpaceNews]** Space Force orders two more GPS satellites from Lockheed Martin for $514 million
 - <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions/" >🔗</a> **[NASA]** NASA’s Chandra Finds Unexpected Fireworks in Aftermath of Stellar Explosions
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crs-34-dragon-returns-packed-with-space-station-science/" >🔗</a> **[NASA]** NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science
 - <a href="https://www.nasa.gov/general/frontiers-forum-speaker-series/" >🔗</a> **[NASA]** Frontiers Forum Speaker Series
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-available-for-prelaunch-virtual-interviews/" >🔗</a> **[NASA]** NASA Astronaut Anil Menon Available for Prelaunch Virtual Interviews
-- <a href="https://www.nasa.gov/image-article/san-franciscos-patchwork-streets/" >🔗</a> **[NASA]** San Francisco’s Patchwork Streets
-- <a href="https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-roman-space-telescope/" >🔗</a> **[NASA]** Experience the Launch of NASA’s Roman Space Telescope
-- <a href="https://europeanspaceflight.com/t-minus-barracuda-suffers-anomaly-after-launch-from-nova-scotia/" >🔗</a> **[European Spaceflight]** T-Minus Barracuda Suffers Anomaly After Launch from Nova Scotia
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260616T003606">2026-06-16 00:36:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260616T015021">2026-06-16 01:50:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
