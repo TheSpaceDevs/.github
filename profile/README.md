@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/department-of-health-and-human-services-digital-stockpile-manufacturing-response-network-challenge/" >🔗</a> **[NASA]** Department of Health and Human Services Digital Stockpile & Manufacturing Response Network Challenge
+- <a href="https://www.nasa.gov/image-article/aurora-australis-7/" >🔗</a> **[NASA]** Aurora Australis
+- <a href="https://spacenews.com/pilogic-partners-with-air-force-lab-to-test-satellite-fault-prediction-software/" >🔗</a> **[SpaceNews]** PiLogic partners with Air Force lab to test satellite fault-prediction software
+- <a href="https://spacenews.com/a-un-agency-that-works-for-us-space/" >🔗</a> **[SpaceNews]** A UN agency that works for US space
 - <a href="https://spacenews.com/geospatial-industry-launches-maritime-initiative/" >🔗</a> **[SpaceNews]** Geospatial industry launches maritime initiative
 - <a href="https://spacenews.com/deep-space-network-antenna-mishap-blamed-on-poor-training-and-procedures/" >🔗</a> **[SpaceNews]** Deep Space Network antenna mishap blamed on poor training and procedures
 - <a href="https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/" >🔗</a> **[SpaceNews]** Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking
 - <a href="https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/" >🔗</a> **[NASA]** Nebraska’s Wide, Rolling Domain
 - <a href="https://spaceflightnow.com/2026/06/16/astrobotic-showcases-griffin-1-lander-ahead-of-environmental-testing-in-california/" >🔗</a> **[Spaceflight Now]** Astrobotic showcases Griffin-1 lander ahead of environmental testing in California
 - <a href="https://spacepolicyonline.com/news/astrobotic-unveils-griffin-moon-base-ii-lander/" >🔗</a> **[SpacePolicyOnline.com]** Astrobotic Unveils Griffin “Moon Base II” Lander
-- <a href="https://www.nasa.gov/centers-and-facilities/jpl/explore-jpl-to-take-place-oct-10-11/" >🔗</a> **[NASA]** Explore JPL to Take Place Oct. 10, 11
-- <a href="https://spacenews.com/gilat-to-buy-comtech-satcoms-business-six-years-after-failed-merger/" >🔗</a> **[SpaceNews]** Gilat to buy Comtech satcoms business six years after failed merger
-- <a href="https://spacenews.com/space-force-orders-two-more-gps-satellites-from-lockheed-martin-for-514-million/" >🔗</a> **[SpaceNews]** Space Force orders two more GPS satellites from Lockheed Martin for $514 million
-- <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions/" >🔗</a> **[NASA]** NASA’s Chandra Finds Unexpected Fireworks in Aftermath of Stellar Explosions
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260616T130410">2026-06-16 13:04:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260616T151303">2026-06-16 15:13:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
