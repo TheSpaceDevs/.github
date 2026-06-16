@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_reveal_relic_of_our_galaxy_s_formation" >🔗</a> **[ESA]** Webb & Hubble reveal relic of our galaxy’s formation
+- <a href="https://www.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasas-quantum-lab-aboard-space-station-gets-chilly-upgrade/" >🔗</a> **[NASA]** NASA’s Quantum Lab Aboard Space Station Gets Chilly Upgrade
+- <a href="https://www.spacescout.info/2026/06/artemis-under-ignition/" >🔗</a> **[Space Scout]** Artemis Under Ignition
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Installing_NEMUCO_in_BioLab" >🔗</a> **[ESA]** Installing NEMUCO in BioLab
+- <a href="https://spacenews.com/space-unicorns-spacenews-billion-valuation/" >🔗</a> **[SpaceNews]** The SpaceNews space unicorn tracker
+- <a href="https://spacenews.com/katalyst-space-raises-12-million-for-geo-servicing-demo-mission/" >🔗</a> **[SpaceNews]** Katalyst Space raises $12 million for GEO servicing demo mission
+- <a href="https://science.nasa.gov/science-research/science-enabling-technology/nasa-uses-machine-learning-to-enhance-flash-flood-warnings/" >🔗</a> **[NASA]** NASA Uses Machine Learning to Enhance Flash Flood Warnings
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/department-of-health-and-human-services-digital-stockpile-manufacturing-response-network-challenge/" >🔗</a> **[NASA]** Department of Health and Human Services Digital Stockpile & Manufacturing Response Network Challenge
 - <a href="https://www.nasa.gov/image-article/aurora-australis-7/" >🔗</a> **[NASA]** Aurora Australis
 - <a href="https://spacenews.com/pilogic-partners-with-air-force-lab-to-test-satellite-fault-prediction-software/" >🔗</a> **[SpaceNews]** PiLogic partners with Air Force lab to test satellite fault-prediction software
-- <a href="https://spacenews.com/a-un-agency-that-works-for-us-space/" >🔗</a> **[SpaceNews]** A UN agency that works for US space
-- <a href="https://spacenews.com/geospatial-industry-launches-maritime-initiative/" >🔗</a> **[SpaceNews]** Geospatial industry launches maritime initiative
-- <a href="https://spacenews.com/deep-space-network-antenna-mishap-blamed-on-poor-training-and-procedures/" >🔗</a> **[SpaceNews]** Deep Space Network antenna mishap blamed on poor training and procedures
-- <a href="https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/" >🔗</a> **[SpaceNews]** Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking
-- <a href="https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/" >🔗</a> **[NASA]** Nebraska’s Wide, Rolling Domain
-- <a href="https://spaceflightnow.com/2026/06/16/astrobotic-showcases-griffin-1-lander-ahead-of-environmental-testing-in-california/" >🔗</a> **[Spaceflight Now]** Astrobotic showcases Griffin-1 lander ahead of environmental testing in California
-- <a href="https://spacepolicyonline.com/news/astrobotic-unveils-griffin-moon-base-ii-lander/" >🔗</a> **[SpacePolicyOnline.com]** Astrobotic Unveils Griffin “Moon Base II” Lander
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260616T151303">2026-06-16 15:13:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260616T171228">2026-06-16 17:12:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
