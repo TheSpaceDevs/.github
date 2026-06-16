@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/" >🔗</a> **[NASA]** Nebraska’s Wide, Rolling Domain
 - <a href="https://spaceflightnow.com/2026/06/16/astrobotic-showcases-griffin-1-lander-ahead-of-environmental-testing-in-california/" >🔗</a> **[Spaceflight Now]** Astrobotic showcases Griffin-1 lander ahead of environmental testing in California
 - <a href="https://spacepolicyonline.com/news/astrobotic-unveils-griffin-moon-base-ii-lander/" >🔗</a> **[SpacePolicyOnline.com]** Astrobotic Unveils Griffin “Moon Base II” Lander
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/explore-jpl-to-take-place-oct-10-11/" >🔗</a> **[NASA]** Explore JPL to Take Place Oct. 10, 11
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/learning-resources/for-colleges-universities/nasa-stem-projects/in-flight-education-downlinks/nasa-astronauts-to-answer-questions-from-new-jersey-students/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from New Jersey Students
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crs-34-dragon-returns-packed-with-space-station-science/" >🔗</a> **[NASA]** NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science
 - <a href="https://www.nasa.gov/general/frontiers-forum-speaker-series/" >🔗</a> **[NASA]** Frontiers Forum Speaker Series
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-available-for-prelaunch-virtual-interviews/" >🔗</a> **[NASA]** NASA Astronaut Anil Menon Available for Prelaunch Virtual Interviews
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260616T030209">2026-06-16 03:02:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260616T051232">2026-06-16 05:12:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
