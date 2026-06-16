@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/06/16/live-coverage-spacex-to-launch-3-block-2-bluebird-satellites-for-ast-spacemobile/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 3 Block 2 BlueBird satellites for AST SpaceMobile
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-catches-exoplanet-getting-roasted/" >🔗</a> **[NASA]** NASA’s Webb Catches Exoplanet Getting Roasted
 - <a href="https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/" >🔗</a> **[Arstechnica]** Amid launch bottleneck, Amazon has "hundreds" of satellites waiting to fly
 - <a href="https://spacenews.com/astrobotic-unveils-griffin-1-lunar-lander/" >🔗</a> **[SpaceNews]** Astrobotic unveils Griffin-1 lunar lander
 - <a href="https://science.nasa.gov/photojournal/astronaut-jessica-meir-assists-with-hardware-updates-for-nasas-cold-atom-lab/" >🔗</a> **[NASA]** Astronaut Jessica Meir Assists With Hardware Updates for NASA’s Cold Atom Lab
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_reveal_relic_of_our_galaxy_s_formation" >🔗</a> **[ESA]** Webb & Hubble reveal relic of our galaxy’s formation
 - <a href="https://science.nasa.gov/missions/webb/nasa-webb-hubble-reveal-history-of-relic-of-milky-ways-formation/" >🔗</a> **[NASA]** NASA Webb, Hubble Reveal History of Relic of Milky Way’s Formation
 - <a href="https://www.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasas-quantum-lab-aboard-space-station-gets-chilly-upgrade/" >🔗</a> **[NASA]** NASA’s Quantum Lab Aboard Space Station Gets Chilly Upgrade
-- <a href="https://www.spacescout.info/2026/06/artemis-under-ignition/" >🔗</a> **[Space Scout]** Artemis Under Ignition
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Installing_NEMUCO_in_BioLab" >🔗</a> **[ESA]** Installing NEMUCO in BioLab
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260616T212817">2026-06-16 21:28:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260616T221717">2026-06-16 22:17:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
