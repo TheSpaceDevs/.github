@@ -19,33 +19,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Kuaizhou 11 | Unknown Payload**. It is scheduled to be launched by *ExPace*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Launch Area 95A</a>, Jiuquan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T033100">2026-06-17 03:31:00 UTC</a>.  Until
-then, this pad will have been used for 66
-out of 289 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | BlueBird Block 2 #3-5**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T063900">2026-06-17 06:39:00 UTC</a>.  Until
+then, this pad will have been used for 387
+out of 1114 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Details TBD.
+  AST SpaceMobile’s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.
+
+This launch will feature 3 satellites.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=40.969117,100.343333" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T033100">2026-06-17 03:31:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou 11 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20260617T033100Z%2F20260617T041000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kuaizhou 11 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T063900">2026-06-17 06:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | BlueBird Block 2 #3-5&location=Cape Canaveral SFS, FL, USA&dates=20260617T063900Z%2F20260617T081500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | BlueBird Block 2 #3-5** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T115300">2026-06-17 11:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 64 Block 2 | Amazon Leo (LE-03)&location=Guiana Space Centre, French Guiana&dates=20260617T115300Z%2F20260617T122200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 64 Block 2 | Amazon Leo (LE-03)** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260618T085400">2026-06-18 08:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-179&location=Vandenberg SFB, CA, USA&dates=20260618T085400Z%2F20260618T092900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-179** from Vandenberg SFB, CA, USA.
@@ -55,6 +56,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T020000">2026-06-23 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260623T020000Z%2F20260623T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260624T024800">2026-06-24 02:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-45&location=Vandenberg SFB, CA, USA&dates=20260624T024800Z%2F20260624T044800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-45** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260627T090000">2026-06-27 09:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Pegasus XL | Swift Boost Mission&location=Air launch to orbit&dates=20260627T090000Z%2F20260627T142800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Pegasus XL | Swift Boost Mission** from Air launch to orbit.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T000000">2026-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Ten Owl Of Ten (StriX Launch 10)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260630T000000Z%2F20260630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Ten Owl Of Ten (StriX Launch 10)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +92,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/low-water-at-san-carlos-reservoir/" >🔗</a> **[NASA]** Low Water at San Carlos Reservoir
 - <a href="https://spacenews.com/golden-dome-sensors-event-june-25/" >🔗</a> **[SpaceNews]** June 25:  Golden Dome: How Could Sensors Protect the United States?
 - <a href="https://spaceflightnow.com/2026/06/16/live-coverage-spacex-to-launch-3-block-2-bluebird-satellites-for-ast-spacemobile/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 3 Block 2 BlueBird satellites for AST SpaceMobile
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-catches-exoplanet-getting-roasted/" >🔗</a> **[NASA]** NASA’s Webb Catches Exoplanet Getting Roasted
@@ -99,16 +102,16 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/arianespace-ceo-says-strike-will-not-affect-ariane-6-launch/" >🔗</a> **[European Spaceflight]** Arianespace CEO Says Strike Will Not Affect Ariane 6 Launch
 - <a href="https://spacenews.com/swiss-decision-to-not-contribute-to-copernicus-tests-programs-value-model/" >🔗</a> **[SpaceNews]** Swiss decision to not contribute to Copernicus tests program’s value model
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_reveal_relic_of_our_galaxy_s_formation" >🔗</a> **[ESA]** Webb & Hubble reveal relic of our galaxy’s formation
-- <a href="https://science.nasa.gov/missions/webb/nasa-webb-hubble-reveal-history-of-relic-of-milky-ways-formation/" >🔗</a> **[NASA]** NASA Webb, Hubble Reveal History of Relic of Milky Way’s Formation
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2024/11/17/ast-spacemobile-secures-multi-launch-agreements-with-blue-origin-isro-and-spacex/" >🔗</a> **[Spaceflight Now]** AST SpaceMobile secures multi-launch agreements with Blue Origin, ISRO and SpaceX
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T030212">2026-06-17 03:02:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T050857">2026-06-17 05:08:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
