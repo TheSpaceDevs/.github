@@ -92,16 +92,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/france-awards-eutelsat-e138-million-contract-to-provide-secure-communications/" >🔗</a> **[European Spaceflight]** France Awards Eutelsat €138 Million Contract to Provide Secure Communications
+- <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2026_-_April-June" >🔗</a> **[ESA]** ESA Impact: a look at ESA’s spring milestones
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dozens_of_dust_devils_hidden_in_plain_sight" >🔗</a> **[ESA]** Dozens of dust devils hidden in plain sight
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/One_robotic_arm_to_rule_them_all" >🔗</a> **[ESA]** One robotic arm to rule them all
 - <a href="https://science.nasa.gov/earth/earth-observatory/low-water-at-san-carlos-reservoir/" >🔗</a> **[NASA]** Low Water at San Carlos Reservoir
 - <a href="https://spacenews.com/golden-dome-sensors-event-june-25/" >🔗</a> **[SpaceNews]** June 25:  Golden Dome: How Could Sensors Protect the United States?
 - <a href="https://spaceflightnow.com/2026/06/16/live-coverage-spacex-to-launch-3-block-2-bluebird-satellites-for-ast-spacemobile/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 3 Block 2 BlueBird satellites for AST SpaceMobile
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-catches-exoplanet-getting-roasted/" >🔗</a> **[NASA]** NASA’s Webb Catches Exoplanet Getting Roasted
 - <a href="https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/" >🔗</a> **[Arstechnica]** Amid launch bottleneck, Amazon has "hundreds" of satellites waiting to fly
 - <a href="https://spacenews.com/astrobotic-unveils-griffin-1-lunar-lander/" >🔗</a> **[SpaceNews]** Astrobotic unveils Griffin-1 lunar lander
-- <a href="https://science.nasa.gov/photojournal/astronaut-jessica-meir-assists-with-hardware-updates-for-nasas-cold-atom-lab/" >🔗</a> **[NASA]** Astronaut Jessica Meir Assists With Hardware Updates for NASA’s Cold Atom Lab
-- <a href="https://europeanspaceflight.com/arianespace-ceo-says-strike-will-not-affect-ariane-6-launch/" >🔗</a> **[European Spaceflight]** Arianespace CEO Says Strike Will Not Affect Ariane 6 Launch
-- <a href="https://spacenews.com/swiss-decision-to-not-contribute-to-copernicus-tests-programs-value-model/" >🔗</a> **[SpaceNews]** Swiss decision to not contribute to Copernicus tests program’s value model
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_reveal_relic_of_our_galaxy_s_formation" >🔗</a> **[ESA]** Webb & Hubble reveal relic of our galaxy’s formation
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T090830">2026-06-17 09:08:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T111155">2026-06-17 11:11:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
