@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/" >🔗</a> **[NASA]** NASA Announces Public-Private Partnership to Advance Mars Science
+- <a href="https://www.nasaspaceflight.com/2026/06/relativity-update-0626/" >🔗</a> **[NASASpaceflight]** Terran R second stage heads to Stennis as Relativity advances toward 2026 debut
 - <a href="https://spacenews.com/relativity-space-to-privately-develop-mars-orbiter-mission/" >🔗</a> **[SpaceNews]** Relativity Space to privately develop Mars orbiter mission
 - <a href="https://europeanspaceflight.com/first-upgraded-ariane-6-rocket-launches-36-satellites-for-amazon/" >🔗</a> **[European Spaceflight]** First Upgraded Ariane 6 Rocket Launches 36 Satellites for Amazon
 - <a href="https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/" >🔗</a> **[NASA]** Search for Hidden Cosmic Companions in Sun’s Backyard
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/347th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 347th ESA Council: Media information session
 - <a href="https://www.nasa.gov/image-article/hubble-sees-swarm-of-galaxies/" >🔗</a> **[NASA]** Hubble Sees Swarm of Galaxies
 - <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-061626/" >🔗</a> **[NASASpaceflight]** Launch Preview: 10 launches scheduled from sites across the world
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_launches_with_more_powerful_boosters_a_new_record_for_Europe" >🔗</a> **[ESA]** Ariane 6 launches with more powerful boosters: a new record for Europe
-- <a href="https://spacenews.com/americas-next-economic-frontier-is-240000-miles-away/" >🔗</a> **[SpaceNews]** America’s next economic frontier is 240,000 miles away
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T213612">2026-06-17 21:36:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T223102">2026-06-17 22:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
