@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/relativity-space-to-privately-develop-mars-orbiter-mission/" >🔗</a> **[SpaceNews]** Relativity Space to privately develop Mars orbiter mission
 - <a href="https://europeanspaceflight.com/first-upgraded-ariane-6-rocket-launches-36-satellites-for-amazon/" >🔗</a> **[European Spaceflight]** First Upgraded Ariane 6 Rocket Launches 36 Satellites for Amazon
 - <a href="https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/" >🔗</a> **[NASA]** Search for Hidden Cosmic Companions in Sun’s Backyard
 - <a href="https://spacenews.com/upgraded-ariane-6-launches-amazon-leo-satellites/" >🔗</a> **[SpaceNews]** Upgraded Ariane 6 launches Amazon Leo satellites
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-061626/" >🔗</a> **[NASASpaceflight]** Launch Preview: 10 launches scheduled from sites across the world
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_launches_with_more_powerful_boosters_a_new_record_for_Europe" >🔗</a> **[ESA]** Ariane 6 launches with more powerful boosters: a new record for Europe
 - <a href="https://spacenews.com/americas-next-economic-frontier-is-240000-miles-away/" >🔗</a> **[SpaceNews]** America’s next economic frontier is 240,000 miles away
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/First_Ariane_6_liftoff_with_most_powerful_boosters" >🔗</a> **[ESA]** First Ariane 6 liftoff with most powerful boosters
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T203914">2026-06-17 20:39:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T213612">2026-06-17 21:36:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
