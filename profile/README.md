@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/first-upgraded-ariane-6-rocket-launches-36-satellites-for-amazon/" >🔗</a> **[European Spaceflight]** First Upgraded Ariane 6 Rocket Launches 36 Satellites for Amazon
+- <a href="https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/" >🔗</a> **[NASA]** Search for Hidden Cosmic Companions in Sun’s Backyard
 - <a href="https://spacenews.com/upgraded-ariane-6-launches-amazon-leo-satellites/" >🔗</a> **[SpaceNews]** Upgraded Ariane 6 launches Amazon Leo satellites
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Ariane_6_flight_VA269_-_full_replay" >🔗</a> **[ESA]** Ariane 6 flight VA269 - full replay
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/347th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 347th ESA Council: Media information session
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_launches_with_more_powerful_boosters_a_new_record_for_Europe" >🔗</a> **[ESA]** Ariane 6 launches with more powerful boosters: a new record for Europe
 - <a href="https://spacenews.com/americas-next-economic-frontier-is-240000-miles-away/" >🔗</a> **[SpaceNews]** America’s next economic frontier is 240,000 miles away
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/First_Ariane_6_liftoff_with_most_powerful_boosters" >🔗</a> **[ESA]** First Ariane 6 liftoff with most powerful boosters
-- <a href="https://spacenews.com/china-conducts-4-launches-in-3-days-but-silence-follows-kuaizhou-11-launch/" >🔗</a> **[SpaceNews]** China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch
-- <a href="https://spacenews.com/dawn-aerospace-raises-25-million/" >🔗</a> **[SpaceNews]** Dawn Aerospace raises $25 million
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T193946">2026-06-17 19:39:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T203914">2026-06-17 20:39:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
