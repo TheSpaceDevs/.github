@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/americas-next-economic-frontier-is-240000-miles-away/" >🔗</a> **[SpaceNews]** America’s next economic frontier is 240,000 miles away
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/First_Ariane_6_liftoff_with_most_powerful_boosters" >🔗</a> **[ESA]** First Ariane 6 liftoff with most powerful boosters
 - <a href="https://spacenews.com/china-conducts-4-launches-in-3-days-but-silence-follows-kuaizhou-11-launch/" >🔗</a> **[SpaceNews]** China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch
 - <a href="https://spacenews.com/dawn-aerospace-raises-25-million/" >🔗</a> **[SpaceNews]** Dawn Aerospace raises $25 million
 - <a href="https://spacenews.com/look-up-and-skynopy-partner-on-automated-satellite-collision-avoidance-service/" >🔗</a> **[SpaceNews]** Look Up and Skynopy partner on automated satellite collision avoidance service
 - <a href="https://spaceflightnow.com/2026/06/17/live-coverage-arianespace-to-launch-its-heaviest-payload-to-date-with-amazon-leo-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: Arianespace to launch its heaviest payload to date with Amazon Leo flight
 - <a href="https://europeanspaceflight.com/france-awards-eutelsat-e138-million-contract-to-provide-secure-communications/" >🔗</a> **[European Spaceflight]** France Awards Eutelsat €138 Million Contract to Provide Secure Communications
+- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_Council_appoints_two_new_directors" >🔗</a> **[ESA]** ESA Council appoints two new directors
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2026_-_April-June" >🔗</a> **[ESA]** ESA Impact: a look at ESA’s spring milestones
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dozens_of_dust_devils_hidden_in_plain_sight" >🔗</a> **[ESA]** Dozens of dust devils hidden in plain sight
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/One_robotic_arm_to_rule_them_all" >🔗</a> **[ESA]** One robotic arm to rule them all
-- <a href="https://science.nasa.gov/earth/earth-observatory/low-water-at-san-carlos-reservoir/" >🔗</a> **[NASA]** Low Water at San Carlos Reservoir
-- <a href="https://spacenews.com/golden-dome-sensors-event-june-25/" >🔗</a> **[SpaceNews]** June 25:  Golden Dome: How Could Sensors Protect the United States?
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T124508">2026-06-17 12:45:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T140939">2026-06-17 14:09:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
