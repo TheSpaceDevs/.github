@@ -46,8 +46,8 @@ into *an Unknown
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260618T085400">2026-06-18 08:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-179&location=Vandenberg SFB, CA, USA&dates=20260618T085400Z%2F20260618T092900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-179** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260618T200000">2026-06-18 20:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Onward and Upward&location=Andøya Spaceport&dates=20260618T200000Z%2F20260618T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Onward and Upward** from Andøya Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260620T140000">2026-06-20 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-28&location=Vandenberg SFB, CA, USA&dates=20260620T140000Z%2F20260620T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-28** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260620T200000">2026-06-20 20:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Onward and Upward&location=Andøya Spaceport&dates=20260620T200000Z%2F20260620T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Onward and Upward** from Andøya Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260621T104300">2026-06-21 10:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Project Starfall Demonstration Mission&location=Cape Canaveral SFS, FL, USA&dates=20260621T104300Z%2F20260621T152600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Project Starfall Demonstration Mission** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T020000">2026-06-23 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260623T020000Z%2F20260623T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260624T024800">2026-06-24 02:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-45&location=Vandenberg SFB, CA, USA&dates=20260624T024800Z%2F20260624T044800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-45** from Vandenberg SFB, CA, USA.
@@ -90,25 +90,26 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/347th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 347th ESA Council: Media information session
+- <a href="https://www.nasa.gov/image-article/hubble-sees-swarm-of-galaxies/" >🔗</a> **[NASA]** Hubble Sees Swarm of Galaxies
+- <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-061626/" >🔗</a> **[NASASpaceflight]** Launch Preview: 10 launches scheduled from sites across the world
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_launches_with_more_powerful_boosters_a_new_record_for_Europe" >🔗</a> **[ESA]** Ariane 6 launches with more powerful boosters: a new record for Europe
 - <a href="https://spacenews.com/americas-next-economic-frontier-is-240000-miles-away/" >🔗</a> **[SpaceNews]** America’s next economic frontier is 240,000 miles away
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/First_Ariane_6_liftoff_with_most_powerful_boosters" >🔗</a> **[ESA]** First Ariane 6 liftoff with most powerful boosters
 - <a href="https://spacenews.com/china-conducts-4-launches-in-3-days-but-silence-follows-kuaizhou-11-launch/" >🔗</a> **[SpaceNews]** China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch
 - <a href="https://spacenews.com/dawn-aerospace-raises-25-million/" >🔗</a> **[SpaceNews]** Dawn Aerospace raises $25 million
 - <a href="https://spacenews.com/look-up-and-skynopy-partner-on-automated-satellite-collision-avoidance-service/" >🔗</a> **[SpaceNews]** Look Up and Skynopy partner on automated satellite collision avoidance service
 - <a href="https://spaceflightnow.com/2026/06/17/live-coverage-arianespace-to-launch-its-heaviest-payload-to-date-with-amazon-leo-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: Arianespace to launch its heaviest payload to date with Amazon Leo flight
-- <a href="https://europeanspaceflight.com/france-awards-eutelsat-e138-million-contract-to-provide-secure-communications/" >🔗</a> **[European Spaceflight]** France Awards Eutelsat €138 Million Contract to Provide Secure Communications
-- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_Council_appoints_two_new_directors" >🔗</a> **[ESA]** ESA Council appoints two new directors
-- <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2026_-_April-June" >🔗</a> **[ESA]** ESA Impact: a look at ESA’s spring milestones
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dozens_of_dust_devils_hidden_in_plain_sight" >🔗</a> **[ESA]** Dozens of dust devils hidden in plain sight
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-061626/" >🔗</a> **[NASASpaceflight]** Launch Preview: 10 launches scheduled from sites across the world
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T140939">2026-06-17 14:09:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260617T154300">2026-06-17 15:43:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
