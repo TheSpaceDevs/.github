@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/" >🔗</a> **[Arstechnica]** NASA's $1.1 billion Gateway habitation module is unlikely to be used for something else
+- <a href="https://europeanspaceflight.com/germany-breaks-ground-on-one-of-two-govsatcom-hub-locations/" >🔗</a> **[European Spaceflight]** Germany Breaks Ground on One of Two GOVSATCOM Hub Locations
+- <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-commercial-satellite-data-acquisition/" >🔗</a> **[NASA]** NASA Awards Contract for Commercial Satellite Data Acquisition
+- <a href="https://spacenews.com/eqt-to-acquire-exolaunch/" >🔗</a> **[SpaceNews]** EQT to acquire Exolaunch
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/from-suriname-to-space-rohit-goeptars-shares-his-journey-to-nasa/" >🔗</a> **[NASA]** From Suriname to Space: Rohit Goeptar’s Shares his Journey to NASA
 - <a href="https://science.nasa.gov/photojournal/desert-field-test-with-nasa-advanced-rover-prototype/" >🔗</a> **[NASA]** Desert Field Test With NASA Advanced Rover Prototype
 - <a href="https://www.nasa.gov/solar-system/moon/nasa-testing-advanced-capabilities-for-moon-mars-rovers/" >🔗</a> **[NASA]** NASA Testing Advanced Capabilities for Moon, Mars Rovers
 - <a href="https://science.nasa.gov/missions/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/" >🔗</a> **[NASA]** NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid
 - <a href="https://spacenews.com/space-forces-rapid-acquisition-office-director-moves-to-air-force-nuclear-weapons-center/" >🔗</a> **[SpaceNews]** Space Force’s rapid acquisition office director moves to Air Force Nuclear Weapons Center
 - <a href="https://www.nasa.gov/image-article/stages-of-star-formation/" >🔗</a> **[NASA]** Stages of Star Formation
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Sophie_Adenot_s_mid-mission_highlights" >🔗</a> **[ESA]** Sophie Adenot's mid-mission highlights
-- <a href="https://spacenews.com/chinese-startup-spark-space-tests-engine-raises-funds-for-electric-pump-rocket/" >🔗</a> **[SpaceNews]** Chinese startup Spark Space tests engine, raises funds for electric-pump rocket
-- <a href="https://spacenews.com/a-legacy-to-help-solve-the-space-workforce-pipeline/" >🔗</a> **[SpaceNews]** A legacy to help solve the space workforce pipeline
-- <a href="https://spaceflightnow.com/2026/06/18/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260618T204527">2026-06-18 20:45:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260618T213814">2026-06-18 21:38:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
