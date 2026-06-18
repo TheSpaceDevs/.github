@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Sophie_Adenot_s_mid-mission_highlights" >🔗</a> **[ESA]** Sophie Adenot's mid-mission highlights
 - <a href="https://spacenews.com/chinese-startup-spark-space-tests-engine-raises-funds-for-electric-pump-rocket/" >🔗</a> **[SpaceNews]** Chinese startup Spark Space tests engine, raises funds for electric-pump rocket
 - <a href="https://spacenews.com/a-legacy-to-help-solve-the-space-workforce-pipeline/" >🔗</a> **[SpaceNews]** A legacy to help solve the space workforce pipeline
 - <a href="https://spaceflightnow.com/2026/06/18/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/hubble/hubble-glimpses-merging-galaxy-clusters/" >🔗</a> **[NASA]** Hubble Glimpses Merging Galaxy Clusters
 - <a href="https://europeanspaceflight.com/sirius-space-selected-to-fill-launch-facility-vacancy-left-by-maiaspace/" >🔗</a> **[European Spaceflight]** Sirius Space Selected to Fill Launch Facility Vacancy Left by MaiaSpace
 - <a href="https://spacenews.com/blue-origin-begins-rebuilding-new-glenn-pad/" >🔗</a> **[SpaceNews]** Blue Origin begins rebuilding New Glenn pad
-- <a href="https://spacenews.com/quantum-space-wins-pentagon-contract-to-develop-orbital-refueling-spacecraft/" >🔗</a> **[SpaceNews]** Quantum Space wins Pentagon contract to develop orbital refueling spacecraft
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260618T145947">2026-06-18 14:59:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260618T161412">2026-06-18 16:14:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
