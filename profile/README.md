@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/sirius-space-selected-to-fill-launch-facility-vacancy-left-by-maiaspace/" >🔗</a> **[European Spaceflight]** Sirius Space Selected to Fill Launch Facility Vacancy Left by MaiaSpace
+- <a href="https://spacenews.com/blue-origin-begins-rebuilding-new-glenn-pad/" >🔗</a> **[SpaceNews]** Blue Origin begins rebuilding New Glenn pad
+- <a href="https://spacenews.com/quantum-space-wins-pentagon-contract-to-develop-orbital-refueling-spacecraft/" >🔗</a> **[SpaceNews]** Quantum Space wins Pentagon contract to develop orbital refueling spacecraft
 - <a href="https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/" >🔗</a> **[NASA]** El Niño Is Underway
 - <a href="https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/" >🔗</a> **[NASA]** NASA Announces Public-Private Partnership to Advance Mars Science
 - <a href="https://www.nasaspaceflight.com/2026/06/relativity-update-0626/" >🔗</a> **[NASASpaceflight]** Terran R second stage heads to Stennis as Relativity advances toward 2026 debut
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/first-upgraded-ariane-6-rocket-launches-36-satellites-for-amazon/" >🔗</a> **[European Spaceflight]** First Upgraded Ariane 6 Rocket Launches 36 Satellites for Amazon
 - <a href="https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/" >🔗</a> **[NASA]** Search for Hidden Cosmic Companions in Sun’s Backyard
 - <a href="https://spacenews.com/upgraded-ariane-6-launches-amazon-leo-satellites/" >🔗</a> **[SpaceNews]** Upgraded Ariane 6 launches Amazon Leo satellites
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Ariane_6_flight_VA269_-_full_replay" >🔗</a> **[ESA]** Ariane 6 flight VA269 - full replay
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/347th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 347th ESA Council: Media information session
-- <a href="https://www.nasa.gov/image-article/hubble-sees-swarm-of-galaxies/" >🔗</a> **[NASA]** Hubble Sees Swarm of Galaxies
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260618T103547">2026-06-18 10:35:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260618T120624">2026-06-18 12:06:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
