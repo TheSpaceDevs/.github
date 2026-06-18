@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/solar-system/moon/nasa-testing-advanced-capabilities-for-moon-mars-rovers/" >🔗</a> **[NASA]** NASA Testing Advanced Capabilities for Moon, Mars Rovers
+- <a href="https://science.nasa.gov/missions/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/" >🔗</a> **[NASA]** NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid
+- <a href="https://spacenews.com/space-forces-rapid-acquisition-office-director-moves-to-air-force-nuclear-weapons-center/" >🔗</a> **[SpaceNews]** Space Force’s rapid acquisition office director moves to Air Force Nuclear Weapons Center
 - <a href="https://www.nasa.gov/image-article/stages-of-star-formation/" >🔗</a> **[NASA]** Stages of Star Formation
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Sophie_Adenot_s_mid-mission_highlights" >🔗</a> **[ESA]** Sophie Adenot's mid-mission highlights
 - <a href="https://spacenews.com/chinese-startup-spark-space-tests-engine-raises-funds-for-electric-pump-rocket/" >🔗</a> **[SpaceNews]** Chinese startup Spark Space tests engine, raises funds for electric-pump rocket
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2026/06/18/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office
 - <a href="https://spacenews.com/what-the-satellite-servicing-economy-can-borrow-from-carbon-credits/" >🔗</a> **[SpaceNews]** What the satellite servicing economy can borrow from carbon credits
 - <a href="https://spacenews.com/boeing-demonstrates-quantum-protocol-in-payload-set-for-2027-launch/" >🔗</a> **[SpaceNews]** Boeing demonstrates quantum protocol in payload set for 2027 launch
-- <a href="https://spacenews.com/swift-reboost-mission-ready-for-launch/" >🔗</a> **[SpaceNews]** Swift reboost mission ready for launch
-- <a href="https://science.nasa.gov/missions/hubble/hubble-glimpses-merging-galaxy-clusters/" >🔗</a> **[NASA]** Hubble Glimpses Merging Galaxy Clusters
-- <a href="https://europeanspaceflight.com/sirius-space-selected-to-fill-launch-facility-vacancy-left-by-maiaspace/" >🔗</a> **[European Spaceflight]** Sirius Space Selected to Fill Launch Facility Vacancy Left by MaiaSpace
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260618T173303">2026-06-18 17:33:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260618T184309">2026-06-18 18:43:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
