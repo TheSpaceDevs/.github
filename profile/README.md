@@ -46,9 +46,9 @@ into *an Unknown
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260619T084000">2026-06-19 08:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-179&location=Vandenberg SFB, CA, USA&dates=20260619T084000Z%2F20260619T091500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-179** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260621T104300">2026-06-21 10:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Project Starfall Demonstration Mission&location=Cape Canaveral SFS, FL, USA&dates=20260621T104300Z%2F20260621T152600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Project Starfall Demonstration Mission** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260621T140000">2026-06-21 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-28&location=Vandenberg SFB, CA, USA&dates=20260621T140000Z%2F20260621T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-28** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T020200">2026-06-23 02:02:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260623T020200Z%2F20260623T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T104300">2026-06-23 10:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Project Starfall Demonstration Mission&location=Cape Canaveral SFS, FL, USA&dates=20260623T104300Z%2F20260623T122600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Project Starfall Demonstration Mission** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T024800">2026-06-25 02:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-45&location=Vandenberg SFB, CA, USA&dates=20260625T024800Z%2F20260625T044800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-45** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260627T090000">2026-06-27 09:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Pegasus XL | Swift Boost Mission&location=Air launch to orbit&dates=20260627T090000Z%2F20260627T142800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Pegasus XL | Swift Boost Mission** from Air launch to orbit.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T000000">2026-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Ten Owl Of Ten (StriX Launch 10)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260630T000000Z%2F20260630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Ten Owl Of Ten (StriX Launch 10)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/stages-of-star-formation/" >🔗</a> **[NASA]** Stages of Star Formation
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Sophie_Adenot_s_mid-mission_highlights" >🔗</a> **[ESA]** Sophie Adenot's mid-mission highlights
 - <a href="https://spacenews.com/chinese-startup-spark-space-tests-engine-raises-funds-for-electric-pump-rocket/" >🔗</a> **[SpaceNews]** Chinese startup Spark Space tests engine, raises funds for electric-pump rocket
 - <a href="https://spacenews.com/a-legacy-to-help-solve-the-space-workforce-pipeline/" >🔗</a> **[SpaceNews]** A legacy to help solve the space workforce pipeline
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/swift-reboost-mission-ready-for-launch/" >🔗</a> **[SpaceNews]** Swift reboost mission ready for launch
 - <a href="https://science.nasa.gov/missions/hubble/hubble-glimpses-merging-galaxy-clusters/" >🔗</a> **[NASA]** Hubble Glimpses Merging Galaxy Clusters
 - <a href="https://europeanspaceflight.com/sirius-space-selected-to-fill-launch-facility-vacancy-left-by-maiaspace/" >🔗</a> **[European Spaceflight]** Sirius Space Selected to Fill Launch Facility Vacancy Left by MaiaSpace
-- <a href="https://spacenews.com/blue-origin-begins-rebuilding-new-glenn-pad/" >🔗</a> **[SpaceNews]** Blue Origin begins rebuilding New Glenn pad
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260618T161412">2026-06-18 16:14:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260618T173303">2026-06-18 17:33:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
