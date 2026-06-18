@@ -90,26 +90,27 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/06/18/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office
+- <a href="https://spacenews.com/what-the-satellite-servicing-economy-can-borrow-from-carbon-credits/" >🔗</a> **[SpaceNews]** What the satellite servicing economy can borrow from carbon credits
+- <a href="https://spacenews.com/boeing-demonstrates-quantum-protocol-in-payload-set-for-2027-launch/" >🔗</a> **[SpaceNews]** Boeing demonstrates quantum protocol in payload set for 2027 launch
+- <a href="https://spacenews.com/swift-reboost-mission-ready-for-launch/" >🔗</a> **[SpaceNews]** Swift reboost mission ready for launch
+- <a href="https://science.nasa.gov/missions/hubble/hubble-glimpses-merging-galaxy-clusters/" >🔗</a> **[NASA]** Hubble Glimpses Merging Galaxy Clusters
 - <a href="https://europeanspaceflight.com/sirius-space-selected-to-fill-launch-facility-vacancy-left-by-maiaspace/" >🔗</a> **[European Spaceflight]** Sirius Space Selected to Fill Launch Facility Vacancy Left by MaiaSpace
 - <a href="https://spacenews.com/blue-origin-begins-rebuilding-new-glenn-pad/" >🔗</a> **[SpaceNews]** Blue Origin begins rebuilding New Glenn pad
 - <a href="https://spacenews.com/quantum-space-wins-pentagon-contract-to-develop-orbital-refueling-spacecraft/" >🔗</a> **[SpaceNews]** Quantum Space wins Pentagon contract to develop orbital refueling spacecraft
 - <a href="https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/" >🔗</a> **[NASA]** El Niño Is Underway
 - <a href="https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/" >🔗</a> **[NASA]** NASA Announces Public-Private Partnership to Advance Mars Science
-- <a href="https://www.nasaspaceflight.com/2026/06/relativity-update-0626/" >🔗</a> **[NASASpaceflight]** Terran R second stage heads to Stennis as Relativity advances toward 2026 debut
-- <a href="https://spacenews.com/relativity-space-to-privately-develop-mars-orbiter-mission/" >🔗</a> **[SpaceNews]** Relativity Space to privately develop Mars orbiter mission
-- <a href="https://europeanspaceflight.com/first-upgraded-ariane-6-rocket-launches-36-satellites-for-amazon/" >🔗</a> **[European Spaceflight]** First Upgraded Ariane 6 Rocket Launches 36 Satellites for Amazon
-- <a href="https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/" >🔗</a> **[NASA]** Search for Hidden Cosmic Companions in Sun’s Backyard
-- <a href="https://spacenews.com/upgraded-ariane-6-launches-amazon-leo-satellites/" >🔗</a> **[SpaceNews]** Upgraded Ariane 6 launches Amazon Leo satellites
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2026/06/18/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office
 - <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-061626/" >🔗</a> **[NASASpaceflight]** Launch Preview: 10 launches scheduled from sites across the world
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260618T120624">2026-06-18 12:06:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260618T133846">2026-06-18 13:38:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
