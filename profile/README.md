@@ -91,15 +91,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_signal_updated_for_internet-of-things_use" >🔗</a> **[ESA]** Galileo signal updated for internet-of-things use
+- <a href="https://spacenews.com/chinese-university-led-mission-to-study-asteroid-apophis-during-close-encounter-with-earth/" >🔗</a> **[SpaceNews]** Chinese university-led mission to study asteroid Apophis during close encounter with Earth
+- <a href="https://spacenews.com/mu-g-technologies-enters-the-parabolic-flight-business/" >🔗</a> **[SpaceNews]** Mu-g Technologies enters the parabolic flight business
+- <a href="https://europeanspaceflight.com/anomaly-delays-full-scale-space-rider-drop-test-until-october/" >🔗</a> **[European Spaceflight]** Anomaly Delays Full-Scale Space Rider Drop Test Until October
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_celebrates_1000_images" >🔗</a> **[ESA]** Earth from Space celebrates 1000 images
 - <a href="https://spacenews.com/austrian-propulsion-startup-joins-sovereign-space-funding-surge/" >🔗</a> **[SpaceNews]** Austrian propulsion startup joins sovereign space funding surge
 - <a href="https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/" >🔗</a> **[NASA]** Tropical Storm Arthur
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4920-4926: Surveying the Bands
 - <a href="https://www.nasaspaceflight.com/2026/06/iss-roundup-061826/" >🔗</a> **[NASASpaceflight]** Canadarm2 repairs planned as CRS-34 departs ISS
 - <a href="https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/" >🔗</a> **[NASA]** NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere
-- <a href="https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/" >🔗</a> **[Arstechnica]** NASA's $1.1 billion Gateway habitation module is unlikely to be used for something else
-- <a href="https://europeanspaceflight.com/germany-breaks-ground-on-one-of-two-govsatcom-hub-locations/" >🔗</a> **[European Spaceflight]** Germany Breaks Ground on One of Two GOVSATCOM Hub Locations
-- <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-commercial-satellite-data-acquisition/" >🔗</a> **[NASA]** NASA Awards Contract for Commercial Satellite Data Acquisition
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260619T090927">2026-06-19 09:09:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260619T110020">2026-06-19 11:00:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
