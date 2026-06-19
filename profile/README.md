@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/06/nasa-prepares-next-artemis-rocket-for-flight/" >🔗</a> **[Space Scout]** NASA Prepares Next Artemis Rocket for Flight
+- <a href="https://spacenews.com/mda-space-to-buy-blue-canyon-technologies-to-gain-foothold-in-u-s-market/" >🔗</a> **[SpaceNews]** MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market
 - <a href="https://spacenews.com/elevationspace-secures-us-40-million-in-series-b-funding-bringing-total-raised-to-us-63-5-million/" >🔗</a> **[SpaceNews]** ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/The_Voice_in_Orbit_Talking_to_Astronauts_in_Space_ESA_Explores_20" >🔗</a> **[ESA]** The Voice in Orbit | Talking to Astronauts in Space | ESA Explores #20
 - <a href="https://spacenews.com/northrop-grumman-says-industry-ready-to-scale-solid-rocket-production-with-longer-contracts/" >🔗</a> **[SpaceNews]** Northrop Grumman says industry ready to scale solid rocket production, with longer contracts
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-meo-durability-crisis-why-leo-hardware-will-fail-the-new-orbital-economy/" >🔗</a> **[SpaceNews]** The MEO durability crisis: why LEO hardware will fail the new orbital economy
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Ariane_6_flight_VA269_Liftoff_captured_from_the_mobile_gantry" >🔗</a> **[ESA]** Ariane 6 flight VA269: Liftoff captured from the mobile gantry
 - <a href="https://spacenews.com/nasa-selects-mission-to-study-space-weather-interaction-with-earths-atmosphere/" >🔗</a> **[SpaceNews]** NASA selects mission to study space weather interaction with Earth’s atmosphere
-- <a href="https://spacenews.com/chinese-university-led-mission-to-study-asteroid-apophis-during-close-encounter-with-earth/" >🔗</a> **[SpaceNews]** Chinese university-led mission to study asteroid Apophis during close encounter with Earth
-- <a href="https://spacenews.com/mu-g-technologies-enters-the-parabolic-flight-business/" >🔗</a> **[SpaceNews]** Mu-g Technologies enters the parabolic flight business
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260619T160451">2026-06-19 16:04:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260619T171433">2026-06-19 17:14:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
