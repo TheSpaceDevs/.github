@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4920-4926: Surveying the Bands
 - <a href="https://www.nasaspaceflight.com/2026/06/iss-roundup-061826/" >🔗</a> **[NASASpaceflight]** Canadarm2 repairs planned as CRS-34 departs ISS
 - <a href="https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/" >🔗</a> **[NASA]** NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere
 - <a href="https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/" >🔗</a> **[Arstechnica]** NASA's $1.1 billion Gateway habitation module is unlikely to be used for something else
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/from-suriname-to-space-rohit-goeptars-shares-his-journey-to-nasa/" >🔗</a> **[NASA]** From Suriname to Space: Rohit Goeptar’s Shares his Journey to NASA
 - <a href="https://science.nasa.gov/photojournal/desert-field-test-with-nasa-advanced-rover-prototype/" >🔗</a> **[NASA]** Desert Field Test With NASA Advanced Rover Prototype
 - <a href="https://www.nasa.gov/solar-system/moon/nasa-testing-advanced-capabilities-for-moon-mars-rovers/" >🔗</a> **[NASA]** NASA Testing Advanced Capabilities for Moon, Mars Rovers
-- <a href="https://science.nasa.gov/missions/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/" >🔗</a> **[NASA]** NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260619T003527">2026-06-19 00:35:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260619T015329">2026-06-19 01:53:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
