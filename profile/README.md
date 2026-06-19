@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/elevationspace-secures-us-40-million-in-series-b-funding-bringing-total-raised-to-us-63-5-million/" >🔗</a> **[SpaceNews]** ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/The_Voice_in_Orbit_Talking_to_Astronauts_in_Space_ESA_Explores_20" >🔗</a> **[ESA]** The Voice in Orbit | Talking to Astronauts in Space | ESA Explores #20
 - <a href="https://spacenews.com/northrop-grumman-says-industry-ready-to-scale-solid-rocket-production-with-longer-contracts/" >🔗</a> **[SpaceNews]** Northrop Grumman says industry ready to scale solid rocket production, with longer contracts
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_signal_updated_for_internet-of-things_use" >🔗</a> **[ESA]** Galileo signal updated for internet-of-things use
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-selects-mission-to-study-space-weather-interaction-with-earths-atmosphere/" >🔗</a> **[SpaceNews]** NASA selects mission to study space weather interaction with Earth’s atmosphere
 - <a href="https://spacenews.com/chinese-university-led-mission-to-study-asteroid-apophis-during-close-encounter-with-earth/" >🔗</a> **[SpaceNews]** Chinese university-led mission to study asteroid Apophis during close encounter with Earth
 - <a href="https://spacenews.com/mu-g-technologies-enters-the-parabolic-flight-business/" >🔗</a> **[SpaceNews]** Mu-g Technologies enters the parabolic flight business
-- <a href="https://europeanspaceflight.com/anomaly-delays-full-scale-space-rider-drop-test-until-october/" >🔗</a> **[European Spaceflight]** Anomaly Delays Full-Scale Space Rider Drop Test Until October
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260619T145933">2026-06-19 14:59:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260619T160451">2026-06-19 16:04:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
