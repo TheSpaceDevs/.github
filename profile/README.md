@@ -91,15 +91,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_signal_updated_for_internet-of-things_use" >🔗</a> **[ESA]** Galileo signal updated for internet-of-things use
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_15-19_June_2026" >🔗</a> **[ESA]** Week in images: 15-19 June 2026
+- <a href="https://spacenews.com/the-meo-durability-crisis-why-leo-hardware-will-fail-the-new-orbital-economy/" >🔗</a> **[SpaceNews]** The MEO durability crisis: why LEO hardware will fail the new orbital economy
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Ariane_6_flight_VA269_Liftoff_captured_from_the_mobile_gantry" >🔗</a> **[ESA]** Ariane 6 flight VA269: Liftoff captured from the mobile gantry
 - <a href="https://spacenews.com/nasa-selects-mission-to-study-space-weather-interaction-with-earths-atmosphere/" >🔗</a> **[SpaceNews]** NASA selects mission to study space weather interaction with Earth’s atmosphere
 - <a href="https://spacenews.com/chinese-university-led-mission-to-study-asteroid-apophis-during-close-encounter-with-earth/" >🔗</a> **[SpaceNews]** Chinese university-led mission to study asteroid Apophis during close encounter with Earth
 - <a href="https://spacenews.com/mu-g-technologies-enters-the-parabolic-flight-business/" >🔗</a> **[SpaceNews]** Mu-g Technologies enters the parabolic flight business
 - <a href="https://europeanspaceflight.com/anomaly-delays-full-scale-space-rider-drop-test-until-october/" >🔗</a> **[European Spaceflight]** Anomaly Delays Full-Scale Space Rider Drop Test Until October
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_celebrates_1000_images" >🔗</a> **[ESA]** Earth from Space celebrates 1000 images
 - <a href="https://spacenews.com/austrian-propulsion-startup-joins-sovereign-space-funding-surge/" >🔗</a> **[SpaceNews]** Austrian propulsion startup joins sovereign space funding surge
-- <a href="https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/" >🔗</a> **[NASA]** Tropical Storm Arthur
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4920-4926: Surveying the Bands
-- <a href="https://www.nasaspaceflight.com/2026/06/iss-roundup-061826/" >🔗</a> **[NASASpaceflight]** Canadarm2 repairs planned as CRS-34 departs ISS
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260619T122527">2026-06-19 12:25:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260619T134129">2026-06-19 13:41:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
