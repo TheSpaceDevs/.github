@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/" >🔗</a> **[SpaceNews]** Astrobotic says sale to Voyager will allow it to scale up
 - <a href="https://spaceflightnow.com/2026/06/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://spacenews.com/indias-jio-lays-out-sovereign-leo-constellation-plan-ahead-of-ipo/" >🔗</a> **[SpaceNews]** India’s Jio lays out sovereign LEO constellation plan ahead of IPO
 - <a href="https://www.spacescout.info/2026/06/nasa-prepares-next-artemis-rocket-for-flight/" >🔗</a> **[Space Scout]** NASA Prepares Next Artemis Rocket for Flight
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/The_Voice_in_Orbit_Talking_to_Astronauts_in_Space_ESA_Explores_20" >🔗</a> **[ESA]** The Voice in Orbit | Talking to Astronauts in Space | ESA Explores #20
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_signal_updated_for_internet-of-things_use" >🔗</a> **[ESA]** Galileo signal updated for internet-of-things use
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_15-19_June_2026" >🔗</a> **[ESA]** Week in images: 15-19 June 2026
-- <a href="https://spacenews.com/the-meo-durability-crisis-why-leo-hardware-will-fail-the-new-orbital-economy/" >🔗</a> **[SpaceNews]** The MEO durability crisis: why LEO hardware will fail the new orbital economy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260620T192843">2026-06-20 19:28:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260620T200357">2026-06-20 20:03:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
