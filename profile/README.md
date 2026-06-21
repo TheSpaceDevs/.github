@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-21-27-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 21-27, 2026
 - <a href="https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/" >🔗</a> **[SpaceNews]** Astrobotic says sale to Voyager will allow it to scale up
 - <a href="https://spaceflightnow.com/2026/06/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://spacenews.com/indias-jio-lays-out-sovereign-leo-constellation-plan-ahead-of-ipo/" >🔗</a> **[SpaceNews]** India’s Jio lays out sovereign LEO constellation plan ahead of IPO
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/northrop-grumman-says-industry-ready-to-scale-solid-rocket-production-with-longer-contracts/" >🔗</a> **[SpaceNews]** Northrop Grumman says industry ready to scale solid rocket production, with longer contracts
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/The_Voice_in_Orbit_Talking_to_Astronauts_in_Space_ESA_Explores_20" >🔗</a> **[ESA]** The Voice in Orbit | Talking to Astronauts in Space | ESA Explores #20
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_signal_updated_for_internet-of-things_use" >🔗</a> **[ESA]** Galileo signal updated for internet-of-things use
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_15-19_June_2026" >🔗</a> **[ESA]** Week in images: 15-19 June 2026
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260621T225222">2026-06-21 22:52:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260621T232643">2026-06-21 23:26:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
