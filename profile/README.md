@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/america-is-about-to-cede-africas-space-industry-to-china-and-nobodys-talking-about-it/" >🔗</a> **[SpaceNews]** America is about to cede Africa’s space industry to China, and nobody’s talking about it.
+- <a href="https://spacenews.com/astroscale-raises-funding-to-support-growth-strategy/" >🔗</a> **[SpaceNews]** Astroscale raises funding to support growth strategy
 - <a href="https://europeanspaceflight.com/esa-astronaut-tests-european-spacesuit-prototype-aboard-iss/" >🔗</a> **[European Spaceflight]** ESA Astronaut Tests European Spacesuit Prototype Aboard ISS
+- <a href="https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/" >🔗</a> **[NASA]** Signs of Thaw in the Bering Sea
 - <a href="https://spaceflightnow.com/2026/06/22/nasas-nancy-grace-roman-space-telescope-arrives-in-florida/" >🔗</a> **[Spaceflight Now]** NASA’s Nancy Grace Roman Space Telescope arrives in Florida
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-21-27-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 21-27, 2026
 - <a href="https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/" >🔗</a> **[SpaceNews]** Astrobotic says sale to Voyager will allow it to scale up
 - <a href="https://spaceflightnow.com/2026/06/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://spacenews.com/indias-jio-lays-out-sovereign-leo-constellation-plan-ahead-of-ipo/" >🔗</a> **[SpaceNews]** India’s Jio lays out sovereign LEO constellation plan ahead of IPO
 - <a href="https://www.spacescout.info/2026/06/nasa-prepares-next-artemis-rocket-for-flight/" >🔗</a> **[Space Scout]** NASA Prepares Next Artemis Rocket for Flight
-- <a href="https://spacenews.com/mda-space-to-buy-blue-canyon-technologies-to-gain-foothold-in-u-s-market/" >🔗</a> **[SpaceNews]** MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market
-- <a href="https://spacenews.com/elevationspace-secures-us-40-million-in-series-b-funding-bringing-total-raised-to-us-63-5-million/" >🔗</a> **[SpaceNews]** ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million
-- <a href="https://spacenews.com/northrop-grumman-says-industry-ready-to-scale-solid-rocket-production-with-longer-contracts/" >🔗</a> **[SpaceNews]** Northrop Grumman says industry ready to scale solid rocket production, with longer contracts
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260622T112308">2026-06-22 11:23:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260622T131906">2026-06-22 13:19:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
