@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-botswana-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Botswana Artemis Accords Signing Ceremony
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-experimental-fabrication-branch-fuels-aircraft-innovation/" >🔗</a> **[NASA]** NASA’s Experimental Fabrication Branch Fuels Aircraft Innovation
 - <a href="https://spacenews.com/chinese-spaceplane-releases-object-into-orbit-according-to-commercial-space-surveillance/" >🔗</a> **[SpaceNews]** Chinese spaceplane releases object into orbit, according to commercial space surveillance
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-possible-supernova-remnant/" >🔗</a> **[NASA]** NASA’s Chandra Finds Possible Supernova Remnant
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/" >🔗</a> **[Arstechnica]** This former hacker saw the light—and now wants to collect all of it
 - <a href="https://spacenews.com/america-is-about-to-cede-africas-space-industry-to-china-and-nobodys-talking-about-it/" >🔗</a> **[SpaceNews]** America is about to cede Africa’s space industry to China, and nobody’s talking about it.
 - <a href="https://spacenews.com/astroscale-raises-funding-to-support-growth-strategy/" >🔗</a> **[SpaceNews]** Astroscale raises funding to support growth strategy
-- <a href="https://europeanspaceflight.com/esa-astronaut-tests-european-spacesuit-prototype-aboard-iss/" >🔗</a> **[European Spaceflight]** ESA Astronaut Tests European Spacesuit Prototype Aboard ISS
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260622T184403">2026-06-22 18:44:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260622T200024">2026-06-22 20:00:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
