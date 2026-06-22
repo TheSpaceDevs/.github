@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-experimental-fabrication-branch-fuels-aircraft-innovation/" >🔗</a> **[NASA]** NASA’s Experimental Fabrication Branch Fuels Aircraft Innovation
+- <a href="https://spacenews.com/chinese-spaceplane-releases-object-into-orbit-according-to-commercial-space-surveillance/" >🔗</a> **[SpaceNews]** Chinese spaceplane releases object into orbit, according to commercial space surveillance
+- <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-possible-supernova-remnant/" >🔗</a> **[NASA]** NASA’s Chandra Finds Possible Supernova Remnant
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalk-95-host-preview-news-conference/" >🔗</a> **[NASA]** NASA to Cover US Spacewalk 95, Host Preview News Conference
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_clues_to_ancient_origin_of_Comet_3I_ATLAS" >🔗</a> **[ESA]** Webb finds clues to ancient origin of Comet 3I/ATLAS
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/" >🔗</a> **[NASA]** NASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/america-is-about-to-cede-africas-space-industry-to-china-and-nobodys-talking-about-it/" >🔗</a> **[SpaceNews]** America is about to cede Africa’s space industry to China, and nobody’s talking about it.
 - <a href="https://spacenews.com/astroscale-raises-funding-to-support-growth-strategy/" >🔗</a> **[SpaceNews]** Astroscale raises funding to support growth strategy
 - <a href="https://europeanspaceflight.com/esa-astronaut-tests-european-spacesuit-prototype-aboard-iss/" >🔗</a> **[European Spaceflight]** ESA Astronaut Tests European Spacesuit Prototype Aboard ISS
-- <a href="https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/" >🔗</a> **[NASA]** Signs of Thaw in the Bering Sea
-- <a href="https://spaceflightnow.com/2026/06/22/nasas-nancy-grace-roman-space-telescope-arrives-in-florida/" >🔗</a> **[Spaceflight Now]** NASA’s Nancy Grace Roman Space Telescope arrives in Florida
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-21-27-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 21-27, 2026
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260622T170935">2026-06-22 17:09:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260622T184403">2026-06-22 18:44:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
