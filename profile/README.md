@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-astronaut-tests-european-spacesuit-prototype-aboard-iss/" >🔗</a> **[European Spaceflight]** ESA Astronaut Tests European Spacesuit Prototype Aboard ISS
 - <a href="https://spaceflightnow.com/2026/06/22/nasas-nancy-grace-roman-space-telescope-arrives-in-florida/" >🔗</a> **[Spaceflight Now]** NASA’s Nancy Grace Roman Space Telescope arrives in Florida
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-21-27-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 21-27, 2026
 - <a href="https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/" >🔗</a> **[SpaceNews]** Astrobotic says sale to Voyager will allow it to scale up
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/mda-space-to-buy-blue-canyon-technologies-to-gain-foothold-in-u-s-market/" >🔗</a> **[SpaceNews]** MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market
 - <a href="https://spacenews.com/elevationspace-secures-us-40-million-in-series-b-funding-bringing-total-raised-to-us-63-5-million/" >🔗</a> **[SpaceNews]** ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million
 - <a href="https://spacenews.com/northrop-grumman-says-industry-ready-to-scale-solid-rocket-production-with-longer-contracts/" >🔗</a> **[SpaceNews]** Northrop Grumman says industry ready to scale solid rocket production, with longer contracts
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/The_Voice_in_Orbit_Talking_to_Astronauts_in_Space_ESA_Explores_20" >🔗</a> **[ESA]** The Voice in Orbit | Talking to Astronauts in Space | ESA Explores #20
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260622T092807">2026-06-22 09:28:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260622T112308">2026-06-22 11:23:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
