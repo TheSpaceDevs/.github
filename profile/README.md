@@ -94,6 +94,8 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/rising-waters-swamp-lake-naivasha/" >🔗</a> **[NASA]** Rising Waters Swamp Lake Naivasha
+- <a href="https://spacepolicyonline.com/news/nasa-ig-cites-dire-nasa-launch-infrastructure-needs/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Cites Dire NASA Launch Infrastructure Needs
 - <a href="https://spacenews.com/nasa-and-boeing-still-uncertain-about-when-starliner-will-return-to-flight/" >🔗</a> **[SpaceNews]** NASA and Boeing still uncertain about when Starliner will return to flight
 - <a href="https://spaceflightnow.com/2026/06/23/live-coverage-spacex-to-launch-reentry-capsule-demo-mission-called-starfall/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’
 - <a href="https://spacenews.com/trump-signs-executive-order-to-accelerate-quantum-space-infrastructure/" >🔗</a> **[SpaceNews]** Trump signs executive order to accelerate quantum space infrastructure
@@ -102,8 +104,6 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 - <a href="https://www.nasaspaceflight.com/2026/06/starfall-demo/" >🔗</a> **[NASASpaceflight]** SpaceX to test upcoming Starfall reentry vehicle with demonstration mission on Tuesday
 - <a href="https://spacenews.com/rocket-lab-launches-satellite-for-u-s-space-force-victus-haze-responsive-space-exercise/" >🔗</a> **[SpaceNews]** Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-sounding-rocket-to-launch-student-experiments/" >🔗</a> **[NASA]** NASA Sounding Rocket to Launch Student Experiments
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-botswana-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Botswana Artemis Accords Signing Ceremony
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-experimental-fabrication-branch-fuels-aircraft-innovation/" >🔗</a> **[NASA]** NASA’s Experimental Fabrication Branch Fuels Aircraft Innovation
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T034322">2026-06-23 03:43:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T051654">2026-06-23 05:16:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
