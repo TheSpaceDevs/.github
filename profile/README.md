@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/this-is-how-nasa-flight-tests-new-technology/" >🔗</a> **[NASA]** This is How NASA Flight Tests New Technology
+- <a href="https://spacenews.com/sophia-selects-apex-bus-for-on-orbit-computing-demonstration/" >🔗</a> **[SpaceNews]** Sophia selects Apex bus for on-orbit computing demonstration
+- <a href="https://www.nasa.gov/image-article/hanging-in-the-balance/" >🔗</a> **[NASA]** Hanging in the Balance
+- <a href="https://europeanspaceflight.com/esa-details-next-steps-for-agencys-gateway-contributions/" >🔗</a> **[European Spaceflight]** ESA Details Next Steps for Agency’s Gateway Contributions
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Paxi_and_the_European_Space_Agency" >🔗</a> **[ESA]** Paxi and the European Space Agency
 - <a href="https://www.nasa.gov/humans-in-space/i-am-artemis-jason-peterson/" >🔗</a> **[NASA]** I Am Artemis: Jason Peterson
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Open_opportunities_with_ESA_Navigation" >🔗</a> **[ESA]** Open opportunities with ESA Navigation
 - <a href="https://science.nasa.gov/missions/hubble/hubble-details-early-galaxy-transforming-neighborhood/" >🔗</a> **[NASA]** Hubble Details Early Galaxy Transforming Neighborhood
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-pinpoints-millions-of-stars-within-cigar-galaxy/" >🔗</a> **[NASA]** NASA’s Webb Pinpoints Millions of Stars Within Cigar Galaxy
 - <a href="https://spacenews.com/loft-orbital-to-test-ai-models-on-spacecraft-for-earth-observation/" >🔗</a> **[SpaceNews]** Loft Orbital to test AI models on spacecraft for Earth observation
-- <a href="https://spacenews.com/satellogic-partners-with-synmax-to-build-intelligence-services-around-upcoming-merlin-constellation/" >🔗</a> **[SpaceNews]** Satellogic partners with SynMax to build intelligence services around upcoming Merlin constellation
-- <a href="https://spacenews.com/china-appears-to-be-developing-7-meter-diameter-reusable-rockets/" >🔗</a> **[SpaceNews]** China appears to be developing 7-meter-diameter reusable rockets
-- <a href="https://spacenews.com/report-u-s-needs-framework-for-responding-to-hostile-acts-in-space/" >🔗</a> **[SpaceNews]** Report: U.S. needs framework for responding to hostile acts in space
-- <a href="https://science.nasa.gov/earth/earth-observatory/rising-waters-swamp-lake-naivasha/" >🔗</a> **[NASA]** Rising Waters Swamp Lake Naivasha
-- <a href="https://spacepolicyonline.com/news/nasa-ig-cites-dire-nasa-launch-infrastructure-needs/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Cites Dire NASA Launch Infrastructure Needs
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T152928">2026-06-23 15:29:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T162131">2026-06-23 16:21:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
