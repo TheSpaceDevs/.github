@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/" >🔗</a> **[SpaceNews]** NASA’s inspector general warns launch sites nearing capacity
+- <a href="https://spacenews.com/boeing-wins-2-billion-space-force-contract-for-communications-satellites/" >🔗</a> **[SpaceNews]** Boeing wins $2 billion Space Force contract for communications satellites
 - <a href="https://www.nasa.gov/news-release/nasa-names-sean-gallagher-as-chief-information-officer/" >🔗</a> **[NASA]** NASA Names Sean Gallagher as Chief Information Officer
+- <a href="https://spaceflightnow.com/2026/06/23/nasa-boeing-committed-to-starliner-1-launch-despite-unclear-timeline/" >🔗</a> **[Spaceflight Now]** NASA, Boeing committed to Starliner-1 launch despite unclear timeline
 - <a href="https://spaceflightnow.com/2026/06/23/nasa-boeing-committed-to-stariner-1-launch-amid-despite-unclear-timeline/" >🔗</a> **[Spaceflight Now]** NASA, Boeing committed to Stariner-1 launch amid despite unclear timeline
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-new-associate-member/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes New Associate Member
 - <a href="https://science.nasa.gov/science-research/earth-science/csda-selects-eight-commercial-satellite-data-providers-for-on-ramp-2-contract-awards/" >🔗</a> **[NASA]** CSDA Selects Eight Commercial Satellite Data Providers for On-Ramp 2 Contract Awards
 - <a href="https://science.nasa.gov/earth/58th-girl-scouts-unite-event/" >🔗</a> **[NASA]** 58th Girl Scouts Unite Event
 - <a href="https://spacenews.com/ubotica-raises-11-million-to-scale-maritime-intelligence-platform/" >🔗</a> **[SpaceNews]** Ubotica raises $11 million to scale maritime-intelligence platform
 - <a href="https://science.nasa.gov/earth/2026-ala-hyperwall-schedule/" >🔗</a> **[NASA]** 2026 ALA Hyperwall Schedule
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/this-is-how-nasa-flight-tests-new-technology/" >🔗</a> **[NASA]** This is How NASA Flight Tests New Technology
-- <a href="https://spacenews.com/sophia-selects-apex-bus-for-on-orbit-computing-demonstration/" >🔗</a> **[SpaceNews]** Sophia selects Apex bus for on-orbit computing demonstration
-- <a href="https://www.nasa.gov/image-article/hanging-in-the-balance/" >🔗</a> **[NASA]** Hanging in the Balance
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T215740">2026-06-23 21:57:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T223112">2026-06-23 22:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
