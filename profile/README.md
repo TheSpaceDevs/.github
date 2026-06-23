@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Open_opportunities_with_ESA_Navigation" >🔗</a> **[ESA]** Open opportunities with ESA Navigation
+- <a href="https://science.nasa.gov/missions/hubble/hubble-details-early-galaxy-transforming-neighborhood/" >🔗</a> **[NASA]** Hubble Details Early Galaxy Transforming Neighborhood
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-pinpoints-millions-of-stars-within-cigar-galaxy/" >🔗</a> **[NASA]** NASA’s Webb Pinpoints Millions of Stars Within Cigar Galaxy
 - <a href="https://spacenews.com/loft-orbital-to-test-ai-models-on-spacecraft-for-earth-observation/" >🔗</a> **[SpaceNews]** Loft Orbital to test AI models on spacecraft for Earth observation
 - <a href="https://spacenews.com/satellogic-partners-with-synmax-to-build-intelligence-services-around-upcoming-merlin-constellation/" >🔗</a> **[SpaceNews]** Satellogic partners with SynMax to build intelligence services around upcoming Merlin constellation
 - <a href="https://spacenews.com/china-appears-to-be-developing-7-meter-diameter-reusable-rockets/" >🔗</a> **[SpaceNews]** China appears to be developing 7-meter-diameter reusable rockets
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/rising-waters-swamp-lake-naivasha/" >🔗</a> **[NASA]** Rising Waters Swamp Lake Naivasha
 - <a href="https://spacepolicyonline.com/news/nasa-ig-cites-dire-nasa-launch-infrastructure-needs/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Cites Dire NASA Launch Infrastructure Needs
 - <a href="https://spacenews.com/nasa-and-boeing-still-uncertain-about-when-starliner-will-return-to-flight/" >🔗</a> **[SpaceNews]** NASA and Boeing still uncertain about when Starliner will return to flight
-- <a href="https://spaceflightnow.com/2026/06/23/live-coverage-spacex-to-launch-reentry-capsule-demo-mission-called-starfall/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’
-- <a href="https://spacenews.com/trump-signs-executive-order-to-accelerate-quantum-space-infrastructure/" >🔗</a> **[SpaceNews]** Trump signs executive order to accelerate quantum space infrastructure
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T132422">2026-06-23 13:24:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T141616">2026-06-23 14:16:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
