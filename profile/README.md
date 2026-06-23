@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/humans-in-space/i-am-artemis-jason-peterson/" >🔗</a> **[NASA]** I Am Artemis: Jason Peterson
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Open_opportunities_with_ESA_Navigation" >🔗</a> **[ESA]** Open opportunities with ESA Navigation
 - <a href="https://science.nasa.gov/missions/hubble/hubble-details-early-galaxy-transforming-neighborhood/" >🔗</a> **[NASA]** Hubble Details Early Galaxy Transforming Neighborhood
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-pinpoints-millions-of-stars-within-cigar-galaxy/" >🔗</a> **[NASA]** NASA’s Webb Pinpoints Millions of Stars Within Cigar Galaxy
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/report-u-s-needs-framework-for-responding-to-hostile-acts-in-space/" >🔗</a> **[SpaceNews]** Report: U.S. needs framework for responding to hostile acts in space
 - <a href="https://science.nasa.gov/earth/earth-observatory/rising-waters-swamp-lake-naivasha/" >🔗</a> **[NASA]** Rising Waters Swamp Lake Naivasha
 - <a href="https://spacepolicyonline.com/news/nasa-ig-cites-dire-nasa-launch-infrastructure-needs/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Cites Dire NASA Launch Infrastructure Needs
-- <a href="https://spacenews.com/nasa-and-boeing-still-uncertain-about-when-starliner-will-return-to-flight/" >🔗</a> **[SpaceNews]** NASA and Boeing still uncertain about when Starliner will return to flight
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T141616">2026-06-23 14:16:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T152928">2026-06-23 15:29:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
