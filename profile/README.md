@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/06/23/live-coverage-spacex-to-launch-reentry-capsule-demo-mission-called-starfall/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’
 - <a href="https://spacenews.com/trump-signs-executive-order-to-accelerate-quantum-space-infrastructure/" >🔗</a> **[SpaceNews]** Trump signs executive order to accelerate quantum space infrastructure
 - <a href="https://arstechnica.com/space/2026/06/report-kennedy-space-center-not-ready-for-era-of-super-heavy-rockets/" >🔗</a> **[Arstechnica]** Report: Kennedy Space Center not ready for era of super heavy rockets
 - <a href="https://www.nasa.gov/news-release/nasa-awards-solutions-for-federal-enterprise-procurement-contracts/" >🔗</a> **[NASA]** NASA Awards Solutions for Federal Enterprise Procurement Contracts
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-botswana-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Botswana Artemis Accords Signing Ceremony
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-experimental-fabrication-branch-fuels-aircraft-innovation/" >🔗</a> **[NASA]** NASA’s Experimental Fabrication Branch Fuels Aircraft Innovation
 - <a href="https://spacenews.com/chinese-spaceplane-releases-object-into-orbit-according-to-commercial-space-surveillance/" >🔗</a> **[SpaceNews]** Chinese spaceplane releases object into orbit, according to commercial space surveillance
-- <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-possible-supernova-remnant/" >🔗</a> **[NASA]** NASA’s Chandra Finds Possible Supernova Remnant
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T002753">2026-06-23 00:27:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T012103">2026-06-23 01:21:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
