@@ -94,6 +94,7 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Satellite_navigation/Open_opportunities_with_ESA_Navigation" >🔗</a> **[ESA]** Open opportunities with ESA Navigation
 - <a href="https://science.nasa.gov/earth/earth-observatory/rising-waters-swamp-lake-naivasha/" >🔗</a> **[NASA]** Rising Waters Swamp Lake Naivasha
 - <a href="https://spacepolicyonline.com/news/nasa-ig-cites-dire-nasa-launch-infrastructure-needs/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Cites Dire NASA Launch Infrastructure Needs
 - <a href="https://spacenews.com/nasa-and-boeing-still-uncertain-about-when-starliner-will-return-to-flight/" >🔗</a> **[SpaceNews]** NASA and Boeing still uncertain about when Starliner will return to flight
@@ -103,7 +104,6 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 - <a href="https://www.nasa.gov/news-release/nasa-awards-solutions-for-federal-enterprise-procurement-contracts/" >🔗</a> **[NASA]** NASA Awards Solutions for Federal Enterprise Procurement Contracts
 - <a href="https://www.nasaspaceflight.com/2026/06/starfall-demo/" >🔗</a> **[NASASpaceflight]** SpaceX to test upcoming Starfall reentry vehicle with demonstration mission on Tuesday
 - <a href="https://spacenews.com/rocket-lab-launches-satellite-for-u-s-space-force-victus-haze-responsive-space-exercise/" >🔗</a> **[SpaceNews]** Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise
-- <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-sounding-rocket-to-launch-student-experiments/" >🔗</a> **[NASA]** NASA Sounding Rocket to Launch Student Experiments
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T064443">2026-06-23 06:44:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T080930">2026-06-23 08:09:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
