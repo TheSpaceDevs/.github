@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ubotica-raises-11-million-to-scale-maritime-intelligence-platform/" >🔗</a> **[SpaceNews]** Ubotica raises $11 million to scale maritime-intelligence platform
 - <a href="https://science.nasa.gov/earth/2026-ala-hyperwall-schedule/" >🔗</a> **[NASA]** 2026 ALA Hyperwall Schedule
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/this-is-how-nasa-flight-tests-new-technology/" >🔗</a> **[NASA]** This is How NASA Flight Tests New Technology
 - <a href="https://spacenews.com/sophia-selects-apex-bus-for-on-orbit-computing-demonstration/" >🔗</a> **[SpaceNews]** Sophia selects Apex bus for on-orbit computing demonstration
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/humans-in-space/i-am-artemis-jason-peterson/" >🔗</a> **[NASA]** I Am Artemis: Jason Peterson
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Open_opportunities_with_ESA_Navigation" >🔗</a> **[ESA]** Open opportunities with ESA Navigation
 - <a href="https://science.nasa.gov/missions/hubble/hubble-details-early-galaxy-transforming-neighborhood/" >🔗</a> **[NASA]** Hubble Details Early Galaxy Transforming Neighborhood
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-pinpoints-millions-of-stars-within-cigar-galaxy/" >🔗</a> **[NASA]** NASA’s Webb Pinpoints Millions of Stars Within Cigar Galaxy
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T171427">2026-06-23 17:14:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T180852">2026-06-23 18:08:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
