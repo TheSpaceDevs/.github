@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-new-associate-member/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes New Associate Member
+- <a href="https://science.nasa.gov/science-research/earth-science/csda-selects-eight-commercial-satellite-data-providers-for-on-ramp-2-contract-awards/" >🔗</a> **[NASA]** CSDA Selects Eight Commercial Satellite Data Providers for On-Ramp 2 Contract Awards
+- <a href="https://science.nasa.gov/earth/58th-girl-scouts-unite-event/" >🔗</a> **[NASA]** 58th Girl Scouts Unite Event
 - <a href="https://spacenews.com/ubotica-raises-11-million-to-scale-maritime-intelligence-platform/" >🔗</a> **[SpaceNews]** Ubotica raises $11 million to scale maritime-intelligence platform
 - <a href="https://science.nasa.gov/earth/2026-ala-hyperwall-schedule/" >🔗</a> **[NASA]** 2026 ALA Hyperwall Schedule
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/this-is-how-nasa-flight-tests-new-technology/" >🔗</a> **[NASA]** This is How NASA Flight Tests New Technology
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/hanging-in-the-balance/" >🔗</a> **[NASA]** Hanging in the Balance
 - <a href="https://europeanspaceflight.com/esa-details-next-steps-for-agencys-gateway-contributions/" >🔗</a> **[European Spaceflight]** ESA Details Next Steps for Agency’s Gateway Contributions
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Paxi_and_the_European_Space_Agency" >🔗</a> **[ESA]** Paxi and the European Space Agency
-- <a href="https://www.nasa.gov/humans-in-space/i-am-artemis-jason-peterson/" >🔗</a> **[NASA]** I Am Artemis: Jason Peterson
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Open_opportunities_with_ESA_Navigation" >🔗</a> **[ESA]** Open opportunities with ESA Navigation
-- <a href="https://science.nasa.gov/missions/hubble/hubble-details-early-galaxy-transforming-neighborhood/" >🔗</a> **[NASA]** Hubble Details Early Galaxy Transforming Neighborhood
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T180852">2026-06-23 18:08:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T191152">2026-06-23 19:11:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
