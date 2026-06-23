@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-names-sean-gallagher-as-chief-information-officer/" >🔗</a> **[NASA]** NASA Names Sean Gallagher as Chief Information Officer
+- <a href="https://spaceflightnow.com/2026/06/23/nasa-boeing-committed-to-stariner-1-launch-amid-despite-unclear-timeline/" >🔗</a> **[Spaceflight Now]** NASA, Boeing committed to Stariner-1 launch amid despite unclear timeline
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-new-associate-member/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes New Associate Member
 - <a href="https://science.nasa.gov/science-research/earth-science/csda-selects-eight-commercial-satellite-data-providers-for-on-ramp-2-contract-awards/" >🔗</a> **[NASA]** CSDA Selects Eight Commercial Satellite Data Providers for On-Ramp 2 Contract Awards
 - <a href="https://science.nasa.gov/earth/58th-girl-scouts-unite-event/" >🔗</a> **[NASA]** 58th Girl Scouts Unite Event
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/this-is-how-nasa-flight-tests-new-technology/" >🔗</a> **[NASA]** This is How NASA Flight Tests New Technology
 - <a href="https://spacenews.com/sophia-selects-apex-bus-for-on-orbit-computing-demonstration/" >🔗</a> **[SpaceNews]** Sophia selects Apex bus for on-orbit computing demonstration
 - <a href="https://www.nasa.gov/image-article/hanging-in-the-balance/" >🔗</a> **[NASA]** Hanging in the Balance
-- <a href="https://europeanspaceflight.com/esa-details-next-steps-for-agencys-gateway-contributions/" >🔗</a> **[European Spaceflight]** ESA Details Next Steps for Agency’s Gateway Contributions
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Paxi_and_the_European_Space_Agency" >🔗</a> **[ESA]** Paxi and the European Space Agency
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T210547">2026-06-23 21:05:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260623T215740">2026-06-23 21:57:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
