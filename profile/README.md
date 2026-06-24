@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/rocket-factory-augsburg-details-rfa-one-upgrades-and-rfa-two-plans/" >🔗</a> **[European Spaceflight]** Rocket Factory Augsburg Details RFA ONE Upgrades and RFA TWO Plans
+- <a href="https://spacenews.com/vast-signs-additional-partners-for-commercial-space-station-microgravity-research/" >🔗</a> **[SpaceNews]** Vast signs additional partners for commercial space station microgravity research
 - <a href="https://www.nasa.gov/learning-resources/career-spotlight-electrician-ages-14-18/" >🔗</a> **[NASA]** Career Spotlight: Electrician (Ages 14-18)
 - <a href="https://spacenews.com/york-satellite-demonstrates-two-way-uhf-communications-from-low-earth-orbit/" >🔗</a> **[SpaceNews]** York satellite demonstrates two-way UHF communications from low Earth orbit
 - <a href="https://spacenews.com/how-space-weather-could-bust-the-ai-boom/" >🔗</a> **[SpaceNews]** How space weather could bust the AI boom
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/" >🔗</a> **[SpaceNews]** NGSO trade association launches without industry giant SpaceX
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart" >🔗</a> **[ESA]** ESA’s Euclid captures the Milky Way’s crowded heart
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart" >🔗</a> **[ESA]** ESA’s Euclid captures the Milky Way’s crowded heart
-- <a href="https://www.esa.int/Enabling_Support/Operations/End_of_the_blue_glow_BepiColombo_turns_off_solar_electric_propulsion_for_Mercury_arrival" >🔗</a> **[ESA]** End of the blue glow: BepiColombo turns off solar electric propulsion for Mercury arrival
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/The_art_of_hadrons" >🔗</a> **[ESA]** The art of hadrons
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260624T134033">2026-06-24 13:40:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260624T145326">2026-06-24 14:53:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
