@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/roman-telescope-comes-to-kennedy/" >🔗</a> **[NASA]** Roman Telescope Comes to Kennedy
+- <a href="https://spacenews.com/mda-space-wins-contract-for-radarsat-replenishment-satellite/" >🔗</a> **[SpaceNews]** MDA Space wins contract for Radarsat replenishment satellite
 - <a href="https://science.nasa.gov/photojournal/nasas-hirise-captures-perseverance-marking-a-milestone-on-mars/" >🔗</a> **[NASA]** NASA’s HiRISE Captures Perseverance Marking a Milestone on Mars
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/euclid-view-of-milky-way-heart-previews-core-survey-by-nasas-roman/" >🔗</a> **[NASA]** Euclid View of Milky Way Heart Previews Core Survey by NASA’s Roman
 - <a href="https://europeanspaceflight.com/rocket-factory-augsburg-details-rfa-one-upgrades-and-rfa-two-plans/" >🔗</a> **[European Spaceflight]** Rocket Factory Augsburg Details RFA ONE Upgrades and RFA TWO Plans
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/york-satellite-demonstrates-two-way-uhf-communications-from-low-earth-orbit/" >🔗</a> **[SpaceNews]** York satellite demonstrates two-way UHF communications from low Earth orbit
 - <a href="https://spacenews.com/how-space-weather-could-bust-the-ai-boom/" >🔗</a> **[SpaceNews]** How space weather could bust the AI boom
 - <a href="https://spacenews.com/vantor-selects-bae-systems-to-build-next-generation-imaging-satellites/" >🔗</a> **[SpaceNews]** Vantor selects BAE Systems to build next-generation imaging satellites
-- <a href="https://spacenews.com/spacex-launches-secretive-starfall-reentry-demo-mission/" >🔗</a> **[SpaceNews]** SpaceX launches secretive Starfall reentry demo mission
-- <a href="https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/" >🔗</a> **[SpaceNews]** NGSO trade association launches without industry giant SpaceX
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260624T192957">2026-06-24 19:29:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260624T201136">2026-06-24 20:11:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
