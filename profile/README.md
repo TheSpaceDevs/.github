@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ohb-raises-funding-for-expansion-acquisitions/" >🔗</a> **[SpaceNews]** OHB raises funding for expansion, acquisitions
 - <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-062326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Pegasus XL to launch amongst Falcon 9 and Chinese missions
 - <a href="https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/" >🔗</a> **[SpaceNews]** NASA’s inspector general warns launch sites nearing capacity
 - <a href="https://spacenews.com/boeing-wins-2-billion-space-force-contract-for-communications-satellites/" >🔗</a> **[SpaceNews]** Boeing wins $2 billion Space Force contract for communications satellites
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-new-associate-member/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes New Associate Member
 - <a href="https://science.nasa.gov/science-research/earth-science/csda-selects-eight-commercial-satellite-data-providers-for-on-ramp-2-contract-awards/" >🔗</a> **[NASA]** CSDA Selects Eight Commercial Satellite Data Providers for On-Ramp 2 Contract Awards
 - <a href="https://science.nasa.gov/earth/58th-girl-scouts-unite-event/" >🔗</a> **[NASA]** 58th Girl Scouts Unite Event
-- <a href="https://spacenews.com/ubotica-raises-11-million-to-scale-maritime-intelligence-platform/" >🔗</a> **[SpaceNews]** Ubotica raises $11 million to scale maritime-intelligence platform
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260624T021603">2026-06-24 02:16:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260624T034348">2026-06-24 03:43:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
