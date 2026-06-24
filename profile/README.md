@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4927–4933: Let’s Drive to That Smooth Area
+- <a href="https://science.nasa.gov/earth/earth-observatory/playing-the-moon-game/" >🔗</a> **[NASA]** Playing the Moon Game
 - <a href="https://spacenews.com/ohb-raises-funding-for-expansion-acquisitions/" >🔗</a> **[SpaceNews]** OHB raises funding for expansion, acquisitions
 - <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-062326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Pegasus XL to launch amongst Falcon 9 and Chinese missions
 - <a href="https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/" >🔗</a> **[SpaceNews]** NASA’s inspector general warns launch sites nearing capacity
 - <a href="https://spacenews.com/boeing-wins-2-billion-space-force-contract-for-communications-satellites/" >🔗</a> **[SpaceNews]** Boeing wins $2 billion Space Force contract for communications satellites
 - <a href="https://www.nasa.gov/news-release/nasa-names-sean-gallagher-as-chief-information-officer/" >🔗</a> **[NASA]** NASA Names Sean Gallagher as Chief Information Officer
-- <a href="https://spaceflightnow.com/2026/06/23/nasa-boeing-committed-to-starliner-1-launch-despite-unclear-timeline/" >🔗</a> **[Spaceflight Now]** NASA, Boeing committed to Starliner-1 launch despite unclear timeline
 - <a href="https://spaceflightnow.com/2026/06/23/nasa-boeing-committed-to-stariner-1-launch-amid-despite-unclear-timeline/" >🔗</a> **[Spaceflight Now]** NASA, Boeing committed to Stariner-1 launch amid despite unclear timeline
+- <a href="https://spaceflightnow.com/2026/06/23/nasa-boeing-committed-to-starliner-1-launch-despite-unclear-timeline/" >🔗</a> **[Spaceflight Now]** NASA, Boeing committed to Starliner-1 launch despite unclear timeline
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-new-associate-member/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes New Associate Member
-- <a href="https://science.nasa.gov/science-research/earth-science/csda-selects-eight-commercial-satellite-data-providers-for-on-ramp-2-contract-awards/" >🔗</a> **[NASA]** CSDA Selects Eight Commercial Satellite Data Providers for On-Ramp 2 Contract Awards
-- <a href="https://science.nasa.gov/earth/58th-girl-scouts-unite-event/" >🔗</a> **[NASA]** 58th Girl Scouts Unite Event
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260624T034348">2026-06-24 03:43:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260624T051612">2026-06-24 05:16:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
