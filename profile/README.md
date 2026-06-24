@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/" >🔗</a> **[Arstechnica]** Analysis finds the exploration programs NASA recently canceled were running way late
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-the-ion-orion-lessons-from-artemis-ii-shape-nasas-moon-to-mars-path/" >🔗</a> **[NASA]** NASA at the Ion: Orion Lessons from Artemis II Shape NASA’s Moon to Mars Path
+- <a href="https://spacenews.com/space-force-seeks-fresh-bidders-for-satellite-control-antennas/" >🔗</a> **[SpaceNews]** Space Force seeks fresh bidders for satellite-control antennas
+- <a href="https://www.nasa.gov/news-release/la-nasa-compartira-los-ultimos-avances-del-programa-base-lunar/" >🔗</a> **[NASA]** La NASA compartirá los últimos avances del programa Base Lunar
+- <a href="https://www.nasa.gov/news-release/nasa-to-share-latest-moon-base-mission-progress/" >🔗</a> **[NASA]** NASA to Share Latest Moon Base Mission Progress
+- <a href="https://spacenews.com/shield-space-and-clearspace-partner-to-defend-satellites-from-orbital-threats/" >🔗</a> **[SpaceNews]** Shield Space and ClearSpace partner to defend satellites from orbital threats
 - <a href="https://www.nasa.gov/image-article/roman-telescope-comes-to-kennedy/" >🔗</a> **[NASA]** Roman Telescope Comes to Kennedy
 - <a href="https://spacenews.com/mda-space-wins-contract-for-radarsat-replenishment-satellite/" >🔗</a> **[SpaceNews]** MDA Space wins contract for Radarsat replenishment satellite
 - <a href="https://science.nasa.gov/photojournal/nasas-hirise-captures-perseverance-marking-a-milestone-on-mars/" >🔗</a> **[NASA]** NASA’s HiRISE Captures Perseverance Marking a Milestone on Mars
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/euclid-view-of-milky-way-heart-previews-core-survey-by-nasas-roman/" >🔗</a> **[NASA]** Euclid View of Milky Way Heart Previews Core Survey by NASA’s Roman
-- <a href="https://europeanspaceflight.com/rocket-factory-augsburg-details-rfa-one-upgrades-and-rfa-two-plans/" >🔗</a> **[European Spaceflight]** Rocket Factory Augsburg Details RFA ONE Upgrades and RFA TWO Plans
-- <a href="https://spacenews.com/vast-signs-additional-partners-for-commercial-space-station-microgravity-research/" >🔗</a> **[SpaceNews]** Vast signs additional partners for commercial space station microgravity research
-- <a href="https://www.nasa.gov/learning-resources/career-spotlight-electrician-ages-14-18/" >🔗</a> **[NASA]** Career Spotlight: Electrician (Ages 14-18)
-- <a href="https://spacenews.com/york-satellite-demonstrates-two-way-uhf-communications-from-low-earth-orbit/" >🔗</a> **[SpaceNews]** York satellite demonstrates two-way UHF communications from low Earth orbit
-- <a href="https://spacenews.com/how-space-weather-could-bust-the-ai-boom/" >🔗</a> **[SpaceNews]** How space weather could bust the AI boom
-- <a href="https://spacenews.com/vantor-selects-bae-systems-to-build-next-generation-imaging-satellites/" >🔗</a> **[SpaceNews]** Vantor selects BAE Systems to build next-generation imaging satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260624T210134">2026-06-24 21:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260624T215603">2026-06-24 21:56:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
