@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/" >🔗</a> **[SpaceNews]** NGSO trade association launches without industry giant SpaceX
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart" >🔗</a> **[ESA]** ESA’s Euclid captures the Milky Way’s crowded heart
+- <a href="https://spacenews.com/spacex-launches-secretive-starfall-reentry-demo-mission/" >🔗</a> **[SpaceNews]** SpaceX launches secretive Starfall reentry demo mission
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart" >🔗</a> **[ESA]** ESA’s Euclid captures the Milky Way’s crowded heart
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart" >🔗</a> **[ESA]** ESA’s Euclid captures the Milky Way’s crowded heart
+- <a href="https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/" >🔗</a> **[SpaceNews]** NGSO trade association launches without industry giant SpaceX
 - <a href="https://www.esa.int/Enabling_Support/Operations/End_of_the_blue_glow_BepiColombo_turns_off_solar_electric_propulsion_for_Mercury_arrival" >🔗</a> **[ESA]** End of the blue glow: BepiColombo turns off solar electric propulsion for Mercury arrival
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/The_art_of_hadrons" >🔗</a> **[ESA]** The art of hadrons
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4927–4933: Let’s Drive to That Smooth Area
 - <a href="https://science.nasa.gov/earth/earth-observatory/playing-the-moon-game/" >🔗</a> **[NASA]** Playing the Moon Game
 - <a href="https://spacenews.com/ohb-raises-funding-for-expansion-acquisitions/" >🔗</a> **[SpaceNews]** OHB raises funding for expansion, acquisitions
 - <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-062326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Pegasus XL to launch amongst Falcon 9 and Chinese missions
-- <a href="https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/" >🔗</a> **[SpaceNews]** NASA’s inspector general warns launch sites nearing capacity
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260624T105807">2026-06-24 10:58:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260624T115716">2026-06-24 11:57:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
