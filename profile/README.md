@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Operations/End_of_the_blue_glow_BepiColombo_turns_off_solar_electric_propulsion_for_Mercury_arrival" >🔗</a> **[ESA]** End of the blue glow: BepiColombo turns off solar electric propulsion for Mercury arrival
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/The_art_of_hadrons" >🔗</a> **[ESA]** The art of hadrons
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4927–4933: Let’s Drive to That Smooth Area
 - <a href="https://science.nasa.gov/earth/earth-observatory/playing-the-moon-game/" >🔗</a> **[NASA]** Playing the Moon Game
@@ -99,16 +100,16 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/boeing-wins-2-billion-space-force-contract-for-communications-satellites/" >🔗</a> **[SpaceNews]** Boeing wins $2 billion Space Force contract for communications satellites
 - <a href="https://www.nasa.gov/news-release/nasa-names-sean-gallagher-as-chief-information-officer/" >🔗</a> **[NASA]** NASA Names Sean Gallagher as Chief Information Officer
 - <a href="https://spaceflightnow.com/2026/06/23/nasa-boeing-committed-to-starliner-1-launch-despite-unclear-timeline/" >🔗</a> **[Spaceflight Now]** NASA, Boeing committed to Starliner-1 launch despite unclear timeline
-- <a href="https://spaceflightnow.com/2026/06/23/nasa-boeing-committed-to-stariner-1-launch-amid-despite-unclear-timeline/" >🔗</a> **[Spaceflight Now]** NASA, Boeing committed to Stariner-1 launch amid despite unclear timeline
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-062326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Pegasus XL to launch amongst Falcon 9 and Chinese missions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260624T080620">2026-06-24 08:06:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260624T094230">2026-06-24 09:42:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
