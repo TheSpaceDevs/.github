@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/vantor-selects-bae-systems-to-build-next-generation-imaging-satellites/" >🔗</a> **[SpaceNews]** Vantor selects BAE Systems to build next-generation imaging satellites
 - <a href="https://spacenews.com/spacex-launches-secretive-starfall-reentry-demo-mission/" >🔗</a> **[SpaceNews]** SpaceX launches secretive Starfall reentry demo mission
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart" >🔗</a> **[ESA]** ESA’s Euclid captures the Milky Way’s crowded heart
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart" >🔗</a> **[ESA]** ESA’s Euclid captures the Milky Way’s crowded heart
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4927–4933: Let’s Drive to That Smooth Area
 - <a href="https://science.nasa.gov/earth/earth-observatory/playing-the-moon-game/" >🔗</a> **[NASA]** Playing the Moon Game
 - <a href="https://spacenews.com/ohb-raises-funding-for-expansion-acquisitions/" >🔗</a> **[SpaceNews]** OHB raises funding for expansion, acquisitions
-- <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-062326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Pegasus XL to launch amongst Falcon 9 and Chinese missions
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260624T115716">2026-06-24 11:57:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260624T124911">2026-06-24 12:49:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
