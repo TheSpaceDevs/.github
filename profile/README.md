@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-forces-new-muos-satellites-to-use-boeings-702mp-spacecraft-platform/" >🔗</a> **[SpaceNews]** Space Force’s new MUOS satellites to use Boeing’s 702MP spacecraft platform
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/expedition-73-crew-reflects-on-science-teamwork-and-life-in-orbit/" >🔗</a> **[NASA]** Expedition 73 Crew Reflects on Science, Teamwork, and Life in Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/" >🔗</a> **[NASA]** NASA, US Small Business Administration to Announce Partnership
 - <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-botswana-as-68th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Botswana as 68th Artemis Accords Signatory
 - <a href="https://spacenews.com/botswana-signs-the-artemis-accords/" >🔗</a> **[SpaceNews]** Botswana signs the Artemis Accords
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/" >🔗</a> **[NASA]** Millions of Stars in Cigar Galaxy
 - <a href="https://spacenews.com/small-satellite-operators-confront-a-bottleneck-to-space-access/" >🔗</a> **[SpaceNews]** Small satellite operators confront a bottleneck to space access
 - <a href="https://spacenews.com/finding-solutions-to-jamming-and-spoofing/" >🔗</a> **[SpaceNews]** Finding solutions to jamming and spoofing
-- <a href="https://www.nasaspaceflight.com/2026/06/endeavour-exhibit-reveal/" >🔗</a> **[NASASpaceflight]** Space Shuttle Endeavour displayed vertically in new exhibit at California Science Center
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Europe_faces_the_heat" >🔗</a> **[ESA]** Europe faces the heat
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T212948">2026-06-25 21:29:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T220445">2026-06-25 22:04:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
