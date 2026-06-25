@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/ohb-to-raise-e510m-to-boost-manufacturing-capacity-and-invest-in-rockets/" >🔗</a> **[European Spaceflight]** OHB to Raise €510M to Boost Manufacturing Capacity and Invest in Rockets
+- <a href="https://spacenews.com/china-schedules-long-march-10b-rocket-launch-and-recovery-attempt/" >🔗</a> **[SpaceNews]** China schedules Long March 10B rocket launch and recovery attempt
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/European_Flight_Ticket_Initiative_opens_to_more_launch_service_providers" >🔗</a> **[ESA]** European Flight Ticket Initiative opens to more launch service providers
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Smile_reaches_science_orbit" >🔗</a> **[ESA]** Smile reaches science orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/A_first_EarthCARE_cloud_data_sharpen_weather_forecasts" >🔗</a> **[ESA]** A first: EarthCARE cloud data sharpen weather forecasts
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/" >🔗</a> **[NASA]** A Turquoise Tint for the Black Sea
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/06/24/live-coverage-west-coast-falcon-9-launch-to-continue-expansion-of-spacexs-starlink-network/" >🔗</a> **[Spaceflight Now]** Live Coverage: West Coast Falcon 9 launch to continue expansion of SpaceX’s Starlink network
 - <a href="https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/" >🔗</a> **[Arstechnica]** Analysis finds the exploration programs NASA recently canceled were running way late
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-the-ion-orion-lessons-from-artemis-ii-shape-nasas-moon-to-mars-path/" >🔗</a> **[NASA]** NASA at the Ion: Orion Lessons from Artemis II Shape NASA’s Moon to Mars Path
-- <a href="https://spacenews.com/space-force-seeks-fresh-bidders-for-satellite-control-antennas/" >🔗</a> **[SpaceNews]** Space Force seeks fresh bidders for satellite-control antennas
-- <a href="https://www.nasa.gov/news-release/nasa-to-share-latest-moon-base-mission-progress/" >🔗</a> **[NASA]** NASA to Share Latest Moon Base Mission Progress
-- <a href="https://spacenews.com/shield-space-and-clearspace-partner-to-defend-satellites-from-orbital-threats/" >🔗</a> **[SpaceNews]** Shield Space and ClearSpace partner to defend satellites from orbital threats
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T093907">2026-06-25 09:39:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T105337">2026-06-25 10:53:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
