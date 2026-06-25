@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/" >🔗</a> **[NASA]** A Turquoise Tint for the Black Sea
 - <a href="https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/" >🔗</a> **[NASA]** NASA’s TESS Mission Reveals the “Puffiest” Planets Ever Found
 - <a href="https://spaceflightnow.com/2026/06/24/live-coverage-west-coast-falcon-9-launch-to-continue-expansion-of-spacexs-starlink-network/" >🔗</a> **[Spaceflight Now]** Live Coverage: West Coast Falcon 9 launch to continue expansion of SpaceX’s Starlink network
 - <a href="https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/" >🔗</a> **[Arstechnica]** Analysis finds the exploration programs NASA recently canceled were running way late
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-to-share-latest-moon-base-mission-progress/" >🔗</a> **[NASA]** NASA to Share Latest Moon Base Mission Progress
 - <a href="https://spacenews.com/shield-space-and-clearspace-partner-to-defend-satellites-from-orbital-threats/" >🔗</a> **[SpaceNews]** Shield Space and ClearSpace partner to defend satellites from orbital threats
 - <a href="https://www.nasa.gov/image-article/roman-telescope-comes-to-kennedy/" >🔗</a> **[NASA]** Roman Telescope Comes to Kennedy
-- <a href="https://spacenews.com/mda-space-wins-contract-for-radarsat-replenishment-satellite/" >🔗</a> **[SpaceNews]** MDA Space wins contract for Radarsat replenishment satellite
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T034321">2026-06-25 03:43:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T051713">2026-06-25 05:17:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
