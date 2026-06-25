@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/" >🔗</a> **[NASA]** NASA Selects Rocket Lab to Launch Sun, Earth Science Missions
 - <a href="https://spacepolicyonline.com/news/asap-worries-about-iss-gao-wonders-what-comes-next/" >🔗</a> **[SpacePolicyOnline.com]** ASAP Worries About ISS, GAO Wonders What Comes Next
 - <a href="https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/" >🔗</a> **[NASA]** Millions of Stars in Cigar Galaxy
 - <a href="https://spacenews.com/small-satellite-operators-confront-a-bottleneck-to-space-access/" >🔗</a> **[SpaceNews]** Small satellite operators confront a bottleneck to space access
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/house-appropriations-committee-approves-55-5-billion-for-u-s-space-force/" >🔗</a> **[SpaceNews]** House Appropriations Committee approves $55.5 billion for U.S. Space Force
 - <a href="https://spacenews.com/canceled-nasa-exploration-projects-suffered-billions-of-dollars-in-overruns/" >🔗</a> **[SpaceNews]** Canceled NASA exploration projects suffered billions of dollars in overruns
 - <a href="https://europeanspaceflight.com/ohb-to-raise-e510m-to-boost-manufacturing-capacity-and-invest-in-rockets/" >🔗</a> **[European Spaceflight]** OHB to Raise €510M to Boost Manufacturing Capacity and Invest in Rockets
-- <a href="https://spacenews.com/china-schedules-long-march-10b-rocket-launch-and-recovery-attempt/" >🔗</a> **[SpaceNews]** China schedules Long March 10B rocket launch and recovery attempt
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T193214">2026-06-25 19:32:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T203704">2026-06-25 20:37:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
