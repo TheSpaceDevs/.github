@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/finding-solutions-to-jamming-and-spoofing/" >🔗</a> **[SpaceNews]** Finding solutions to jamming and spoofing
 - <a href="https://www.nasaspaceflight.com/2026/06/endeavour-exhibit-reveal/" >🔗</a> **[NASASpaceflight]** Space Shuttle Endeavour displayed vertically in new exhibit at California Science Center
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Europe_faces_the_heat" >🔗</a> **[ESA]** Europe faces the heat
 - <a href="https://spacenews.com/house-appropriations-committee-approves-55-5-billion-for-u-s-space-force/" >🔗</a> **[SpaceNews]** House Appropriations Committee approves $55.5 billion for U.S. Space Force
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/European_Flight_Ticket_Initiative_opens_to_more_launch_service_providers" >🔗</a> **[ESA]** European Flight Ticket Initiative opens to more launch service providers
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Smile_reaches_science_orbit" >🔗</a> **[ESA]** Smile reaches science orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/A_first_EarthCARE_cloud_data_sharpen_weather_forecasts" >🔗</a> **[ESA]** A first: EarthCARE cloud data sharpen weather forecasts
-- <a href="https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/" >🔗</a> **[NASA]** A Turquoise Tint for the Black Sea
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T145522">2026-06-25 14:55:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T154908">2026-06-25 15:49:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
