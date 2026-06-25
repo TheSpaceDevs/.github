@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-wins-nasa-award-for-three-electron-launches/" >🔗</a> **[SpaceNews]** Rocket Lab wins NASA award for three Electron launches
+- <a href="https://spacenews.com/weather-stream-releases-first-light-imagery-from-gems2-microwave-radiometer/" >🔗</a> **[SpaceNews]** Weather Stream releases first light imagery from GEMS2 microwave radiometer
 - <a href="https://spacenews.com/space-forces-new-muos-satellites-to-use-boeings-702mp-spacecraft-platform/" >🔗</a> **[SpaceNews]** Space Force’s new MUOS satellites to use Boeing’s 702MP spacecraft platform
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/expedition-73-crew-reflects-on-science-teamwork-and-life-in-orbit/" >🔗</a> **[NASA]** Expedition 73 Crew Reflects on Science, Teamwork, and Life in Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/" >🔗</a> **[NASA]** NASA, US Small Business Administration to Announce Partnership
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/" >🔗</a> **[NASA]** NASA Selects Rocket Lab to Launch Sun, Earth Science Missions
 - <a href="https://spacepolicyonline.com/news/asap-worries-about-iss-gao-wonders-what-comes-next/" >🔗</a> **[SpacePolicyOnline.com]** ASAP Worries About ISS, GAO Wonders What Comes Next
 - <a href="https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/" >🔗</a> **[NASA]** Millions of Stars in Cigar Galaxy
-- <a href="https://spacenews.com/small-satellite-operators-confront-a-bottleneck-to-space-access/" >🔗</a> **[SpaceNews]** Small satellite operators confront a bottleneck to space access
-- <a href="https://spacenews.com/finding-solutions-to-jamming-and-spoofing/" >🔗</a> **[SpaceNews]** Finding solutions to jamming and spoofing
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T220445">2026-06-25 22:04:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T225707">2026-06-25 22:57:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
