@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/" >🔗</a> **[NASA]** NASA’s TESS Mission Reveals the “Puffiest” Planets Ever Found
 - <a href="https://spaceflightnow.com/2026/06/24/live-coverage-west-coast-falcon-9-launch-to-continue-expansion-of-spacexs-starlink-network/" >🔗</a> **[Spaceflight Now]** Live Coverage: West Coast Falcon 9 launch to continue expansion of SpaceX’s Starlink network
 - <a href="https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/" >🔗</a> **[Arstechnica]** Analysis finds the exploration programs NASA recently canceled were running way late
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-the-ion-orion-lessons-from-artemis-ii-shape-nasas-moon-to-mars-path/" >🔗</a> **[NASA]** NASA at the Ion: Orion Lessons from Artemis II Shape NASA’s Moon to Mars Path
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/shield-space-and-clearspace-partner-to-defend-satellites-from-orbital-threats/" >🔗</a> **[SpaceNews]** Shield Space and ClearSpace partner to defend satellites from orbital threats
 - <a href="https://www.nasa.gov/image-article/roman-telescope-comes-to-kennedy/" >🔗</a> **[NASA]** Roman Telescope Comes to Kennedy
 - <a href="https://spacenews.com/mda-space-wins-contract-for-radarsat-replenishment-satellite/" >🔗</a> **[SpaceNews]** MDA Space wins contract for Radarsat replenishment satellite
-- <a href="https://science.nasa.gov/photojournal/nasas-hirise-captures-perseverance-marking-a-milestone-on-mars/" >🔗</a> **[NASA]** NASA’s HiRISE Captures Perseverance Marking a Milestone on Mars
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T002735">2026-06-25 00:27:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T012403">2026-06-25 01:24:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
