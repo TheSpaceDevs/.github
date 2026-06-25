@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/A_first_EarthCARE_cloud_data_sharpen_weather_forecasts" >🔗</a> **[ESA]** A first: EarthCARE cloud data sharpen weather forecasts
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/" >🔗</a> **[NASA]** A Turquoise Tint for the Black Sea
 - <a href="https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/" >🔗</a> **[NASA]** NASA’s TESS Mission Reveals the “Puffiest” Planets Ever Found
 - <a href="https://spaceflightnow.com/2026/06/24/live-coverage-west-coast-falcon-9-launch-to-continue-expansion-of-spacexs-starlink-network/" >🔗</a> **[Spaceflight Now]** Live Coverage: West Coast Falcon 9 launch to continue expansion of SpaceX’s Starlink network
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/la-nasa-compartira-los-ultimos-avances-del-programa-base-lunar/" >🔗</a> **[NASA]** La NASA compartirá los últimos avances del programa Base Lunar
 - <a href="https://www.nasa.gov/news-release/nasa-to-share-latest-moon-base-mission-progress/" >🔗</a> **[NASA]** NASA to Share Latest Moon Base Mission Progress
 - <a href="https://spacenews.com/shield-space-and-clearspace-partner-to-defend-satellites-from-orbital-threats/" >🔗</a> **[SpaceNews]** Shield Space and ClearSpace partner to defend satellites from orbital threats
-- <a href="https://www.nasa.gov/image-article/roman-telescope-comes-to-kennedy/" >🔗</a> **[NASA]** Roman Telescope Comes to Kennedy
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T064418">2026-06-25 06:44:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T080555">2026-06-25 08:05:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
