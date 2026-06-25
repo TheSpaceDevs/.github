@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/house-appropriations-committee-approves-55-5-billion-for-u-s-space-force/" >🔗</a> **[SpaceNews]** House Appropriations Committee approves $55.5 billion for U.S. Space Force
+- <a href="https://spacenews.com/canceled-nasa-exploration-projects-suffered-billions-of-dollars-in-overruns/" >🔗</a> **[SpaceNews]** Canceled NASA exploration projects suffered billions of dollars in overruns
 - <a href="https://europeanspaceflight.com/ohb-to-raise-e510m-to-boost-manufacturing-capacity-and-invest-in-rockets/" >🔗</a> **[European Spaceflight]** OHB to Raise €510M to Boost Manufacturing Capacity and Invest in Rockets
 - <a href="https://spacenews.com/china-schedules-long-march-10b-rocket-launch-and-recovery-attempt/" >🔗</a> **[SpaceNews]** China schedules Long March 10B rocket launch and recovery attempt
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/European_Flight_Ticket_Initiative_opens_to_more_launch_service_providers" >🔗</a> **[ESA]** European Flight Ticket Initiative opens to more launch service providers
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/" >🔗</a> **[NASA]** A Turquoise Tint for the Black Sea
 - <a href="https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/" >🔗</a> **[NASA]** NASA’s TESS Mission Reveals the “Puffiest” Planets Ever Found
 - <a href="https://spaceflightnow.com/2026/06/24/live-coverage-west-coast-falcon-9-launch-to-continue-expansion-of-spacexs-starlink-network/" >🔗</a> **[Spaceflight Now]** Live Coverage: West Coast Falcon 9 launch to continue expansion of SpaceX’s Starlink network
-- <a href="https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/" >🔗</a> **[Arstechnica]** Analysis finds the exploration programs NASA recently canceled were running way late
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-the-ion-orion-lessons-from-artemis-ii-shape-nasas-moon-to-mars-path/" >🔗</a> **[NASA]** NASA at the Ion: Orion Lessons from Artemis II Shape NASA’s Moon to Mars Path
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T105337">2026-06-25 10:53:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T115115">2026-06-25 11:51:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
