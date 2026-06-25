@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/06/endeavour-exhibit-reveal/" >🔗</a> **[NASASpaceflight]** Space Shuttle Endeavour displayed vertically in new exhibit at California Science Center
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Europe_faces_the_heat" >🔗</a> **[ESA]** Europe faces the heat
 - <a href="https://spacenews.com/house-appropriations-committee-approves-55-5-billion-for-u-s-space-force/" >🔗</a> **[SpaceNews]** House Appropriations Committee approves $55.5 billion for U.S. Space Force
 - <a href="https://spacenews.com/canceled-nasa-exploration-projects-suffered-billions-of-dollars-in-overruns/" >🔗</a> **[SpaceNews]** Canceled NASA exploration projects suffered billions of dollars in overruns
 - <a href="https://europeanspaceflight.com/ohb-to-raise-e510m-to-boost-manufacturing-capacity-and-invest-in-rockets/" >🔗</a> **[European Spaceflight]** OHB to Raise €510M to Boost Manufacturing Capacity and Invest in Rockets
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Smile_reaches_science_orbit" >🔗</a> **[ESA]** Smile reaches science orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/A_first_EarthCARE_cloud_data_sharpen_weather_forecasts" >🔗</a> **[ESA]** A first: EarthCARE cloud data sharpen weather forecasts
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/" >🔗</a> **[NASA]** A Turquoise Tint for the Black Sea
-- <a href="https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/" >🔗</a> **[NASA]** NASA’s TESS Mission Reveals the “Puffiest” Planets Ever Found
-- <a href="https://spaceflightnow.com/2026/06/24/live-coverage-west-coast-falcon-9-launch-to-continue-expansion-of-spacexs-starlink-network/" >🔗</a> **[Spaceflight Now]** Live Coverage: West Coast Falcon 9 launch to continue expansion of SpaceX’s Starlink network
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T133949">2026-06-25 13:39:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260625T145522">2026-06-25 14:55:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
