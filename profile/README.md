@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/" >🔗</a> **[NASA]** The Battle for Sullivan’s Island
 - <a href="https://spacenews.com/rocket-lab-wins-nasa-award-for-three-electron-launches/" >🔗</a> **[SpaceNews]** Rocket Lab wins NASA award for three Electron launches
 - <a href="https://spacenews.com/weather-stream-releases-first-light-imagery-from-gems2-microwave-radiometer/" >🔗</a> **[SpaceNews]** Weather Stream releases first light imagery from GEMS2 microwave radiometer
 - <a href="https://spacenews.com/space-forces-new-muos-satellites-to-use-boeings-702mp-spacecraft-platform/" >🔗</a> **[SpaceNews]** Space Force’s new MUOS satellites to use Boeing’s 702MP spacecraft platform
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/botswana-signs-the-artemis-accords/" >🔗</a> **[SpaceNews]** Botswana signs the Artemis Accords
 - <a href="https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/" >🔗</a> **[NASA]** NASA Selects Rocket Lab to Launch Sun, Earth Science Missions
 - <a href="https://spacepolicyonline.com/news/asap-worries-about-iss-gao-wonders-what-comes-next/" >🔗</a> **[SpacePolicyOnline.com]** ASAP Worries About ISS, GAO Wonders What Comes Next
-- <a href="https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/" >🔗</a> **[NASA]** Millions of Stars in Cigar Galaxy
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260626T034352">2026-06-26 03:43:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260626T052240">2026-06-26 05:22:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
