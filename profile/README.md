@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spain-backed-fund-joins-fossas-sovereign-satellite-communications-push/" >🔗</a> **[SpaceNews]** Spain-backed fund joins FOSSA’s sovereign satellite communications push
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/" >🔗</a> **[NASA]** NASA Announces Winners for 2026 Human Lander Challenge
 - <a href="https://www.nasaspaceflight.com/2026/06/ship-40-single-engine/" >🔗</a> **[NASASpaceflight]** Ship 40 completes single-engine static fire; Booster 20 and Pad 2 see new work
 - <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/" >🔗</a> **[NASA]** NASA Tests New Refuel Device for Future In-Space Refueling Missions
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/euclid-sees-heart-of-milky-way/" >🔗</a> **[NASA]** Euclid Sees Heart of Milky Way
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/From_Lab_to_Orbit_Turning_Space_Science_into_Reality_ESA_Explores_21" >🔗</a> **[ESA]** From Lab to Orbit | Turning Space Science into Reality | ESA Explores #21
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/bringing-signals-to-nasa/" >🔗</a> **[NASA]** Bringing Signals to NASA
-- <a href="https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/" >🔗</a> **[NASA]** NASA’s PACE Mission Studies Smoke, Fires
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260626T201203">2026-06-26 20:12:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260626T210056">2026-06-26 21:00:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
