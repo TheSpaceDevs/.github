@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/bringing-signals-to-nasa/" >🔗</a> **[NASA]** Bringing Signals to NASA
+- <a href="https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/" >🔗</a> **[NASA]** NASA’s PACE Mission Studies Smoke, Fires
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/3D-printed_metal_unlocking_crew_autonomy" >🔗</a> **[ESA]** 3D-printed metal: unlocking crew autonomy
+- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-starry-chandelier/" >🔗</a> **[NASA]** Hubble Spies Starry Chandelier
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_22-26_June_2026" >🔗</a> **[ESA]** Week in images: 22-26 June 2026
 - <a href="https://spacenews.com/starlink-veterans-launch-startup-to-broaden-megaconstellation-ownership/" >🔗</a> **[SpaceNews]** Starlink veterans launch startup to broaden megaconstellation ownership
 - <a href="https://spacenews.com/iss-repair-spacewalk-highlights-concerns-about-station-health/" >🔗</a> **[SpaceNews]** ISS repair spacewalk highlights concerns about station health
 - <a href="https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/" >🔗</a> **[Arstechnica]** Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response
 - <a href="https://spacenews.com/europes-next-security-challenge-is-in-orbit/" >🔗</a> **[SpaceNews]** Europe’s next security challenge is in orbit
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Cave_training_lab" >🔗</a> **[ESA]** Cave training lab
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Desert_cropland" >🔗</a> **[ESA]** Earth from Space: Desert cropland
-- <a href="https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/" >🔗</a> **[NASA]** The Battle for Sullivan’s Island
-- <a href="https://spacenews.com/rocket-lab-wins-nasa-award-for-three-electron-launches/" >🔗</a> **[SpaceNews]** Rocket Lab wins NASA award for three Electron launches
-- <a href="https://spacenews.com/weather-stream-releases-first-light-imagery-from-gems2-microwave-radiometer/" >🔗</a> **[SpaceNews]** Weather Stream releases first light imagery from GEMS2 microwave radiometer
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Solar_eclipse_myth_vs_fact" >🔗</a> **[ESA]** Solar eclipse: myth vs fact
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260626T133655">2026-06-26 13:36:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260626T144957">2026-06-26 14:49:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
