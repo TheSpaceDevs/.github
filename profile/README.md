@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Cave_training_lab" >🔗</a> **[ESA]** Cave training lab
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Desert_cropland" >🔗</a> **[ESA]** Earth from Space: Desert cropland
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/" >🔗</a> **[NASA]** The Battle for Sullivan’s Island
 - <a href="https://spacenews.com/rocket-lab-wins-nasa-award-for-three-electron-launches/" >🔗</a> **[SpaceNews]** Rocket Lab wins NASA award for three Electron launches
 - <a href="https://spacenews.com/weather-stream-releases-first-light-imagery-from-gems2-microwave-radiometer/" >🔗</a> **[SpaceNews]** Weather Stream releases first light imagery from GEMS2 microwave radiometer
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/" >🔗</a> **[NASA]** NASA, US Small Business Administration to Announce Partnership
 - <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-botswana-as-68th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Botswana as 68th Artemis Accords Signatory
 - <a href="https://spacenews.com/botswana-signs-the-artemis-accords/" >🔗</a> **[SpaceNews]** Botswana signs the Artemis Accords
-- <a href="https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/" >🔗</a> **[NASA]** NASA Selects Rocket Lab to Launch Sun, Earth Science Missions
-- <a href="https://spacepolicyonline.com/news/asap-worries-about-iss-gao-wonders-what-comes-next/" >🔗</a> **[SpacePolicyOnline.com]** ASAP Worries About ISS, GAO Wonders What Comes Next
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260626T081028">2026-06-26 08:10:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260626T094221">2026-06-26 09:42:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
