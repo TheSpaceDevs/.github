@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/" >🔗</a> **[NASA]** NASA Tests New Refuel Device for Future In-Space Refueling Missions
 - <a href="https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/" >🔗</a> **[NASA]** Partners, NASA Ready for June Launch of Swift Boost Mission
 - <a href="https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/" >🔗</a> **[Arstechnica]** Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?
 - <a href="https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/" >🔗</a> **[NASA]** NASA Identifies More Than 40 Space Technologies for Collaboration
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/" >🔗</a> **[NASA]** NASA’s PACE Mission Studies Smoke, Fires
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/3D-printed_metal_unlocking_crew_autonomy" >🔗</a> **[ESA]** 3D-printed metal: unlocking crew autonomy
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-starry-chandelier/" >🔗</a> **[NASA]** Hubble Spies Starry Chandelier
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_22-26_June_2026" >🔗</a> **[ESA]** Week in images: 22-26 June 2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260626T183052">2026-06-26 18:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260626T193014">2026-06-26 19:30:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
