@@ -21,10 +21,10 @@ The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
 **Electron | Ten Owl Of Ten (StriX Launch 10)**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="None">Unknown Pad</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260626T164500">2026-06-26 16:45:00 UTC</a>.  Until
-then, this pad will have been used for 0
+then, this pad will have been used for 36
 out of 77 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Earth Science* and the payload will be injected
@@ -39,7 +39,7 @@ into *a Sun-Synchronous Orbit
   <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="None" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/" >🔗</a> **[NASA]** NASA Identifies More Than 40 Space Technologies for Collaboration
+- <a href="https://www.nasa.gov/image-article/euclid-sees-heart-of-milky-way/" >🔗</a> **[NASA]** Euclid Sees Heart of Milky Way
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/bringing-signals-to-nasa/" >🔗</a> **[NASA]** Bringing Signals to NASA
 - <a href="https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/" >🔗</a> **[NASA]** NASA’s PACE Mission Studies Smoke, Fires
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/3D-printed_metal_unlocking_crew_autonomy" >🔗</a> **[ESA]** 3D-printed metal: unlocking crew autonomy
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/starlink-veterans-launch-startup-to-broaden-megaconstellation-ownership/" >🔗</a> **[SpaceNews]** Starlink veterans launch startup to broaden megaconstellation ownership
 - <a href="https://spacenews.com/iss-repair-spacewalk-highlights-concerns-about-station-health/" >🔗</a> **[SpaceNews]** ISS repair spacewalk highlights concerns about station health
 - <a href="https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/" >🔗</a> **[Arstechnica]** Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response
-- <a href="https://spacenews.com/europes-next-security-challenge-is-in-orbit/" >🔗</a> **[SpaceNews]** Europe’s next security challenge is in orbit
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Solar_eclipse_myth_vs_fact" >🔗</a> **[ESA]** Solar eclipse: myth vs fact
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260626T144957">2026-06-26 14:49:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260626T154243">2026-06-26 15:42:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
