@@ -19,37 +19,37 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Pegasus XL | Swift Boost Mission**. It is scheduled to be launched by *Northrop Grumman Space Systems*
+**Electron | Ten Owl Of Ten (StriX Launch 10)**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kwajalein_Atoll">Kwajalein Atoll</a>, Air launch to orbit*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260627T090000">2026-06-27 09:00:00 UTC</a>.  Until
-then, this pad will have been used for 4
-out of 51 launches from this location. The launch status is currently
+from *<a href="None">Unknown Pad</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260626T164500">2026-06-26 16:45:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 77 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Mission Extension* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Earth Science* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  Contracted by NASA under the Small Business Innovation Research Phase 3 contract, Katalyst Space Technologies' LINK servicing spacecraft will rendezvous and attach to NASA’s Neil Gehrels Swift Observatory to re-boost its orbit. This aims to demonstrate a key capability for the future of space exploration and extending the Swift mission’s science lifetime in gamma ray astronomy.
+  Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Pegasus_(rocket)" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=8.716667,167.733333" >
+  <a href="None" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260626T164500">2026-06-26 16:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Ten Owl Of Ten (StriX Launch 10)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260626T164500Z%2F20260626T164500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Ten Owl Of Ten (StriX Launch 10)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260627T090000">2026-06-27 09:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Pegasus XL | Swift Boost Mission&location=Air launch to orbit&dates=20260627T090000Z%2F20260627T142800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Pegasus XL | Swift Boost Mission** from Air launch to orbit.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260628T140000">2026-06-28 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-40&location=Vandenberg SFB, CA, USA&dates=20260628T140000Z%2F20260628T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-40** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260629T022500">2026-06-29 02:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Sirius SXM-11&location=Cape Canaveral SFS, FL, USA&dates=20260629T022500Z%2F20260629T062100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Sirius SXM-11** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260629T050000">2026-06-29 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=South Korean ADD Solid-Fuel SLV | Demo Flight&location=Sea Launch&dates=20260629T050000Z%2F20260629T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **South Korean ADD Solid-Fuel SLV | Demo Flight** from Sea Launch.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T000000">2026-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Ten Owl Of Ten (StriX Launch 10)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260630T000000Z%2F20260630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Ten Owl Of Ten (StriX Launch 10)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T000000">2026-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Grain Goddess Provides (iQPS Launch 7)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260630T000000Z%2F20260630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Grain Goddess Provides (iQPS Launch 7)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T000000">2026-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Smart Dragon 3 | Unknown Payload&location=Haiyang Oriental Spaceport&dates=20260630T000000Z%2F20260630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Smart Dragon 3 | Unknown Payload** from Haiyang Oriental Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T000000">2026-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nebula-1 | Demo Flight&location=Haiyang Oriental Spaceport&dates=20260630T000000Z%2F20260630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Nebula-1 | Demo Flight** from Haiyang Oriental Spaceport.
@@ -104,20 +104,15 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-062326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Pegasus XL to launch amongst Falcon 9 and Chinese missions
-- <a href="https://spacenews.com/swift-reboost-mission-ready-for-launch/" >🔗</a> **[SpaceNews]** Swift reboost mission ready for launch
-- <a href="https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/" >🔗</a> **[NASA]** NASA to Preview Katalyst Mission to Boost Swift Spacecraft’s Orbit
-- <a href="https://www.nasa.gov/news-release/nasa-to-showcase-mission-to-boost-swift-spacecrafts-orbit/" >🔗</a> **[NASA]** NASA to Showcase Mission to Boost Swift Spacecraft’s Orbit
-- <a href="https://spaceflightnow.com/2026/05/08/rescue-mission-for-nasas-500-million-space-telescope-passes-key-testing-milestone/" >🔗</a> **[Spaceflight Now]** Rescue mission for NASA’s $500 million space telescope passes key testing milestone
-- <a href="https://spacenews.com/swift-spacecraft-reorientation-buys-time-for-reboost-mission/" >🔗</a> **[SpaceNews]** Swift spacecraft reorientation buys time for reboost mission
-- <a href="https://www.spacedaily.com/reports/Swift_observatory_changes_operations_ahead_of_planned_orbit_reboost_999.html" >🔗</a> **[SpaceDaily]** Swift observatory changes operations ahead of planned orbit reboost
-- <a href="https://spacenews.com/nasa-works-to-extend-swifts-life-ahead-of-reboost-mission/" >🔗</a> **[SpaceNews]** NASA works to extend Swift’s life ahead of reboost mission
-- <a href="https://spacenews.com/katalyst-selects-pegasus-to-launch-swift-reboost-mission/" >🔗</a> **[SpaceNews]** Katalyst selects Pegasus to launch Swift reboost mission
+- <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-061626/" >🔗</a> **[NASASpaceflight]** Launch Preview: 10 launches scheduled from sites across the world
+- <a href="https://arstechnica.com/space/2024/06/rocket-report-electron-turns-50-chinas-moon-launcher-breathes-fire/" >🔗</a> **[Arstechnica]** Rocket Report: Electron turns 50, China’s Moon launcher breathes fire
+- <a href="https://tlpnetwork.com/news/asia/synspective-signs-contract-with-rocketlab-for-10-electron-launches" >🔗</a> **[The Launch Pad]** Synspective Signs Contract with Rocket Lab for 10 Electron Launches
+- <a href="https://spacenews.com/synspective-orders-10-rocket-lab-electron-launches/" >🔗</a> **[SpaceNews]** Synspective orders 10 Rocket Lab Electron launches
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260626T021959">2026-06-26 02:19:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260626T034352">2026-06-26 03:43:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
