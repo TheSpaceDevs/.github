@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/06/28/live-coverage-spacex-to-launch-7-5-ton-siriusxm-satellite-as-part-of-constellation-refresh/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 7.5-ton SiriusXM satellite as part of constellation refresh
 - <a href="https://spaceflightnow.com/2026/06/28/live-coverage-spacex-plans-sunday-starlink-launch-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX plans Sunday Starlink launch from Vandenberg Space Force Base
 - <a href="https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches 10th Synspective satellite
 - <a href="https://spaceflightnow.com/2026/06/26/next-gen-astronaut-moon-rovers-aim-for-deployment-ahead-of-artemis-4-crew-arrival/" >🔗</a> **[Spaceflight Now]** Next-gen astronaut Moon rovers aim for deployment ahead of Artemis 4 crew arrival
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/" >🔗</a> **[NASA]** NASA Tests New Refuel Device for Future In-Space Refueling Missions
 - <a href="https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/" >🔗</a> **[NASA]** Partners, NASA Ready for June Launch of Swift Boost Mission
 - <a href="https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/" >🔗</a> **[Arstechnica]** Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?
-- <a href="https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/" >🔗</a> **[NASA]** NASA Identifies More Than 40 Space Technologies for Collaboration
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260628T182030">2026-06-28 18:20:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260628T185104">2026-06-28 18:51:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
