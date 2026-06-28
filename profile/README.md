@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-28-july-4-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 28-July 4, 2026
 - <a href="https://spaceflightnow.com/2026/06/28/live-coverage-spacex-to-launch-7-5-ton-siriusxm-satellite-as-part-of-constellation-refresh/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 7.5-ton SiriusXM satellite as part of constellation refresh
 - <a href="https://spaceflightnow.com/2026/06/28/live-coverage-spacex-plans-sunday-starlink-launch-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX plans Sunday Starlink launch from Vandenberg Space Force Base
 - <a href="https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches 10th Synspective satellite
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasaspaceflight.com/2026/06/ship-40-single-engine/" >🔗</a> **[NASASpaceflight]** Ship 40 completes single-engine static fire; Booster 20 and Pad 2 see new work
 - <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/" >🔗</a> **[NASA]** NASA Tests New Refuel Device for Future In-Space Refueling Missions
 - <a href="https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/" >🔗</a> **[NASA]** Partners, NASA Ready for June Launch of Swift Boost Mission
-- <a href="https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/" >🔗</a> **[Arstechnica]** Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260628T205135">2026-06-28 20:51:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260628T212052">2026-06-28 21:20:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
