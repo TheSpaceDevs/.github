@@ -92,6 +92,7 @@ First orbital full version launch of the South Korean military small satellite l
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/06/roman-space-telescope-arrives-at-space-coast/" >🔗</a> **[Space Scout]** Roman Space Telescope Arrives at Space Coast
 - <a href="https://arstechnica.com/space/2026/06/in-a-bold-move-rocket-lab-acquires-iridium-communications/" >🔗</a> **[Arstechnica]** In a bold move, Rocket Lab acquires Iridium Communications
 - <a href="https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/" >🔗</a> **[SpaceNews]** ESA to seek lunar mapping capability for Argonaut lander
 - <a href="https://spacenews.com/beck-iridium-acquisition-the-logical-next-step-for-rocket-lab/" >🔗</a> **[SpaceNews]** Beck: Iridium acquisition the “logical next step” for Rocket Lab
@@ -101,7 +102,6 @@ First orbital full version launch of the South Korean military small satellite l
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-seeks-industry-input-to-accelerate-lunar-surface-technologies/" >🔗</a> **[NASA]** NASA Seeks Industry Input to Accelerate Lunar Surface Technologies
 - <a href="https://spacenews.com/discovering-the-universe-astrophysics-flagship-space-observatories-offer-insights-to-key-questions/" >🔗</a> **[SpaceNews]** Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/This_Month_at_ESA_June_2026" >🔗</a> **[ESA]** This Month at ESA: June 2026
-- <a href="https://spacenews.com/quantum-computing-is-about-to-become-a-national-security-problem-in-orbit/" >🔗</a> **[SpaceNews]** Quantum computing is about to become a national security problem in orbit
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First orbital full version launch of the South Korean military small satellite l
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260629T154351">2026-06-29 15:43:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260629T165704">2026-06-29 16:57:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
