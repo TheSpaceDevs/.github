@@ -92,6 +92,8 @@ First orbital full version launch of the South Korean military small satellite l
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-sba-announce-new-initiative-to-scale-american-space-economy/" >🔗</a> **[NASA]** NASA, SBA Announce New Initiative to Scale American Space Economy
+- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/" >🔗</a> **[NASA]** NASA’s Newest Wind Tunnel Builds on Legacy of Innovation
 - <a href="https://www.spacescout.info/2026/06/roman-space-telescope-arrives-at-space-coast/" >🔗</a> **[Space Scout]** Roman Space Telescope Arrives at Space Coast
 - <a href="https://arstechnica.com/space/2026/06/in-a-bold-move-rocket-lab-acquires-iridium-communications/" >🔗</a> **[Arstechnica]** In a bold move, Rocket Lab acquires Iridium Communications
 - <a href="https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/" >🔗</a> **[SpaceNews]** ESA to seek lunar mapping capability for Argonaut lander
@@ -100,8 +102,6 @@ First orbital full version launch of the South Korean military small satellite l
 - <a href="https://www.nasa.gov/general/mapping-earths-observations-featuring-betsy-ford/" >🔗</a> **[NASA]** Mapping Earth’s Observations, featuring Betsy Ford
 - <a href="https://www.nasa.gov/directorates/stmd/nextstep-3-a-lunar-enabling-technology/" >🔗</a> **[NASA]** NextSTEP-3 A: Lunar Enabling Technology
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-seeks-industry-input-to-accelerate-lunar-surface-technologies/" >🔗</a> **[NASA]** NASA Seeks Industry Input to Accelerate Lunar Surface Technologies
-- <a href="https://spacenews.com/discovering-the-universe-astrophysics-flagship-space-observatories-offer-insights-to-key-questions/" >🔗</a> **[SpaceNews]** Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/This_Month_at_ESA_June_2026" >🔗</a> **[ESA]** This Month at ESA: June 2026
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First orbital full version launch of the South Korean military small satellite l
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260629T203337">2026-06-29 20:33:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260629T212839">2026-06-29 21:28:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
