@@ -92,16 +92,16 @@ First orbital full version launch of the South Korean military small satellite l
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/rocket-lab-to-acquire-iridium/" >🔗</a> **[SpaceNews]** Rocket Lab to acquire Iridium
-- <a href="https://spacenews.com/satvu-restarts-commercial-operations-with-hotsat-2/" >🔗</a> **[SpaceNews]** SatVu restarts commercial operations with HotSat-2
-- <a href="https://spacenews.com/craft-prospect-selected-for-the-sunday-times-scotland-fast-50/" >🔗</a> **[SpaceNews]** Craft Prospect selected for The Sunday Times Scotland Fast 50
-- <a href="https://spacenews.com/china-establishes-vleo-industry-alliance-as-satellites-demonstrate-sustained-low-orbit-operations/" >🔗</a> **[SpaceNews]** China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations
-- <a href="https://www.nasaspaceflight.com/2026/06/euclid-galactic-bulge-survey/" >🔗</a> **[NASASpaceflight]** Euclid studies Milky Way center, supports future Roman observations
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-28-july-4-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 28-July 4, 2026
-- <a href="https://spaceflightnow.com/2026/06/28/live-coverage-spacex-to-launch-7-5-ton-siriusxm-satellite-as-part-of-constellation-refresh/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 7.5-ton SiriusXM satellite as part of constellation refresh
-- <a href="https://spaceflightnow.com/2026/06/28/live-coverage-spacex-plans-sunday-starlink-launch-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX plans Sunday Starlink launch from Vandenberg Space Force Base
-- <a href="https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches 10th Synspective satellite
-- <a href="https://spaceflightnow.com/2026/06/26/next-gen-astronaut-moon-rovers-aim-for-deployment-ahead-of-artemis-4-crew-arrival/" >🔗</a> **[Spaceflight Now]** Next-gen astronaut Moon rovers aim for deployment ahead of Artemis 4 crew arrival
+- <a href="https://arstechnica.com/space/2026/06/in-a-bold-move-rocket-lab-acquires-iridium-communications/" >🔗</a> **[Arstechnica]** In a bold move, Rocket Lab acquires Iridium Communications
+- <a href="https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/" >🔗</a> **[SpaceNews]** ESA to seek lunar mapping capability for Argonaut lander
+- <a href="https://spacenews.com/beck-iridium-acquisition-the-logical-next-step-for-rocket-lab/" >🔗</a> **[SpaceNews]** Beck: Iridium acquisition the “logical next step” for Rocket Lab
+- <a href="https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-preps-for-spacewalk/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams Preps for Spacewalk
+- <a href="https://www.nasa.gov/general/mapping-earths-observations-featuring-betsy-ford/" >🔗</a> **[NASA]** Mapping Earth’s Observations, featuring Betsy Ford
+- <a href="https://www.nasa.gov/directorates/stmd/nextstep-3-a-lunar-enabling-technology/" >🔗</a> **[NASA]** NextSTEP-3 A: Lunar Enabling Technology
+- <a href="https://www.nasa.gov/directorates/stmd/nasa-seeks-industry-input-to-accelerate-lunar-surface-technologies/" >🔗</a> **[NASA]** NASA Seeks Industry Input to Accelerate Lunar Surface Technologies
+- <a href="https://spacenews.com/discovering-the-universe-astrophysics-flagship-space-observatories-offer-insights-to-key-questions/" >🔗</a> **[SpaceNews]** Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/This_Month_at_ESA_June_2026" >🔗</a> **[ESA]** This Month at ESA: June 2026
+- <a href="https://spacenews.com/quantum-computing-is-about-to-become-a-national-security-problem-in-orbit/" >🔗</a> **[SpaceNews]** Quantum computing is about to become a national security problem in orbit
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First orbital full version launch of the South Korean military small satellite l
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260629T142031">2026-06-29 14:20:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260629T154351">2026-06-29 15:43:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
