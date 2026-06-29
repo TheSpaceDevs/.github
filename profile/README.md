@@ -92,6 +92,8 @@ First orbital full version launch of the South Korean military small satellite l
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/craft-prospect-selected-for-the-sunday-times-scotland-fast-50/" >🔗</a> **[SpaceNews]** Craft Prospect selected for The Sunday Times Scotland Fast 50
+- <a href="https://spacenews.com/china-establishes-vleo-industry-alliance-as-satellites-demonstrate-sustained-low-orbit-operations/" >🔗</a> **[SpaceNews]** China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations
 - <a href="https://www.nasaspaceflight.com/2026/06/euclid-galactic-bulge-survey/" >🔗</a> **[NASASpaceflight]** Euclid studies Milky Way center, supports future Roman observations
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-28-july-4-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 28-July 4, 2026
 - <a href="https://spaceflightnow.com/2026/06/28/live-coverage-spacex-to-launch-7-5-ton-siriusxm-satellite-as-part-of-constellation-refresh/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 7.5-ton SiriusXM satellite as part of constellation refresh
@@ -100,8 +102,6 @@ First orbital full version launch of the South Korean military small satellite l
 - <a href="https://spaceflightnow.com/2026/06/26/next-gen-astronaut-moon-rovers-aim-for-deployment-ahead-of-artemis-4-crew-arrival/" >🔗</a> **[Spaceflight Now]** Next-gen astronaut Moon rovers aim for deployment ahead of Artemis 4 crew arrival
 - <a href="https://spacenews.com/spain-backed-fund-joins-fossas-sovereign-satellite-communications-push/" >🔗</a> **[SpaceNews]** Spain-backed fund joins FOSSA’s sovereign satellite communications push
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/" >🔗</a> **[NASA]** NASA Announces Winners for 2026 Human Lander Challenge
-- <a href="https://www.nasaspaceflight.com/2026/06/ship-40-single-engine/" >🔗</a> **[NASASpaceflight]** Ship 40 completes single-engine static fire; Booster 20 and Pad 2 see new work
-- <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/" >🔗</a> **[NASA]** NASA Tests New Refuel Device for Future In-Space Refueling Missions
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First orbital full version launch of the South Korean military small satellite l
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260629T073226">2026-06-29 07:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260629T092954">2026-06-29 09:29:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
