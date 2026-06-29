@@ -92,6 +92,8 @@ First orbital full version launch of the South Korean military small satellite l
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/06/swift-boost-mission-launch/" >🔗</a> **[NASASpaceflight]** Pegasus XL set to air launch Swift Boost Mission to save NASA space telescope
+- <a href="https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/" >🔗</a> **[NASA]** Northwest Earth and Space Science Pathways Project Celebrates Student Innovation Through ROADS from Earth to Venus National Challenge
 - <a href="https://www.nasa.gov/news-release/nasa-sba-announce-new-initiative-to-scale-american-space-economy/" >🔗</a> **[NASA]** NASA, SBA Announce New Initiative to Scale American Space Economy
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/" >🔗</a> **[NASA]** NASA’s Newest Wind Tunnel Builds on Legacy of Innovation
 - <a href="https://www.spacescout.info/2026/06/roman-space-telescope-arrives-at-space-coast/" >🔗</a> **[Space Scout]** Roman Space Telescope Arrives at Space Coast
@@ -100,8 +102,6 @@ First orbital full version launch of the South Korean military small satellite l
 - <a href="https://spacenews.com/beck-iridium-acquisition-the-logical-next-step-for-rocket-lab/" >🔗</a> **[SpaceNews]** Beck: Iridium acquisition the “logical next step” for Rocket Lab
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-preps-for-spacewalk/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams Preps for Spacewalk
 - <a href="https://www.nasa.gov/general/mapping-earths-observations-featuring-betsy-ford/" >🔗</a> **[NASA]** Mapping Earth’s Observations, featuring Betsy Ford
-- <a href="https://www.nasa.gov/directorates/stmd/nextstep-3-a-lunar-enabling-technology/" >🔗</a> **[NASA]** NextSTEP-3 A: Lunar Enabling Technology
-- <a href="https://www.nasa.gov/directorates/stmd/nasa-seeks-industry-input-to-accelerate-lunar-surface-technologies/" >🔗</a> **[NASA]** NASA Seeks Industry Input to Accelerate Lunar Surface Technologies
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First orbital full version launch of the South Korean military small satellite l
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260629T224916">2026-06-29 22:49:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260629T231926">2026-06-29 23:19:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
