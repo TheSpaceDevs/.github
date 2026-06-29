@@ -92,6 +92,8 @@ First orbital full version launch of the South Korean military small satellite l
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-to-acquire-iridium/" >🔗</a> **[SpaceNews]** Rocket Lab to acquire Iridium
+- <a href="https://spacenews.com/satvu-restarts-commercial-operations-with-hotsat-2/" >🔗</a> **[SpaceNews]** SatVu restarts commercial operations with HotSat-2
 - <a href="https://spacenews.com/craft-prospect-selected-for-the-sunday-times-scotland-fast-50/" >🔗</a> **[SpaceNews]** Craft Prospect selected for The Sunday Times Scotland Fast 50
 - <a href="https://spacenews.com/china-establishes-vleo-industry-alliance-as-satellites-demonstrate-sustained-low-orbit-operations/" >🔗</a> **[SpaceNews]** China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations
 - <a href="https://www.nasaspaceflight.com/2026/06/euclid-galactic-bulge-survey/" >🔗</a> **[NASASpaceflight]** Euclid studies Milky Way center, supports future Roman observations
@@ -100,8 +102,6 @@ First orbital full version launch of the South Korean military small satellite l
 - <a href="https://spaceflightnow.com/2026/06/28/live-coverage-spacex-plans-sunday-starlink-launch-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX plans Sunday Starlink launch from Vandenberg Space Force Base
 - <a href="https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches 10th Synspective satellite
 - <a href="https://spaceflightnow.com/2026/06/26/next-gen-astronaut-moon-rovers-aim-for-deployment-ahead-of-artemis-4-crew-arrival/" >🔗</a> **[Spaceflight Now]** Next-gen astronaut Moon rovers aim for deployment ahead of Artemis 4 crew arrival
-- <a href="https://spacenews.com/spain-backed-fund-joins-fossas-sovereign-satellite-communications-push/" >🔗</a> **[SpaceNews]** Spain-backed fund joins FOSSA’s sovereign satellite communications push
-- <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/" >🔗</a> **[NASA]** NASA Announces Winners for 2026 Human Lander Challenge
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First orbital full version launch of the South Korean military small satellite l
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260629T111841">2026-06-29 11:18:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260629T124923">2026-06-29 12:49:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
