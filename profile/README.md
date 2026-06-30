@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A" >🔗</a> **[ESA]** Time to say goodbye to Sentinel-1A
+- <a href="https://spacenews.com/ssc-space-firefly-set-2028-target-for-first-orbital-launch-from-swedens-esrange/" >🔗</a> **[SpaceNews]** SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange
+- <a href="https://spacenews.com/orbital-files-plans-for-100000-orbital-data-centers/" >🔗</a> **[SpaceNews]** Orbital files plans for 100,000 orbital data centers
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_Day_eight_other_key_dates_in_asteroid_history" >🔗</a> **[ESA]** Asteroid Day & eight other key dates in asteroid history
 - <a href="https://www.nasa.gov/general/ames-stars-of-the-month-july-2026/" >🔗</a> **[NASA]** Ames Science Stars of the Month July 2026
 - <a href="https://spacenews.com/study-argues-bigger-launch-vehicles-may-not-always-be-better/" >🔗</a> **[SpaceNews]** Study argues bigger launch vehicles may not always be better
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/" >🔗</a> **[NASA]** Northwest Earth and Space Science Pathways Project Celebrates Student Innovation Through ROADS from Earth to Venus National Challenge
 - <a href="https://www.nasa.gov/news-release/nasa-sba-announce-new-initiative-to-scale-american-space-economy/" >🔗</a> **[NASA]** NASA, SBA Announce New Initiative to Scale American Space Economy
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/" >🔗</a> **[NASA]** NASA’s Newest Wind Tunnel Builds on Legacy of Innovation
-- <a href="https://www.spacescout.info/2026/06/roman-space-telescope-arrives-at-space-coast/" >🔗</a> **[Space Scout]** Roman Space Telescope Arrives at Space Coast
-- <a href="https://arstechnica.com/space/2026/06/in-a-bold-move-rocket-lab-acquires-iridium-communications/" >🔗</a> **[Arstechnica]** In a bold move, Rocket Lab acquires Iridium Communications
-- <a href="https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/" >🔗</a> **[SpaceNews]** ESA to seek lunar mapping capability for Argonaut lander
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T115430">2026-06-30 11:54:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T123452">2026-06-30 12:34:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
