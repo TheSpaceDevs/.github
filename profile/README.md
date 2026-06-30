@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/" >🔗</a> **[NASA]** A Day of Flight Testing at NASA Armstrong
+- <a href="https://www.nasa.gov/news-release/la-nasa-adjudica-nuevas-misiones-cientificas-para-base-lunar-y-adelanta-nuevas-oportunidades/" >🔗</a> **[NASA]** La NASA adjudica nuevas misiones científicas para Base Lunar y adelanta nuevas oportunidades
+- <a href="https://www.nasa.gov/general/nextstep-3-b-moon-base-demonstrations/" >🔗</a> **[NASA]** NextSTEP-3 B: Moon Base Demonstrations
+- <a href="https://www.nasa.gov/news-release/nasa-awards-more-moon-base-science-previews-new-opportunities/" >🔗</a> **[NASA]** NASA Awards More Moon Base Science, Previews New Opportunities
 - <a href="https://spacenews.com/matthew-williams-joins-the-commercial-space-federation-as-senior-advisor-national-security/" >🔗</a> **[SpaceNews]** Matthew Williams Joins the Commercial Space Federation as Senior Advisor, National Security
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-most-pleasantly-situated-estate-153949/" >🔗</a> **[NASA]** A Most “Pleasantly Situated” Estate
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_ESA_s_Junior_Professional_Programme" >🔗</a> **[ESA]** Apply now to ESA's Junior Professional Programme
 - <a href="https://www.nasa.gov/image-article/starry-chandelier-cluster/" >🔗</a> **[NASA]** Starry Chandelier Cluster
 - <a href="https://spacenews.com/vast-names-isakowitz-as-a-senior-adviser/" >🔗</a> **[SpaceNews]** Vast names Isakowitz as a senior adviser
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A" >🔗</a> **[ESA]** Time to say goodbye to Sentinel-1A
-- <a href="https://spacenews.com/ssc-space-firefly-set-2028-target-for-first-orbital-launch-from-swedens-esrange/" >🔗</a> **[SpaceNews]** SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange
-- <a href="https://spacenews.com/orbital-files-plans-for-100000-orbital-data-centers/" >🔗</a> **[SpaceNews]** Orbital files plans for 100,000 orbital data centers
-- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_Day_eight_other_key_dates_in_asteroid_history" >🔗</a> **[ESA]** Asteroid Day & eight other key dates in asteroid history
-- <a href="https://www.nasa.gov/general/ames-stars-of-the-month-july-2026/" >🔗</a> **[NASA]** Ames Science Stars of the Month July 2026
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T183152">2026-06-30 18:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T193118">2026-06-30 19:31:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
