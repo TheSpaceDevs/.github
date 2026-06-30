@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-reveals-red-white-blue-universe-for-us-250th/" >🔗</a> **[NASA]** NASA’s Chandra Reveals ‘Red, White, Blue’ Universe for US 250th
+- <a href="https://spacenews.com/space-force-fields-mobile-satellite-jamming-system/" >🔗</a> **[SpaceNews]** Space Force fields mobile satellite-jamming system
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/" >🔗</a> **[NASA]** A Day of Flight Testing at NASA Armstrong
 - <a href="https://www.nasa.gov/news-release/la-nasa-adjudica-nuevas-misiones-cientificas-para-base-lunar-y-adelanta-nuevas-oportunidades/" >🔗</a> **[NASA]** La NASA adjudica nuevas misiones científicas para Base Lunar y adelanta nuevas oportunidades
 - <a href="https://www.nasa.gov/general/nextstep-3-b-moon-base-demonstrations/" >🔗</a> **[NASA]** NextSTEP-3 B: Moon Base Demonstrations
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-most-pleasantly-situated-estate-153949/" >🔗</a> **[NASA]** A Most “Pleasantly Situated” Estate
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_ESA_s_Junior_Professional_Programme" >🔗</a> **[ESA]** Apply now to ESA's Junior Professional Programme
 - <a href="https://www.nasa.gov/image-article/starry-chandelier-cluster/" >🔗</a> **[NASA]** Starry Chandelier Cluster
-- <a href="https://spacenews.com/vast-names-isakowitz-as-a-senior-adviser/" >🔗</a> **[SpaceNews]** Vast names Isakowitz as a senior adviser
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A" >🔗</a> **[ESA]** Time to say goodbye to Sentinel-1A
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T193118">2026-06-30 19:31:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T203426">2026-06-30 20:34:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
