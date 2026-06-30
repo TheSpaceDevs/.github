@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/vast-names-isakowitz-as-a-senior-adviser/" >🔗</a> **[SpaceNews]** Vast names Isakowitz as a senior adviser
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A" >🔗</a> **[ESA]** Time to say goodbye to Sentinel-1A
 - <a href="https://spacenews.com/ssc-space-firefly-set-2028-target-for-first-orbital-launch-from-swedens-esrange/" >🔗</a> **[SpaceNews]** SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange
 - <a href="https://spacenews.com/orbital-files-plans-for-100000-orbital-data-centers/" >🔗</a> **[SpaceNews]** Orbital files plans for 100,000 orbital data centers
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/06/swift-boost-mission-launch/" >🔗</a> **[NASASpaceflight]** Pegasus XL set to air launch Swift Boost Mission to save NASA space telescope
 - <a href="https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/" >🔗</a> **[NASA]** Northwest Earth and Space Science Pathways Project Celebrates Student Innovation Through ROADS from Earth to Venus National Challenge
 - <a href="https://www.nasa.gov/news-release/nasa-sba-announce-new-initiative-to-scale-american-space-economy/" >🔗</a> **[NASA]** NASA, SBA Announce New Initiative to Scale American Space Economy
-- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/" >🔗</a> **[NASA]** NASA’s Newest Wind Tunnel Builds on Legacy of Innovation
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T123452">2026-06-30 12:34:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T133218">2026-06-30 13:32:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
