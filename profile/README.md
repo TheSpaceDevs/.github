@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/06/30/astronauts-operate-on-space-stations-broken-robot-arm/" >🔗</a> **[Spaceflight Now]** Astronauts ‘operate’ on space station’s broken robot arm
+- <a href="https://spaceflightnow.com/2026/06/30/blue-origin-outlines-return-to-flight-logistics-for-its-new-glenn-rockets/" >🔗</a> **[Spaceflight Now]** Blue Origin outlines return to flight logistics for its New Glenn rockets
 - <a href="https://spacenews.com/technomile-recognized-among-notable-vendors-in-contract-lifecycle-management-platforms-landscape-report/" >🔗</a> **[SpaceNews]** TechnoMile Recognized among Notable Vendors in Contract Lifecycle Management Platforms Landscape Report
 - <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-063026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Swift rescue mission, final Atlas satellite launch
 - <a href="https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/" >🔗</a> **[Arstechnica]** NASA may send a backup, nuclear-powered Mars rover to the Moon
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/" >🔗</a> **[NASA]** A Day of Flight Testing at NASA Armstrong
 - <a href="https://www.nasa.gov/news-release/la-nasa-adjudica-nuevas-misiones-cientificas-para-base-lunar-y-adelanta-nuevas-oportunidades/" >🔗</a> **[NASA]** La NASA adjudica nuevas misiones científicas para Base Lunar y adelanta nuevas oportunidades
 - <a href="https://www.nasa.gov/general/nextstep-3-b-moon-base-demonstrations/" >🔗</a> **[NASA]** NextSTEP-3 B: Moon Base Demonstrations
-- <a href="https://www.nasa.gov/news-release/nasa-awards-more-moon-base-science-previews-new-opportunities/" >🔗</a> **[NASA]** NASA Awards More Moon Base Science, Previews New Opportunities
-- <a href="https://spacenews.com/matthew-williams-joins-the-commercial-space-federation-as-senior-advisor-national-security/" >🔗</a> **[SpaceNews]** Matthew Williams Joins the Commercial Space Federation as Senior Advisor, National Security
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T225359">2026-06-30 22:53:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T232459">2026-06-30 23:24:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
