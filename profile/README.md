@@ -21,10 +21,10 @@ The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
 **Electron | The Grain Goddess Provides (iQPS Launch 7)**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="None">Unknown Pad</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1A</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260701T010000">2026-07-01 01:00:00 UTC</a>.  Until
-then, this pad will have been used for 0
+then, this pad will have been used for 41
 out of 78 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Earth Science* and the payload will be injected
@@ -39,7 +39,7 @@ into *a Low Earth Orbit
   <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="None" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T212906">2026-06-30 21:29:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T220122">2026-06-30 22:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
