@@ -92,6 +92,7 @@ First orbital full version launch of the South Korean military small satellite l
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/study-argues-bigger-launch-vehicles-may-not-always-be-better/" >🔗</a> **[SpaceNews]** Study argues bigger launch vehicles may not always be better
 - <a href="https://www.nasaspaceflight.com/2026/06/swift-boost-mission-launch/" >🔗</a> **[NASASpaceflight]** Pegasus XL set to air launch Swift Boost Mission to save NASA space telescope
 - <a href="https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/" >🔗</a> **[NASA]** Northwest Earth and Space Science Pathways Project Celebrates Student Innovation Through ROADS from Earth to Venus National Challenge
 - <a href="https://www.nasa.gov/news-release/nasa-sba-announce-new-initiative-to-scale-american-space-economy/" >🔗</a> **[NASA]** NASA, SBA Announce New Initiative to Scale American Space Economy
@@ -101,7 +102,6 @@ First orbital full version launch of the South Korean military small satellite l
 - <a href="https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/" >🔗</a> **[SpaceNews]** ESA to seek lunar mapping capability for Argonaut lander
 - <a href="https://spacenews.com/beck-iridium-acquisition-the-logical-next-step-for-rocket-lab/" >🔗</a> **[SpaceNews]** Beck: Iridium acquisition the “logical next step” for Rocket Lab
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-preps-for-spacewalk/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams Preps for Spacewalk
-- <a href="https://www.nasa.gov/general/mapping-earths-observations-featuring-betsy-ford/" >🔗</a> **[NASA]** Mapping Earth’s Observations, featuring Betsy Ford
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First orbital full version launch of the South Korean military small satellite l
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T012232">2026-06-30 01:22:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T021624">2026-06-30 02:16:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
