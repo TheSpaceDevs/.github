@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/technomile-recognized-among-notable-vendors-in-contract-lifecycle-management-platforms-landscape-report/" >🔗</a> **[SpaceNews]** TechnoMile Recognized among Notable Vendors in Contract Lifecycle Management Platforms Landscape Report
 - <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-063026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Swift rescue mission, final Atlas satellite launch
 - <a href="https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/" >🔗</a> **[Arstechnica]** NASA may send a backup, nuclear-powered Mars rover to the Moon
 - <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-reveals-red-white-blue-universe-for-us-250th/" >🔗</a> **[NASA]** NASA’s Chandra Reveals ‘Red, White, Blue’ Universe for US 250th
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nextstep-3-b-moon-base-demonstrations/" >🔗</a> **[NASA]** NextSTEP-3 B: Moon Base Demonstrations
 - <a href="https://www.nasa.gov/news-release/nasa-awards-more-moon-base-science-previews-new-opportunities/" >🔗</a> **[NASA]** NASA Awards More Moon Base Science, Previews New Opportunities
 - <a href="https://spacenews.com/matthew-williams-joins-the-commercial-space-federation-as-senior-advisor-national-security/" >🔗</a> **[SpaceNews]** Matthew Williams Joins the Commercial Space Federation as Senior Advisor, National Security
-- <a href="https://science.nasa.gov/earth/earth-observatory/a-most-pleasantly-situated-estate-153949/" >🔗</a> **[NASA]** A Most “Pleasantly Situated” Estate
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T220122">2026-06-30 22:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T225359">2026-06-30 22:53:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
