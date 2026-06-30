@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_Day_eight_other_key_dates_in_asteroid_history" >🔗</a> **[ESA]** Asteroid Day & eight other key dates in asteroid history
+- <a href="https://www.nasa.gov/general/ames-stars-of-the-month-july-2026/" >🔗</a> **[NASA]** Ames Science Stars of the Month July 2026
 - <a href="https://spacenews.com/study-argues-bigger-launch-vehicles-may-not-always-be-better/" >🔗</a> **[SpaceNews]** Study argues bigger launch vehicles may not always be better
 - <a href="https://www.nasaspaceflight.com/2026/06/swift-boost-mission-launch/" >🔗</a> **[NASASpaceflight]** Pegasus XL set to air launch Swift Boost Mission to save NASA space telescope
 - <a href="https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/" >🔗</a> **[NASA]** Northwest Earth and Space Science Pathways Project Celebrates Student Innovation Through ROADS from Earth to Venus National Challenge
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2026/06/roman-space-telescope-arrives-at-space-coast/" >🔗</a> **[Space Scout]** Roman Space Telescope Arrives at Space Coast
 - <a href="https://arstechnica.com/space/2026/06/in-a-bold-move-rocket-lab-acquires-iridium-communications/" >🔗</a> **[Arstechnica]** In a bold move, Rocket Lab acquires Iridium Communications
 - <a href="https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/" >🔗</a> **[SpaceNews]** ESA to seek lunar mapping capability for Argonaut lander
-- <a href="https://spacenews.com/beck-iridium-acquisition-the-logical-next-step-for-rocket-lab/" >🔗</a> **[SpaceNews]** Beck: Iridium acquisition the “logical next step” for Rocket Lab
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T080952">2026-06-30 08:09:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T094305">2026-06-30 09:43:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
