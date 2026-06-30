@@ -104,6 +104,7 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/06/swift-boost-mission-launch/" >🔗</a> **[NASASpaceflight]** Pegasus XL set to air launch Swift Boost Mission to save NASA space telescope
 - <a href="https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/" >🔗</a> **[NASA]** Partners, NASA Ready for June Launch of Swift Boost Mission
 - <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-062326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Pegasus XL to launch amongst Falcon 9 and Chinese missions
 - <a href="https://spacenews.com/swift-reboost-mission-ready-for-launch/" >🔗</a> **[SpaceNews]** Swift reboost mission ready for launch
@@ -113,12 +114,11 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/swift-spacecraft-reorientation-buys-time-for-reboost-mission/" >🔗</a> **[SpaceNews]** Swift spacecraft reorientation buys time for reboost mission
 - <a href="https://www.spacedaily.com/reports/Swift_observatory_changes_operations_ahead_of_planned_orbit_reboost_999.html" >🔗</a> **[SpaceDaily]** Swift observatory changes operations ahead of planned orbit reboost
 - <a href="https://spacenews.com/nasa-works-to-extend-swifts-life-ahead-of-reboost-mission/" >🔗</a> **[SpaceNews]** NASA works to extend Swift’s life ahead of reboost mission
-- <a href="https://spacenews.com/katalyst-selects-pegasus-to-launch-swift-reboost-mission/" >🔗</a> **[SpaceNews]** Katalyst selects Pegasus to launch Swift reboost mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T051905">2026-06-30 05:19:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T064530">2026-06-30 06:45:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
