@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_ESA_s_Junior_Professional_Programme" >🔗</a> **[ESA]** Apply now to ESA's Junior Professional Programme
+- <a href="https://www.nasa.gov/image-article/starry-chandelier-cluster/" >🔗</a> **[NASA]** Starry Chandelier Cluster
 - <a href="https://spacenews.com/vast-names-isakowitz-as-a-senior-adviser/" >🔗</a> **[SpaceNews]** Vast names Isakowitz as a senior adviser
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A" >🔗</a> **[ESA]** Time to say goodbye to Sentinel-1A
 - <a href="https://spacenews.com/ssc-space-firefly-set-2028-target-for-first-orbital-launch-from-swedens-esrange/" >🔗</a> **[SpaceNews]** SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/ames-stars-of-the-month-july-2026/" >🔗</a> **[NASA]** Ames Science Stars of the Month July 2026
 - <a href="https://spacenews.com/study-argues-bigger-launch-vehicles-may-not-always-be-better/" >🔗</a> **[SpaceNews]** Study argues bigger launch vehicles may not always be better
 - <a href="https://www.nasaspaceflight.com/2026/06/swift-boost-mission-launch/" >🔗</a> **[NASASpaceflight]** Pegasus XL set to air launch Swift Boost Mission to save NASA space telescope
-- <a href="https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/" >🔗</a> **[NASA]** Northwest Earth and Space Science Pathways Project Celebrates Student Innovation Through ROADS from Earth to Venus National Challenge
-- <a href="https://www.nasa.gov/news-release/nasa-sba-announce-new-initiative-to-scale-american-space-economy/" >🔗</a> **[NASA]** NASA, SBA Announce New Initiative to Scale American Space Economy
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T144804">2026-06-30 14:48:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260630T154640">2026-06-30 15:46:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
