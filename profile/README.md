@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-examines-milky-way-at-arms-length/" >🔗</a> **[NASA]** NASA’s Chandra Examines Milky Way at Arms’ Length
 - <a href="https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/" >🔗</a> **[Arstechnica]** NASA chief praises progress Blue Origin is making after launch failure
 - <a href="https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/" >🔗</a> **[SpaceNews]** FCC to vote on satellite licensing overhaul July 22
 - <a href="https://spaceflightnow.com/2026/07/01/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/" >🔗</a> **[NASA]** NASA’s Webb Studies How Planet Survived Death of its Star
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4934-4940-in-the-land-of-the-polygons/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4934-4940: In the Land of the Polygons
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/caltech-welcomes-astrophysicist-ray-jayawardhana-as-new-president/" >🔗</a> **[NASA]** Caltech Welcomes Astrophysicist Ray Jayawardhana as New President
-- <a href="https://www.nasaspaceflight.com/2026/07/blue-origin-lc-36-recovery-hybrid-plan/" >🔗</a> **[NASASpaceflight]** Blue Origin accelerates LC-36 recovery via hybrid plan
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260701T210027">2026-07-01 21:00:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260701T213725">2026-07-01 21:37:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
