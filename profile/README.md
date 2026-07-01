@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/" >🔗</a> **[NASA]** LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/" >🔗</a> **[NASA]** NASA’s Webb Studies How Planet Survived Death of its Star
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star" >🔗</a> **[ESA]** Webb studies how a planet survived the death of its star
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4934-4940-in-the-land-of-the-polygons/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4934-4940: In the Land of the Polygons
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/tess/nasas-tess-mission-finds-planetary-system-in-new-way/" >🔗</a> **[NASA]** NASA’s TESS Mission Finds Planetary System in New Way
 - <a href="https://spacenews.com/vantor-offers-up-to-date-imagery-with-worldview-3d/" >🔗</a> **[SpaceNews]** Vantor offers up-to-date imagery with WorldView 3D
 - <a href="https://spacenews.com/echostars-satellite-tv-and-wireless-subsidiaries-file-for-bankruptcy/" >🔗</a> **[SpaceNews]** EchoStar’s satellite TV and wireless subsidiaries file for bankruptcy
-- <a href="https://spacenews.com/latitude-plans-to-conduct-first-launch-from-oman/" >🔗</a> **[SpaceNews]** Latitude plans to conduct first launch from Oman
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260701T152249">2026-07-01 15:22:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260701T161526">2026-07-01 16:15:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
