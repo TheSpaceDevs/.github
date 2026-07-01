@@ -91,6 +91,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo" >🔗</a> **[ESA]** Thousands of planets are hidden in this photo
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_space_under" >🔗</a> **[ESA]** The space under
 - <a href="https://spacenews.com/nasa-awards-nearly-600-million-in-lunar-lander-missions/" >🔗</a> **[SpaceNews]** NASA awards nearly $600 million in lunar lander missions
 - <a href="https://spacepolicyonline.com/news/nasa-awards-more-clps-contracts-may-send-mars-rover-engineering-model-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** NASA Awards More CLPS Contracts, May Send Mars Rover Engineering Model to the Moon
 - <a href="https://spaceflightnow.com/2026/06/30/astronauts-operate-on-space-stations-broken-robot-arm/" >🔗</a> **[Spaceflight Now]** Astronauts ‘operate’ on space station’s broken robot arm
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-063026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Swift rescue mission, final Atlas satellite launch
 - <a href="https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/" >🔗</a> **[Arstechnica]** NASA may send a backup, nuclear-powered Mars rover to the Moon
 - <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-reveals-red-white-blue-universe-for-us-250th/" >🔗</a> **[NASA]** NASA’s Chandra Reveals ‘Red, White, Blue’ Universe for US 250th
-- <a href="https://spacenews.com/space-force-fields-mobile-satellite-jamming-system/" >🔗</a> **[SpaceNews]** Space Force fields mobile satellite-jamming system
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260701T094552">2026-07-01 09:45:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260701T110135">2026-07-01 11:01:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
