@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260701T073000">2026-07-01 07:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Pegasus XL | Swift Boost Mission&location=Air launch to orbit&dates=20260701T073000Z%2F20260701T132800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Pegasus XL | Swift Boost Mission** from Air launch to orbit.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260701T233800">2026-07-01 23:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20260701T233800Z%2F20260702T000700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260702T020000">2026-07-02 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-46&location=Vandenberg SFB, CA, USA&dates=20260702T020000Z%2F20260702T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-46** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260702T042400">2026-07-02 04:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-08)&location=Cape Canaveral SFS, FL, USA&dates=20260702T042400Z%2F20260702T045300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-08)** from Cape Canaveral SFS, FL, USA.
@@ -90,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo" >🔗</a> **[ESA]** Thousands of planets are hidden in this photo
 - <a href="https://spacenews.com/nasa-awards-nearly-600-million-in-lunar-lander-missions/" >🔗</a> **[SpaceNews]** NASA awards nearly $600 million in lunar lander missions
 - <a href="https://spacepolicyonline.com/news/nasa-awards-more-clps-contracts-may-send-mars-rover-engineering-model-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** NASA Awards More CLPS Contracts, May Send Mars Rover Engineering Model to the Moon
 - <a href="https://spaceflightnow.com/2026/06/30/astronauts-operate-on-space-stations-broken-robot-arm/" >🔗</a> **[Spaceflight Now]** Astronauts ‘operate’ on space station’s broken robot arm
@@ -99,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/" >🔗</a> **[Arstechnica]** NASA may send a backup, nuclear-powered Mars rover to the Moon
 - <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-reveals-red-white-blue-universe-for-us-250th/" >🔗</a> **[NASA]** NASA’s Chandra Reveals ‘Red, White, Blue’ Universe for US 250th
 - <a href="https://spacenews.com/space-force-fields-mobile-satellite-jamming-system/" >🔗</a> **[SpaceNews]** Space Force fields mobile satellite-jamming system
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/" >🔗</a> **[NASA]** A Day of Flight Testing at NASA Armstrong
 
 
 ### Launch-related News 🚀
@@ -118,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260701T065720">2026-07-01 06:57:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260701T082648">2026-07-01 08:26:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
