@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/07/01/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/" >🔗</a> **[NASA]** NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission
 - <a href="https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/" >🔗</a> **[NASA]** LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star" >🔗</a> **[ESA]** Webb studies how a planet survived the death of its star
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/" >🔗</a> **[NASA]** NASA’s Webb Studies How Planet Survived Death of its Star
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star" >🔗</a> **[ESA]** Webb studies how a planet survived the death of its star
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4934-4940-in-the-land-of-the-polygons/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4934-4940: In the Land of the Polygons
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/caltech-welcomes-astrophysicist-ray-jayawardhana-as-new-president/" >🔗</a> **[NASA]** Caltech Welcomes Astrophysicist Ray Jayawardhana as New President
 - <a href="https://www.nasaspaceflight.com/2026/07/blue-origin-lc-36-recovery-hybrid-plan/" >🔗</a> **[NASASpaceflight]** Blue Origin accelerates LC-36 recovery via hybrid plan
 - <a href="https://spacenews.com/unseen-threats-overhead-drones-endanger-u-s-rocket-launch-sites/" >🔗</a> **[SpaceNews]** Unseen threats overhead: Drones endanger U.S. rocket launch sites
 - <a href="https://science.nasa.gov/missions/tess/nasas-tess-mission-finds-planetary-system-in-new-way/" >🔗</a> **[NASA]** NASA’s TESS Mission Finds Planetary System in New Way
-- <a href="https://spacenews.com/vantor-offers-up-to-date-imagery-with-worldview-3d/" >🔗</a> **[SpaceNews]** Vantor offers up-to-date imagery with WorldView 3D
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260701T171333">2026-07-01 17:13:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260701T180852">2026-07-01 18:08:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
