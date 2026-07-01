@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/" >🔗</a> **[NASA]** NASA’s Webb Studies How Planet Survived Death of its Star
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star" >🔗</a> **[ESA]** Webb studies how a planet survived the death of its star
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4934-4940-in-the-land-of-the-polygons/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4934-4940: In the Land of the Polygons
+- <a href="https://www.nasa.gov/centers-and-facilities/jpl/caltech-welcomes-astrophysicist-ray-jayawardhana-as-new-president/" >🔗</a> **[NASA]** Caltech Welcomes Astrophysicist Ray Jayawardhana as New President
+- <a href="https://www.nasaspaceflight.com/2026/07/blue-origin-lc-36-recovery-hybrid-plan/" >🔗</a> **[NASASpaceflight]** Blue Origin accelerates LC-36 recovery via hybrid plan
 - <a href="https://spacenews.com/unseen-threats-overhead-drones-endanger-u-s-rocket-launch-sites/" >🔗</a> **[SpaceNews]** Unseen threats overhead: Drones endanger U.S. rocket launch sites
 - <a href="https://science.nasa.gov/missions/tess/nasas-tess-mission-finds-planetary-system-in-new-way/" >🔗</a> **[NASA]** NASA’s TESS Mission Finds Planetary System in New Way
 - <a href="https://spacenews.com/vantor-offers-up-to-date-imagery-with-worldview-3d/" >🔗</a> **[SpaceNews]** Vantor offers up-to-date imagery with WorldView 3D
 - <a href="https://spacenews.com/echostars-satellite-tv-and-wireless-subsidiaries-file-for-bankruptcy/" >🔗</a> **[SpaceNews]** EchoStar’s satellite TV and wireless subsidiaries file for bankruptcy
 - <a href="https://spacenews.com/latitude-plans-to-conduct-first-launch-from-oman/" >🔗</a> **[SpaceNews]** Latitude plans to conduct first launch from Oman
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms" >🔗</a> **[ESA]** XMM-Newton helps revise distance to outer spiral arms
-- <a href="https://spacenews.com/blue-origin-outlines-new-launch-pad-approach-as-it-pushes-to-return-new-glenn-to-flight/" >🔗</a> **[SpaceNews]** Blue Origin outlines new launch pad approach as it pushes to return New Glenn to flight
-- <a href="https://spacenews.com/the-spacex-ipo-tells-one-story-here-is-the-more-important-one/" >🔗</a> **[SpaceNews]** The SpaceX IPO tells one story. Here is the more important one.
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo" >🔗</a> **[ESA]** Thousands of planets are hidden in this photo
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_space_under" >🔗</a> **[ESA]** The space under
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260701T141523">2026-07-01 14:15:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260701T152249">2026-07-01 15:22:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
