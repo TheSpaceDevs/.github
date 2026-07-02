@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/" >🔗</a> **[NASA]** NASA’s Artemis II Breaks Agency Streaming Record
+- <a href="https://www.nasa.gov/general/nasa-students-get-airborne-view-of-atmospheric-science-at-ellington-field/" >🔗</a> **[NASA]** NASA Students Get Airborne View of Atmospheric Science at Ellington Field
+- <a href="https://spacenews.com/polish-space-tech-company-sybilla-technologies-secures-funds-to-enter-u-s-market/" >🔗</a> **[SpaceNews]** Polish space tech company Sybilla Technologies secures funds to enter U.S. market
 - <a href="https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/" >🔗</a> **[Arstechnica]** Ars Live recap: When are the big rockets NASA desperately needs going to be ready?
 - <a href="https://www.spacescout.info/2026/07/end-of-an-era-for-atlas-v/" >🔗</a> **[Space Scout]** End of an Era for Atlas V
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/3D-printed_metal_unlocking_crew_autonomy" >🔗</a> **[ESA]** 3D-printed metal: unlocking crew autonomy
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/good-morning-earth/" >🔗</a> **[NASA]** Good Morning, Earth!
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/" >🔗</a> **[NASA]** NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration
 - <a href="https://spacenews.com/making-satellite-communications-more-resilient/" >🔗</a> **[SpaceNews]** Making satellite communications more resilient
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/3D-printed_metal" >🔗</a> **[ESA]** 3D-printed metal
-- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Surface_CubeSat_contracted_for_Ramses_asteroid_mission" >🔗</a> **[ESA]** Surface CubeSat contracted for Ramses asteroid mission
-- <a href="https://spacenews.com/final-atlas-5-amazon-leo-mission-launches/" >🔗</a> **[SpaceNews]** Final Atlas 5 Amazon Leo mission launches
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260702T173137">2026-07-02 17:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260702T182821">2026-07-02 18:28:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
