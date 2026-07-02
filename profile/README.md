@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Timelapse_four_P160C_boosters_for_Ariane_6_from_integration_to_launch" >🔗</a> **[ESA]** Timelapse: four P160C boosters for Ariane 6 – from integration to launch
+- <a href="https://www.nasa.gov/image-article/good-morning-earth/" >🔗</a> **[NASA]** Good Morning, Earth!
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/" >🔗</a> **[NASA]** NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration
 - <a href="https://spacenews.com/making-satellite-communications-more-resilient/" >🔗</a> **[SpaceNews]** Making satellite communications more resilient
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/3D-printed_metal" >🔗</a> **[ESA]** 3D-printed metal
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Surface_CubeSat_contracted_for_Ramses_asteroid_mission" >🔗</a> **[ESA]** Surface CubeSat contracted for Ramses asteroid mission
 - <a href="https://spacenews.com/final-atlas-5-amazon-leo-mission-launches/" >🔗</a> **[SpaceNews]** Final Atlas 5 Amazon Leo mission launches
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Authorisation_paves_the_way_for_Aeolus-2_wind_mission" >🔗</a> **[ESA]** Authorisation paves the way for Aeolus-2 wind mission
 - <a href="https://science.nasa.gov/solar-system/whats-up-july-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: July 2026 Skywatching Tips from NASA
 - <a href="https://spaceflightnow.com/2026/07/01/live-coverage-ula-to-launch-final-atlas-5-rocket-supporting-amazon-leos-broadband-internet-satellite-constellation/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch final Atlas 5 rocket supporting Amazon Leo’s broadband internet satellite constellation
-- <a href="https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/" >🔗</a> **[SpaceNews]** Report links Starliner problems to overconfidence and unrealistic schedules
-- <a href="https://www.nasaspaceflight.com/2026/07/nasa-moon-base-update/" >🔗</a> **[NASASpaceflight]** NASA announces new lander contracts for Moon Base Phase One
-- <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-examines-milky-way-at-arms-length/" >🔗</a> **[NASA]** NASA’s Chandra Examines Milky Way at Arms’ Length
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260702T144223">2026-07-02 14:42:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260702T154305">2026-07-02 15:43:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
