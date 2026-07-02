@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/" >🔗</a> **[SpaceNews]** Perovskite solar panel startup Verde Technologies shifts focus to space
+- <a href="https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/" >🔗</a> **[SpaceNews]** Isar Aerospace to launch German-built Planet imaging satellite
 - <a href="https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/" >🔗</a> **[NASA]** NASA’s Artemis II Breaks Agency Streaming Record
 - <a href="https://www.nasa.gov/general/nasa-students-get-airborne-view-of-atmospheric-science-at-ellington-field/" >🔗</a> **[NASA]** NASA Students Get Airborne View of Atmospheric Science at Ellington Field
 - <a href="https://spacenews.com/polish-space-tech-company-sybilla-technologies-secures-funds-to-enter-u-s-market/" >🔗</a> **[SpaceNews]** Polish space tech company Sybilla Technologies secures funds to enter U.S. market
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/3D-printed_metal_unlocking_crew_autonomy" >🔗</a> **[ESA]** 3D-printed metal: unlocking crew autonomy
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Timelapse_four_P160C_boosters_for_Ariane_6_from_integration_to_launch" >🔗</a> **[ESA]** Timelapse: four P160C boosters for Ariane 6 – from integration to launch
 - <a href="https://www.nasa.gov/image-article/good-morning-earth/" >🔗</a> **[NASA]** Good Morning, Earth!
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/" >🔗</a> **[NASA]** NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration
-- <a href="https://spacenews.com/making-satellite-communications-more-resilient/" >🔗</a> **[SpaceNews]** Making satellite communications more resilient
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260702T190047">2026-07-02 19:00:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260702T193529">2026-07-02 19:35:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
