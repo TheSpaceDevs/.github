@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Surface_CubeSat_contracted_for_Ramses_asteroid_mission" >🔗</a> **[ESA]** Surface CubeSat contracted for Ramses asteroid mission
+- <a href="https://spacenews.com/final-atlas-5-amazon-leo-mission-launches/" >🔗</a> **[SpaceNews]** Final Atlas 5 Amazon Leo mission launches
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Authorisation_paves_the_way_for_Aeolus-2_wind_mission" >🔗</a> **[ESA]** Authorisation paves the way for Aeolus-2 wind mission
 - <a href="https://science.nasa.gov/solar-system/whats-up-july-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: July 2026 Skywatching Tips from NASA
 - <a href="https://spaceflightnow.com/2026/07/01/live-coverage-ula-to-launch-final-atlas-5-rocket-supporting-amazon-leos-broadband-internet-satellite-constellation/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch final Atlas 5 rocket supporting Amazon Leo’s broadband internet satellite constellation
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-examines-milky-way-at-arms-length/" >🔗</a> **[NASA]** NASA’s Chandra Examines Milky Way at Arms’ Length
 - <a href="https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/" >🔗</a> **[Arstechnica]** NASA chief praises progress Blue Origin is making after launch failure
 - <a href="https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/" >🔗</a> **[SpaceNews]** FCC to vote on satellite licensing overhaul July 22
-- <a href="https://spaceflightnow.com/2026/07/01/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/" >🔗</a> **[NASA]** NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260702T093427">2026-07-02 09:34:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260702T105116">2026-07-02 10:51:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
