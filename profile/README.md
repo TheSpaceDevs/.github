@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/whats-up-july-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: July 2026 Skywatching Tips from NASA
 - <a href="https://spaceflightnow.com/2026/07/01/live-coverage-ula-to-launch-final-atlas-5-rocket-supporting-amazon-leos-broadband-internet-satellite-constellation/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch final Atlas 5 rocket supporting Amazon Leo’s broadband internet satellite constellation
 - <a href="https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/" >🔗</a> **[SpaceNews]** Report links Starliner problems to overconfidence and unrealistic schedules
 - <a href="https://www.nasaspaceflight.com/2026/07/nasa-moon-base-update/" >🔗</a> **[NASASpaceflight]** NASA announces new lander contracts for Moon Base Phase One
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/07/01/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/" >🔗</a> **[NASA]** NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission
 - <a href="https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/" >🔗</a> **[NASA]** LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/" >🔗</a> **[NASA]** NASA’s Webb Studies How Planet Survived Death of its Star
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260702T002731">2026-07-02 00:27:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260702T012255">2026-07-02 01:22:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
