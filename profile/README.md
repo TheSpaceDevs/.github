@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/atlas-v-launches-more-amazon-leos-with-only-six-starliner-flights-left-on-the-books/" >🔗</a> **[SpacePolicyOnline.com]** Atlas V Launches More Amazon Leos with Only Six Starliner Flights Left on the Books
 - <a href="https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/" >🔗</a> **[SpaceNews]** Perovskite solar panel startup Verde Technologies shifts focus to space
 - <a href="https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/" >🔗</a> **[SpaceNews]** Isar Aerospace to launch German-built Planet imaging satellite
 - <a href="https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/" >🔗</a> **[NASA]** NASA’s Artemis II Breaks Agency Streaming Record
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2026/07/end-of-an-era-for-atlas-v/" >🔗</a> **[Space Scout]** End of an Era for Atlas V
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/3D-printed_metal_unlocking_crew_autonomy" >🔗</a> **[ESA]** 3D-printed metal: unlocking crew autonomy
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Timelapse_four_P160C_boosters_for_Ariane_6_from_integration_to_launch" >🔗</a> **[ESA]** Timelapse: four P160C boosters for Ariane 6 – from integration to launch
-- <a href="https://www.nasa.gov/image-article/good-morning-earth/" >🔗</a> **[NASA]** Good Morning, Earth!
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260703T021510">2026-07-03 02:15:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260703T034249">2026-07-03 03:42:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
