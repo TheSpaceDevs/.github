@@ -91,6 +91,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/" >🔗</a> **[NASA]** NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/The_most_spectacular_aurora_of_the_epsilon_mission_so_far!" >🔗</a> **[ESA]** The most spectacular aurora of the εpsilon mission (so far!)
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_29_June_-_03_July_2026" >🔗</a> **[ESA]** Week in images: 29 June - 03 July 2026
 - <a href="https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/" >🔗</a> **[SpaceNews]** Chinese satellite manufacturer Hongqing raises $191 million
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/" >🔗</a> **[NASA]** NASA’s Hubble Spots Star-Spangled Cosmic Scene
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Grand_Canyon_US" >🔗</a> **[ESA]** Earth from Space: Grand Canyon, US
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-birthplace-of-the-united-states-90513/" >🔗</a> **[NASA]** The Birthplace of the United States
 - <a href="https://spacepolicyonline.com/news/atlas-v-launches-more-amazon-leos-with-only-six-starliner-flights-left-on-the-books/" >🔗</a> **[SpacePolicyOnline.com]** Atlas V Launches More Amazon Leos with Only Six Starliner Flights Left on the Books
-- <a href="https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/" >🔗</a> **[SpaceNews]** Perovskite solar panel startup Verde Technologies shifts focus to space
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260703T151257">2026-07-03 15:12:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260703T160159">2026-07-03 16:01:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
