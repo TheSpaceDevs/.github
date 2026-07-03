@@ -52,8 +52,8 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260709T090500">2026-07-09 09:05:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-42&location=Cape Canaveral SFS, FL, USA&dates=20260709T090500Z%2F20260709T130500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-42** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260710T051200">2026-07-10 05:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 10B | Demo Flight&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260710T051200Z%2F20260710T071900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 10B | Demo Flight** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260711T020000">2026-07-11 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-48&location=Vandenberg SFB, CA, USA&dates=20260711T020000Z%2F20260711T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-48** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260712T000000">2026-07-12 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vikram-I | Demo Flight&location=Satish Dhawan Space Centre, India&dates=20260712T000000Z%2F20260712T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vikram-I | Demo Flight** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260712T020000">2026-07-12 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Gravity-1 | Unknown Payload&location=Haiyang Oriental Spaceport&dates=20260712T020000Z%2F20260712T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Gravity-1 | Unknown Payload** from Haiyang Oriental Spaceport.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260712T050000">2026-07-12 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vikram-I | Demo Flight&location=Satish Dhawan Space Centre, India&dates=20260712T050000Z%2F20260712T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vikram-I | Demo Flight** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260713T080000">2026-07-13 08:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-14&location=Vandenberg SFB, CA, USA&dates=20260713T080000Z%2F20260713T120000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-14** from Vandenberg SFB, CA, USA.
 
 
@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_29_June_-_03_July_2026" >🔗</a> **[ESA]** Week in images: 29 June - 03 July 2026
+- <a href="https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/" >🔗</a> **[SpaceNews]** Chinese satellite manufacturer Hongqing raises $191 million
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/" >🔗</a> **[NASA]** NASA’s Hubble Spots Star-Spangled Cosmic Scene
 - <a href="https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/" >🔗</a> **[Arstechnica]** At 250 years, there are still reasons for hope in America
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Artist_s_view_of_Space_Transportation_s_major_programmes_from_2026_onwards_vertical" >🔗</a> **[ESA]** Artist's view of Space Transportation's major programmes from 2026 onwards – vertical
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Grand_Canyon_US" >🔗</a> **[ESA]** Earth from Space: Grand Canyon, US
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/atlas-v-launches-more-amazon-leos-with-only-six-starliner-flights-left-on-the-books/" >🔗</a> **[SpacePolicyOnline.com]** Atlas V Launches More Amazon Leos with Only Six Starliner Flights Left on the Books
 - <a href="https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/" >🔗</a> **[SpaceNews]** Perovskite solar panel startup Verde Technologies shifts focus to space
 - <a href="https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/" >🔗</a> **[SpaceNews]** Isar Aerospace to launch German-built Planet imaging satellite
-- <a href="https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/" >🔗</a> **[NASA]** NASA’s Artemis II Breaks Agency Streaming Record
-- <a href="https://www.nasa.gov/general/nasa-students-get-airborne-view-of-atmospheric-science-at-ellington-field/" >🔗</a> **[NASA]** NASA Students Get Airborne View of Atmospheric Science at Ellington Field
-- <a href="https://spacenews.com/polish-space-tech-company-sybilla-technologies-secures-funds-to-enter-u-s-market/" >🔗</a> **[SpaceNews]** Polish space tech company Sybilla Technologies secures funds to enter U.S. market
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260703T130721">2026-07-03 13:07:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260703T141306">2026-07-03 14:13:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
