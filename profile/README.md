@@ -99,7 +99,7 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/polish-space-tech-company-sybilla-technologies-secures-funds-to-enter-u-s-market/" >🔗</a> **[SpaceNews]** Polish space tech company Sybilla Technologies secures funds to enter U.S. market
 - <a href="https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/" >🔗</a> **[Arstechnica]** Ars Live recap: When are the big rockets NASA desperately needs going to be ready?
 - <a href="https://www.spacescout.info/2026/07/end-of-an-era-for-atlas-v/" >🔗</a> **[Space Scout]** End of an Era for Atlas V
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Timelapse_four_P160C_boosters_for_Ariane_6_from_integration_to_launch" >🔗</a> **[ESA]** Timelapse: four P160C boosters for Ariane 6 – from integration to launch
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/3D-printed_metal_unlocking_crew_autonomy" >🔗</a> **[ESA]** 3D-printed metal: unlocking crew autonomy
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260703T063848">2026-07-03 06:38:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260703T080035">2026-07-03 08:00:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
