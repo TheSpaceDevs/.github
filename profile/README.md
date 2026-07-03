@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/" >🔗</a> **[Arstechnica]** At 250 years, there are still reasons for hope in America
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Artist_s_view_of_Space_Transportation_s_major_programmes_from_2026_onwards_vertical" >🔗</a> **[ESA]** Artist's view of Space Transportation's major programmes from 2026 onwards – vertical
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Grand_Canyon_US" >🔗</a> **[ESA]** Earth from Space: Grand Canyon, US
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-birthplace-of-the-united-states-90513/" >🔗</a> **[NASA]** The Birthplace of the United States
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/" >🔗</a> **[NASA]** NASA’s Artemis II Breaks Agency Streaming Record
 - <a href="https://www.nasa.gov/general/nasa-students-get-airborne-view-of-atmospheric-science-at-ellington-field/" >🔗</a> **[NASA]** NASA Students Get Airborne View of Atmospheric Science at Ellington Field
 - <a href="https://spacenews.com/polish-space-tech-company-sybilla-technologies-secures-funds-to-enter-u-s-market/" >🔗</a> **[SpaceNews]** Polish space tech company Sybilla Technologies secures funds to enter U.S. market
-- <a href="https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/" >🔗</a> **[Arstechnica]** Ars Live recap: When are the big rockets NASA desperately needs going to be ready?
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260703T111820">2026-07-03 11:18:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260703T121225">2026-07-03 12:12:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
