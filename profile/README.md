@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/pegasus-launches-swift-reboost-mission/" >🔗</a> **[SpaceNews]** Pegasus launches Swift reboost mission
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/" >🔗</a> **[NASA]** NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/The_most_spectacular_aurora_of_the_epsilon_mission_so_far!" >🔗</a> **[ESA]** The most spectacular aurora of the εpsilon mission (so far!)
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_29_June_-_03_July_2026" >🔗</a> **[ESA]** Week in images: 29 June - 03 July 2026
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Artist_s_view_of_Space_Transportation_s_major_programmes_from_2026_onwards_vertical" >🔗</a> **[ESA]** Artist's view of Space Transportation's major programmes from 2026 onwards – vertical
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Grand_Canyon_US" >🔗</a> **[ESA]** Earth from Space: Grand Canyon, US
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-birthplace-of-the-united-states-90513/" >🔗</a> **[NASA]** The Birthplace of the United States
-- <a href="https://spacepolicyonline.com/news/atlas-v-launches-more-amazon-leos-with-only-six-starliner-flights-left-on-the-books/" >🔗</a> **[SpacePolicyOnline.com]** Atlas V Launches More Amazon Leos with Only Six Starliner Flights Left on the Books
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260703T203058">2026-07-03 20:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260703T212254">2026-07-03 21:22:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
