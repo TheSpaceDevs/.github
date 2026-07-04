@@ -92,6 +92,8 @@ The Falcon 9 1st stage carries 2 customer payload from Besxar for testing their 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/07/vast-update-070426/" >🔗</a> **[NASASpaceflight]** Vast’s Haven-1 continues to advance through milestones ahead of planned 2027 launch
+- <a href="https://spaceflightnow.com/2026/07/04/live-coverage-semiconductor-manufacturing-test-bed-to-fly-alongside-starlink-satellites-on-falcon-9-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: Semiconductor manufacturing test bed to fly alongside Starlink satellites on Falcon 9 launch
 - <a href="https://www.spacescout.info/2026/07/need-a-lift-nasa-launches-swift-rescue-mission/" >🔗</a> **[Space Scout]** Need a Lift? NASA Launches Swift Rescue Mission
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/" >🔗</a> **[NASA]** NASA’s Hubble Spies Stellar Sparkler for July 4th
 - <a href="https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/" >🔗</a> **[SpaceNews]** GAO flags satellite costs, launch risks in Space Force portfolio
@@ -100,8 +102,6 @@ The Falcon 9 1st stage carries 2 customer payload from Besxar for testing their 
 - <a href="https://spacenews.com/pegasus-launches-swift-reboost-mission/" >🔗</a> **[SpaceNews]** Pegasus launches Swift reboost mission
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/" >🔗</a> **[NASA]** NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/The_most_spectacular_aurora_of_the_epsilon_mission_so_far!" >🔗</a> **[ESA]** The most spectacular aurora of the εpsilon mission (so far!)
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_29_June_-_03_July_2026" >🔗</a> **[ESA]** Week in images: 29 June - 03 July 2026
-- <a href="https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/" >🔗</a> **[SpaceNews]** Chinese satellite manufacturer Hongqing raises $191 million
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The Falcon 9 1st stage carries 2 customer payload from Besxar for testing their 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260704T214535">2026-07-04 21:45:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260704T221605">2026-07-04 22:16:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
