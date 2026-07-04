@@ -92,6 +92,7 @@ The Falcon 9 1st stage carries 2 customer payload from Besxar for testing their 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/" >🔗</a> **[NASA]** NASA’s Hubble Spies Stellar Sparkler for July 4th
 - <a href="https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/" >🔗</a> **[SpaceNews]** GAO flags satellite costs, launch risks in Space Force portfolio
 - <a href="https://spacepolicyonline.com/news/katalysts-link-on-its-way-to-reboost-swift/" >🔗</a> **[SpacePolicyOnline.com]** Katalyst’s LINK On Its Way to Reboost Swift
 - <a href="https://www.nasaspaceflight.com/2026/07/starship-florida-pushing-launch/" >🔗</a> **[NASASpaceflight]** Starship in Florida pushing for launch this year
@@ -101,7 +102,6 @@ The Falcon 9 1st stage carries 2 customer payload from Besxar for testing their 
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_29_June_-_03_July_2026" >🔗</a> **[ESA]** Week in images: 29 June - 03 July 2026
 - <a href="https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/" >🔗</a> **[SpaceNews]** Chinese satellite manufacturer Hongqing raises $191 million
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/" >🔗</a> **[NASA]** NASA’s Hubble Spots Star-Spangled Cosmic Scene
-- <a href="https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/" >🔗</a> **[Arstechnica]** At 250 years, there are still reasons for hope in America
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The Falcon 9 1st stage carries 2 customer payload from Besxar for testing their 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260704T115556">2026-07-04 11:55:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260704T122323">2026-07-04 12:23:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
