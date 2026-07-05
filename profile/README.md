@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/" >🔗</a> **[SpaceNews]** Airbus to build Aeolus-2 wind-monitoring satellite
 - <a href="https://www.nasaspaceflight.com/2026/07/vast-update-070426/" >🔗</a> **[NASASpaceflight]** Vast’s Haven-1 continues to advance through milestones ahead of planned 2027 launch
 - <a href="https://spaceflightnow.com/2026/07/04/live-coverage-semiconductor-manufacturing-test-bed-to-fly-alongside-starlink-satellites-on-falcon-9-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: Semiconductor manufacturing test bed to fly alongside Starlink satellites on Falcon 9 launch
 - <a href="https://www.spacescout.info/2026/07/need-a-lift-nasa-launches-swift-rescue-mission/" >🔗</a> **[Space Scout]** Need a Lift? NASA Launches Swift Rescue Mission
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasaspaceflight.com/2026/07/starship-florida-pushing-launch/" >🔗</a> **[NASASpaceflight]** Starship in Florida pushing for launch this year
 - <a href="https://spacenews.com/pegasus-launches-swift-reboost-mission/" >🔗</a> **[SpaceNews]** Pegasus launches Swift reboost mission
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/" >🔗</a> **[NASA]** NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/The_most_spectacular_aurora_of_the_epsilon_mission_so_far!" >🔗</a> **[ESA]** The most spectacular aurora of the εpsilon mission (so far!)
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260705T145749">2026-07-05 14:57:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260705T152928">2026-07-05 15:29:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
