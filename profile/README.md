@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-5-18-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 5-18, 2026
 - <a href="https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/" >🔗</a> **[SpaceNews]** Airbus to build Aeolus-2 wind-monitoring satellite
 - <a href="https://www.nasaspaceflight.com/2026/07/vast-update-070426/" >🔗</a> **[NASASpaceflight]** Vast’s Haven-1 continues to advance through milestones ahead of planned 2027 launch
 - <a href="https://spaceflightnow.com/2026/07/04/live-coverage-semiconductor-manufacturing-test-bed-to-fly-alongside-starlink-satellites-on-falcon-9-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: Semiconductor manufacturing test bed to fly alongside Starlink satellites on Falcon 9 launch
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacepolicyonline.com/news/katalysts-link-on-its-way-to-reboost-swift/" >🔗</a> **[SpacePolicyOnline.com]** Katalyst’s LINK On Its Way to Reboost Swift
 - <a href="https://www.nasaspaceflight.com/2026/07/starship-florida-pushing-launch/" >🔗</a> **[NASASpaceflight]** Starship in Florida pushing for launch this year
 - <a href="https://spacenews.com/pegasus-launches-swift-reboost-mission/" >🔗</a> **[SpaceNews]** Pegasus launches Swift reboost mission
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/" >🔗</a> **[NASA]** NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260705T224554">2026-07-05 22:45:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260705T232029">2026-07-05 23:20:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
