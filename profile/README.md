@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/07/launch-long-march-10b-vikram-i-debut/" >🔗</a> **[NASASpaceflight]** Launch Preview: Long March 10B and Vikram-I debut
+- <a href="https://spaceflightnow.com/2026/07/06/live-coverage-fire-detectors-military-tech-demos-3d-printers-among-spacex-rideshare-payloads-launching-on-midnight-falcon-9-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: Fire detectors, military tech demos, 3D printers among SpaceX rideshare payloads launching on midnight Falcon 9 flight
 - <a href="https://spacenews.com/blue-origin-continues-work-on-lunar-landers-during-recovery-from-new-glenn-explosion/" >🔗</a> **[SpaceNews]** Blue Origin continues work on lunar landers during recovery from New Glenn explosion
 - <a href="https://spacenews.com/iridium-folds-aireon-aviation-safety-service-into-rocket-lab-bound-business/" >🔗</a> **[SpaceNews]** Iridium folds Aireon aviation safety service into Rocket Lab-bound business
 - <a href="https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/" >🔗</a> **[NASA]** NASA Takes Flight For America’s 250th
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/" >🔗</a> **[NASA]** NASA Seeks Industry Input on Second Phase of Commercial Space Stations
 - <a href="https://arstechnica.com/space/2026/07/there-were-not-one-but-two-asteroid-encounters-this-weekend/" >🔗</a> **[Arstechnica]** There were not one, but two asteroid encounters this weekend
 - <a href="https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/" >🔗</a> **[NASA]** NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies
-- <a href="https://europeanspaceflight.com/italy-brings-iride-earth-observation-service-online/" >🔗</a> **[European Spaceflight]** Italy Brings IRIDE Earth Observation Service Online
-- <a href="https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/" >🔗</a> **[NASA]** NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260706T212903">2026-07-06 21:29:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260706T220033">2026-07-06 22:00:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
