@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-and-small-business-administration-partner-on-funding-key-space-technologies/" >🔗</a> **[SpaceNews]** NASA and Small Business Administration partner on funding key space technologies
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-5-18-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 5-18, 2026
 - <a href="https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/" >🔗</a> **[SpaceNews]** Airbus to build Aeolus-2 wind-monitoring satellite
 - <a href="https://www.nasaspaceflight.com/2026/07/vast-update-070426/" >🔗</a> **[NASASpaceflight]** Vast’s Haven-1 continues to advance through milestones ahead of planned 2027 launch
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/" >🔗</a> **[SpaceNews]** GAO flags satellite costs, launch risks in Space Force portfolio
 - <a href="https://spacepolicyonline.com/news/katalysts-link-on-its-way-to-reboost-swift/" >🔗</a> **[SpacePolicyOnline.com]** Katalyst’s LINK On Its Way to Reboost Swift
 - <a href="https://www.nasaspaceflight.com/2026/07/starship-florida-pushing-launch/" >🔗</a> **[NASASpaceflight]** Starship in Florida pushing for launch this year
-- <a href="https://spacenews.com/pegasus-launches-swift-reboost-mission/" >🔗</a> **[SpaceNews]** Pegasus launches Swift reboost mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260706T010818">2026-07-06 01:08:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260706T021529">2026-07-06 02:15:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
