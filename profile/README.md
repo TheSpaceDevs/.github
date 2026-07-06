@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/bae-microchip-designed-for-strategic-defense-missions-passes-radiation-test/" >🔗</a> **[SpaceNews]** BAE microchip designed for strategic defense missions passes radiation test
+- <a href="https://spacenews.com/the-term-dual-use-is-misleading-and-dangerous/" >🔗</a> **[SpaceNews]** The term ‘dual-use’ is misleading and dangerous
 - <a href="https://spacenews.com/connected-aircraft-fleet-set-to-exceed-70000-by-2035/" >🔗</a> **[SpaceNews]** Connected Aircraft Fleet Set to Exceed 70,000 by 2035
 - <a href="https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/" >🔗</a> **[SpaceNews]** Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard
 - <a href="https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/" >🔗</a> **[SpaceNews]** Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_the_most_ancient_quasar_in_the_Universe" >🔗</a> **[ESA]** Euclid discovers the most ancient quasar in the Universe
+- <a href="https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/" >🔗</a> **[NASA]** Examining Algal Blooms in Blue Mesa
 - <a href="https://spacenews.com/nasa-and-small-business-administration-partner-on-funding-key-space-technologies/" >🔗</a> **[SpaceNews]** NASA and Small Business Administration partner on funding key space technologies
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-5-18-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 5-18, 2026
 - <a href="https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/" >🔗</a> **[SpaceNews]** Airbus to build Aeolus-2 wind-monitoring satellite
-- <a href="https://www.nasaspaceflight.com/2026/07/vast-update-070426/" >🔗</a> **[NASASpaceflight]** Vast’s Haven-1 continues to advance through milestones ahead of planned 2027 launch
-- <a href="https://spaceflightnow.com/2026/07/04/live-coverage-semiconductor-manufacturing-test-bed-to-fly-alongside-starlink-satellites-on-falcon-9-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: Semiconductor manufacturing test bed to fly alongside Starlink satellites on Falcon 9 launch
-- <a href="https://www.spacescout.info/2026/07/need-a-lift-nasa-launches-swift-rescue-mission/" >🔗</a> **[Space Scout]** Need a Lift? NASA Launches Swift Rescue Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260706T124817">2026-07-06 12:48:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260706T140931">2026-07-06 14:09:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
