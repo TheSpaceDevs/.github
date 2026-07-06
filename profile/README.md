@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy" >🔗</a> **[ESA]** Webb reveals millions of stars in nearby galaxy
+- <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/" >🔗</a> **[NASA]** NASA Seeks Industry Input on Second Phase of Commercial Space Stations
+- <a href="https://arstechnica.com/space/2026/07/there-were-not-one-but-two-asteroid-encounters-this-weekend/" >🔗</a> **[Arstechnica]** There were not one, but two asteroid encounters this weekend
+- <a href="https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/" >🔗</a> **[NASA]** NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies
+- <a href="https://europeanspaceflight.com/italy-brings-iride-earth-observation-service-online/" >🔗</a> **[European Spaceflight]** Italy Brings IRIDE Earth Observation Service Online
+- <a href="https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/" >🔗</a> **[NASA]** NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision
 - <a href="https://spacenews.com/bae-microchip-designed-for-strategic-defense-missions-passes-radiation-test/" >🔗</a> **[SpaceNews]** BAE microchip designed for strategic defense missions passes radiation test
 - <a href="https://spacenews.com/the-term-dual-use-is-misleading-and-dangerous/" >🔗</a> **[SpaceNews]** The term ‘dual-use’ is misleading and dangerous
 - <a href="https://spacenews.com/connected-aircraft-fleet-set-to-exceed-70000-by-2035/" >🔗</a> **[SpaceNews]** Connected Aircraft Fleet Set to Exceed 70,000 by 2035
 - <a href="https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/" >🔗</a> **[SpaceNews]** Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard
-- <a href="https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/" >🔗</a> **[SpaceNews]** Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_the_most_ancient_quasar_in_the_Universe" >🔗</a> **[ESA]** Euclid discovers the most ancient quasar in the Universe
-- <a href="https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/" >🔗</a> **[NASA]** Examining Algal Blooms in Blue Mesa
-- <a href="https://spacenews.com/nasa-and-small-business-administration-partner-on-funding-key-space-technologies/" >🔗</a> **[SpaceNews]** NASA and Small Business Administration partner on funding key space technologies
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-5-18-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 5-18, 2026
-- <a href="https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/" >🔗</a> **[SpaceNews]** Airbus to build Aeolus-2 wind-monitoring satellite
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260706T140931">2026-07-06 14:09:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260706T154308">2026-07-06 15:43:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
