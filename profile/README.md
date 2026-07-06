@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy" >🔗</a> **[ESA]** Webb reveals millions of stars in nearby galaxy
+- <a href="https://spacenews.com/nasa-adds-three-european-firms-to-the-commercial-data-program/" >🔗</a> **[SpaceNews]** NASA adds three European firms to the commercial data program
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/" >🔗</a> **[NASA]** NASA Seeks Industry Input on Second Phase of Commercial Space Stations
 - <a href="https://arstechnica.com/space/2026/07/there-were-not-one-but-two-asteroid-encounters-this-weekend/" >🔗</a> **[Arstechnica]** There were not one, but two asteroid encounters this weekend
 - <a href="https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/" >🔗</a> **[NASA]** NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/bae-microchip-designed-for-strategic-defense-missions-passes-radiation-test/" >🔗</a> **[SpaceNews]** BAE microchip designed for strategic defense missions passes radiation test
 - <a href="https://spacenews.com/the-term-dual-use-is-misleading-and-dangerous/" >🔗</a> **[SpaceNews]** The term ‘dual-use’ is misleading and dangerous
 - <a href="https://spacenews.com/connected-aircraft-fleet-set-to-exceed-70000-by-2035/" >🔗</a> **[SpaceNews]** Connected Aircraft Fleet Set to Exceed 70,000 by 2035
-- <a href="https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/" >🔗</a> **[SpaceNews]** Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260706T154308">2026-07-06 15:43:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260706T165727">2026-07-06 16:57:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
