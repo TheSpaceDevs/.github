@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/" >🔗</a> **[SpaceNews]** Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_the_most_ancient_quasar_in_the_Universe" >🔗</a> **[ESA]** Euclid discovers the most ancient quasar in the Universe
 - <a href="https://spacenews.com/nasa-and-small-business-administration-partner-on-funding-key-space-technologies/" >🔗</a> **[SpaceNews]** NASA and Small Business Administration partner on funding key space technologies
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-5-18-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 5-18, 2026
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.spacescout.info/2026/07/need-a-lift-nasa-launches-swift-rescue-mission/" >🔗</a> **[Space Scout]** Need a Lift? NASA Launches Swift Rescue Mission
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/" >🔗</a> **[NASA]** NASA’s Hubble Spies Stellar Sparkler for July 4th
 - <a href="https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/" >🔗</a> **[SpaceNews]** GAO flags satellite costs, launch risks in Space Force portfolio
-- <a href="https://spacepolicyonline.com/news/katalysts-link-on-its-way-to-reboost-swift/" >🔗</a> **[SpacePolicyOnline.com]** Katalyst’s LINK On Its Way to Reboost Swift
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260706T082810">2026-07-06 08:28:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260706T095002">2026-07-06 09:50:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
