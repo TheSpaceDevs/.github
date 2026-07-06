@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_the_most_ancient_quasar_in_the_Universe" >🔗</a> **[ESA]** Euclid discovers the most ancient quasar in the Universe
 - <a href="https://spacenews.com/nasa-and-small-business-administration-partner-on-funding-key-space-technologies/" >🔗</a> **[SpaceNews]** NASA and Small Business Administration partner on funding key space technologies
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-5-18-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 5-18, 2026
 - <a href="https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/" >🔗</a> **[SpaceNews]** Airbus to build Aeolus-2 wind-monitoring satellite
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/" >🔗</a> **[NASA]** NASA’s Hubble Spies Stellar Sparkler for July 4th
 - <a href="https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/" >🔗</a> **[SpaceNews]** GAO flags satellite costs, launch risks in Space Force portfolio
 - <a href="https://spacepolicyonline.com/news/katalysts-link-on-its-way-to-reboost-swift/" >🔗</a> **[SpacePolicyOnline.com]** Katalyst’s LINK On Its Way to Reboost Swift
-- <a href="https://www.nasaspaceflight.com/2026/07/starship-florida-pushing-launch/" >🔗</a> **[NASASpaceflight]** Starship in Florida pushing for launch this year
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260706T052305">2026-07-06 05:23:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260706T065326">2026-07-06 06:53:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
