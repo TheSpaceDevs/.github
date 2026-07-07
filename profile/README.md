@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/isar-aerospace-signs-agreement-for-canadian-launch-site/" >🔗</a> **[SpaceNews]** Isar Aerospace signs agreement for Canadian launch site
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Unpacking_Europe_s_new_weather_imagers" >🔗</a> **[ESA]** Unpacking Europe’s new weather imagers
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/" >🔗</a> **[NASA]** The World Cup From 250 Miles Up
 - <a href="https://www.nasaspaceflight.com/2026/07/launch-long-march-10b-vikram-i-debut/" >🔗</a> **[NASASpaceflight]** Launch Preview: Long March 10B and Vikram-I debut
 - <a href="https://spaceflightnow.com/2026/07/06/live-coverage-fire-detectors-military-tech-demos-3d-printers-among-spacex-rideshare-payloads-launching-on-midnight-falcon-9-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: Fire detectors, military tech demos, 3D printers among SpaceX rideshare payloads launching on midnight Falcon 9 flight
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/" >🔗</a> **[NASA]** NASA Takes Flight For America’s 250th
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy" >🔗</a> **[ESA]** Webb reveals millions of stars in nearby galaxy
 - <a href="https://spacenews.com/nasa-adds-three-european-firms-to-the-commercial-data-program/" >🔗</a> **[SpaceNews]** NASA adds three European firms to the commercial data program
-- <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/" >🔗</a> **[NASA]** NASA Seeks Industry Input on Second Phase of Commercial Space Stations
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260707T080409">2026-07-07 08:04:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260707T094329">2026-07-07 09:43:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
