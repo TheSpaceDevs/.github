@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/artemis-ii-crew-and-apollo-14-moon-tree/" >🔗</a> **[NASA]** Artemis II Crew and Apollo 14 Moon Tree
 - <a href="https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/" >🔗</a> **[NASA]** July 2026 Satellite Puzzler
 - <a href="https://spacenews.com/spacex-launches-transporter-17-amid-concerns-about-rideshare-programs-future/" >🔗</a> **[SpaceNews]** SpaceX launches Transporter-17 amid concerns about rideshare program’s future
 - <a href="https://europeanspaceflight.com/isar-aerospace-signs-us112-5m-deal-for-dedicated-launch-site-in-canada/" >🔗</a> **[European Spaceflight]** Isar Aerospace Signs US$112.5M Deal for Dedicated Launch Site in Canada
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Unpacking_Europe_s_new_weather_imagers" >🔗</a> **[ESA]** Unpacking Europe’s new weather imagers
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/" >🔗</a> **[NASA]** The World Cup From 250 Miles Up
 - <a href="https://www.nasaspaceflight.com/2026/07/launch-long-march-10b-vikram-i-debut/" >🔗</a> **[NASASpaceflight]** Launch Preview: Long March 10B and Vikram-I debut
-- <a href="https://spaceflightnow.com/2026/07/06/live-coverage-fire-detectors-military-tech-demos-3d-printers-among-spacex-rideshare-payloads-launching-on-midnight-falcon-9-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: Fire detectors, military tech demos, 3D printers among SpaceX rideshare payloads launching on midnight Falcon 9 flight
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260707T161818">2026-07-07 16:18:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260707T171341">2026-07-07 17:13:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
