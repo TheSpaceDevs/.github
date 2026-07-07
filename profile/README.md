@@ -90,8 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/isar-aerospace-signs-agreement-for-canadian-launch-site/" >🔗</a> **[SpaceNews]** Isar Aerospace signs agreement for Canadian launch site
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Unpacking_Europe_s_new_weather_imagers" >🔗</a> **[ESA]** Unpacking Europe’s new weather imagers
+- <a href="https://spacenews.com/isar-aerospace-signs-agreement-for-canadian-launch-site/" >🔗</a> **[SpaceNews]** Isar Aerospace signs agreement for Canadian launch site
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/" >🔗</a> **[NASA]** The World Cup From 250 Miles Up
 - <a href="https://www.nasaspaceflight.com/2026/07/launch-long-march-10b-vikram-i-debut/" >🔗</a> **[NASASpaceflight]** Launch Preview: Long March 10B and Vikram-I debut
 - <a href="https://spaceflightnow.com/2026/07/06/live-coverage-fire-detectors-military-tech-demos-3d-printers-among-spacex-rideshare-payloads-launching-on-midnight-falcon-9-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: Fire detectors, military tech demos, 3D printers among SpaceX rideshare payloads launching on midnight Falcon 9 flight
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260707T094329">2026-07-07 09:43:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260707T105834">2026-07-07 10:58:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
