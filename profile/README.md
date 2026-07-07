@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacexs-wins-test-pentagons-commitment-to-competition/" >🔗</a> **[SpaceNews]** SpaceX satellite wins test Pentagon’s commitment to competition
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Unpacking_Europe_s_new_weather_imagers" >🔗</a> **[ESA]** Unpacking Europe’s new weather imagers
 - <a href="https://spacenews.com/isar-aerospace-signs-agreement-for-canadian-launch-site/" >🔗</a> **[SpaceNews]** Isar Aerospace signs agreement for Canadian launch site
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/" >🔗</a> **[NASA]** The World Cup From 250 Miles Up
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/iridium-folds-aireon-aviation-safety-service-into-rocket-lab-bound-business/" >🔗</a> **[SpaceNews]** Iridium folds Aireon aviation safety service into Rocket Lab-bound business
 - <a href="https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/" >🔗</a> **[NASA]** NASA Takes Flight For America’s 250th
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy" >🔗</a> **[ESA]** Webb reveals millions of stars in nearby galaxy
-- <a href="https://spacenews.com/nasa-adds-three-european-firms-to-the-commercial-data-program/" >🔗</a> **[SpaceNews]** NASA adds three European firms to the commercial data program
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260707T105834">2026-07-07 10:58:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260707T120222">2026-07-07 12:02:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
