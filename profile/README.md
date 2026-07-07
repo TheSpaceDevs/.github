@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/" >🔗</a> **[NASA]** July 2026 Satellite Puzzler
+- <a href="https://spacenews.com/spacex-launches-transporter-17-amid-concerns-about-rideshare-programs-future/" >🔗</a> **[SpaceNews]** SpaceX launches Transporter-17 amid concerns about rideshare program’s future
 - <a href="https://europeanspaceflight.com/isar-aerospace-signs-us112-5m-deal-for-dedicated-launch-site-in-canada/" >🔗</a> **[European Spaceflight]** Isar Aerospace Signs US$112.5M Deal for Dedicated Launch Site in Canada
 - <a href="https://spacenews.com/simera-sense-to-provide-imagers-for-canary-islands-constellation/" >🔗</a> **[SpaceNews]** Simera Sense to provide imagers for Canary Islands constellation
 - <a href="https://spacenews.com/spacexs-wins-test-pentagons-commitment-to-competition/" >🔗</a> **[SpaceNews]** SpaceX satellite wins test Pentagon’s commitment to competition
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Unpacking_Europe_s_new_weather_imagers" >🔗</a> **[ESA]** Unpacking Europe’s new weather imagers
 - <a href="https://spacenews.com/isar-aerospace-signs-agreement-for-canadian-launch-site/" >🔗</a> **[SpaceNews]** Isar Aerospace signs agreement for Canadian launch site
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Unpacking_Europe_s_new_weather_imagers" >🔗</a> **[ESA]** Unpacking Europe’s new weather imagers
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/" >🔗</a> **[NASA]** The World Cup From 250 Miles Up
 - <a href="https://www.nasaspaceflight.com/2026/07/launch-long-march-10b-vikram-i-debut/" >🔗</a> **[NASASpaceflight]** Launch Preview: Long March 10B and Vikram-I debut
 - <a href="https://spaceflightnow.com/2026/07/06/live-coverage-fire-detectors-military-tech-demos-3d-printers-among-spacex-rideshare-payloads-launching-on-midnight-falcon-9-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: Fire detectors, military tech demos, 3D printers among SpaceX rideshare payloads launching on midnight Falcon 9 flight
-- <a href="https://spacenews.com/blue-origin-continues-work-on-lunar-landers-during-recovery-from-new-glenn-explosion/" >🔗</a> **[SpaceNews]** Blue Origin continues work on lunar landers during recovery from New Glenn explosion
-- <a href="https://spacenews.com/iridium-folds-aireon-aviation-safety-service-into-rocket-lab-bound-business/" >🔗</a> **[SpaceNews]** Iridium folds Aireon aviation safety service into Rocket Lab-bound business
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260707T152715">2026-07-07 15:27:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260707T161818">2026-07-07 16:18:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
