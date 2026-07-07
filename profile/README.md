@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/" >🔗</a> **[SpaceNews]** Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs
+- <a href="https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/" >🔗</a> **[SpaceNews]** Apolink makes contact with first relay satellite
 - <a href="https://spacenews.com/arianespace-opens-door-to-geo-rideshare-opportunities-from-2029/" >🔗</a> **[SpaceNews]** Arianespace opens door to GEO rideshare opportunities from 2029
 - <a href="https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/" >🔗</a> **[NASA]** NASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health
 - <a href="https://www.nasa.gov/image-article/artemis-ii-crew-and-apollo-14-moon-tree/" >🔗</a> **[NASA]** Artemis II Crew and Apollo 14 Moon Tree
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/isar-aerospace-signs-us112-5m-deal-for-dedicated-launch-site-in-canada/" >🔗</a> **[European Spaceflight]** Isar Aerospace Signs US$112.5M Deal for Dedicated Launch Site in Canada
 - <a href="https://spacenews.com/simera-sense-to-provide-imagers-for-canary-islands-constellation/" >🔗</a> **[SpaceNews]** Simera Sense to provide imagers for Canary Islands constellation
 - <a href="https://spacenews.com/spacexs-wins-test-pentagons-commitment-to-competition/" >🔗</a> **[SpaceNews]** SpaceX satellite wins test Pentagon’s commitment to competition
-- <a href="https://spacenews.com/isar-aerospace-signs-agreement-for-canadian-launch-site/" >🔗</a> **[SpaceNews]** Isar Aerospace signs agreement for Canadian launch site
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Unpacking_Europe_s_new_weather_imagers" >🔗</a> **[ESA]** Unpacking Europe’s new weather imagers
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260707T181016">2026-07-07 18:10:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260707T190934">2026-07-07 19:09:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
