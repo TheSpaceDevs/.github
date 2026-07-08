@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/" >🔗</a> **[SpaceNews]** Venus Aerospace raises $91 million to scale rocket engine technology
+- <a href="https://www.nasaspaceflight.com/2026/07/progress-cape-new-pads-stoke-relativity/" >🔗</a> **[NASASpaceflight]** Progress at the Cape: New Launch Pads rise for Stoke, Relativity
 - <a href="https://spacenews.com/the-governments-options-to-address-strained-spaceports/" >🔗</a> **[SpaceNews]** The government’s options to address strained spaceports
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/New_European_exercise_device_begins_testing_with_first_rope-pulling_workout_in_space" >🔗</a> **[ESA]** New European exercise device begins testing with first rope-pulling workout in space
 - <a href="https://spacenews.com/space-force-adds-relativity-impulse-space-to-national-security-launch-program/" >🔗</a> **[SpaceNews]** Space Force adds Relativity, Impulse Space to national security launch program
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/d-orbit-signs-launch-services-contract-with-arkedge-space/" >🔗</a> **[SpaceNews]** D-Orbit signs launch-services contract with ArkEdge Space
 - <a href="https://spacenews.com/orbit-fab-hires-new-ceo-and-raises-funding-to-support-satellite-refueling-business/" >🔗</a> **[SpaceNews]** Orbit Fab hires new CEO and raises funding to support satellite refueling business
 - <a href="https://europeanspaceflight.com/rfa-one-launch-from-saxavord-set-for-no-earlier-than-10-august/" >🔗</a> **[European Spaceflight]** RFA ONE Launch from SaxaVord Set for No Earlier Than 10 August
-- <a href="https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/" >🔗</a> **[SpaceNews]** Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs
-- <a href="https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/" >🔗</a> **[SpaceNews]** Apolink makes contact with first relay satellite
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260708T113240">2026-07-08 11:32:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260708T122832">2026-07-08 12:28:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
