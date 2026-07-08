@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-adds-relativity-impulse-space-to-national-security-launch-program/" >🔗</a> **[SpaceNews]** Space Force adds Relativity, Impulse Space to national security launch program
 - <a href="https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/" >🔗</a> **[NASA]** Cottonwood Fire Chars Utah
 - <a href="https://spacenews.com/skyroot-prepares-for-first-orbital-launch-attempt/" >🔗</a> **[SpaceNews]** Skyroot prepares for first orbital launch attempt
 - <a href="https://spacenews.com/d-orbit-signs-launch-services-contract-with-arkedge-space/" >🔗</a> **[SpaceNews]** D-Orbit signs launch-services contract with ArkEdge Space
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/" >🔗</a> **[SpaceNews]** Apolink makes contact with first relay satellite
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/" >🔗</a> **[NASA]** NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge
 - <a href="https://spacenews.com/arianespace-opens-door-to-geo-rideshare-opportunities-from-2029/" >🔗</a> **[SpaceNews]** Arianespace opens door to GEO rideshare opportunities from 2029
-- <a href="https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/" >🔗</a> **[NASA]** NASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260708T074513">2026-07-08 07:45:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260708T084843">2026-07-08 08:48:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
