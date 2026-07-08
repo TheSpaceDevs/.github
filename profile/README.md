@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/d-orbit-signs-launch-services-contract-with-arkedge-space/" >🔗</a> **[SpaceNews]** D-Orbit signs launch-services contract with ArkEdge Space
 - <a href="https://spacenews.com/orbit-fab-hires-new-ceo-and-raises-funding-to-support-satellite-refueling-business/" >🔗</a> **[SpaceNews]** Orbit Fab hires new CEO and raises funding to support satellite refueling business
 - <a href="https://europeanspaceflight.com/rfa-one-launch-from-saxavord-set-for-no-earlier-than-10-august/" >🔗</a> **[European Spaceflight]** RFA ONE Launch from SaxaVord Set for No Earlier Than 10 August
 - <a href="https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/" >🔗</a> **[SpaceNews]** Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/" >🔗</a> **[NASA]** NASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health
 - <a href="https://www.nasa.gov/image-article/artemis-ii-crew-and-apollo-14-moon-tree/" >🔗</a> **[NASA]** Artemis II Crew and Apollo 14 Moon Tree
 - <a href="https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/" >🔗</a> **[NASA]** July 2026 Satellite Puzzler
-- <a href="https://spacenews.com/spacex-launches-transporter-17-amid-concerns-about-rideshare-programs-future/" >🔗</a> **[SpaceNews]** SpaceX launches Transporter-17 amid concerns about rideshare program’s future
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260708T005838">2026-07-08 00:58:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260708T014018">2026-07-08 01:40:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
