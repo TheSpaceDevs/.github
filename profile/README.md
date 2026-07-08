@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/the-satellite-industrys-most-expensive-problem-isnt-in-orbit/" >🔗</a> **[SpaceNews]** The satellite industry’s most expensive problem isn’t in orbit
+- <a href="https://europeanspaceflight.com/loft-orbital-books-multiple-launches-aboard-maiaspace-rockets/" >🔗</a> **[European Spaceflight]** Loft Orbital Books Multiple Launches Aboard MaiaSpace Rockets
+- <a href="https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/" >🔗</a> **[NASA]** Hubble Captures Star-Studded Cluster
 - <a href="https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/" >🔗</a> **[SpaceNews]** Fi expands Starlink direct-to-device capability into dog-tracking
+- <a href="https://spacenews.com/the-satellite-industrys-most-expensive-problem-isnt-in-orbit/" >🔗</a> **[SpaceNews]** The satellite industry’s most expensive problem isn’t in orbit
 - <a href="https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/" >🔗</a> **[Arstechnica]** Blue Origin, for the first time, is expected to raise private capital
 - <a href="https://www.esa.int/Space_Safety/Hera/Deep_space_software_upgrade_for_Hera_s_asteroid_visit" >🔗</a> **[ESA]** Deep space software upgrade for Hera’s asteroid visit
 - <a href="https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/" >🔗</a> **[SpaceNews]** Venus Aerospace raises $91 million to scale rocket engine technology
 - <a href="https://www.nasaspaceflight.com/2026/07/progress-cape-new-pads-stoke-relativity/" >🔗</a> **[NASASpaceflight]** Progress at the Cape: New Launch Pads rise for Stoke, Relativity
 - <a href="https://spacenews.com/the-governments-options-to-address-strained-spaceports/" >🔗</a> **[SpaceNews]** The government’s options to address strained spaceports
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/New_European_exercise_device_begins_testing_with_first_rope-pulling_workout_in_space" >🔗</a> **[ESA]** New European exercise device begins testing with first rope-pulling workout in space
-- <a href="https://spacenews.com/space-force-adds-relativity-impulse-space-to-national-security-launch-program/" >🔗</a> **[SpaceNews]** Space Force adds Relativity, Impulse Space to national security launch program
-- <a href="https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/" >🔗</a> **[NASA]** Cottonwood Fire Chars Utah
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260708T141321">2026-07-08 14:13:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260708T151447">2026-07-08 15:14:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
