@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/" >🔗</a> **[Arstechnica]** Blue Origin, for the first time, is expected to raise private capital
+- <a href="https://www.esa.int/Space_Safety/Hera/Deep_space_software_upgrade_for_Hera_s_asteroid_visit" >🔗</a> **[ESA]** Deep space software upgrade for Hera’s asteroid visit
 - <a href="https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/" >🔗</a> **[SpaceNews]** Venus Aerospace raises $91 million to scale rocket engine technology
 - <a href="https://www.nasaspaceflight.com/2026/07/progress-cape-new-pads-stoke-relativity/" >🔗</a> **[NASASpaceflight]** Progress at the Cape: New Launch Pads rise for Stoke, Relativity
 - <a href="https://spacenews.com/the-governments-options-to-address-strained-spaceports/" >🔗</a> **[SpaceNews]** The government’s options to address strained spaceports
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/" >🔗</a> **[NASA]** Cottonwood Fire Chars Utah
 - <a href="https://spacenews.com/skyroot-prepares-for-first-orbital-launch-attempt/" >🔗</a> **[SpaceNews]** Skyroot prepares for first orbital launch attempt
 - <a href="https://spacenews.com/d-orbit-signs-launch-services-contract-with-arkedge-space/" >🔗</a> **[SpaceNews]** D-Orbit signs launch-services contract with ArkEdge Space
-- <a href="https://spacenews.com/orbit-fab-hires-new-ceo-and-raises-funding-to-support-satellite-refueling-business/" >🔗</a> **[SpaceNews]** Orbit Fab hires new CEO and raises funding to support satellite refueling business
-- <a href="https://europeanspaceflight.com/rfa-one-launch-from-saxavord-set-for-no-earlier-than-10-august/" >🔗</a> **[European Spaceflight]** RFA ONE Launch from SaxaVord Set for No Earlier Than 10 August
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260708T122832">2026-07-08 12:28:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260708T130350">2026-07-08 13:03:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
