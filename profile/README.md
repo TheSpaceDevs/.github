@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/" >🔗</a> **[NASA]** Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion
 - <a href="https://spacepolicyonline.com/news/japans-ispace-expanding-into-lunar-infrastructure/" >🔗</a> **[SpacePolicyOnline.com]** Japan’s ispace Expanding into Lunar Infrastructure
 - <a href="https://spacenews.com/is-this-the-year-for-a-nasa-authorization-bill/" >🔗</a> **[SpaceNews]** Is this the year for a NASA authorization bill?
 - <a href="https://europeanspaceflight.com/loft-orbital-books-multiple-launches-aboard-maiaspace-rockets/" >🔗</a> **[European Spaceflight]** Loft Orbital Books Multiple Launches Aboard MaiaSpace Rockets
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/" >🔗</a> **[Arstechnica]** Blue Origin, for the first time, is expected to raise private capital
 - <a href="https://www.esa.int/Space_Safety/Hera/Deep_space_software_upgrade_for_Hera_s_asteroid_visit" >🔗</a> **[ESA]** Deep space software upgrade for Hera’s asteroid visit
 - <a href="https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/" >🔗</a> **[SpaceNews]** Venus Aerospace raises $91 million to scale rocket engine technology
-- <a href="https://www.nasaspaceflight.com/2026/07/progress-cape-new-pads-stoke-relativity/" >🔗</a> **[NASASpaceflight]** Progress at the Cape: New Launch Pads rise for Stoke, Relativity
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260708T204817">2026-07-08 20:48:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260708T212231">2026-07-08 21:22:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
