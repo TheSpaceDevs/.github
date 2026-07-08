@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/07/rocket-lab-update-072026/" >🔗</a> **[NASASpaceflight]** Rocket Lab sees Electron gains, Neutron delays in first half of 2026
+- <a href="https://spacenews.com/ispace-to-send-larger-payloads-to-the-moon-on-spacexs-starship/" >🔗</a> **[SpaceNews]** ispace to send larger payloads to the moon on SpaceX’s Starship
 - <a href="https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/" >🔗</a> **[NASA]** Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion
 - <a href="https://spacepolicyonline.com/news/japans-ispace-expanding-into-lunar-infrastructure/" >🔗</a> **[SpacePolicyOnline.com]** Japan’s ispace Expanding into Lunar Infrastructure
 - <a href="https://spacenews.com/is-this-the-year-for-a-nasa-authorization-bill/" >🔗</a> **[SpaceNews]** Is this the year for a NASA authorization bill?
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-satellite-industrys-most-expensive-problem-isnt-in-orbit/" >🔗</a> **[SpaceNews]** The satellite industry’s most expensive problem isn’t in orbit
 - <a href="https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/" >🔗</a> **[SpaceNews]** Fi expands Starlink direct-to-device capability into dog-tracking
 - <a href="https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/" >🔗</a> **[Arstechnica]** Blue Origin, for the first time, is expected to raise private capital
-- <a href="https://www.esa.int/Space_Safety/Hera/Deep_space_software_upgrade_for_Hera_s_asteroid_visit" >🔗</a> **[ESA]** Deep space software upgrade for Hera’s asteroid visit
-- <a href="https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/" >🔗</a> **[SpaceNews]** Venus Aerospace raises $91 million to scale rocket engine technology
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260708T214928">2026-07-08 21:49:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260708T221900">2026-07-08 22:19:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
