@@ -91,6 +91,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/" >🔗</a> **[SpaceNews]** The Exploration Company establishes US entity to pursue government contracts
+- <a href="https://science.nasa.gov/missions/ixpe/nasa-space-telescope-maps-magnetic-fields-of-lighthouse-pulsar/" >🔗</a> **[NASA]** NASA Space Telescope Maps Magnetic Fields of ‘Lighthouse’ Pulsar
 - <a href="https://spacenews.com/environmental-groups-seek-fcc-pause-on-orbital-data-center-constellations/" >🔗</a> **[SpaceNews]** Environmental groups seek FCC pause on orbital data center constellations
 - <a href="https://science.nasa.gov/science-research/earth-science/principal-investigator-and-quality-assessment-reports-evaluate-umbra-synthetic-aperture-radar-data/" >🔗</a> **[NASA]** Principal Investigator and Quality Assessment Reports Evaluate Umbra Synthetic Aperture Radar Data
 - <a href="https://www.nasa.gov/image-article/curiosity-sees-martian-sulfur-up-close/" >🔗</a> **[NASA]** Curiosity Sees Martian Sulfur Up Close
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/xona-unveils-program-to-verify-pulsar-compatible-devices/" >🔗</a> **[SpaceNews]** Xona unveils program to verify Pulsar-compatible devices
 - <a href="https://spacenews.com/volatility-is-often-the-price-of-ambition/" >🔗</a> **[SpaceNews]** Volatility is often the price of ambition
 - <a href="https://spacenews.com/maintaining-leadership-in-space-with-victoria-coleman/" >🔗</a> **[SpaceNews]** Maintaining leadership in space with Victoria Coleman
-- <a href="https://spacenews.com/space-force-completes-procurement-reorganization-creating-nine-acquisition-portfolios/" >🔗</a> **[SpaceNews]** Space Force completes procurement reorganization, creating nine acquisition portfolios
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260709T210042">2026-07-09 21:00:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260709T213437">2026-07-09 21:34:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
