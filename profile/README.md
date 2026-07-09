@@ -92,6 +92,7 @@ into *an Unknown
 ### Latest News ⌛
 - <a href="https://arstechnica.com/space/2026/07/the-newest-entrant-in-the-militarys-launch-competition-isnt-actually-a-launch-company/" >🔗</a> **[Arstechnica]** The newest entrant in the military’s launch competition isn't actually a launch company
 - <a href="https://spacenews.com/space-force-awards-pulse-space-40-million-to-advance-laser-power-technology/" >🔗</a> **[SpaceNews]** Space Force awards Pulse Space $40 million to advance laser power technology
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/The_hidden_flow" >🔗</a> **[ESA]** The hidden flow
 - <a href="https://spacenews.com/golden-dome-and-the-search-for-new-space-markets/" >🔗</a> **[SpaceNews]** Golden Dome and the search for new space markets
 - <a href="https://spacenews.com/blue-origin-seeks-to-raise-10-billion-in-outside-capital/" >🔗</a> **[SpaceNews]** Blue Origin seeks to raise $10 billion in outside capital
 - <a href="https://spacenews.com/mda-space-buys-french-earth-data-analytics-company-cls/" >🔗</a> **[SpaceNews]** MDA Space buys French Earth data analytics company CLS
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/" >🔗</a> **[NASA]** Super Typhoon Bavi
 - <a href="https://spacenews.com/new-singapore-space-agency-seeks-to-build-up-the-countrys-space-industry/" >🔗</a> **[SpaceNews]** New Singapore space agency seeks to build up the country’s space industry
 - <a href="https://spaceflightnow.com/2026/07/09/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-36th-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 36th flight
-- <a href="https://www.nasaspaceflight.com/2026/07/rocket-lab-update-072026/" >🔗</a> **[NASASpaceflight]** Rocket Lab sees Electron gains, Neutron delays in first half of 2026
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260709T132854">2026-07-09 13:28:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260709T142119">2026-07-09 14:21:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
