@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/" >🔗</a> **[SpaceNews]** The Exploration Company establishes US entity to pursue government contracts
 - <a href="https://spacenews.com/environmental-groups-seek-fcc-pause-on-orbital-data-center-constellations/" >🔗</a> **[SpaceNews]** Environmental groups seek FCC pause on orbital data center constellations
 - <a href="https://science.nasa.gov/science-research/earth-science/principal-investigator-and-quality-assessment-reports-evaluate-umbra-synthetic-aperture-radar-data/" >🔗</a> **[NASA]** Principal Investigator and Quality Assessment Reports Evaluate Umbra Synthetic Aperture Radar Data
 - <a href="https://www.nasa.gov/image-article/curiosity-sees-martian-sulfur-up-close/" >🔗</a> **[NASA]** Curiosity Sees Martian Sulfur Up Close
 - <a href="https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/" >🔗</a> **[NASA]** NASA Scientists Take to Air and Space to Study Arctic Sea Ice
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Satellites_in_tandem_reveal_30_years_of_Antarctic_ice_flow" >🔗</a> **[ESA]** Satellites in tandem reveal 30 years of Antarctic ice flow
-- <a href="https://spacenews.com/volatility-is-often-the-price-of-ambition/" >🔗</a> **[SpaceNews]** Volatility is often the price of ambition
 - <a href="https://spacenews.com/xona-unveils-program-to-verify-pulsar-compatible-devices/" >🔗</a> **[SpaceNews]** Xona unveils program to verify Pulsar-compatible devices
+- <a href="https://spacenews.com/volatility-is-often-the-price-of-ambition/" >🔗</a> **[SpaceNews]** Volatility is often the price of ambition
 - <a href="https://spacenews.com/maintaining-leadership-in-space-with-victoria-coleman/" >🔗</a> **[SpaceNews]** Maintaining leadership in space with Victoria Coleman
 - <a href="https://spacenews.com/space-force-completes-procurement-reorganization-creating-nine-acquisition-portfolios/" >🔗</a> **[SpaceNews]** Space Force completes procurement reorganization, creating nine acquisition portfolios
-- <a href="https://arstechnica.com/space/2026/07/the-newest-entrant-in-the-militarys-launch-competition-isnt-actually-a-launch-company/" >🔗</a> **[Arstechnica]** The newest entrant in the military’s launch competition isn't actually a launch company
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260709T200951">2026-07-09 20:09:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260709T210042">2026-07-09 21:00:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
