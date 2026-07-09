@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/" >🔗</a> **[NASA]** Super Typhoon Bavi
 - <a href="https://spacenews.com/new-singapore-space-agency-seeks-to-build-up-the-countrys-space-industry/" >🔗</a> **[SpaceNews]** New Singapore space agency seeks to build up the country’s space industry
 - <a href="https://spaceflightnow.com/2026/07/09/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-36th-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 36th flight
 - <a href="https://www.nasaspaceflight.com/2026/07/rocket-lab-update-072026/" >🔗</a> **[NASASpaceflight]** Rocket Lab sees Electron gains, Neutron delays in first half of 2026
@@ -97,9 +98,8 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/" >🔗</a> **[NASA]** Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion
 - <a href="https://spacepolicyonline.com/news/japans-ispace-expanding-into-lunar-infrastructure/" >🔗</a> **[SpacePolicyOnline.com]** Japan’s ispace Expanding into Lunar Infrastructure
 - <a href="https://spacenews.com/is-this-the-year-for-a-nasa-authorization-bill/" >🔗</a> **[SpaceNews]** Is this the year for a NASA authorization bill?
+- <a href="https://science.nasa.gov/directorates/smd/planetary-science-division/mars-exploration-program/nasa-awards-contracts-for-mars-advanced-surface-mobility-technology/" >🔗</a> **[NASA]** NASA Awards Contracts for Mars Advanced Surface Mobility Technology
 - <a href="https://europeanspaceflight.com/loft-orbital-books-multiple-launches-aboard-maiaspace-rockets/" >🔗</a> **[European Spaceflight]** Loft Orbital Books Multiple Launches Aboard MaiaSpace Rockets
-- <a href="https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/" >🔗</a> **[NASA]** Hubble Captures Star-Studded Cluster
-- <a href="https://spacenews.com/the-satellite-industrys-most-expensive-problem-isnt-in-orbit/" >🔗</a> **[SpaceNews]** The satellite industry’s most expensive problem isn’t in orbit
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260709T034257">2026-07-09 03:42:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260709T051615">2026-07-09 05:16:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
