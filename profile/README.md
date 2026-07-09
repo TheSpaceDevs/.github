@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/earth-science/principal-investigator-and-quality-assessment-reports-evaluate-umbra-synthetic-aperture-radar-data/" >🔗</a> **[NASA]** Principal Investigator and Quality Assessment Reports Evaluate Umbra Synthetic Aperture Radar Data
 - <a href="https://www.nasa.gov/image-article/curiosity-sees-martian-sulfur-up-close/" >🔗</a> **[NASA]** Curiosity Sees Martian Sulfur Up Close
 - <a href="https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/" >🔗</a> **[NASA]** NASA Scientists Take to Air and Space to Study Arctic Sea Ice
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Satellites_in_tandem_reveal_30_years_of_Antarctic_ice_flow" >🔗</a> **[ESA]** Satellites in tandem reveal 30 years of Antarctic ice flow
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-force-completes-procurement-reorganization-creating-nine-acquisition-portfolios/" >🔗</a> **[SpaceNews]** Space Force completes procurement reorganization, creating nine acquisition portfolios
 - <a href="https://arstechnica.com/space/2026/07/the-newest-entrant-in-the-militarys-launch-competition-isnt-actually-a-launch-company/" >🔗</a> **[Arstechnica]** The newest entrant in the military’s launch competition isn't actually a launch company
 - <a href="https://spacenews.com/space-force-awards-pulse-space-40-million-to-advance-laser-power-technology/" >🔗</a> **[SpaceNews]** Space Force awards Pulse Space $40 million to advance laser power technology
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/The_hidden_flow" >🔗</a> **[ESA]** The hidden flow
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260709T183245">2026-07-09 18:32:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260709T192952">2026-07-09 19:29:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
