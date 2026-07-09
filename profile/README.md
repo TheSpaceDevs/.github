@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Satellites_in_tandem_reveal_30_years_of_Antarctic_ice_flow" >🔗</a> **[ESA]** Satellites in tandem reveal 30 years of Antarctic ice flow
+- <a href="https://spacenews.com/volatility-is-often-the-price-of-ambition/" >🔗</a> **[SpaceNews]** Volatility is often the price of ambition
+- <a href="https://spacenews.com/maintaining-leadership-in-space-with-victoria-coleman/" >🔗</a> **[SpaceNews]** Maintaining leadership in space with Victoria Coleman
+- <a href="https://spacenews.com/space-force-completes-procurement-reorganization-creating-nine-acquisition-portfolios/" >🔗</a> **[SpaceNews]** Space Force completes procurement reorganization, creating nine acquisition portfolios
 - <a href="https://arstechnica.com/space/2026/07/the-newest-entrant-in-the-militarys-launch-competition-isnt-actually-a-launch-company/" >🔗</a> **[Arstechnica]** The newest entrant in the military’s launch competition isn't actually a launch company
 - <a href="https://spacenews.com/space-force-awards-pulse-space-40-million-to-advance-laser-power-technology/" >🔗</a> **[SpaceNews]** Space Force awards Pulse Space $40 million to advance laser power technology
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/The_hidden_flow" >🔗</a> **[ESA]** The hidden flow
 - <a href="https://spacenews.com/golden-dome-and-the-search-for-new-space-markets/" >🔗</a> **[SpaceNews]** Golden Dome and the search for new space markets
 - <a href="https://spacenews.com/blue-origin-seeks-to-raise-10-billion-in-outside-capital/" >🔗</a> **[SpaceNews]** Blue Origin seeks to raise $10 billion in outside capital
 - <a href="https://spacenews.com/mda-space-buys-french-earth-data-analytics-company-cls/" >🔗</a> **[SpaceNews]** MDA Space buys French Earth data analytics company CLS
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Navigation_Training_Course_2026" >🔗</a> **[ESA]** Navigation Training Course 2026
-- <a href="https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/" >🔗</a> **[NASA]** Super Typhoon Bavi
-- <a href="https://spacenews.com/new-singapore-space-agency-seeks-to-build-up-the-countrys-space-industry/" >🔗</a> **[SpaceNews]** New Singapore space agency seeks to build up the country’s space industry
-- <a href="https://spaceflightnow.com/2026/07/09/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-36th-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 36th flight
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260709T142119">2026-07-09 14:21:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260709T153444">2026-07-09 15:34:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
