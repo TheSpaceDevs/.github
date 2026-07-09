@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sda-tap-lab-evolves-into-bmc3i-tap-lab-and-in-partnership-with-catalyst-campus-launches-a-new-multi-phased-program-to-accelerate-mission-focused-technology-development/" >🔗</a> **[SpaceNews]** SDA TAP Lab Evolves Into BMC3I TAP Lab And In Partnership With Catalyst Campus Launches A New Multi-Phased Program To Accelerate Mission-Focused Technology Development
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/" >🔗</a> **[NASA]** NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station
 - <a href="https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/" >🔗</a> **[SpaceNews]** The Exploration Company establishes US entity to pursue government contracts
 - <a href="https://science.nasa.gov/missions/ixpe/nasa-space-telescope-maps-magnetic-fields-of-lighthouse-pulsar/" >🔗</a> **[NASA]** NASA Space Telescope Maps Magnetic Fields of ‘Lighthouse’ Pulsar
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/" >🔗</a> **[NASA]** NASA Scientists Take to Air and Space to Study Arctic Sea Ice
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Satellites_in_tandem_reveal_30_years_of_Antarctic_ice_flow" >🔗</a> **[ESA]** Satellites in tandem reveal 30 years of Antarctic ice flow
 - <a href="https://spacenews.com/xona-unveils-program-to-verify-pulsar-compatible-devices/" >🔗</a> **[SpaceNews]** Xona unveils program to verify Pulsar-compatible devices
-- <a href="https://spacenews.com/volatility-is-often-the-price-of-ambition/" >🔗</a> **[SpaceNews]** Volatility is often the price of ambition
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260709T225521">2026-07-09 22:55:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260709T232440">2026-07-09 23:24:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
