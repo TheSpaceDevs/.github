@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/curiosity-sees-martian-sulfur-up-close/" >🔗</a> **[NASA]** Curiosity Sees Martian Sulfur Up Close
+- <a href="https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/" >🔗</a> **[NASA]** NASA Scientists Take to Air and Space to Study Arctic Sea Ice
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Satellites_in_tandem_reveal_30_years_of_Antarctic_ice_flow" >🔗</a> **[ESA]** Satellites in tandem reveal 30 years of Antarctic ice flow
 - <a href="https://spacenews.com/volatility-is-often-the-price-of-ambition/" >🔗</a> **[SpaceNews]** Volatility is often the price of ambition
 - <a href="https://spacenews.com/maintaining-leadership-in-space-with-victoria-coleman/" >🔗</a> **[SpaceNews]** Maintaining leadership in space with Victoria Coleman
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-force-awards-pulse-space-40-million-to-advance-laser-power-technology/" >🔗</a> **[SpaceNews]** Space Force awards Pulse Space $40 million to advance laser power technology
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/The_hidden_flow" >🔗</a> **[ESA]** The hidden flow
 - <a href="https://spacenews.com/golden-dome-and-the-search-for-new-space-markets/" >🔗</a> **[SpaceNews]** Golden Dome and the search for new space markets
-- <a href="https://spacenews.com/blue-origin-seeks-to-raise-10-billion-in-outside-capital/" >🔗</a> **[SpaceNews]** Blue Origin seeks to raise $10 billion in outside capital
-- <a href="https://spacenews.com/mda-space-buys-french-earth-data-analytics-company-cls/" >🔗</a> **[SpaceNews]** MDA Space buys French Earth data analytics company CLS
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260709T153444">2026-07-09 15:34:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260709T164724">2026-07-09 16:47:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
