@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/07/10/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-10/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasaspaceflight.com/2026/07/booster-20-record-static-fire/" >🔗</a> **[NASASpaceflight]** Booster 20 completes record duration Static Fire
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/" >🔗</a> **[NASA]** Early Career Faculty (ECF) 2025 Awards
 - <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/" >🔗</a> **[NASA]** NASA Volunteers Help Zooniverse Reach 1 Billion Classifications
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/" >🔗</a> **[NASA]** NASA Photographer Captures Images from F-18 Over Washington
 - <a href="https://arstechnica.com/space/2026/07/nasa-finally-releases-a-critical-planning-document-for-private-space-stations/" >🔗</a> **[Arstechnica]** NASA finally releases a critical planning document for private space stations
 - <a href="https://www.nasa.gov/image-article/waxing-gibbous-moon-6/" >🔗</a> **[NASA]** Waxing Gibbous Moon
-- <a href="https://spacenews.com/the-space-industry-is-weighing-ambitious-hiring-against-heritage/" >🔗</a> **[SpaceNews]** The space industry is weighing ambitious hiring against heritage
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260710T205342">2026-07-10 20:53:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260710T212056">2026-07-10 21:20:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
