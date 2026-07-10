@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_06-10_July_2026" >🔗</a> **[ESA]** Week in images: 06-10 July 2026
+- <a href="https://spacenews.com/space-capitalism-needs-more-than-a-bull-market/" >🔗</a> **[SpaceNews]** Space capitalism needs more than a bull market
+- <a href="https://spacenews.com/startup-testing-nuclear-battery-technology-in-orbit/" >🔗</a> **[SpaceNews]** Startup testing nuclear battery technology in orbit
 - <a href="https://spacenews.com/elevationspace-advances-work-on-commercial-reentry-vehicle/" >🔗</a> **[SpaceNews]** ElevationSpace advances work on commercial reentry vehicle
 - <a href="https://arstechnica.com/space/2026/07/rocket-report-panic-over-transporter-availability-isar-to-launch-from-canada/" >🔗</a> **[Arstechnica]** Rocket Report: "Panic" over Transporter availability; Isar to launch from Canada
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Great_Bear_Lake_Canada" >🔗</a> **[ESA]** Earth from Space: Great Bear Lake, Canada
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/" >🔗</a> **[NASA]** Where Venezuela’s Earthquakes Shifted the Ground
 - <a href="https://www.esa.int/Enabling_Support/Operations/Training_while_flying_Inside_BepiColombo_s_arrival_simulations" >🔗</a> **[ESA]** Training while flying: Inside BepiColombo's arrival simulations
 - <a href="https://spacenews.com/interior-department-requests-information-on-offshore-launch-options/" >🔗</a> **[SpaceNews]** Interior Department requests information on offshore launch options
-- <a href="https://spacenews.com/sda-tap-lab-evolves-into-bmc3i-tap-lab-and-in-partnership-with-catalyst-campus-launches-a-new-multi-phased-program-to-accelerate-mission-focused-technology-development/" >🔗</a> **[SpaceNews]** SDA TAP Lab Evolves Into BMC3I TAP Lab And In Partnership With Catalyst Campus Launches A New Multi-Phased Program To Accelerate Mission-Focused Technology Development
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/" >🔗</a> **[NASA]** NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station
-- <a href="https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/" >🔗</a> **[SpaceNews]** The Exploration Company establishes US entity to pursue government contracts
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260710T120215">2026-07-10 12:02:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260710T131304">2026-07-10 13:13:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
