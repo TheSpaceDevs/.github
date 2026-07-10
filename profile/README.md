@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/earth-observation-satellites-pass-telecom-in-european-space-industry-sales/" >🔗</a> **[SpaceNews]** Earth observation satellites pass telecom in European space industry sales
 - <a href="https://spacenews.com/china-unveils-members-of-state-backed-commercial-space-consortium/" >🔗</a> **[SpaceNews]** China unveils members of state-backed commercial space consortium
 - <a href="https://www.spacescout.info/2026/07/china-launches-and-catches-long-march-10b/" >🔗</a> **[Space Scout]** China Launches and Catches Long March 10B
 - <a href="https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/" >🔗</a> **[NASA]** NASA Photographer Captures Images from F-18 Over Washington
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/8_things_to_know_about_this_year_s_solar_eclipse" >🔗</a> **[ESA]** 8 things to know about this year’s solar eclipse
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_06-10_July_2026" >🔗</a> **[ESA]** Week in images: 06-10 July 2026
 - <a href="https://spacenews.com/space-capitalism-needs-more-than-a-bull-market/" >🔗</a> **[SpaceNews]** Space capitalism needs more than a bull market
-- <a href="https://spacenews.com/startup-testing-nuclear-battery-technology-in-orbit/" >🔗</a> **[SpaceNews]** Startup testing nuclear battery technology in orbit
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260710T180307">2026-07-10 18:03:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260710T185854">2026-07-10 18:58:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
