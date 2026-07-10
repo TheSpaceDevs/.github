@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Great_Bear_Lake_Canada" >🔗</a> **[ESA]** Earth from Space: Great Bear Lake, Canada
 - <a href="https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/" >🔗</a> **[SpaceNews]** China becomes second country to recover orbital booster with Long March 10B
 - <a href="https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/" >🔗</a> **[NASA]** Where Venezuela’s Earthquakes Shifted the Ground
+- <a href="https://www.esa.int/Enabling_Support/Operations/Training_while_flying_Inside_BepiColombo_s_arrival_simulations" >🔗</a> **[ESA]** Training while flying: Inside BepiColombo's arrival simulations
 - <a href="https://spacenews.com/interior-department-requests-information-on-offshore-launch-options/" >🔗</a> **[SpaceNews]** Interior Department requests information on offshore launch options
 - <a href="https://spacenews.com/sda-tap-lab-evolves-into-bmc3i-tap-lab-and-in-partnership-with-catalyst-campus-launches-a-new-multi-phased-program-to-accelerate-mission-focused-technology-development/" >🔗</a> **[SpaceNews]** SDA TAP Lab Evolves Into BMC3I TAP Lab And In Partnership With Catalyst Campus Launches A New Multi-Phased Program To Accelerate Mission-Focused Technology Development
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/" >🔗</a> **[NASA]** NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station
 - <a href="https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/" >🔗</a> **[SpaceNews]** The Exploration Company establishes US entity to pursue government contracts
 - <a href="https://science.nasa.gov/missions/ixpe/nasa-space-telescope-maps-magnetic-fields-of-lighthouse-pulsar/" >🔗</a> **[NASA]** NASA Space Telescope Maps Magnetic Fields of ‘Lighthouse’ Pulsar
 - <a href="https://spacenews.com/environmental-groups-seek-fcc-pause-on-orbital-data-center-constellations/" >🔗</a> **[SpaceNews]** Environmental groups seek FCC pause on orbital data center constellations
-- <a href="https://science.nasa.gov/science-research/earth-science/principal-investigator-and-quality-assessment-reports-evaluate-umbra-synthetic-aperture-radar-data/" >🔗</a> **[NASA]** Principal Investigator and Quality Assessment Reports Evaluate Umbra Synthetic Aperture Radar Data
-- <a href="https://www.nasa.gov/image-article/curiosity-sees-martian-sulfur-up-close/" >🔗</a> **[NASA]** Curiosity Sees Martian Sulfur Up Close
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260710T080530">2026-07-10 08:05:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260710T094249">2026-07-10 09:42:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
