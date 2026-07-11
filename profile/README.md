@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/parabilis-tests-propulsion-system-for-maneuverable-cubesats/" >🔗</a> **[SpaceNews]** Parabilis tests propulsion system for maneuverable cubesats
 - <a href="https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/" >🔗</a> **[SpaceNews]** FCC approves first Reflect Orbital satellite
 - <a href="https://spaceflightnow.com/2026/07/10/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-10/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasaspaceflight.com/2026/07/booster-20-record-static-fire/" >🔗</a> **[NASASpaceflight]** Booster 20 completes record duration Static Fire
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-unveils-members-of-state-backed-commercial-space-consortium/" >🔗</a> **[SpaceNews]** China unveils members of state-backed commercial space consortium
 - <a href="https://www.spacescout.info/2026/07/china-launches-and-catches-long-march-10b/" >🔗</a> **[Space Scout]** China Launches and Catches Long March 10B
 - <a href="https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/" >🔗</a> **[NASA]** NASA Photographer Captures Images from F-18 Over Washington
-- <a href="https://arstechnica.com/space/2026/07/nasa-finally-releases-a-critical-planning-document-for-private-space-stations/" >🔗</a> **[Arstechnica]** NASA finally releases a critical planning document for private space stations
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260711T132757">2026-07-11 13:27:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260711T140133">2026-07-11 14:01:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
