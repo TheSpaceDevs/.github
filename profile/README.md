@@ -32,7 +32,7 @@ into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/" >🔗</a> **[NASA]** NASA Study Points to Smoother Air Taxi Rides
 - <a href="https://spacenews.com/l3harris-sierra-space-to-build-36-satellites-to-expand-u-s-missile-tracking-network/" >🔗</a> **[SpaceNews]** L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network
 - <a href="https://www.nasaspaceflight.com/2026/07/launch-preview-071326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Soyuz to launch crew to ISS, Starship to fly another test flight
 - <a href="https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-a-flight-proven-falcon-booster-for-600th-time/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch a flight-proven Falcon booster for 600th time
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/netherlands-adopts-mandate-for-its-new-space-agency/" >🔗</a> **[European Spaceflight]** Netherlands Adopts Mandate for Its New Space Agency
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/" >🔗</a> **[NASA]** NASA Astronaut Anil Menon
 - <a href="https://spacenews.com/accel-and-prosus-backed-qosmic-raises-3-33-million-to-build-optical-ground-stations-for-the-orbital-data-economy/" >🔗</a> **[SpaceNews]** Accel and Prosus backed QOSMIC raises $3.33 Million to Build Optical Ground Stations for the Orbital Data Economy
-- <a href="https://www.esa.int/About_Us/Business_with_ESA/ESA_releases_2026_Space_Economy_Report" >🔗</a> **[ESA]** ESA releases 2026 Space Economy Report
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260713T214512">2026-07-13 21:45:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260713T221559">2026-07-13 22:15:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
