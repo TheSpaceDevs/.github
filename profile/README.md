@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-gears-up-for-starship-flight-13/" >🔗</a> **[SpaceNews]** SpaceX gears up for Starship Flight 13
 - <a href="https://www.nasaspaceflight.com/2026/07/roman-prelaunch-update/" >🔗</a> **[NASASpaceflight]** NASA’s Roman telescope into prelaunch servicing following arrival in Florida
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-12-18-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 12-18, 2026
 - <a href="https://spacenews.com/parabilis-tests-propulsion-system-for-maneuverable-cubesats/" >🔗</a> **[SpaceNews]** Parabilis tests propulsion system for maneuverable cubesats
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/" >🔗</a> **[NASA]** Early Career Faculty (ECF) 2025 Awards
 - <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/" >🔗</a> **[NASA]** NASA Volunteers Help Zooniverse Reach 1 Billion Classifications
 - <a href="https://spacenews.com/earth-observation-satellites-pass-telecom-in-european-space-industry-sales/" >🔗</a> **[SpaceNews]** Earth observation satellites pass telecom in European space industry sales
-- <a href="https://spacenews.com/china-unveils-members-of-state-backed-commercial-space-consortium/" >🔗</a> **[SpaceNews]** China unveils members of state-backed commercial space consortium
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260713T014202">2026-07-13 01:42:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260713T025927">2026-07-13 02:59:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
