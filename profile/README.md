@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/defense-spending-lifts-europes-space-economy/" >🔗</a> **[SpaceNews]** Defense spending lifts Europe’s space economy
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/" >🔗</a> **[NASA]** NASA Study Points to Smoother Air Taxi Rides
 - <a href="https://spacenews.com/l3harris-sierra-space-to-build-36-satellites-to-expand-u-s-missile-tracking-network/" >🔗</a> **[SpaceNews]** L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network
 - <a href="https://www.nasaspaceflight.com/2026/07/launch-preview-071326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Soyuz to launch crew to ISS, Starship to fly another test flight
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/" >🔗</a> **[Arstechnica]** What happens if Crew Dragon stops flying in the 2030s?
 - <a href="https://europeanspaceflight.com/netherlands-adopts-mandate-for-its-new-space-agency/" >🔗</a> **[European Spaceflight]** Netherlands Adopts Mandate for Its New Space Agency
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/" >🔗</a> **[NASA]** NASA Astronaut Anil Menon
-- <a href="https://spacenews.com/accel-and-prosus-backed-qosmic-raises-3-33-million-to-build-optical-ground-stations-for-the-orbital-data-economy/" >🔗</a> **[SpaceNews]** Accel and Prosus backed QOSMIC raises $3.33 Million to Build Optical Ground Stations for the Orbital Data Economy
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260713T224511">2026-07-13 22:45:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260713T231709">2026-07-13 23:17:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
