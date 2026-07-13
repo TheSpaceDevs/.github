@@ -53,7 +53,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260717T114200">2026-07-17 11:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260717T114200Z%2F20260717T133900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260718T050000">2026-07-18 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vikram-I | Demo Flight&location=Satish Dhawan Space Centre, India&dates=20260718T050000Z%2F20260718T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vikram-I | Demo Flight** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260720T140000">2026-07-20 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-39&location=Vandenberg SFB, CA, USA&dates=20260720T140000Z%2F20260720T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-39** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T211500">2026-07-21 21:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | MRV-1&location=Cape Canaveral SFS, FL, USA&dates=20260721T211500Z%2F20260722T011500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | MRV-1** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T211500">2026-07-21 21:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | MRV-1&location=Cape Canaveral SFS, FL, USA&dates=20260721T211500Z%2F20260722T011500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | MRV-1** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260723T110000">2026-07-23 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20260723T110000Z%2F20260723T140000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 
 
@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/poland-to-host-new-esa-center-as-government-boosts-investments-in-space/" >🔗</a> **[SpaceNews]** Poland to host new ESA center as government boosts investments in space
 - <a href="https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch  24 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/" >🔗</a> **[Arstechnica]** What happens if Crew Dragon stops flying in the 2030s?
+- <a href="https://europeanspaceflight.com/netherlands-adopts-mandate-for-its-new-space-agency/" >🔗</a> **[European Spaceflight]** Netherlands Adopts Mandate for Its New Space Agency
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/" >🔗</a> **[NASA]** NASA Astronaut Anil Menon
 - <a href="https://spacenews.com/accel-and-prosus-backed-qosmic-raises-3-33-million-to-build-optical-ground-stations-for-the-orbital-data-economy/" >🔗</a> **[SpaceNews]** Accel and Prosus backed QOSMIC raises $3.33 Million to Build Optical Ground Stations for the Orbital Data Economy
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/ESA_releases_2026_Space_Economy_Report" >🔗</a> **[ESA]** ESA releases 2026 Space Economy Report
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/" >🔗</a> **[NASA]** NASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes
 - <a href="https://spacenews.com/reditus-space-completes-first-reentry-vehicle/" >🔗</a> **[SpaceNews]** Reditus Space completes first reentry vehicle
 - <a href="https://spacenews.com/voyager-completes-acquisition-of-astrobotic/" >🔗</a> **[SpaceNews]** Voyager completes acquisition of Astrobotic
-- <a href="https://spacenews.com/getting-ready-for-lunar-planetary-defense/" >🔗</a> **[SpaceNews]** Getting ready for lunar planetary defense
-- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_and_Poland_to_establish_a_new_civil_security_and_resilience_centre_in_Warsaw" >🔗</a> **[ESA]** ESA and Poland to establish a new civil security and resilience centre in Warsaw
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260713T185657">2026-07-13 18:56:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260713T193034">2026-07-13 19:30:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
