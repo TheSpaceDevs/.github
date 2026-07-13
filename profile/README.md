@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/reditus-space-completes-first-reentry-vehicle/" >🔗</a> **[SpaceNews]** Reditus Space completes first reentry vehicle
+- <a href="https://spacenews.com/voyager-completes-acquisition-of-astrobotic/" >🔗</a> **[SpaceNews]** Voyager completes acquisition of Astrobotic
+- <a href="https://spacenews.com/getting-ready-for-lunar-planetary-defense/" >🔗</a> **[SpaceNews]** Getting ready for lunar planetary defense
+- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_and_Poland_to_establish_a_new_civil_security_and_resilience_centre_in_Warsaw" >🔗</a> **[ESA]** ESA and Poland to establish a new civil security and resilience centre in Warsaw
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_welcomes_new_UK_space_and_defence_gateway" >🔗</a> **[ESA]** ESA welcomes new UK space and defence gateway
 - <a href="https://www.esa.int/Enabling_Support/Operations/AMAT_charting_ESA_s_path_through_the_Solar_System" >🔗</a> **[ESA]** AMAT: charting ESA’s path through the Solar System
 - <a href="https://spacenews.com/china-lines-up-methalox-long-march-10c-as-commercial-workhorse-after-first-booster-recovery/" >🔗</a> **[SpaceNews]** China lines up methalox Long March 10C as commercial workhorse after first booster recovery
+- <a href="https://science.nasa.gov/earth/earth-observatory/wild-scenic-and-increasingly-rusty/" >🔗</a> **[NASA]** Wild, Scenic, and Increasingly Rusty
 - <a href="https://spacenews.com/spacex-gears-up-for-starship-flight-13/" >🔗</a> **[SpaceNews]** SpaceX gears up for Starship Flight 13
 - <a href="https://www.nasaspaceflight.com/2026/07/roman-prelaunch-update/" >🔗</a> **[NASASpaceflight]** NASA’s Roman telescope into prelaunch servicing following arrival in Florida
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-12-18-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 12-18, 2026
-- <a href="https://spacenews.com/parabilis-tests-propulsion-system-for-maneuverable-cubesats/" >🔗</a> **[SpaceNews]** Parabilis tests propulsion system for maneuverable cubesats
-- <a href="https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/" >🔗</a> **[SpaceNews]** FCC approves first Reflect Orbital satellite
-- <a href="https://spaceflightnow.com/2026/07/10/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-10/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://www.nasaspaceflight.com/2026/07/booster-20-record-static-fire/" >🔗</a> **[NASASpaceflight]** Booster 20 completes record duration Static Fire
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260713T120438">2026-07-13 12:04:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260713T131443">2026-07-13 13:14:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
