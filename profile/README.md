@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-a-flight-proven-falcon-booster-for-600th-time/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch a flight-proven Falcon booster for 600th time
 - <a href="https://spacenews.com/poland-to-host-new-esa-center-as-government-boosts-investments-in-space/" >🔗</a> **[SpaceNews]** Poland to host new ESA center as government boosts investments in space
 - <a href="https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch  24 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/" >🔗</a> **[Arstechnica]** What happens if Crew Dragon stops flying in the 2030s?
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/ESA_releases_2026_Space_Economy_Report" >🔗</a> **[ESA]** ESA releases 2026 Space Economy Report
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/" >🔗</a> **[NASA]** NASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes
 - <a href="https://spacenews.com/reditus-space-completes-first-reentry-vehicle/" >🔗</a> **[SpaceNews]** Reditus Space completes first reentry vehicle
-- <a href="https://spacenews.com/voyager-completes-acquisition-of-astrobotic/" >🔗</a> **[SpaceNews]** Voyager completes acquisition of Astrobotic
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260713T193034">2026-07-13 19:30:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260713T202353">2026-07-13 20:23:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
