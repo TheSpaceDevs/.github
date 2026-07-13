@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/l3harris-sierra-space-to-build-36-satellites-to-expand-u-s-missile-tracking-network/" >🔗</a> **[SpaceNews]** L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network
+- <a href="https://www.nasaspaceflight.com/2026/07/launch-preview-071326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Soyuz to launch crew to ISS, Starship to fly another test flight
 - <a href="https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-a-flight-proven-falcon-booster-for-600th-time/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch a flight-proven Falcon booster for 600th time
 - <a href="https://spacenews.com/poland-to-host-new-esa-center-as-government-boosts-investments-in-space/" >🔗</a> **[SpaceNews]** Poland to host new ESA center as government boosts investments in space
 - <a href="https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch  24 Starlink satellites on Falcon 9 rocket from Vandenberg
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/" >🔗</a> **[NASA]** NASA Astronaut Anil Menon
 - <a href="https://spacenews.com/accel-and-prosus-backed-qosmic-raises-3-33-million-to-build-optical-ground-stations-for-the-orbital-data-economy/" >🔗</a> **[SpaceNews]** Accel and Prosus backed QOSMIC raises $3.33 Million to Build Optical Ground Stations for the Orbital Data Economy
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/ESA_releases_2026_Space_Economy_Report" >🔗</a> **[ESA]** ESA releases 2026 Space Economy Report
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/" >🔗</a> **[NASA]** NASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes
-- <a href="https://spacenews.com/reditus-space-completes-first-reentry-vehicle/" >🔗</a> **[SpaceNews]** Reditus Space completes first reentry vehicle
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260713T204551">2026-07-13 20:45:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260713T211719">2026-07-13 21:17:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
