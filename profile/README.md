@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/" >🔗</a> **[NASA]** Fans of the Arctic
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
 - <a href="https://spacenews.com/flexell-space-raises-20-million-in-series-a-round/" >🔗</a> **[SpaceNews]** Flexell Space raises $20 Million in Series A round
 - <a href="https://spacenews.com/defense-spending-lifts-europes-space-economy/" >🔗</a> **[SpaceNews]** Defense spending lifts Europe’s space economy
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-a-flight-proven-falcon-booster-for-600th-time/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch a flight-proven Falcon booster for 600th time
 - <a href="https://spacenews.com/poland-to-host-new-esa-center-as-government-boosts-investments-in-space/" >🔗</a> **[SpaceNews]** Poland to host new ESA center as government boosts investments in space
 - <a href="https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch  24 Starlink satellites on Falcon 9 rocket from Vandenberg
-- <a href="https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/" >🔗</a> **[Arstechnica]** What happens if Crew Dragon stops flying in the 2030s?
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260714T040318">2026-07-14 04:03:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260714T051638">2026-07-14 05:16:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
