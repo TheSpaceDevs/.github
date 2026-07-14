@@ -94,6 +94,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/hubble-sees-crimson-cloud-and-stars/" >🔗</a> **[NASA]** Hubble Sees Crimson Cloud and Stars
 - <a href="https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/" >🔗</a> **[NASA]** NASA Jets Turn Red, White, and Blue
 - <a href="https://spacenews.com/antaris-establishes-aeonyx-to-advance-all-domain-mission-virtualization-for-defense/" >🔗</a> **[SpaceNews]** Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/" >🔗</a> **[NASA]** NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars
@@ -103,7 +104,6 @@ This launch carries 21 satellites manufactured by York Space Systems.
 - <a href="https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/" >🔗</a> **[NASA]** Fans of the Arctic
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
 - <a href="https://spacenews.com/flexell-space-raises-20-million-in-series-a-round/" >🔗</a> **[SpaceNews]** Flexell Space raises $20 Million in Series A round
-- <a href="https://spacenews.com/defense-spending-lifts-europes-space-economy/" >🔗</a> **[SpaceNews]** Defense spending lifts Europe’s space economy
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260714T174900">2026-07-14 17:49:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260714T181937">2026-07-14 18:19:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
