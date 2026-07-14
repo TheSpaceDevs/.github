@@ -19,33 +19,36 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Soyuz 2.1a | Soyuz MS-29**. It is scheduled to be launched by *Russian Federal Space Agency (ROSCOSMOS)*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Baikonur_Cosmodrome_Site_31">31/6</a>, Baikonur Cosmodrome, Republic of Kazakhstan*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260714T144743">2026-07-14 14:47:43 UTC</a>.  Until
-then, this pad will have been used for 428
-out of 1563 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | SDA Tranche 1 Transport Layer E**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T202200">2026-07-16 20:22:00 UTC</a>.  Until
+then, this pad will have been used for 282
+out of 898 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Human Exploration* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Government/Top Secret* and the payload will be injected
+into *a Polar Orbit
+(PO)*.
 <br>
 <blockquote>
-  Soyuz MS-29 will carry three cosmonauts and one astronaut to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan. The crew consists of Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, as well as NASA astronaut Anil Menon.
+  Tranche 1 Transport Layer E is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.
+
+The constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.
+
+This launch carries 21 satellites manufactured by York Space Systems.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Soyuz-2#Soyuz-2.1a" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=45.996034,63.564003" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260714T144743">2026-07-14 14:47:43 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-29&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20260714T144743Z%2F20260714T144743Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-29** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T202200">2026-07-16 20:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 1 Transport Layer E&location=Vandenberg SFB, CA, USA&dates=20260716T202200Z%2F20260716T210900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 1 Transport Layer E** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T224500">2026-07-16 22:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 13&location=SpaceX Starbase, TX, USA&dates=20260716T224500Z%2F20260717T001500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 13** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260717T114200">2026-07-17 11:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260717T114200Z%2F20260717T133900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
@@ -55,6 +58,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260723T110000">2026-07-23 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20260723T110000Z%2F20260723T140000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T110000">2026-07-24 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260724T110000Z%2F20260724T140000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T140000">2026-07-24 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-51&location=Vandenberg SFB, CA, USA&dates=20260724T140000Z%2F20260724T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-51** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T000000">2026-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | LOXSAT 1&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260731T000000Z%2F20260731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | LOXSAT 1** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +94,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/antaris-establishes-aeonyx-to-advance-all-domain-mission-virtualization-for-defense/" >🔗</a> **[SpaceNews]** Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense
 - <a href="https://www.nasaspaceflight.com/2026/07/soyuz-ms-29-launch/" >🔗</a> **[NASASpaceflight]** Soyuz MS-29 set to launch new crew to ISS from Russia
 - <a href="https://spacenews.com/u-k-government-preparing-to-release-new-space-strategy/" >🔗</a> **[SpaceNews]** U.K. government preparing to release new space strategy
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_astronauts_visit_ESA" >🔗</a> **[ESA]** Artemis II astronauts visit ESA
@@ -99,21 +104,16 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/defense-spending-lifts-europes-space-economy/" >🔗</a> **[SpaceNews]** Defense spending lifts Europe’s space economy
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/" >🔗</a> **[NASA]** NASA Study Points to Smoother Air Taxi Rides
 - <a href="https://spacenews.com/l3harris-sierra-space-to-build-36-satellites-to-expand-u-s-missile-tracking-network/" >🔗</a> **[SpaceNews]** L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network
-- <a href="https://www.nasaspaceflight.com/2026/07/launch-preview-071326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Soyuz to launch crew to ISS, Starship to fly another test flight
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/" >🔗</a> **[NASA]** NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station
-- <a href="https://www.nasaspaceflight.com/2026/06/iss-roundup-061826/" >🔗</a> **[NASASpaceflight]** Canadarm2 repairs planned as CRS-34 departs ISS
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-available-for-prelaunch-virtual-interviews/" >🔗</a> **[NASA]** NASA Astronaut Anil Menon Available for Prelaunch Virtual Interviews
-- <a href="https://www.nasaspaceflight.com/2026/04/next-nasa-iss-astronaut-mission/" >🔗</a> **[NASASpaceflight]** Next NASA ISS astronaut, doctor discusses upcoming mission
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-to-discuss-upcoming-launch-mission/" >🔗</a> **[NASA]** NASA Astronaut Anil Menon to Discuss Upcoming Launch, Mission
+- <a href="https://spacenews.com/space-force-assigns-12-national-security-missions-to-spacex-and-ula/" >🔗</a> **[SpaceNews]** Space Force assigns 12 national security missions to SpaceX and ULA
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260714T141241">2026-07-14 14:12:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260714T150332">2026-07-14 15:03:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
