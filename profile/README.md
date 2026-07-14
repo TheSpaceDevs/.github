@@ -94,7 +94,9 @@ This launch carries 21 satellites manufactured by York Space Systems.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/" >🔗</a> **[NASA]** NASA Jets Turn Red, White, and Blue
 - <a href="https://spacenews.com/antaris-establishes-aeonyx-to-advance-all-domain-mission-virtualization-for-defense/" >🔗</a> **[SpaceNews]** Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/" >🔗</a> **[NASA]** NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars
 - <a href="https://www.nasaspaceflight.com/2026/07/soyuz-ms-29-launch/" >🔗</a> **[NASASpaceflight]** Soyuz MS-29 set to launch new crew to ISS from Russia
 - <a href="https://spacenews.com/u-k-government-preparing-to-release-new-space-strategy/" >🔗</a> **[SpaceNews]** U.K. government preparing to release new space strategy
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_astronauts_visit_ESA" >🔗</a> **[ESA]** Artemis II astronauts visit ESA
@@ -102,8 +104,6 @@ This launch carries 21 satellites manufactured by York Space Systems.
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
 - <a href="https://spacenews.com/flexell-space-raises-20-million-in-series-a-round/" >🔗</a> **[SpaceNews]** Flexell Space raises $20 Million in Series A round
 - <a href="https://spacenews.com/defense-spending-lifts-europes-space-economy/" >🔗</a> **[SpaceNews]** Defense spending lifts Europe’s space economy
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/" >🔗</a> **[NASA]** NASA Study Points to Smoother Air Taxi Rides
-- <a href="https://spacenews.com/l3harris-sierra-space-to-build-36-satellites-to-expand-u-s-missile-tracking-network/" >🔗</a> **[SpaceNews]** L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260714T163128">2026-07-14 16:31:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260714T172454">2026-07-14 17:24:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
