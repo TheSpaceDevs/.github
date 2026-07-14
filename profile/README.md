@@ -94,6 +94,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Serbia Artemis Accords Signing Ceremony
 - <a href="https://europeanspaceflight.com/spains-pangea-propulsion-opens-new-manufacturing-facility/" >🔗</a> **[European Spaceflight]** Spain’s Pangea Propulsion Opens New Manufacturing Facility
 - <a href="https://spacenews.com/space-acquisition-and-nro-picks-face-sasc/" >🔗</a> **[SpaceNews]** Space acquisition and NRO picks face SASC
 - <a href="https://spacepolicyonline.com/news/new-russian-american-crew-arrives-at-iss/" >🔗</a> **[SpacePolicyOnline.com]** New Russian-American Crew Arrives at ISS
@@ -103,7 +104,6 @@ This launch carries 21 satellites manufactured by York Space Systems.
 - <a href="https://spacenews.com/antaris-establishes-aeonyx-to-advance-all-domain-mission-virtualization-for-defense/" >🔗</a> **[SpaceNews]** Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/" >🔗</a> **[NASA]** NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars
 - <a href="https://www.nasaspaceflight.com/2026/07/soyuz-ms-29-launch/" >🔗</a> **[NASASpaceflight]** Soyuz MS-29 set to launch new crew to ISS from Russia
-- <a href="https://spacenews.com/u-k-government-preparing-to-release-new-space-strategy/" >🔗</a> **[SpaceNews]** U.K. government preparing to release new space strategy
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260714T204601">2026-07-14 20:46:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260714T211823">2026-07-14 21:18:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
