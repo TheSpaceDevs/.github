@@ -94,7 +94,9 @@ This launch carries 21 satellites manufactured by York Space Systems.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/spains-pangea-propulsion-opens-new-manufacturing-facility/" >🔗</a> **[European Spaceflight]** Spain’s Pangea Propulsion Opens New Manufacturing Facility
 - <a href="https://spacenews.com/space-acquisition-and-nro-picks-face-sasc/" >🔗</a> **[SpaceNews]** Space acquisition and NRO picks face SASC
+- <a href="https://spacepolicyonline.com/news/new-russian-american-crew-arrives-at-iss/" >🔗</a> **[SpacePolicyOnline.com]** New Russian-American Crew Arrives at ISS
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/" >🔗</a> **[NASA]** NASA Astronaut Anil Menon, Crewmates Arrive at Space Station
 - <a href="https://www.nasa.gov/image-article/hubble-sees-crimson-cloud-and-stars/" >🔗</a> **[NASA]** Hubble Sees Crimson Cloud and Stars
 - <a href="https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/" >🔗</a> **[NASA]** NASA Jets Turn Red, White, and Blue
@@ -102,8 +104,6 @@ This launch carries 21 satellites manufactured by York Space Systems.
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/" >🔗</a> **[NASA]** NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars
 - <a href="https://www.nasaspaceflight.com/2026/07/soyuz-ms-29-launch/" >🔗</a> **[NASASpaceflight]** Soyuz MS-29 set to launch new crew to ISS from Russia
 - <a href="https://spacenews.com/u-k-government-preparing-to-release-new-space-strategy/" >🔗</a> **[SpaceNews]** U.K. government preparing to release new space strategy
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_astronauts_visit_ESA" >🔗</a> **[ESA]** Artemis II astronauts visit ESA
-- <a href="https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/" >🔗</a> **[NASA]** Fans of the Arctic
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260714T195436">2026-07-14 19:54:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260714T202214">2026-07-14 20:22:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
