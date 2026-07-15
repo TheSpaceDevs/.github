@@ -94,6 +94,8 @@ This launch carries 21 satellites manufactured by York Space Systems.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-startup-working-with-university-of-texas-seeks-to-trap-small-debris/" >🔗</a> **[SpaceNews]** Startup working with University of Texas focuses on trapping small debris
+- <a href="https://europeanspaceflight.com/ses-and-airbus-secure-site-for-quantum-communications-ground-station/" >🔗</a> **[European Spaceflight]** SES and Airbus Secure Site for Quantum Communications Ground Station
 - <a href="https://spacenews.com/laying-the-groundwork-for-the-first-human-mission-to-mars/" >🔗</a> **[SpaceNews]** Laying the groundwork for the first human mission to Mars
 - <a href="https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/" >🔗</a> **[SpaceNews]** Icarus Robotics taps KULR to provide batteries for Space Station robots
 - <a href="https://science.nasa.gov/get-involved/citizen-science/volunteer-measures-record-louisiana-rainfall/" >🔗</a> **[NASA]** Volunteer Measures Record Louisiana Rainfall
@@ -102,8 +104,6 @@ This launch carries 21 satellites manufactured by York Space Systems.
 - <a href="https://spacenews.com/satellite-investment-sets-annual-record-halfway-through-2026/" >🔗</a> **[SpaceNews]** Satellite investment sets annual record halfway through 2026
 - <a href="https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/" >🔗</a> **[Arstechnica]** How hard is it to build orbital data centers, actually?
 - <a href="https://spacenews.com/japan-seeks-to-ramp-up-launch-activity/" >🔗</a> **[SpaceNews]** Japan seeks to ramp up launch activity
-- <a href="https://spacenews.com/isaacman-attends-soyuz-launch-of-iss-crew/" >🔗</a> **[SpaceNews]** Isaacman attends Soyuz launch of ISS crew
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Metallic_waves_on_ancient_Mars" >🔗</a> **[ESA]** Metallic waves on ancient Mars
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260715T132930">2026-07-15 13:29:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260715T141119">2026-07-15 14:11:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
