@@ -94,6 +94,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/" >🔗</a> **[NASA]** NASA Uses Subscale Aircraft to Accelerate Flight Innovation
 - <a href="https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/" >🔗</a> **[NASA]** NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids
 - <a href="https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/" >🔗</a> **[SpaceNews]** Space Force awards Slingshot $69 million for AI-enabled training technology
 - <a href="https://www.nasaspaceflight.com/2026/07/china-update-20261507/" >🔗</a> **[NASASpaceflight]** China’s first recovered booster returns to port as LandSpace aims for first land recovery
@@ -103,7 +104,6 @@ This launch carries 21 satellites manufactured by York Space Systems.
 - <a href="https://spacenews.com/saltzmans-farewell-warning-prepare-for-war-in-space-to-preserve-peace/" >🔗</a> **[SpaceNews]** Saltzman’s farewell warning: Prepare for war in space to preserve peace
 - <a href="https://spacenews.com/commercial-space-federation-launches-state-and-local-council-to-align-states-on-national-space-capacity-and-strengthen-the-u-s-industrial-base/" >🔗</a> **[SpaceNews]** Commercial Space Federation Launches State and Local Council to Align States on National Space Capacity and Strengthen the U.S. Industrial Base
 - <a href="https://science.nasa.gov/photojournal/nasas-perseverance-rover-provides-sweeping-view-of-broom-point/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Provides Sweeping View of Broom Point
-- <a href="https://science.nasa.gov/photojournal/perseverances-trip-to-broom-point/" >🔗</a> **[NASA]** Perseverance’s Trip to ‘Broom Point’
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260715T214539">2026-07-15 21:45:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260715T221744">2026-07-15 22:17:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
