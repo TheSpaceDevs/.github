@@ -94,16 +94,16 @@ This launch carries 21 satellites manufactured by York Space Systems.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/" >🔗</a> **[SpaceNews]** Space Force awards Slingshot $69 million for AI-enabled training technology
+- <a href="https://www.nasaspaceflight.com/2026/07/china-update-20261507/" >🔗</a> **[NASASpaceflight]** China’s first recovered booster returns to port as LandSpace aims for first land recovery
+- <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/" >🔗</a> **[NASA]** How NASA’s Artemis III Lander Test Will Pave Way for Moon Landings
+- <a href="https://www.nasa.gov/image-article/anil-menon-launches-to-space-station/" >🔗</a> **[NASA]** Anil Menon Launches to Space Station
+- <a href="https://science.nasa.gov/photojournal/curiosity-finds-evidence-of-an-ancient-sandstorm/" >🔗</a> **[NASA]** Curiosity Finds Evidence of an Ancient Sandstorm
 - <a href="https://spacenews.com/saltzmans-farewell-warning-prepare-for-war-in-space-to-preserve-peace/" >🔗</a> **[SpaceNews]** Saltzman’s farewell warning: Prepare for war in space to preserve peace
 - <a href="https://spacenews.com/commercial-space-federation-launches-state-and-local-council-to-align-states-on-national-space-capacity-and-strengthen-the-u-s-industrial-base/" >🔗</a> **[SpaceNews]** Commercial Space Federation Launches State and Local Council to Align States on National Space Capacity and Strengthen the U.S. Industrial Base
 - <a href="https://science.nasa.gov/photojournal/nasas-perseverance-rover-provides-sweeping-view-of-broom-point/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Provides Sweeping View of Broom Point
 - <a href="https://science.nasa.gov/photojournal/perseverances-trip-to-broom-point/" >🔗</a> **[NASA]** Perseverance’s Trip to ‘Broom Point’
 - <a href="https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-reads-record-of-ancient-mars-impacts/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts
-- <a href="https://spacenews.com/new-startup-working-with-university-of-texas-seeks-to-trap-small-debris/" >🔗</a> **[SpaceNews]** Startup working with University of Texas focuses on trapping small debris
-- <a href="https://europeanspaceflight.com/ses-and-airbus-secure-site-for-quantum-communications-ground-station/" >🔗</a> **[European Spaceflight]** SES and Airbus Secure Site for Quantum Communications Ground Station
-- <a href="https://spacenews.com/laying-the-groundwork-for-the-first-human-mission-to-mars/" >🔗</a> **[SpaceNews]** Laying the groundwork for the first human mission to Mars
-- <a href="https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/" >🔗</a> **[SpaceNews]** Icarus Robotics taps KULR to provide batteries for Space Station robots
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/Replay_of_the_online_media_briefing_on_the_total_solar_eclipse" >🔗</a> **[ESA]** Replay of the online media briefing on the total solar eclipse
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260715T184712">2026-07-15 18:47:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260715T192601">2026-07-15 19:26:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
