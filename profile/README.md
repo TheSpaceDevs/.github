@@ -94,6 +94,8 @@ This launch carries 21 satellites manufactured by York Space Systems.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/isaacman-attends-soyuz-launch-of-iss-crew/" >🔗</a> **[SpaceNews]** Isaacman attends Soyuz launch of ISS crew
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Metallic_waves_on_ancient_Mars" >🔗</a> **[ESA]** Metallic waves on ancient Mars
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4947-4953: Gale Crater Then and Now
 - <a href="https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/" >🔗</a> **[NASA]** Heat Dome Broils the Western U.S.
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Serbia Artemis Accords Signing Ceremony
@@ -102,8 +104,6 @@ This launch carries 21 satellites manufactured by York Space Systems.
 - <a href="https://spacepolicyonline.com/news/new-russian-american-crew-arrives-at-iss/" >🔗</a> **[SpacePolicyOnline.com]** New Russian-American Crew Arrives at ISS
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/" >🔗</a> **[NASA]** NASA Astronaut Anil Menon, Crewmates Arrive at Space Station
 - <a href="https://www.nasa.gov/image-article/hubble-sees-crimson-cloud-and-stars/" >🔗</a> **[NASA]** Hubble Sees Crimson Cloud and Stars
-- <a href="https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/" >🔗</a> **[NASA]** NASA Jets Turn Red, White, and Blue
-- <a href="https://spacenews.com/antaris-establishes-aeonyx-to-advance-all-domain-mission-virtualization-for-defense/" >🔗</a> **[SpaceNews]** Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260715T091238">2026-07-15 09:12:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260715T101021">2026-07-15 10:10:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
