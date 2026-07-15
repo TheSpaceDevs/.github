@@ -94,16 +94,16 @@ This launch carries 21 satellites manufactured by York Space Systems.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-reads-record-of-ancient-mars-impacts/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts
 - <a href="https://spacenews.com/new-startup-working-with-university-of-texas-seeks-to-trap-small-debris/" >🔗</a> **[SpaceNews]** Startup working with University of Texas focuses on trapping small debris
 - <a href="https://europeanspaceflight.com/ses-and-airbus-secure-site-for-quantum-communications-ground-station/" >🔗</a> **[European Spaceflight]** SES and Airbus Secure Site for Quantum Communications Ground Station
 - <a href="https://spacenews.com/laying-the-groundwork-for-the-first-human-mission-to-mars/" >🔗</a> **[SpaceNews]** Laying the groundwork for the first human mission to Mars
 - <a href="https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/" >🔗</a> **[SpaceNews]** Icarus Robotics taps KULR to provide batteries for Space Station robots
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/Replay_of_the_online_media_briefing_on_the_total_solar_eclipse" >🔗</a> **[ESA]** Replay of the online media briefing on the total solar eclipse
 - <a href="https://science.nasa.gov/get-involved/citizen-science/volunteer-measures-record-louisiana-rainfall/" >🔗</a> **[NASA]** Volunteer Measures Record Louisiana Rainfall
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/" >🔗</a> **[NASA]** NASA’s Webb Discovers Hidden Planet in Famous Star System
 - <a href="https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/" >🔗</a> **[Arstechnica]** A most improbable astronaut just went to space
 - <a href="https://spacenews.com/satellite-investment-sets-annual-record-halfway-through-2026/" >🔗</a> **[SpaceNews]** Satellite investment sets annual record halfway through 2026
-- <a href="https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/" >🔗</a> **[Arstechnica]** How hard is it to build orbital data centers, actually?
-- <a href="https://spacenews.com/japan-seeks-to-ramp-up-launch-activity/" >🔗</a> **[SpaceNews]** Japan seeks to ramp up launch activity
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260715T150241">2026-07-15 15:02:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260715T155944">2026-07-15 15:59:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
