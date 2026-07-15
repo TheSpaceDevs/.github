@@ -94,6 +94,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/japan-seeks-to-ramp-up-launch-activity/" >🔗</a> **[SpaceNews]** Japan seeks to ramp up launch activity
 - <a href="https://spacenews.com/isaacman-attends-soyuz-launch-of-iss-crew/" >🔗</a> **[SpaceNews]** Isaacman attends Soyuz launch of ISS crew
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Metallic_waves_on_ancient_Mars" >🔗</a> **[ESA]** Metallic waves on ancient Mars
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4947-4953: Gale Crater Then and Now
@@ -103,7 +104,6 @@ This launch carries 21 satellites manufactured by York Space Systems.
 - <a href="https://spacenews.com/space-acquisition-and-nro-picks-face-sasc/" >🔗</a> **[SpaceNews]** Space acquisition and NRO picks face SASC
 - <a href="https://spacepolicyonline.com/news/new-russian-american-crew-arrives-at-iss/" >🔗</a> **[SpacePolicyOnline.com]** New Russian-American Crew Arrives at ISS
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/" >🔗</a> **[NASA]** NASA Astronaut Anil Menon, Crewmates Arrive at Space Station
-- <a href="https://www.nasa.gov/image-article/hubble-sees-crimson-cloud-and-stars/" >🔗</a> **[NASA]** Hubble Sees Crimson Cloud and Stars
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260715T101021">2026-07-15 10:10:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260715T110243">2026-07-15 11:02:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
