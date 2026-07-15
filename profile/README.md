@@ -94,6 +94,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4947-4953: Gale Crater Then and Now
 - <a href="https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/" >🔗</a> **[NASA]** Heat Dome Broils the Western U.S.
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Serbia Artemis Accords Signing Ceremony
 - <a href="https://europeanspaceflight.com/spains-pangea-propulsion-opens-new-manufacturing-facility/" >🔗</a> **[European Spaceflight]** Spain’s Pangea Propulsion Opens New Manufacturing Facility
@@ -103,7 +104,6 @@ This launch carries 21 satellites manufactured by York Space Systems.
 - <a href="https://www.nasa.gov/image-article/hubble-sees-crimson-cloud-and-stars/" >🔗</a> **[NASA]** Hubble Sees Crimson Cloud and Stars
 - <a href="https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/" >🔗</a> **[NASA]** NASA Jets Turn Red, White, and Blue
 - <a href="https://spacenews.com/antaris-establishes-aeonyx-to-advance-all-domain-mission-virtualization-for-defense/" >🔗</a> **[SpaceNews]** Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/" >🔗</a> **[NASA]** NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260715T051734">2026-07-15 05:17:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260715T061333">2026-07-15 06:13:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
