@@ -94,6 +94,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/" >🔗</a> **[NASA]** NASA Study Finds Near-Earth Asteroid Is Actually Comet
 - <a href="https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/" >🔗</a> **[SpaceNews]** Defense Innovation Unit seeks commercial path to deliver electrical power from orbit
 - <a href="https://spacenews.com/building-the-infrastructure-for-a-shifting-space-economy-with-massi-ladovaz/" >🔗</a> **[SpaceNews]** Building the infrastructure for a shifting space economy with Massi Ladovaz
 - <a href="https://spacenews.com/trumps-pick-to-lead-space-force-defends-plan-to-more-than-double-budget/" >🔗</a> **[SpaceNews]** Trump’s pick to lead Space Force defends plan to more than double budget
@@ -103,7 +104,6 @@ This launch carries 21 satellites manufactured by York Space Systems.
 - <a href="https://spacenews.com/bluestaq-launches-bluestaq-arq-defense-grade-data-infrastructure-now-available-for-commercial-government-and-enterprise-organizations/" >🔗</a> **[SpaceNews]** Bluestaq Launches BLUESTAQ / ARQ Defense-Grade Data Infrastructure Now Available for Commercial, Government, and Enterprise Organizations
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Expedition_Sound_podcast_series" >🔗</a> **[ESA]** Expedition Sound podcast series
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Test_firing_at_brand_new_green_chemical_propulsion_lab" >🔗</a> **[ESA]** Test firing at brand new green chemical propulsion lab
-- <a href="https://spacenews.com/swissto12-raises-70-million-to-accelerate-small-geo-satellite-production/" >🔗</a> **[SpaceNews]** Swissto12 raises $70 million to accelerate small GEO satellite production
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T184822">2026-07-16 18:48:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T192528">2026-07-16 19:25:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
