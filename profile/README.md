@@ -94,6 +94,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/russia-agrees-to-iss-operations-seat-swaps-through-2030/" >🔗</a> **[SpacePolicyOnline.com]** Russia Agrees to ISS Operations, Seat-Swaps, Through 2030
 - <a href="https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/" >🔗</a> **[SpaceNews]** SpaceX launches 21 satellites for military data network
 - <a href="https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/" >🔗</a> **[SpaceNews]** Nature study identifies a new way to spot nuclear weapons in orbit
 - <a href="https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/" >🔗</a> **[NASA]** NASA Study Finds Near-Earth Asteroid Is Actually Comet
@@ -103,7 +104,6 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 - <a href="https://europeanspaceflight.com/esa-selects-ariane-6-to-launch-deep-space-cubesat/" >🔗</a> **[European Spaceflight]** ESA Selects Ariane 6 to Launch Deep Space CubeSat
 - <a href="https://www.nasa.gov/image-article/young-galaxy-cluster/" >🔗</a> **[NASA]** Young Galaxy Cluster
 - <a href="https://spacenews.com/office-of-space-commerce-makes-its-case-for-mission-authorization/" >🔗</a> **[SpaceNews]** Office of Space Commerce makes its case for mission authorization
-- <a href="https://spacenews.com/bluestaq-launches-bluestaq-arq-defense-grade-data-infrastructure-now-available-for-commercial-government-and-enterprise-organizations/" >🔗</a> **[SpaceNews]** Bluestaq Launches BLUESTAQ / ARQ Defense-Grade Data Infrastructure Now Available for Commercial, Government, and Enterprise Organizations
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T214758">2026-07-16 21:47:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T221830">2026-07-16 22:18:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
