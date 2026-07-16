@@ -19,31 +19,31 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | SDA Tranche 1 Transport Layer E**. It is scheduled to be launched by *SpaceX*
+**Starship | Flight 13**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/SpaceX_Starbase#Launch_site_(Orbital_Launch_Mount_(Pad_1_and_2))">Orbital Launch Pad 2</a>, SpaceX Starbase, TX, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T202200">2026-07-16 20:22:00 UTC</a>.  Until
-then, this pad will have been used for 282
-out of 898 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T224500">2026-07-16 22:45:00 UTC</a>.  Until
+then, this pad will have been used for 1
+out of 21 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
-into *a Polar Orbit
-(PO)*.
+*Test Flight* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  Tranche 1 Transport Layer E is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.
+  13th test flight of the two-stage Starship launch vehicle. Second flight of Starship V3.
 
-The constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.
+For the first time, Starship will carry 20 V3 Starlink satellites to space, which will extend solar arrays and antennas and will attempt to connect with ground stations in South Africa and the larger Starlink constellation via high-capacity lasers. 
 
-This launch carries 21 satellites manufactured by York Space Systems.
+6 of the satellites have been modified with a suite of cameras to scan Starship’s heat shield and transmit imagery down to operators to continue testing methods of analyzing Starship’s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/SpaceX_Starship#Block_3" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=25.996770,-97.157990" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -58,6 +58,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T110000">2026-07-24 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260724T110000Z%2F20260724T140000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T140000">2026-07-24 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-51&location=Vandenberg SFB, CA, USA&dates=20260724T140000Z%2F20260724T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-51** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260728T020000">2026-07-28 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-52&location=Vandenberg SFB, CA, USA&dates=20260728T020000Z%2F20260728T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-52** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T000000">2026-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | LOXSAT 1&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260731T000000Z%2F20260731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | LOXSAT 1** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -93,6 +94,8 @@ This launch carries 21 satellites manufactured by York Space Systems.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/" >🔗</a> **[SpaceNews]** SpaceX launches 21 satellites for military data network
+- <a href="https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/" >🔗</a> **[SpaceNews]** Nature study identifies a new way to spot nuclear weapons in orbit
 - <a href="https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/" >🔗</a> **[NASA]** NASA Study Finds Near-Earth Asteroid Is Actually Comet
 - <a href="https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/" >🔗</a> **[SpaceNews]** Defense Innovation Unit seeks commercial path to deliver electrical power from orbit
 - <a href="https://spacenews.com/building-the-infrastructure-for-a-shifting-space-economy-with-massi-ladovaz/" >🔗</a> **[SpaceNews]** Building the infrastructure for a shifting space economy with Massi Ladovaz
@@ -101,18 +104,22 @@ This launch carries 21 satellites manufactured by York Space Systems.
 - <a href="https://www.nasa.gov/image-article/young-galaxy-cluster/" >🔗</a> **[NASA]** Young Galaxy Cluster
 - <a href="https://spacenews.com/office-of-space-commerce-makes-its-case-for-mission-authorization/" >🔗</a> **[SpaceNews]** Office of Space Commerce makes its case for mission authorization
 - <a href="https://spacenews.com/bluestaq-launches-bluestaq-arq-defense-grade-data-infrastructure-now-available-for-commercial-government-and-enterprise-organizations/" >🔗</a> **[SpaceNews]** Bluestaq Launches BLUESTAQ / ARQ Defense-Grade Data Infrastructure Now Available for Commercial, Government, and Enterprise Organizations
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Expedition_Sound_podcast_series" >🔗</a> **[ESA]** Expedition Sound podcast series
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Test_firing_at_brand_new_green_chemical_propulsion_lab" >🔗</a> **[ESA]** Test firing at brand new green chemical propulsion lab
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/space-force-assigns-12-national-security-missions-to-spacex-and-ula/" >🔗</a> **[SpaceNews]** Space Force assigns 12 national security missions to SpaceX and ULA
+- <a href="https://www.nasaspaceflight.com/2026/07/booster-20-record-static-fire/" >🔗</a> **[NASASpaceflight]** Booster 20 completes record duration Static Fire
+- <a href="https://www.nasaspaceflight.com/2026/06/ship-40-single-engine/" >🔗</a> **[NASASpaceflight]** Ship 40 completes single-engine static fire; Booster 20 and Pad 2 see new work
+- <a href="https://www.nasaspaceflight.com/2026/06/booster-20-cryo-ship-40-static-fire/" >🔗</a> **[NASASpaceflight]** Booster 20 Completes Cryo, As Ship 40 Nears Static Fire
+- <a href="https://www.nasaspaceflight.com/2026/06/booster-20-cryogenic-testing-ahead-flight-13/" >🔗</a> **[NASASpaceflight]** Booster 20 into Cryogenic Testing ahead of Starship Flight 13
+- <a href="https://spaceflightnow.com/2026/05/27/faa-requires-spacex-led-mishap-investigation-before-resumption-of-starship-launches/" >🔗</a> **[Spaceflight Now]** FAA requires SpaceX-led mishap investigation before resumption of Starship launches
+- <a href="https://www.nasaspaceflight.com/2026/05/starship-flight-12-v3-follow/" >🔗</a> **[NASASpaceflight]** Following Starship V3 debut, SpaceX prepares for follow up
+- <a href="https://www.nasaspaceflight.com/2026/01/tps-evaluations-next-two-ships/" >🔗</a> **[NASASpaceflight]** TPS evaluations taking place at Starbase on next two Ships to fly
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T204522">2026-07-16 20:45:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T211919">2026-07-16 21:19:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
