@@ -49,7 +49,6 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T224500">2026-07-16 22:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 13&location=SpaceX Starbase, TX, USA&dates=20260716T224500Z%2F20260717T001500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 13** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260718T050000">2026-07-18 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vikram-I | Demo Flight&location=Satish Dhawan Space Centre, India&dates=20260718T050000Z%2F20260718T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vikram-I | Demo Flight** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260720T140000">2026-07-20 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-39&location=Vandenberg SFB, CA, USA&dates=20260720T140000Z%2F20260720T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-39** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T211500">2026-07-21 21:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | MRV-1&location=Cape Canaveral SFS, FL, USA&dates=20260721T211500Z%2F20260722T010400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | MRV-1** from Cape Canaveral SFS, FL, USA.
@@ -119,7 +118,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T221830">2026-07-16 22:18:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T224540">2026-07-16 22:45:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
