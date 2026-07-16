@@ -94,6 +94,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/07/starship-flight-13-flight/" >🔗</a> **[NASASpaceflight]** Starship Flight 13: Potentially the final Suborbital Flight
 - <a href="https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-deploy-first-starlink-v3-satellites-on-suborbital-starship-super-heavy-flight/" >🔗</a> **[Spaceflight Now]** SpaceX to deploy first Starlink V3 satellites on suborbital Starship-Super Heavy flight
 - <a href="https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-launch-21-communications-satellites-for-the-space-development-agency/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 communications satellites for the Space Development Agency
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/" >🔗</a> **[NASA]** NASA Uses Subscale Aircraft to Accelerate Flight Innovation
@@ -103,7 +104,6 @@ This launch carries 21 satellites manufactured by York Space Systems.
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/" >🔗</a> **[NASA]** How NASA’s Artemis III Lander Test Will Pave Way for Moon Landings
 - <a href="https://www.nasa.gov/image-article/anil-menon-launches-to-space-station/" >🔗</a> **[NASA]** Anil Menon Launches to Space Station
 - <a href="https://science.nasa.gov/photojournal/curiosity-finds-evidence-of-an-ancient-sandstorm/" >🔗</a> **[NASA]** Curiosity Finds Evidence of an Ancient Sandstorm
-- <a href="https://spacenews.com/saltzmans-farewell-warning-prepare-for-war-in-space-to-preserve-peace/" >🔗</a> **[SpaceNews]** Saltzman’s farewell warning: Prepare for war in space to preserve peace
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T013608">2026-07-16 01:36:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T025850">2026-07-16 02:58:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
