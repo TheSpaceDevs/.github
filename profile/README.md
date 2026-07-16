@@ -94,6 +94,8 @@ This launch carries 21 satellites manufactured by York Space Systems.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/office-of-space-commerce-makes-its-case-for-mission-authorization/" >🔗</a> **[SpaceNews]** Office of Space Commerce makes its case for mission authorization
+- <a href="https://spacenews.com/bluestaq-launches-bluestaq-arq-defense-grade-data-infrastructure-now-available-for-commercial-government-and-enterprise-organizations/" >🔗</a> **[SpaceNews]** Bluestaq Launches BLUESTAQ / ARQ Defense-Grade Data Infrastructure Now Available for Commercial, Government, and Enterprise Organizations
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Expedition_Sound_podcast_series" >🔗</a> **[ESA]** Expedition Sound podcast series
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Test_firing_at_brand_new_green_chemical_propulsion_lab" >🔗</a> **[ESA]** Test firing at brand new green chemical propulsion lab
 - <a href="https://spacenews.com/swissto12-raises-70-million-to-accelerate-small-geo-satellite-production/" >🔗</a> **[SpaceNews]** Swissto12 raises $70 million to accelerate small GEO satellite production
@@ -102,8 +104,6 @@ This launch carries 21 satellites manufactured by York Space Systems.
 - <a href="https://www.nasaspaceflight.com/2026/07/starship-flight-13-flight/" >🔗</a> **[NASASpaceflight]** Starship Flight 13: Potentially the final Suborbital Flight
 - <a href="https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-deploy-first-starlink-v3-satellites-on-suborbital-starship-super-heavy-flight/" >🔗</a> **[Spaceflight Now]** SpaceX to deploy first Starlink V3 satellites on suborbital Starship-Super Heavy flight
 - <a href="https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-launch-21-communications-satellites-for-the-space-development-agency/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 communications satellites for the Space Development Agency
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/" >🔗</a> **[NASA]** NASA Uses Subscale Aircraft to Accelerate Flight Innovation
-- <a href="https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/" >🔗</a> **[NASA]** NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T115915">2026-07-16 11:59:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T124226">2026-07-16 12:42:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
