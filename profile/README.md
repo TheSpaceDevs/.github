@@ -19,31 +19,33 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Starship | Flight 13**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/SpaceX_Starbase#Launch_site_(Orbital_Launch_Mount_(Pad_1_and_2))">Orbital Launch Pad 2</a>, SpaceX Starbase, TX, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T224500">2026-07-16 22:45:00 UTC</a>.  Until
-then, this pad will have been used for 1
-out of 21 launches from this location. The launch status is currently
+**Vikram-I | Demo Flight**. It is scheduled to be launched by *Skyroot Aerospace*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad">Satish Dhawan Space Centre First Launch Pad</a>, Satish Dhawan Space Centre, India*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260718T050000">2026-07-18 05:00:00 UTC</a>.  Until
+then, this pad will have been used for 63
+out of 103 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Test Flight* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  13th test flight of the two-stage Starship launch vehicle. Second flight of Starship V3.
+  First launch of Skyroot Aerospace's Vikram-I launch vehicle. 
 
-For the first time, Starship will carry 20 V3 Starlink satellites to space, which will extend solar arrays and antennas and will attempt to connect with ground stations in South Africa and the larger Starlink constellation via high-capacity lasers. 
-
-6 of the satellites have been modified with a suite of cameras to scan Starship’s heat shield and transmit imagery down to operators to continue testing methods of analyzing Starship’s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test.
+This first launch will carry 4 payloads:
+- Grahaa Space's SOLARAS S3 satellite
+- Cosmoserve Space's in-orbit robotic arm Embrace
+- An in-orbit demonstration from DCUBED
+- Skyroot's own SCOPE satellite
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/SpaceX_Starship#Block_3" >
+  <a href="https://en.wikipedia.org/wiki/Vikram_(rocket_family)" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=25.996770,-97.157990" >
+  <a href="https://www.google.com/maps?q=13.733,80.235" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -58,6 +60,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T140000">2026-07-24 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-51&location=Vandenberg SFB, CA, USA&dates=20260724T140000Z%2F20260724T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-51** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260728T020000">2026-07-28 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-52&location=Vandenberg SFB, CA, USA&dates=20260728T020000Z%2F20260728T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-52** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T000000">2026-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | LOXSAT 1&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260731T000000Z%2F20260731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | LOXSAT 1** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T000000">2026-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | StriX Launch 11&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260731T000000Z%2F20260731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | StriX Launch 11** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -93,6 +96,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-serbia-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Serbia as Newest Artemis Accords Signatory
 - <a href="https://spacepolicyonline.com/news/russia-agrees-to-iss-operations-seat-swaps-through-2030/" >🔗</a> **[SpacePolicyOnline.com]** Russia Agrees to ISS Operations, Seat-Swaps, Through 2030
 - <a href="https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/" >🔗</a> **[SpaceNews]** SpaceX launches 21 satellites for military data network
 - <a href="https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/" >🔗</a> **[SpaceNews]** Nature study identifies a new way to spot nuclear weapons in orbit
@@ -102,23 +106,18 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 - <a href="https://spacenews.com/trumps-pick-to-lead-space-force-defends-plan-to-more-than-double-budget/" >🔗</a> **[SpaceNews]** Trump’s pick to lead Space Force defends plan to more than double budget
 - <a href="https://europeanspaceflight.com/esa-selects-ariane-6-to-launch-deep-space-cubesat/" >🔗</a> **[European Spaceflight]** ESA Selects Ariane 6 to Launch Deep Space CubeSat
 - <a href="https://www.nasa.gov/image-article/young-galaxy-cluster/" >🔗</a> **[NASA]** Young Galaxy Cluster
-- <a href="https://spacenews.com/office-of-space-commerce-makes-its-case-for-mission-authorization/" >🔗</a> **[SpaceNews]** Office of Space Commerce makes its case for mission authorization
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2026/07/booster-20-record-static-fire/" >🔗</a> **[NASASpaceflight]** Booster 20 completes record duration Static Fire
-- <a href="https://www.nasaspaceflight.com/2026/06/ship-40-single-engine/" >🔗</a> **[NASASpaceflight]** Ship 40 completes single-engine static fire; Booster 20 and Pad 2 see new work
-- <a href="https://www.nasaspaceflight.com/2026/06/booster-20-cryo-ship-40-static-fire/" >🔗</a> **[NASASpaceflight]** Booster 20 Completes Cryo, As Ship 40 Nears Static Fire
-- <a href="https://www.nasaspaceflight.com/2026/06/booster-20-cryogenic-testing-ahead-flight-13/" >🔗</a> **[NASASpaceflight]** Booster 20 into Cryogenic Testing ahead of Starship Flight 13
-- <a href="https://spaceflightnow.com/2026/05/27/faa-requires-spacex-led-mishap-investigation-before-resumption-of-starship-launches/" >🔗</a> **[Spaceflight Now]** FAA requires SpaceX-led mishap investigation before resumption of Starship launches
-- <a href="https://www.nasaspaceflight.com/2026/05/starship-flight-12-v3-follow/" >🔗</a> **[NASASpaceflight]** Following Starship V3 debut, SpaceX prepares for follow up
-- <a href="https://www.nasaspaceflight.com/2026/01/tps-evaluations-next-two-ships/" >🔗</a> **[NASASpaceflight]** TPS evaluations taking place at Starbase on next two Ships to fly
+- <a href="https://spacenews.com/skyroot-prepares-for-first-orbital-launch-attempt/" >🔗</a> **[SpaceNews]** Skyroot prepares for first orbital launch attempt
+- <a href="https://www.nasaspaceflight.com/2026/07/launch-long-march-10b-vikram-i-debut/" >🔗</a> **[NASASpaceflight]** Launch Preview: Long March 10B and Vikram-I debut
+- <a href="https://arstechnica.com/space/2026/05/with-skyroot-at-the-head-of-the-class-indias-private-space-industry-seeks-to-take-off/" >🔗</a> **[Arstechnica]** With Skyroot at the head of the class, India's private space industry seeks to take off
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T224540">2026-07-16 22:45:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T231546">2026-07-16 23:15:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
