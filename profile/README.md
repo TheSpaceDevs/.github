@@ -94,6 +94,9 @@ This launch carries 21 satellites manufactured by York Space Systems.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/" >🔗</a> **[SpaceNews]** Defense Innovation Unit seeks commercial path to deliver electrical power from orbit
+- <a href="https://spacenews.com/building-the-infrastructure-for-a-shifting-space-economy-with-massi-ladovaz/" >🔗</a> **[SpaceNews]** Building the infrastructure for a shifting space economy with Massi Ladovaz
+- <a href="https://spacenews.com/trumps-pick-to-lead-space-force-defends-plan-to-more-than-double-budget/" >🔗</a> **[SpaceNews]** Trump’s pick to lead Space Force defends plan to more than double budget
 - <a href="https://europeanspaceflight.com/esa-selects-ariane-6-to-launch-deep-space-cubesat/" >🔗</a> **[European Spaceflight]** ESA Selects Ariane 6 to Launch Deep Space CubeSat
 - <a href="https://www.nasa.gov/image-article/young-galaxy-cluster/" >🔗</a> **[NASA]** Young Galaxy Cluster
 - <a href="https://spacenews.com/office-of-space-commerce-makes-its-case-for-mission-authorization/" >🔗</a> **[SpaceNews]** Office of Space Commerce makes its case for mission authorization
@@ -101,9 +104,6 @@ This launch carries 21 satellites manufactured by York Space Systems.
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Expedition_Sound_podcast_series" >🔗</a> **[ESA]** Expedition Sound podcast series
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Test_firing_at_brand_new_green_chemical_propulsion_lab" >🔗</a> **[ESA]** Test firing at brand new green chemical propulsion lab
 - <a href="https://spacenews.com/swissto12-raises-70-million-to-accelerate-small-geo-satellite-production/" >🔗</a> **[SpaceNews]** Swissto12 raises $70 million to accelerate small GEO satellite production
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_arrive_at_Europe_s_Spaceport" >🔗</a> **[ESA]** FLEX and Sentinel-3C arrive at Europe’s Spaceport
-- <a href="https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/" >🔗</a> **[NASA]** Ontario Wildfire Smoke Moves East
-- <a href="https://www.nasaspaceflight.com/2026/07/starship-flight-13-flight/" >🔗</a> **[NASASpaceflight]** Starship Flight 13: Potentially the final Suborbital Flight
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T150953">2026-07-16 15:09:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T155738">2026-07-16 15:57:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
