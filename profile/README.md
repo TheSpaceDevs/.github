@@ -95,6 +95,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/swissto12-raises-70-million-to-accelerate-small-geo-satellite-production/" >🔗</a> **[SpaceNews]** Swissto12 raises $70 million to accelerate small GEO satellite production
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_arrive_at_Europe_s_Spaceport" >🔗</a> **[ESA]** FLEX and Sentinel-3C arrive at Europe’s Spaceport
 - <a href="https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/" >🔗</a> **[NASA]** Ontario Wildfire Smoke Moves East
 - <a href="https://www.nasaspaceflight.com/2026/07/starship-flight-13-flight/" >🔗</a> **[NASASpaceflight]** Starship Flight 13: Potentially the final Suborbital Flight
 - <a href="https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-deploy-first-starlink-v3-satellites-on-suborbital-starship-super-heavy-flight/" >🔗</a> **[Spaceflight Now]** SpaceX to deploy first Starlink V3 satellites on suborbital Starship-Super Heavy flight
@@ -103,7 +104,6 @@ This launch carries 21 satellites manufactured by York Space Systems.
 - <a href="https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/" >🔗</a> **[NASA]** NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids
 - <a href="https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/" >🔗</a> **[SpaceNews]** Space Force awards Slingshot $69 million for AI-enabled training technology
 - <a href="https://www.nasaspaceflight.com/2026/07/china-update-20261507/" >🔗</a> **[NASASpaceflight]** China’s first recovered booster returns to port as LandSpace aims for first land recovery
-- <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/" >🔗</a> **[NASA]** How NASA’s Artemis III Lander Test Will Pave Way for Moon Landings
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T071527">2026-07-16 07:15:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260716T081338">2026-07-16 08:13:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
