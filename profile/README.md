@@ -96,6 +96,8 @@ This first launch will carry 4 payloads:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/" >🔗</a> **[NASA]** Establishing a VTE Risk Score for Astronauts Algorithm
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/" >🔗</a> **[NASA]** NASA Awards Facilities Support Services Contract for Ames Research Center
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/" >🔗</a> **[NASA]** NASA’s Chandra and IXPE Study Pulsar in Lighthouse Nebula
 - <a href="https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/" >🔗</a> **[NASA]** La NASA invita a los medios de comunicación al lanzamiento del telescopio espacial Roman
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/" >🔗</a> **[NASA]** NASA Invites Media to Roman Space Telescope, Crew-13 Launches
@@ -104,8 +106,6 @@ This first launch will carry 4 payloads:
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/ESA_s_Mars_Express_meets_NASA_s_Psyche" >🔗</a> **[ESA]** ESA’s Mars Express meets NASA’s Psyche
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/ESA_Academy_s_Navigation_Training_Course" >🔗</a> **[ESA]** ESA Academy’s Navigation Training Course
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Mauritius as 70th Artemis Accords Signatory
-- <a href="https://europeanspaceflight.com/arianespace-ceo-urges-the-eu-to-procure-large-blocks-of-ariane-6-flights/" >🔗</a> **[European Spaceflight]** Arianespace CEO Urges the EU to Procure Large Blocks of Ariane 6 Flights
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_13-17_July_2026" >🔗</a> **[ESA]** Week in images: 13-17 July 2026
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ This first launch will carry 4 payloads:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260717T204449">2026-07-17 20:44:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260717T211421">2026-07-17 21:14:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
