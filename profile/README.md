@@ -96,6 +96,8 @@ This first launch will carry 4 payloads:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/" >🔗</a> **[NASA]** NASA Pushes New Wing Design to Find Structural Limits
+- <a href="https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/" >🔗</a> **[NASA]** The Growing Crescent of Mars as NASA’s Psyche Mission Approaches
 - <a href="https://spacepolicyonline.com/news/serbia-mauritius-bring-artemis-accords-to-70/" >🔗</a> **[SpacePolicyOnline.com]** Serbia, Mauritius Bring Artemis Accords to 70
 - <a href="https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/" >🔗</a> **[NASA]** Establishing a VTE Risk Score for Astronauts Algorithm
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/" >🔗</a> **[NASA]** NASA Awards Facilities Support Services Contract for Ames Research Center
@@ -104,8 +106,6 @@ This first launch will carry 4 payloads:
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/" >🔗</a> **[NASA]** NASA Invites Media to Roman Space Telescope, Crew-13 Launches
 - <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/" >🔗</a> **[NASA]** NASA’s Psyche Mission Images Details of Martian Surface During Flyby
 - <a href="https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/" >🔗</a> **[Arstechnica]** Will Russia's answer to the Falcon 9 rocket ever take flight?
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/ESA_Academy_s_Navigation_Training_Course" >🔗</a> **[ESA]** ESA Academy’s Navigation Training Course
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/ESA_s_Mars_Express_meets_NASA_s_Psyche" >🔗</a> **[ESA]** ESA’s Mars Express meets NASA’s Psyche
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ This first launch will carry 4 payloads:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260717T224415">2026-07-17 22:44:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260717T231441">2026-07-17 23:14:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
