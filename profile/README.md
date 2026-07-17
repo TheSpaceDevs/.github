@@ -96,6 +96,8 @@ This first launch will carry 4 payloads:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/" >🔗</a> **[Arstechnica]** Will Russia's answer to the Falcon 9 rocket ever take flight?
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/ESA_Academy_s_Navigation_Training_Course" >🔗</a> **[ESA]** ESA Academy’s Navigation Training Course
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Mauritius as 70th Artemis Accords Signatory
 - <a href="https://europeanspaceflight.com/arianespace-ceo-urges-the-eu-to-procure-large-blocks-of-ariane-6-flights/" >🔗</a> **[European Spaceflight]** Arianespace CEO Urges the EU to Procure Large Blocks of Ariane 6 Flights
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_13-17_July_2026" >🔗</a> **[ESA]** Week in images: 13-17 July 2026
@@ -104,8 +106,6 @@ This first launch will carry 4 payloads:
 - <a href="https://spacenews.com/serbia-signs-the-artemis-accords/" >🔗</a> **[SpaceNews]** Serbia signs the Artemis Accords
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/European_Service_Module_team_meets_Artemis_II_crew" >🔗</a> **[ESA]** European Service Module team meets Artemis II crew
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Guinea-Bissau" >🔗</a> **[ESA]** Earth from Space: Guinea-Bissau
-- <a href="https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/" >🔗</a> **[NASA]** A Tide-Fueled Trove of Biodiversity in Guinea-Bissau
-- <a href="https://spacepolicyonline.com/news/no-go-for-starship-today-next-try-maybe-next-week/" >🔗</a> **[SpacePolicyOnline.com]** No-Go For Starship Today, Next Try Maybe Next Week
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ This first launch will carry 4 payloads:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260717T164927">2026-07-17 16:49:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260717T172247">2026-07-17 17:22:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
