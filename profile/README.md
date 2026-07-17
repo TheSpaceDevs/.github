@@ -96,6 +96,7 @@ This first launch will carry 4 payloads:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/" >🔗</a> **[SpaceNews]** SpaceX aborts Starship Flight 13 launch attempt
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-serbia-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Serbia as Newest Artemis Accords Signatory
 - <a href="https://spacepolicyonline.com/news/russia-agrees-to-iss-operations-seat-swaps-through-2030/" >🔗</a> **[SpacePolicyOnline.com]** Russia Agrees to ISS Operations, Seat-Swaps, Through 2030
 - <a href="https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/" >🔗</a> **[SpaceNews]** SpaceX launches 21 satellites for military data network
@@ -105,7 +106,6 @@ This first launch will carry 4 payloads:
 - <a href="https://spacenews.com/building-the-infrastructure-for-a-shifting-space-economy-with-massi-ladovaz/" >🔗</a> **[SpaceNews]** Building the infrastructure for a shifting space economy with Massi Ladovaz
 - <a href="https://spacenews.com/trumps-pick-to-lead-space-force-defends-plan-to-more-than-double-budget/" >🔗</a> **[SpaceNews]** Trump’s pick to lead Space Force defends plan to more than double budget
 - <a href="https://europeanspaceflight.com/esa-selects-ariane-6-to-launch-deep-space-cubesat/" >🔗</a> **[European Spaceflight]** ESA Selects Ariane 6 to Launch Deep Space CubeSat
-- <a href="https://www.nasa.gov/image-article/young-galaxy-cluster/" >🔗</a> **[NASA]** Young Galaxy Cluster
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ This first launch will carry 4 payloads:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260717T002022">2026-07-17 00:20:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260717T005855">2026-07-17 00:58:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
