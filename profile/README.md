@@ -96,6 +96,8 @@ This first launch will carry 4 payloads:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/" >🔗</a> **[NASA]** NASA’s Chandra and IXPE Study Pulsar in Lighthouse Nebula
+- <a href="https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/" >🔗</a> **[NASA]** La NASA invita a los medios de comunicación al lanzamiento del telescopio espacial Roman
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/" >🔗</a> **[NASA]** NASA Invites Media to Roman Space Telescope, Crew-13 Launches
 - <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/" >🔗</a> **[NASA]** NASA’s Psyche Mission Images Details of Martian Surface During Flyby
 - <a href="https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/" >🔗</a> **[Arstechnica]** Will Russia's answer to the Falcon 9 rocket ever take flight?
@@ -104,8 +106,6 @@ This first launch will carry 4 payloads:
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Mauritius as 70th Artemis Accords Signatory
 - <a href="https://europeanspaceflight.com/arianespace-ceo-urges-the-eu-to-procure-large-blocks-of-ariane-6-flights/" >🔗</a> **[European Spaceflight]** Arianespace CEO Urges the EU to Procure Large Blocks of Ariane 6 Flights
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_13-17_July_2026" >🔗</a> **[ESA]** Week in images: 13-17 July 2026
-- <a href="https://spacenews.com/spacexs-only-problem-is-finding-more-space-to-work-with/" >🔗</a> **[SpaceNews]** SpaceX’s only problem is finding more space to work with
-- <a href="https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/" >🔗</a> **[Arstechnica]** Rocket Report: India's Vikram-1 nears debut flight; AST to become rocket company?
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ This first launch will carry 4 payloads:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260717T194943">2026-07-17 19:49:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260717T201713">2026-07-17 20:17:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
