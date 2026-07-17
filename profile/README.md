@@ -53,7 +53,7 @@ This first launch will carry 4 payloads:
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260718T050000">2026-07-18 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vikram-I | Demo Flight&location=Satish Dhawan Space Centre, India&dates=20260718T050000Z%2F20260718T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vikram-I | Demo Flight** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260720T140000">2026-07-20 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-39&location=Vandenberg SFB, CA, USA&dates=20260720T140000Z%2F20260720T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-39** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260720T224500">2026-07-20 22:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 13&location=SpaceX Starbase, TX, USA&dates=20260720T224500Z%2F20260721T001500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 13** from SpaceX Starbase, TX, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260720T224500">2026-07-20 22:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 13&location=SpaceX Starbase, TX, USA&dates=20260720T224500Z%2F20260721T001500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 13** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T211500">2026-07-21 21:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | MRV-1&location=Cape Canaveral SFS, FL, USA&dates=20260721T211500Z%2F20260722T010400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | MRV-1** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260722T024400">2026-07-22 02:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Gravity-1 | Unknown Payload&location=Haiyang Oriental Spaceport&dates=20260722T024400Z%2F20260722T030900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Gravity-1 | Unknown Payload** from Haiyang Oriental Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260723T115200">2026-07-23 11:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20260723T115200Z%2F20260723T125400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
@@ -96,6 +96,8 @@ This first launch will carry 4 payloads:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Mauritius as 70th Artemis Accords Signatory
+- <a href="https://europeanspaceflight.com/arianespace-ceo-urges-the-eu-to-procure-large-blocks-of-ariane-6-flights/" >🔗</a> **[European Spaceflight]** Arianespace CEO Urges the EU to Procure Large Blocks of Ariane 6 Flights
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_13-17_July_2026" >🔗</a> **[ESA]** Week in images: 13-17 July 2026
 - <a href="https://spacenews.com/spacexs-only-problem-is-finding-more-space-to-work-with/" >🔗</a> **[SpaceNews]** SpaceX’s only problem is finding more space to work with
 - <a href="https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/" >🔗</a> **[Arstechnica]** Rocket Report: India's Vikram-1 nears debut flight; AST to become rocket company?
@@ -104,8 +106,6 @@ This first launch will carry 4 payloads:
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Guinea-Bissau" >🔗</a> **[ESA]** Earth from Space: Guinea-Bissau
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/" >🔗</a> **[NASA]** A Tide-Fueled Trove of Biodiversity in Guinea-Bissau
 - <a href="https://spacepolicyonline.com/news/no-go-for-starship-today-next-try-maybe-next-week/" >🔗</a> **[SpacePolicyOnline.com]** No-Go For Starship Today, Next Try Maybe Next Week
-- <a href="https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/" >🔗</a> **[SpaceNews]** SpaceX aborts Starship Flight 13 launch attempt
-- <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-serbia-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Serbia as Newest Artemis Accords Signatory
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ This first launch will carry 4 payloads:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260717T140745">2026-07-17 14:07:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260717T145744">2026-07-17 14:57:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
