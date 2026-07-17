@@ -96,6 +96,8 @@ This first launch will carry 4 payloads:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/" >🔗</a> **[Arstechnica]** Rocket Report: India's Vikram-1 nears debut flight; AST to become rocket company?
+- <a href="https://spacenews.com/serbia-signs-the-artemis-accords/" >🔗</a> **[SpaceNews]** Serbia signs the Artemis Accords
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/European_Service_Module_team_meets_Artemis_II_crew" >🔗</a> **[ESA]** European Service Module team meets Artemis II crew
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Guinea-Bissau" >🔗</a> **[ESA]** Earth from Space: Guinea-Bissau
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/" >🔗</a> **[NASA]** A Tide-Fueled Trove of Biodiversity in Guinea-Bissau
@@ -104,8 +106,6 @@ This first launch will carry 4 payloads:
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-serbia-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Serbia as Newest Artemis Accords Signatory
 - <a href="https://spacepolicyonline.com/news/russia-agrees-to-iss-operations-seat-swaps-through-2030/" >🔗</a> **[SpacePolicyOnline.com]** Russia Agrees to ISS Operations, Seat-Swaps, Through 2030
 - <a href="https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/" >🔗</a> **[SpaceNews]** SpaceX launches 21 satellites for military data network
-- <a href="https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/" >🔗</a> **[SpaceNews]** Nature study identifies a new way to spot nuclear weapons in orbit
-- <a href="https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/" >🔗</a> **[NASA]** NASA Study Finds Near-Earth Asteroid Is Actually Comet
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ This first launch will carry 4 payloads:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260717T110041">2026-07-17 11:00:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260717T115423">2026-07-17 11:54:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
