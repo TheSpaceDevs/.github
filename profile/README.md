@@ -96,6 +96,7 @@ This first launch will carry 4 payloads:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Guinea-Bissau" >🔗</a> **[ESA]** Earth from Space: Guinea-Bissau
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/" >🔗</a> **[NASA]** A Tide-Fueled Trove of Biodiversity in Guinea-Bissau
 - <a href="https://spacepolicyonline.com/news/no-go-for-starship-today-next-try-maybe-next-week/" >🔗</a> **[SpacePolicyOnline.com]** No-Go For Starship Today, Next Try Maybe Next Week
 - <a href="https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/" >🔗</a> **[SpaceNews]** SpaceX aborts Starship Flight 13 launch attempt
@@ -105,7 +106,6 @@ This first launch will carry 4 payloads:
 - <a href="https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/" >🔗</a> **[SpaceNews]** Nature study identifies a new way to spot nuclear weapons in orbit
 - <a href="https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/" >🔗</a> **[NASA]** NASA Study Finds Near-Earth Asteroid Is Actually Comet
 - <a href="https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/" >🔗</a> **[SpaceNews]** Defense Innovation Unit seeks commercial path to deliver electrical power from orbit
-- <a href="https://spacenews.com/building-the-infrastructure-for-a-shifting-space-economy-with-massi-ladovaz/" >🔗</a> **[SpaceNews]** Building the infrastructure for a shifting space economy with Massi Ladovaz
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ This first launch will carry 4 payloads:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260717T081304">2026-07-17 08:13:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260717T091230">2026-07-17 09:12:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
