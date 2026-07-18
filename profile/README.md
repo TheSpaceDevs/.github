@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/" >🔗</a> **[SpaceNews]** Skyroot Aerospace reaches orbit on first Vikram-1 launch
 - <a href="https://spacenews.com/nasa-terminates-draper-lunar-lander-mission/" >🔗</a> **[SpaceNews]** NASA terminates Draper lunar lander mission
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/" >🔗</a> **[NASA]** NASA Pushes New Wing Design to Find Structural Limits
 - <a href="https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/" >🔗</a> **[NASA]** The Growing Crescent of Mars as NASA’s Psyche Mission Approaches
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/" >🔗</a> **[NASA]** NASA’s Chandra and IXPE Study Pulsar in Lighthouse Nebula
 - <a href="https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/" >🔗</a> **[NASA]** La NASA invita a los medios de comunicación al lanzamiento del telescopio espacial Roman
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/" >🔗</a> **[NASA]** NASA Invites Media to Roman Space Telescope, Crew-13 Launches
-- <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/" >🔗</a> **[NASA]** NASA’s Psyche Mission Images Details of Martian Surface During Flyby
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260718T080655">2026-07-18 08:06:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260718T090221">2026-07-18 09:02:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
