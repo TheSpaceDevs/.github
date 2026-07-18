@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/mauritius-becomes-70th-nation-to-sign-the-artemis-accords/" >🔗</a> **[SpaceNews]** Mauritius becomes 70th nation to sign the Artemis Accords
+- <a href="https://spacenews.com/space-force-triples-launch-contract-ceiling-amid-rising-demand/" >🔗</a> **[SpaceNews]** Space Force triples launch contract ceiling amid rising demand
 - <a href="https://spacenews.com/pentagon-awards-7-1-million-to-expand-u-s-production-of-cover-glass-for-satellites/" >🔗</a> **[SpaceNews]** Pentagon awards $7.1 million to expand U.S. production of cover glass for satellites
 - <a href="https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/" >🔗</a> **[SpaceNews]** Skyroot Aerospace reaches orbit on first Vikram-1 launch
 - <a href="https://spacenews.com/nasa-terminates-draper-lunar-lander-mission/" >🔗</a> **[SpaceNews]** NASA terminates Draper lunar lander mission
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/serbia-mauritius-bring-artemis-accords-to-70/" >🔗</a> **[SpacePolicyOnline.com]** Serbia, Mauritius Bring Artemis Accords to 70
 - <a href="https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/" >🔗</a> **[NASA]** Establishing a VTE Risk Score for Astronauts Algorithm
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/" >🔗</a> **[NASA]** NASA Awards Facilities Support Services Contract for Ames Research Center
-- <a href="https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/" >🔗</a> **[NASA]** NASA’s Chandra and IXPE Study Pulsar in Lighthouse Nebula
-- <a href="https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/" >🔗</a> **[NASA]** La NASA invita a los medios de comunicación al lanzamiento del telescopio espacial Roman
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260718T174544">2026-07-18 17:45:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260718T181501">2026-07-18 18:15:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
