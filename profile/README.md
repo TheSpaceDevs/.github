@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-19-26-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 19-26, 2026
 - <a href="https://spacenews.com/mauritius-becomes-70th-nation-to-sign-the-artemis-accords/" >🔗</a> **[SpaceNews]** Mauritius becomes 70th nation to sign the Artemis Accords
 - <a href="https://spacenews.com/space-force-triples-launch-contract-ceiling-amid-rising-demand/" >🔗</a> **[SpaceNews]** Space Force triples launch contract ceiling amid rising demand
 - <a href="https://spacenews.com/pentagon-awards-7-1-million-to-expand-u-s-production-of-cover-glass-for-satellites/" >🔗</a> **[SpaceNews]** Pentagon awards $7.1 million to expand U.S. production of cover glass for satellites
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/" >🔗</a> **[NASA]** The Growing Crescent of Mars as NASA’s Psyche Mission Approaches
 - <a href="https://spacepolicyonline.com/news/serbia-mauritius-bring-artemis-accords-to-70/" >🔗</a> **[SpacePolicyOnline.com]** Serbia, Mauritius Bring Artemis Accords to 70
 - <a href="https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/" >🔗</a> **[NASA]** Establishing a VTE Risk Score for Astronauts Algorithm
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/" >🔗</a> **[NASA]** NASA Awards Facilities Support Services Contract for Ames Research Center
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260719T214434">2026-07-19 21:44:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260719T221501">2026-07-19 22:15:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
