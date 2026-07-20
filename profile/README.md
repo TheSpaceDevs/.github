@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/pipelines-to-payloads-risk-management-lessons-for-the-space-economy/" >🔗</a> **[SpaceNews]** Pipelines to payloads: risk management lessons for the space economy
 - <a href="https://spaceflightnow.com/2026/07/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Plato_s_electronics_ready_for_space" >🔗</a> **[ESA]** Plato's electronics ready for space
 - <a href="https://spacenews.com/ai-rocket-engine-startup-legendspace-raises-29-5-million-angel-round/" >🔗</a> **[SpaceNews]** AI rocket engine startup LegendSpace raises $29.5 million angel round
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/Artemis_II_crew_at_ESTEC" >🔗</a> **[ESA]** Artemis II crew at ESTEC
 - <a href="https://www.esa.int/Applications/Satellite_navigation/From_system_to_signal_at_ESA_s_Navigation_Training_Course" >🔗</a> **[ESA]** From system to signal at ESA’s Navigation Training Course
+- <a href="https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/" >🔗</a> **[NASA]** Shaping the Emerald City
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-19-26-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 19-26, 2026
 - <a href="https://spacenews.com/mauritius-becomes-70th-nation-to-sign-the-artemis-accords/" >🔗</a> **[SpaceNews]** Mauritius becomes 70th nation to sign the Artemis Accords
 - <a href="https://spacenews.com/space-force-triples-launch-contract-ceiling-amid-rising-demand/" >🔗</a> **[SpaceNews]** Space Force triples launch contract ceiling amid rising demand
-- <a href="https://spacenews.com/pentagon-awards-7-1-million-to-expand-u-s-production-of-cover-glass-for-satellites/" >🔗</a> **[SpaceNews]** Pentagon awards $7.1 million to expand U.S. production of cover glass for satellites
-- <a href="https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/" >🔗</a> **[SpaceNews]** Skyroot Aerospace reaches orbit on first Vikram-1 launch
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260720T124244">2026-07-20 12:42:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260720T133127">2026-07-20 13:31:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
