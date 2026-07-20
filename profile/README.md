@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/" >🔗</a> **[NASA]** From Hampton to Mars: How NASA Langley Helped Land on the Red Planet
+- <a href="https://www.nasa.gov/image-article/our-first-view-of-the-surface-of-mars/" >🔗</a> **[NASA]** Our First View of the Surface of Mars
 - <a href="https://europeanspaceflight.com/uk-misses-deadline-to-award-contract-for-space-debris-removal-mission/" >🔗</a> **[European Spaceflight]** UK Misses Deadline to Award Contract for Space Debris Removal Mission
 - <a href="https://spacenews.com/pipelines-to-payloads-risk-management-lessons-for-the-space-economy/" >🔗</a> **[SpaceNews]** Pipelines to payloads: risk management lessons for the space economy
 - <a href="https://spaceflightnow.com/2026/07/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/Artemis_II_crew_at_ESTEC" >🔗</a> **[ESA]** Artemis II crew at ESTEC
 - <a href="https://www.esa.int/Applications/Satellite_navigation/From_system_to_signal_at_ESA_s_Navigation_Training_Course" >🔗</a> **[ESA]** From system to signal at ESA’s Navigation Training Course
 - <a href="https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/" >🔗</a> **[NASA]** Shaping the Emerald City
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-19-26-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 19-26, 2026
-- <a href="https://spacenews.com/mauritius-becomes-70th-nation-to-sign-the-artemis-accords/" >🔗</a> **[SpaceNews]** Mauritius becomes 70th nation to sign the Artemis Accords
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260720T153347">2026-07-20 15:33:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260720T162743">2026-07-20 16:27:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
