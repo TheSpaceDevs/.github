@@ -90,7 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ai-rocket-engine-startup-legendspace-raises-29-5-million-angel-round/" >🔗</a> **[SpaceNews]** AI rocket engine startup LegendSpace raises $29.5 million angel round
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/Artemis_II_crew_at_ESTEC" >🔗</a> **[ESA]** Artemis II crew at ESTEC
+- <a href="https://www.esa.int/Applications/Satellite_navigation/From_system_to_signal_at_ESA_s_Navigation_Training_Course" >🔗</a> **[ESA]** From system to signal at ESA’s Navigation Training Course
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-19-26-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 19-26, 2026
 - <a href="https://spacenews.com/mauritius-becomes-70th-nation-to-sign-the-artemis-accords/" >🔗</a> **[SpaceNews]** Mauritius becomes 70th nation to sign the Artemis Accords
 - <a href="https://spacenews.com/space-force-triples-launch-contract-ceiling-amid-rising-demand/" >🔗</a> **[SpaceNews]** Space Force triples launch contract ceiling amid rising demand
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/" >🔗</a> **[SpaceNews]** Skyroot Aerospace reaches orbit on first Vikram-1 launch
 - <a href="https://spacenews.com/nasa-terminates-draper-lunar-lander-mission/" >🔗</a> **[SpaceNews]** NASA terminates Draper lunar lander mission
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/" >🔗</a> **[NASA]** NASA Pushes New Wing Design to Find Structural Limits
-- <a href="https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/" >🔗</a> **[NASA]** The Growing Crescent of Mars as NASA’s Psyche Mission Approaches
-- <a href="https://spacepolicyonline.com/news/serbia-mauritius-bring-artemis-accords-to-70/" >🔗</a> **[SpacePolicyOnline.com]** Serbia, Mauritius Bring Artemis Accords to 70
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260720T105804">2026-07-20 10:58:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260720T115624">2026-07-20 11:56:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
