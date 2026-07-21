@@ -19,27 +19,29 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 17-39**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | MRV-1**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T140000">2026-07-21 14:00:00 UTC</a>.  Until
-then, this pad will have been used for 283
-out of 899 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T211500">2026-07-21 21:15:00 UTC</a>.  Until
+then, this pad will have been used for 393
+out of 1121 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Mission Extension* and the payload will be injected
+into *a Geostationary Transfer Orbit
+(GTO)*.
 <br>
 <blockquote>
-  A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  The Northrop Grumman/SpaceLogistics MRV-1 is a mission extension payload including a mission robotic vehicle (MRV) and multiple mission extension pods (MEPs). The MRV is designed to attach up to 30 MEPs (Mission Extension Pods) to various satellites in GEO over the course of its life, and the MEPs (Mission Extension Pods) are 400 kg spacecraft designed to be captured by the MRV and then attached to a customer's satellite. A single MEP can extend a 2000 kg satellite's service life by up to 6 years. 
+
+For this mission, 2 of the MEP's will service satellites for Intelsat, while the third will service a satellite for Optus.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +56,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T020000">2026-07-29 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-52&location=Vandenberg SFB, CA, USA&dates=20260729T020000Z%2F20260729T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-52** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T114200">2026-07-29 11:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260729T114200Z%2F20260729T133900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260730T063700">2026-07-30 06:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-95&location=Cape Canaveral SFS, FL, USA&dates=20260730T063700Z%2F20260730T080400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-95** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T000000">2026-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | LOXSAT 1&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260731T000000Z%2F20260731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | LOXSAT 1** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +92,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/psyche-approaches-mars/" >🔗</a> **[NASA]** Psyche Approaches Mars
 - <a href="https://www.nasa.gov/general/establishing-crew-exposure-limits-of-martian-dust/" >🔗</a> **[NASA]** Establishing Crew Exposure Limits of Martian Dust
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-compact-instrument-enables-high-fidelity-measurements-of-energetic-particles-on-cubesats/" >🔗</a> **[NASA]** A New Compact Instrument Enables High-Fidelity Measurements of Energetic Particles on CubeSats
 - <a href="https://spacenews.com/uk-and-florida-commit-400000-to-joint-space-projects/" >🔗</a> **[SpaceNews]** UK and Florida commit $400,000 to joint space projects
@@ -98,18 +102,19 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/agile-space-industries-appoints-new-cto-and-board-member/" >🔗</a> **[SpaceNews]** Agile Space Industries Appoints new CTO and Board member.
 - <a href="https://spaceflightnow.com/2026/07/21/live-coverage-spacex-tries-again-to-launch-starlink-mission-from-california-following-abort/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX tries again to launch Starlink mission from California following abort
 - <a href="https://spacenews.com/kbr-organizes-defense-technology-business-to-pursue-golden-dome-work/" >🔗</a> **[SpaceNews]** KBR organizes defense technology business to pursue Golden Dome work
-- <a href="https://spacenews.com/ihi-explores-kuva-hyperspectral-satellites-for-japans-multi-sensor-constellation/" >🔗</a> **[SpaceNews]** IHI explores Kuva hyperspectral satellites for Japan’s multi-sensor constellation
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2026/07/21/live-coverage-spacex-to-launch-novel-geosynchronous-robotic-servicing-satellite-on-decade-long-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch novel geosynchronous robotic servicing satellite on decade-long mission
 - <a href="https://www.nasaspaceflight.com/2026/07/launch-preview-072026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch
-- <a href="https://spaceflightnow.com/2026/07/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
+- <a href="https://spacenews.com/northrop-grumman-eyes-2026-launch-of-robot-armed-satellite-servicer/" >🔗</a> **[SpaceNews]** Northrop Grumman eyes 2026 launch of robot-armed satellite servicer
+- <a href="https://spacenews.com/on-orbit-servicing-mission-planned-for-military-satellite-in-2025/" >🔗</a> **[SpaceNews]** On-orbit servicing mission planned for military satellite in 2025
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T141201">2026-07-21 14:12:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T151118">2026-07-21 15:11:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
