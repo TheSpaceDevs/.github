@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kbr-organizes-defense-technology-business-to-pursue-golden-dome-work/" >🔗</a> **[SpaceNews]** KBR organizes defense technology business to pursue Golden Dome work
 - <a href="https://spacenews.com/ihi-explores-kuva-hyperspectral-satellites-for-japans-multi-sensor-constellation/" >🔗</a> **[SpaceNews]** IHI explores Kuva hyperspectral satellites for Japan’s multi-sensor constellation
 - <a href="https://spacenews.com/italian-startup-oris-raises-funding-for-laser-power-beaming-technology/" >🔗</a> **[SpaceNews]** Italian startup ORiS raises funding for laser power-beaming technology
 - <a href="https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/" >🔗</a> **[NASA]** Why Maine’s Sandy Shorelines Turn Jagged
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/aeronautics/electrified-aircraft-propulsion/nasa-ge-hybrid-electric-flight/" >🔗</a> **[NASA]** NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration
 - <a href="https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/" >🔗</a> **[NASA]** NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration
 - <a href="https://science.nasa.gov/earth/new-nasa-earth-missions-gear-up-to-start-science-flights/" >🔗</a> **[NASA]** New NASA Earth Missions Gear Up to Start Science Flights
-- <a href="https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/" >🔗</a> **[NASA]** From Hampton to Mars: How NASA Langley Helped Land on the Red Planet
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T094711">2026-07-21 09:47:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T104016">2026-07-21 10:40:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
