@@ -96,8 +96,8 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/07/launch-preview-072026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch
 - <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/" >🔗</a> **[NASA]** NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station
 - <a href="https://www.nasaspaceflight.com/2026/07/making-progress-terran-r-neutron-miura/" >🔗</a> **[NASASpaceflight]** Making Progress: Relativity’s Terran R, Rocket Lab’s Neutron, and PLD Space’s Miura 5
-- <a href="https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/" >🔗</a> **[NASA]** NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration
 - <a href="https://www.nasa.gov/aeronautics/electrified-aircraft-propulsion/nasa-ge-hybrid-electric-flight/" >🔗</a> **[NASA]** NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration
+- <a href="https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/" >🔗</a> **[NASA]** NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration
 - <a href="https://science.nasa.gov/earth/new-nasa-earth-missions-gear-up-to-start-science-flights/" >🔗</a> **[NASA]** New NASA Earth Missions Gear Up to Start Science Flights
 - <a href="https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/" >🔗</a> **[NASA]** From Hampton to Mars: How NASA Langley Helped Land on the Red Planet
 
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T085001">2026-07-21 08:50:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T094711">2026-07-21 09:47:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
