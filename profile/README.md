@@ -92,16 +92,16 @@ For this mission, 2 of the MEP's will service satellites for Intelsat, while the
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasa.gov/image-article/psyche-approaches-mars/" >🔗</a> **[NASA]** Psyche Approaches Mars
-- <a href="https://www.nasa.gov/general/establishing-crew-exposure-limits-of-martian-dust/" >🔗</a> **[NASA]** Establishing Crew Exposure Limits of Martian Dust
-- <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-compact-instrument-enables-high-fidelity-measurements-of-energetic-particles-on-cubesats/" >🔗</a> **[NASA]** A New Compact Instrument Enables High-Fidelity Measurements of Energetic Particles on CubeSats
-- <a href="https://spacenews.com/uk-and-florida-commit-400000-to-joint-space-projects/" >🔗</a> **[SpaceNews]** UK and Florida commit $400,000 to joint space projects
-- <a href="https://spacenews.com/german-component-supplier-deltavision-raises-10-2-million-euros/" >🔗</a> **[SpaceNews]** German component supplier deltaVision raises 10.2 million euros
-- <a href="https://spaceflightnow.com/2026/07/21/live-coverage-spacex-to-launch-novel-geosynchronous-robotic-servicing-satellite-on-decade-long-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch novel geosynchronous robotic servicing satellite on decade-long mission
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/ExoMars_ramps_put_up_with_cold_shaking_and_vacuum" >🔗</a> **[ESA]** ExoMars ramps put up with cold, shaking and vacuum
-- <a href="https://spacenews.com/agile-space-industries-appoints-new-cto-and-board-member/" >🔗</a> **[SpaceNews]** Agile Space Industries Appoints new CTO and Board member.
-- <a href="https://spaceflightnow.com/2026/07/21/live-coverage-spacex-tries-again-to-launch-starlink-mission-from-california-following-abort/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX tries again to launch Starlink mission from California following abort
-- <a href="https://spacenews.com/kbr-organizes-defense-technology-business-to-pursue-golden-dome-work/" >🔗</a> **[SpaceNews]** KBR organizes defense technology business to pursue Golden Dome work
+- <a href="https://europeanspaceflight.com/poland-boosts-its-contribution-to-europes-iris2-constellation-to-e656m/" >🔗</a> **[European Spaceflight]** Poland Boosts Its Contribution to Europe’s IRIS2 Constellation to €656M
+- <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/niac-2026-selections/" >🔗</a> **[NASA]** NIAC 2026 Selections
+- <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/" >🔗</a> **[NASA]** Precision Astrometry Using Optically Independent Spacecraft for Graviational Wave Detection
+- <a href="https://www.nasa.gov/directorates/stmd/mapping-alien-continents-achieving-optical-vlbi-for-exoplanet-imaging/" >🔗</a> **[NASA]** Mapping Alien Continents: Achieving Optical VLBI for Exoplanet Imaging
+- <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/interworld-slingshot-resource-surveys/" >🔗</a> **[NASA]** Interworld Slingshot Resource Surveys
+- <a href="https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/" >🔗</a> **[NASA]** Robotically Assembled Electromagnetic Metamaterials for Long-Range Space Situational Awareness
+- <a href="https://www.nasa.gov/directorates/stmd/photophoretic-tracers-for-near-space-remote-sensing-at-30-100-km-altitudes/" >🔗</a> **[NASA]** Photophoretic tracers for near-space remote sensing at 30-100 km altitudes
+- <a href="https://www.nasa.gov/directorates/stmd/niac/actively-steerable-femtosat-constellations-for-in-situ-exploration-of-saturns-rings-atmosphere-and-magnetosphere/" >🔗</a> **[NASA]** Actively Steerable Femtosat Constellations for In-situ Exploration of Saturn’s Rings, Atmosphere, and Magnetosphere
+- <a href="https://www.nasa.gov/directorates/stmd/niac/praxis-planetary-rings-autonomous-exploration-with-in-situ-sampling/" >🔗</a> **[NASA]** PRAXIS: Planetary Rings Autonomous EXploration with In-situ Sampling
+- <a href="https://www.nasa.gov/directorates/stmd/niac/eclipse-efficient-variable-conductivity-lunar-insulator-for-passive-surveyor-environmental-control/" >🔗</a> **[NASA]** ECLIPSE – Efficient variable Conductivity Lunar Insulator for Passive Surveyor Environmental control
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ For this mission, 2 of the MEP's will service satellites for Intelsat, while the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T151118">2026-07-21 15:11:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T155926">2026-07-21 15:59:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
