@@ -92,6 +92,8 @@ For this mission, 2 of the MEP's will service satellites for Intelsat, while the
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-three-new-associate-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes Three New Associate Members
+- <a href="https://www.nasaspaceflight.com/2026/07/mrv-1-launch/" >🔗</a> **[NASASpaceflight]** Falcon 9 to launch MRV-1 robotic servicing spacecraft for Northrop Grumman
 - <a href="https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/" >🔗</a> **[NASA]** US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica
 - <a href="https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/" >🔗</a> **[NASA]** NASA Langley Celebrates Community through Music with ‘Symphony Under the Stars’ Event
 - <a href="https://europeanspaceflight.com/poland-boosts-its-contribution-to-europes-iris2-constellation-to-e656m/" >🔗</a> **[European Spaceflight]** Poland Boosts Its Contribution to Europe’s IRIS2 Constellation to €656M
@@ -100,8 +102,6 @@ For this mission, 2 of the MEP's will service satellites for Intelsat, while the
 - <a href="https://www.nasa.gov/directorates/stmd/mapping-alien-continents-achieving-optical-vlbi-for-exoplanet-imaging/" >🔗</a> **[NASA]** Mapping Alien Continents: Achieving Optical VLBI for Exoplanet Imaging
 - <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/interworld-slingshot-resource-surveys/" >🔗</a> **[NASA]** Interworld Slingshot Resource Surveys
 - <a href="https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/" >🔗</a> **[NASA]** Robotically Assembled Electromagnetic Metamaterials for Long-Range Space Situational Awareness
-- <a href="https://www.nasa.gov/directorates/stmd/photophoretic-tracers-for-near-space-remote-sensing-at-30-100-km-altitudes/" >🔗</a> **[NASA]** Photophoretic tracers for near-space remote sensing at 30-100 km altitudes
-- <a href="https://www.nasa.gov/directorates/stmd/niac/actively-steerable-femtosat-constellations-for-in-situ-exploration-of-saturns-rings-atmosphere-and-magnetosphere/" >🔗</a> **[NASA]** Actively Steerable Femtosat Constellations for In-situ Exploration of Saturn’s Rings, Atmosphere, and Magnetosphere
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ For this mission, 2 of the MEP's will service satellites for Intelsat, while the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T185518">2026-07-21 18:55:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T192815">2026-07-21 19:28:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
