@@ -92,6 +92,7 @@ For this mission, 2 of the MEP's will service satellites for Intelsat, while the
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/northrop-adds-to-charges-on-vulcan-solid-rocket-motor-program/" >🔗</a> **[SpaceNews]** Northrop adds to charges on Vulcan solid rocket motor program
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-three-new-associate-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes Three New Associate Members
 - <a href="https://www.nasaspaceflight.com/2026/07/mrv-1-launch/" >🔗</a> **[NASASpaceflight]** Falcon 9 to launch MRV-1 robotic servicing spacecraft for Northrop Grumman
 - <a href="https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/" >🔗</a> **[NASA]** US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica
@@ -101,7 +102,6 @@ For this mission, 2 of the MEP's will service satellites for Intelsat, while the
 - <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/" >🔗</a> **[NASA]** Precision Astrometry Using Optically Independent Spacecraft for Graviational Wave Detection
 - <a href="https://www.nasa.gov/directorates/stmd/mapping-alien-continents-achieving-optical-vlbi-for-exoplanet-imaging/" >🔗</a> **[NASA]** Mapping Alien Continents: Achieving Optical VLBI for Exoplanet Imaging
 - <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/interworld-slingshot-resource-surveys/" >🔗</a> **[NASA]** Interworld Slingshot Resource Surveys
-- <a href="https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/" >🔗</a> **[NASA]** Robotically Assembled Electromagnetic Metamaterials for Long-Range Space Situational Awareness
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ For this mission, 2 of the MEP's will service satellites for Intelsat, while the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T192815">2026-07-21 19:28:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T200146">2026-07-21 20:01:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
