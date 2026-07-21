@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/uk-and-florida-commit-400000-to-joint-space-projects/" >🔗</a> **[SpaceNews]** UK and Florida commit $400,000 to joint space projects
+- <a href="https://spacenews.com/german-component-supplier-deltavision-raises-10-2-million-euros/" >🔗</a> **[SpaceNews]** German component supplier deltaVision raises 10.2 million euros
+- <a href="https://spaceflightnow.com/2026/07/21/live-coverage-spacex-to-launch-novel-geosynchronous-robotic-servicing-satellite-on-decade-long-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch novel geosynchronous robotic servicing satellite on decade-long mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/ExoMars_ramps_put_up_with_cold_shaking_and_vacuum" >🔗</a> **[ESA]** ExoMars ramps put up with cold, shaking and vacuum
 - <a href="https://spacenews.com/agile-space-industries-appoints-new-cto-and-board-member/" >🔗</a> **[SpaceNews]** Agile Space Industries Appoints new CTO and Board member.
 - <a href="https://spaceflightnow.com/2026/07/21/live-coverage-spacex-tries-again-to-launch-starlink-mission-from-california-following-abort/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX tries again to launch Starlink mission from California following abort
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ihi-explores-kuva-hyperspectral-satellites-for-japans-multi-sensor-constellation/" >🔗</a> **[SpaceNews]** IHI explores Kuva hyperspectral satellites for Japan’s multi-sensor constellation
 - <a href="https://spacenews.com/italian-startup-oris-raises-funding-for-laser-power-beaming-technology/" >🔗</a> **[SpaceNews]** Italian startup ORiS raises funding for laser power-beaming technology
 - <a href="https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/" >🔗</a> **[NASA]** Why Maine’s Sandy Shorelines Turn Jagged
-- <a href="https://www.nasaspaceflight.com/2026/07/launch-preview-072026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch
-- <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/" >🔗</a> **[NASA]** NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station
-- <a href="https://www.nasaspaceflight.com/2026/07/making-progress-terran-r-neutron-miura/" >🔗</a> **[NASASpaceflight]** Making Progress: Relativity’s Terran R, Rocket Lab’s Neutron, and PLD Space’s Miura 5
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T113240">2026-07-21 11:32:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T122829">2026-07-21 12:28:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
