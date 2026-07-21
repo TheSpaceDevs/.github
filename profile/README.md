@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T140000">2026-07-21 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-39&location=Vandenberg SFB, CA, USA&dates=20260721T140000Z%2F20260721T174700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-39** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T211500">2026-07-21 21:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | MRV-1&location=Cape Canaveral SFS, FL, USA&dates=20260721T211500Z%2F20260722T010400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | MRV-1** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260722T024400">2026-07-22 02:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Gravity-1 | Unknown Payload&location=Haiyang Oriental Spaceport&dates=20260722T024400Z%2F20260722T030900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Gravity-1 | Unknown Payload** from Haiyang Oriental Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260723T115200">2026-07-23 11:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20260723T115200Z%2F20260723T125400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
@@ -90,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/establishing-crew-exposure-limits-of-martian-dust/" >🔗</a> **[NASA]** Establishing Crew Exposure Limits of Martian Dust
+- <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-compact-instrument-enables-high-fidelity-measurements-of-energetic-particles-on-cubesats/" >🔗</a> **[NASA]** A New Compact Instrument Enables High-Fidelity Measurements of Energetic Particles on CubeSats
 - <a href="https://spacenews.com/uk-and-florida-commit-400000-to-joint-space-projects/" >🔗</a> **[SpaceNews]** UK and Florida commit $400,000 to joint space projects
 - <a href="https://spacenews.com/german-component-supplier-deltavision-raises-10-2-million-euros/" >🔗</a> **[SpaceNews]** German component supplier deltaVision raises 10.2 million euros
 - <a href="https://spaceflightnow.com/2026/07/21/live-coverage-spacex-to-launch-novel-geosynchronous-robotic-servicing-satellite-on-decade-long-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch novel geosynchronous robotic servicing satellite on decade-long mission
@@ -98,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/07/21/live-coverage-spacex-tries-again-to-launch-starlink-mission-from-california-following-abort/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX tries again to launch Starlink mission from California following abort
 - <a href="https://spacenews.com/kbr-organizes-defense-technology-business-to-pursue-golden-dome-work/" >🔗</a> **[SpaceNews]** KBR organizes defense technology business to pursue Golden Dome work
 - <a href="https://spacenews.com/ihi-explores-kuva-hyperspectral-satellites-for-japans-multi-sensor-constellation/" >🔗</a> **[SpaceNews]** IHI explores Kuva hyperspectral satellites for Japan’s multi-sensor constellation
-- <a href="https://spacenews.com/italian-startup-oris-raises-funding-for-laser-power-beaming-technology/" >🔗</a> **[SpaceNews]** Italian startup ORiS raises funding for laser power-beaming technology
-- <a href="https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/" >🔗</a> **[NASA]** Why Maine’s Sandy Shorelines Turn Jagged
 
 
 ### Launch-related News 🚀
@@ -110,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T130044">2026-07-21 13:00:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T141201">2026-07-21 14:12:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
