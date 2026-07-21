@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/italian-startup-oris-raises-funding-for-laser-power-beaming-technology/" >🔗</a> **[SpaceNews]** Italian startup ORiS raises funding for laser power-beaming technology
+- <a href="https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/" >🔗</a> **[NASA]** Why Maine’s Sandy Shorelines Turn Jagged
 - <a href="https://www.nasaspaceflight.com/2026/07/launch-preview-072026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch
 - <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/" >🔗</a> **[NASA]** NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station
 - <a href="https://www.nasaspaceflight.com/2026/07/making-progress-terran-r-neutron-miura/" >🔗</a> **[NASASpaceflight]** Making Progress: Relativity’s Terran R, Rocket Lab’s Neutron, and PLD Space’s Miura 5
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/new-nasa-earth-missions-gear-up-to-start-science-flights/" >🔗</a> **[NASA]** New NASA Earth Missions Gear Up to Start Science Flights
 - <a href="https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/" >🔗</a> **[NASA]** From Hampton to Mars: How NASA Langley Helped Land on the Red Planet
 - <a href="https://www.nasa.gov/image-article/our-first-view-of-the-surface-of-mars/" >🔗</a> **[NASA]** Our First View of the Surface of Mars
-- <a href="https://europeanspaceflight.com/uk-misses-deadline-to-award-contract-for-space-debris-removal-mission/" >🔗</a> **[European Spaceflight]** UK Misses Deadline to Award Contract for Space Debris Removal Mission
-- <a href="https://spacenews.com/pipelines-to-payloads-risk-management-lessons-for-the-space-economy/" >🔗</a> **[SpaceNews]** Pipelines to payloads: risk management lessons for the space economy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T040718">2026-07-21 04:07:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T053124">2026-07-21 05:31:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
