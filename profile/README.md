@@ -92,6 +92,8 @@ For this mission, 2 of the MEP's will service satellites for Intelsat, while the
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/" >🔗</a> **[NASA]** US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica
+- <a href="https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/" >🔗</a> **[NASA]** NASA Langley Celebrates Community through Music with ‘Symphony Under the Stars’ Event
 - <a href="https://europeanspaceflight.com/poland-boosts-its-contribution-to-europes-iris2-constellation-to-e656m/" >🔗</a> **[European Spaceflight]** Poland Boosts Its Contribution to Europe’s IRIS2 Constellation to €656M
 - <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/niac-2026-selections/" >🔗</a> **[NASA]** NIAC 2026 Selections
 - <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/" >🔗</a> **[NASA]** Precision Astrometry Using Optically Independent Spacecraft for Graviational Wave Detection
@@ -100,8 +102,6 @@ For this mission, 2 of the MEP's will service satellites for Intelsat, while the
 - <a href="https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/" >🔗</a> **[NASA]** Robotically Assembled Electromagnetic Metamaterials for Long-Range Space Situational Awareness
 - <a href="https://www.nasa.gov/directorates/stmd/photophoretic-tracers-for-near-space-remote-sensing-at-30-100-km-altitudes/" >🔗</a> **[NASA]** Photophoretic tracers for near-space remote sensing at 30-100 km altitudes
 - <a href="https://www.nasa.gov/directorates/stmd/niac/actively-steerable-femtosat-constellations-for-in-situ-exploration-of-saturns-rings-atmosphere-and-magnetosphere/" >🔗</a> **[NASA]** Actively Steerable Femtosat Constellations for In-situ Exploration of Saturn’s Rings, Atmosphere, and Magnetosphere
-- <a href="https://www.nasa.gov/directorates/stmd/niac/praxis-planetary-rings-autonomous-exploration-with-in-situ-sampling/" >🔗</a> **[NASA]** PRAXIS: Planetary Rings Autonomous EXploration with In-situ Sampling
-- <a href="https://www.nasa.gov/directorates/stmd/niac/eclipse-efficient-variable-conductivity-lunar-insulator-for-passive-surveyor-environmental-control/" >🔗</a> **[NASA]** ECLIPSE – Efficient variable Conductivity Lunar Insulator for Passive Surveyor Environmental control
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ For this mission, 2 of the MEP's will service satellites for Intelsat, while the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T175627">2026-07-21 17:56:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260721T182818">2026-07-21 18:28:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
