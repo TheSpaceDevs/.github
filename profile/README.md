@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/07/path-flight-13-attempt-2-test/" >🔗</a> **[NASASpaceflight]** Path to Starship Flight 13 requires additional Booster 20 test
+- <a href="https://www.nasa.gov/missions/juno/nasas-juno-takes-temperature-of-jupiters-fiery-moon-io/" >🔗</a> **[NASA]** NASA’s Juno Takes Temperature of Jupiter’s Fiery Moon Io
 - <a href="https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/" >🔗</a> **[NASA]** NASA Joins Genesis Mission to Accelerate AI-Driven Discovery
 - <a href="https://spacenews.com/vast-establishes-division-for-national-security-projects/" >🔗</a> **[SpaceNews]** Vast establishes division for national security projects
 - <a href="https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/" >🔗</a> **[SpaceNews]** The strategic competition with China: winning the multi-domain race
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/gravity-1-sea-launch-off-shanghai-puts-9-satellites-into-orbit/" >🔗</a> **[SpaceNews]** Gravity-1 sea launch off Shanghai puts 9 satellites into orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/" >🔗</a> **[NASA]** A Week of Smoky Skies Across North America
 - <a href="https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/" >🔗</a> **[NASA]** NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica
-- <a href="https://spacenews.com/zenno-astronautics-to-relocate-to-the-united-states/" >🔗</a> **[SpaceNews]** Zenno Astronautics to relocate to the United States
-- <a href="https://spacenews.com/spacex-launches-northrop-mission-to-extend-the-life-of-aging-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches Northrop mission to extend the life of aging satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260722T141237">2026-07-22 14:12:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260722T151012">2026-07-22 15:10:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
