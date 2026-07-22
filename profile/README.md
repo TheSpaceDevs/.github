@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/" >🔗</a> **[NASA]** NASA Joins Genesis Mission to Accelerate AI-Driven Discovery
+- <a href="https://spacenews.com/vast-establishes-division-for-national-security-projects/" >🔗</a> **[SpaceNews]** Vast establishes division for national security projects
+- <a href="https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/" >🔗</a> **[SpaceNews]** The strategic competition with China: winning the multi-domain race
 - <a href="https://spacenews.com/relativity-space-to-expand-terran-r-production-in-florida/" >🔗</a> **[SpaceNews]** Relativity Space to expand Terran R production in Florida
 - <a href="https://spacenews.com/artemis-2-astronaut-advocates-for-equatorial-lunar-landings/" >🔗</a> **[SpaceNews]** Artemis 2 astronaut advocates for equatorial lunar landings
 - <a href="https://spacenews.com/gravity-1-sea-launch-off-shanghai-puts-9-satellites-into-orbit/" >🔗</a> **[SpaceNews]** Gravity-1 sea launch off Shanghai puts 9 satellites into orbit
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/" >🔗</a> **[NASA]** NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica
 - <a href="https://spacenews.com/zenno-astronautics-to-relocate-to-the-united-states/" >🔗</a> **[SpaceNews]** Zenno Astronautics to relocate to the United States
 - <a href="https://spacenews.com/spacex-launches-northrop-mission-to-extend-the-life-of-aging-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches Northrop mission to extend the life of aging satellites
-- <a href="https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/" >🔗</a> **[NASA]** NASA to Host Media Briefing on Roman Telescope, Launching Next Month
-- <a href="https://spacenews.com/northrop-adds-to-charges-on-vulcan-solid-rocket-motor-program/" >🔗</a> **[SpaceNews]** Northrop adds to charges on Vulcan solid rocket motor program
-- <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-three-new-associate-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes Three New Associate Members
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260722T130255">2026-07-22 13:02:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260722T141237">2026-07-22 14:12:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
