@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/relativity-space-to-expand-terran-r-production-in-florida/" >🔗</a> **[SpaceNews]** Relativity Space to expand Terran R production in Florida
 - <a href="https://spacenews.com/artemis-2-astronaut-advocates-for-equatorial-lunar-landings/" >🔗</a> **[SpaceNews]** Artemis 2 astronaut advocates for equatorial lunar landings
 - <a href="https://spacenews.com/gravity-1-sea-launch-off-shanghai-puts-9-satellites-into-orbit/" >🔗</a> **[SpaceNews]** Gravity-1 sea launch off Shanghai puts 9 satellites into orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/" >🔗</a> **[NASA]** A Week of Smoky Skies Across North America
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/" >🔗</a> **[NASA]** NASA to Host Media Briefing on Roman Telescope, Launching Next Month
 - <a href="https://spacenews.com/northrop-adds-to-charges-on-vulcan-solid-rocket-motor-program/" >🔗</a> **[SpaceNews]** Northrop adds to charges on Vulcan solid rocket motor program
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-three-new-associate-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes Three New Associate Members
-- <a href="https://www.nasaspaceflight.com/2026/07/mrv-1-launch/" >🔗</a> **[NASASpaceflight]** Falcon 9 to launch MRV-1 robotic servicing spacecraft for Northrop Grumman
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260722T113249">2026-07-22 11:32:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260722T122858">2026-07-22 12:28:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
