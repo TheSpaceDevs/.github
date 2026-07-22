@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/artemis-2-astronaut-advocates-for-equatorial-lunar-landings/" >🔗</a> **[SpaceNews]** Artemis 2 astronaut advocates for equatorial lunar landings
+- <a href="https://spacenews.com/gravity-1-sea-launch-off-shanghai-puts-9-satellites-into-orbit/" >🔗</a> **[SpaceNews]** Gravity-1 sea launch off Shanghai puts 9 satellites into orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/" >🔗</a> **[NASA]** A Week of Smoky Skies Across North America
 - <a href="https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/" >🔗</a> **[NASA]** NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica
 - <a href="https://spacenews.com/zenno-astronautics-to-relocate-to-the-united-states/" >🔗</a> **[SpaceNews]** Zenno Astronautics to relocate to the United States
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/northrop-adds-to-charges-on-vulcan-solid-rocket-motor-program/" >🔗</a> **[SpaceNews]** Northrop adds to charges on Vulcan solid rocket motor program
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-three-new-associate-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes Three New Associate Members
 - <a href="https://www.nasaspaceflight.com/2026/07/mrv-1-launch/" >🔗</a> **[NASASpaceflight]** Falcon 9 to launch MRV-1 robotic servicing spacecraft for Northrop Grumman
-- <a href="https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/" >🔗</a> **[NASA]** US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica
-- <a href="https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/" >🔗</a> **[NASA]** NASA Langley Celebrates Community through Music with ‘Symphony Under the Stars’ Event
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260722T094557">2026-07-22 09:45:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260722T104051">2026-07-22 10:40:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
