@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/07/northrop-launches-evolved-satellite-servicing-spacecraft/" >🔗</a> **[Space Scout]** Northrop Launches Evolved Satellite Servicing Spacecraft
 - <a href="https://science.nasa.gov/photojournal/mapping-ios-hidden-heat-with-nasas-juno/" >🔗</a> **[NASA]** Mapping Io’s Hidden Heat With NASA’s Juno
 - <a href="https://science.nasa.gov/photojournal/nasas-juno-peers-beneath-ios-surface/" >🔗</a> **[NASA]** NASA’s Juno Peers Beneath Io’s Surface
 - <a href="https://www.nasaspaceflight.com/2026/07/path-flight-13-attempt-2-test/" >🔗</a> **[NASASpaceflight]** Path to Starship Flight 13 requires additional Booster 20 test
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/" >🔗</a> **[SpaceNews]** The strategic competition with China: winning the multi-domain race
 - <a href="https://spacenews.com/relativity-space-to-expand-terran-r-production-in-florida/" >🔗</a> **[SpaceNews]** Relativity Space to expand Terran R production in Florida
 - <a href="https://spacenews.com/artemis-2-astronaut-advocates-for-equatorial-lunar-landings/" >🔗</a> **[SpaceNews]** Artemis 2 astronaut advocates for equatorial lunar landings
-- <a href="https://spacenews.com/gravity-1-sea-launch-off-shanghai-puts-9-satellites-into-orbit/" >🔗</a> **[SpaceNews]** Gravity-1 sea launch off Shanghai puts 9 satellites into orbit
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260722T155845">2026-07-22 15:58:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260722T163524">2026-07-22 16:35:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
