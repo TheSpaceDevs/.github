@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-shijian-31-satellite-is-sweeping-geo-using-a-unique-orbit/" >🔗</a> **[SpaceNews]** China’s Shijian-31 satellite is sweeping GEO using a unique orbit
 - <a href="https://europeanspaceflight.com/onera-selects-amos-to-build-french-space-surveillance-telescope/" >🔗</a> **[European Spaceflight]** ONERA Selects AMOS to Build French Space Surveillance Telescope
 - <a href="https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/" >🔗</a> **[NASA]** NASA to Showcase Agency’s Newest Wind Tunnel in Virginia
 - <a href="https://spacenews.com/fcc-approves-sweeping-space-reforms-while-clearing-more-c-band-for-5g/" >🔗</a> **[SpaceNews]** FCC approves sweeping space reforms while clearing more C-band for 5G
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.spacescout.info/2026/07/northrop-launches-evolved-satellite-servicing-spacecraft/" >🔗</a> **[Space Scout]** Northrop Launches Evolved Satellite Servicing Spacecraft
 - <a href="https://science.nasa.gov/photojournal/mapping-ios-hidden-heat-with-nasas-juno/" >🔗</a> **[NASA]** Mapping Io’s Hidden Heat With NASA’s Juno
 - <a href="https://science.nasa.gov/photojournal/nasas-juno-peers-beneath-ios-surface/" >🔗</a> **[NASA]** NASA’s Juno Peers Beneath Io’s Surface
-- <a href="https://www.nasaspaceflight.com/2026/07/path-flight-13-attempt-2-test/" >🔗</a> **[NASASpaceflight]** Path to Starship Flight 13 requires additional Booster 20 test
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260722T204817">2026-07-22 20:48:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260722T212658">2026-07-22 21:26:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
