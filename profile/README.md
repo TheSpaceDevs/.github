@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/" >🔗</a> **[NASA]** NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica
 - <a href="https://spacenews.com/zenno-astronautics-to-relocate-to-the-united-states/" >🔗</a> **[SpaceNews]** Zenno Astronautics to relocate to the United States
 - <a href="https://spacenews.com/spacex-launches-northrop-mission-to-extend-the-life-of-aging-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches Northrop mission to extend the life of aging satellites
 - <a href="https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/" >🔗</a> **[NASA]** NASA to Host Media Briefing on Roman Telescope, Launching Next Month
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/" >🔗</a> **[NASA]** US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica
 - <a href="https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/" >🔗</a> **[NASA]** NASA Langley Celebrates Community through Music with ‘Symphony Under the Stars’ Event
 - <a href="https://europeanspaceflight.com/poland-boosts-its-contribution-to-europes-iris2-constellation-to-e656m/" >🔗</a> **[European Spaceflight]** Poland Boosts Its Contribution to Europe’s IRIS2 Constellation to €656M
-- <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/niac-2026-selections/" >🔗</a> **[NASA]** NIAC 2026 Selections
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260722T005713">2026-07-22 00:57:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260722T013615">2026-07-22 01:36:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
