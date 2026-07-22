@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/" >🔗</a> **[NASA]** Robotic Servicing Mission Launches with NASA Support
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/" >🔗</a> **[NASA]** NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return
 - <a href="https://www.nasa.gov/image-article/a-new-look-and-sound-for-messier-94/" >🔗</a> **[NASA]** A New Look – and Sound – for Messier 94
 - <a href="https://www.spacescout.info/2026/07/northrop-launches-evolved-satellite-servicing-spacecraft/" >🔗</a> **[Space Scout]** Northrop Launches Evolved Satellite Servicing Spacecraft
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/juno/nasas-juno-takes-temperature-of-jupiters-fiery-moon-io/" >🔗</a> **[NASA]** NASA’s Juno Takes Temperature of Jupiter’s Fiery Moon Io
 - <a href="https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/" >🔗</a> **[NASA]** NASA Joins Genesis Mission to Accelerate AI-Driven Discovery
 - <a href="https://spacenews.com/vast-establishes-division-for-national-security-projects/" >🔗</a> **[SpaceNews]** Vast establishes division for national security projects
-- <a href="https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/" >🔗</a> **[SpaceNews]** The strategic competition with China: winning the multi-domain race
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260722T175334">2026-07-22 17:53:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260722T182213">2026-07-22 18:22:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
