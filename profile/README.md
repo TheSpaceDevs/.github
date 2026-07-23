@@ -94,6 +94,8 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/07/23/live-coverage-spacex-ready-for-2nd-attempt-to-launch-starship-flight-13-following-post-abort-engine-work/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work
+- <a href="https://www.nasa.gov/news-release/look-for-nasa-now-streaming-on-amazon-fire-tv/" >🔗</a> **[NASA]** Look for NASA+ Now Streaming on Amazon Fire TV
 - <a href="https://www.nasa.gov/image-article/crews-move-artemis-iv-liquid-hydrogen-tank/" >🔗</a> **[NASA]** Crews Move Artemis IV Liquid Hydrogen Tank
 - <a href="https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/" >🔗</a> **[NASA]** NASA’s MAVEN Illuminates New Understanding of Auroras at Mars
 - <a href="https://spacenews.com/will-bruey-on-rethinking-the-role-of-pharmaceuticals-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** Will Bruey on rethinking the role of pharmaceuticals in low Earth orbit
@@ -102,8 +104,6 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 - <a href="https://spacenews.com/airbus-space-business-takes-advantage-of-growing-demand-for-satellite-systems/" >🔗</a> **[SpaceNews]** Airbus space business takes advantage of growing demand for satellite systems
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon" >🔗</a> **[ESA]** Watch the total solar eclipse with ESA in León
 - <a href="https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/" >🔗</a> **[NASA]** Olympic Mountain Glory
-- <a href="https://www.nasaspaceflight.com/2026/07/iss-roundup-072226/" >🔗</a> **[NASASpaceflight]** Soyuz MS-29 crew arrives at ISS, U.S. EVA completes Canadarm2 repairs
-- <a href="https://spacenews.com/chinas-shijian-31-satellite-is-sweeping-geo-using-a-unique-orbit/" >🔗</a> **[SpaceNews]** China’s Shijian-31 satellite is sweeping GEO using a unique orbit
 
 
 ### Launch-related News 🚀
@@ -122,7 +122,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260723T185007">2026-07-23 18:50:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260723T192729">2026-07-23 19:27:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
