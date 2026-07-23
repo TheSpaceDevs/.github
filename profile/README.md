@@ -95,6 +95,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 
 ### Latest News ⌛
 - <a href="https://www.nasa.gov/image-article/crews-move-artemis-iv-liquid-hydrogen-tank/" >🔗</a> **[NASA]** Crews Move Artemis IV Liquid Hydrogen Tank
+- <a href="https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/" >🔗</a> **[NASA]** NASA’s MAVEN Illuminates New Understanding of Auroras at Mars
 - <a href="https://spacenews.com/will-bruey-on-rethinking-the-role-of-pharmaceuticals-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** Will Bruey on rethinking the role of pharmaceuticals in low Earth orbit
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams Closes Out Space Station Mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/The_silicon_brains_steering_next-generation_antennas" >🔗</a> **[ESA]** The silicon brains steering next-generation antennas
@@ -103,7 +104,6 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 - <a href="https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/" >🔗</a> **[NASA]** Olympic Mountain Glory
 - <a href="https://www.nasaspaceflight.com/2026/07/iss-roundup-072226/" >🔗</a> **[NASASpaceflight]** Soyuz MS-29 crew arrives at ISS, U.S. EVA completes Canadarm2 repairs
 - <a href="https://spacenews.com/chinas-shijian-31-satellite-is-sweeping-geo-using-a-unique-orbit/" >🔗</a> **[SpaceNews]** China’s Shijian-31 satellite is sweeping GEO using a unique orbit
-- <a href="https://europeanspaceflight.com/onera-selects-amos-to-build-french-space-surveillance-telescope/" >🔗</a> **[European Spaceflight]** ONERA Selects AMOS to Build French Space Surveillance Telescope
 
 
 ### Launch-related News 🚀
@@ -122,7 +122,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260723T165806">2026-07-23 16:58:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260723T173252">2026-07-23 17:32:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
