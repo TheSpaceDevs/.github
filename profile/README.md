@@ -94,6 +94,8 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/The_silicon_brains_steering_next-generation_antennas" >🔗</a> **[ESA]** The silicon brains steering next-generation antennas
+- <a href="https://spacenews.com/airbus-space-business-takes-advantage-of-growing-demand-for-satellite-systems/" >🔗</a> **[SpaceNews]** Airbus space business takes advantage of growing demand for satellite systems
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon" >🔗</a> **[ESA]** Watch the total solar eclipse with ESA in León
 - <a href="https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/" >🔗</a> **[NASA]** Olympic Mountain Glory
 - <a href="https://www.nasaspaceflight.com/2026/07/iss-roundup-072226/" >🔗</a> **[NASASpaceflight]** Soyuz MS-29 crew arrives at ISS, U.S. EVA completes Canadarm2 repairs
@@ -102,8 +104,6 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 - <a href="https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/" >🔗</a> **[NASA]** NASA to Showcase Agency’s Newest Wind Tunnel in Virginia
 - <a href="https://spacenews.com/fcc-approves-sweeping-space-reforms-while-clearing-more-c-band-for-5g/" >🔗</a> **[SpaceNews]** FCC approves sweeping space reforms while clearing more C-band for 5G
 - <a href="https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/" >🔗</a> **[NASA]** Robotic Servicing Mission Launches with NASA Support
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/" >🔗</a> **[NASA]** NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return
-- <a href="https://www.nasa.gov/image-article/a-new-look-and-sound-for-messier-94/" >🔗</a> **[NASA]** A New Look – and Sound – for Messier 94
 
 
 ### Launch-related News 🚀
@@ -122,7 +122,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260723T122840">2026-07-23 12:28:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260723T130256">2026-07-23 13:02:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
