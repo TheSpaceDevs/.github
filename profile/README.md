@@ -94,6 +94,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/" >🔗</a> **[SpaceNews]** Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech
 - <a href="https://spaceflightnow.com/2026/07/23/live-coverage-spacex-ready-for-2nd-attempt-to-launch-starship-flight-13-following-post-abort-engine-work/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work
 - <a href="https://www.nasa.gov/news-release/look-for-nasa-now-streaming-on-amazon-fire-tv/" >🔗</a> **[NASA]** Look for NASA+ Now Streaming on Amazon Fire TV
 - <a href="https://www.nasa.gov/image-article/crews-move-artemis-iv-liquid-hydrogen-tank/" >🔗</a> **[NASA]** Crews Move Artemis IV Liquid Hydrogen Tank
@@ -103,7 +104,6 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/The_silicon_brains_steering_next-generation_antennas" >🔗</a> **[ESA]** The silicon brains steering next-generation antennas
 - <a href="https://spacenews.com/airbus-space-business-takes-advantage-of-growing-demand-for-satellite-systems/" >🔗</a> **[SpaceNews]** Airbus space business takes advantage of growing demand for satellite systems
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon" >🔗</a> **[ESA]** Watch the total solar eclipse with ESA in León
-- <a href="https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/" >🔗</a> **[NASA]** Olympic Mountain Glory
 
 
 ### Launch-related News 🚀
@@ -122,7 +122,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260723T192729">2026-07-23 19:27:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260723T195737">2026-07-23 19:57:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
