@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/poland-commits-745-million-to-eus-iris%c2%b2-constellation-project/" >🔗</a> **[SpaceNews]** Poland commits $745 million to EU’s IRIS² constellation project
 - <a href="https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/" >🔗</a> **[SpaceNews]** Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech
 - <a href="https://spaceflightnow.com/2026/07/23/live-coverage-spacex-ready-for-2nd-attempt-to-launch-starship-flight-13-following-post-abort-engine-work/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work
 - <a href="https://www.nasa.gov/news-release/look-for-nasa-now-streaming-on-amazon-fire-tv/" >🔗</a> **[NASA]** Look for NASA+ Now Streaming on Amazon Fire TV
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams Closes Out Space Station Mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/The_silicon_brains_steering_next-generation_antennas" >🔗</a> **[ESA]** The silicon brains steering next-generation antennas
 - <a href="https://spacenews.com/airbus-space-business-takes-advantage-of-growing-demand-for-satellite-systems/" >🔗</a> **[SpaceNews]** Airbus space business takes advantage of growing demand for satellite systems
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon" >🔗</a> **[ESA]** Watch the total solar eclipse with ESA in León
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260723T204658">2026-07-23 20:46:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260723T212129">2026-07-23 21:21:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
