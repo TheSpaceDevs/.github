@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/" >🔗</a> **[NASA]** Olympic Mountain Glory
 - <a href="https://www.nasaspaceflight.com/2026/07/iss-roundup-072226/" >🔗</a> **[NASASpaceflight]** Soyuz MS-29 crew arrives at ISS, U.S. EVA completes Canadarm2 repairs
 - <a href="https://spacenews.com/chinas-shijian-31-satellite-is-sweeping-geo-using-a-unique-orbit/" >🔗</a> **[SpaceNews]** China’s Shijian-31 satellite is sweeping GEO using a unique orbit
 - <a href="https://europeanspaceflight.com/onera-selects-amos-to-build-french-space-surveillance-telescope/" >🔗</a> **[European Spaceflight]** ONERA Selects AMOS to Build French Space Surveillance Telescope
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/" >🔗</a> **[NASA]** NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return
 - <a href="https://www.nasa.gov/image-article/a-new-look-and-sound-for-messier-94/" >🔗</a> **[NASA]** A New Look – and Sound – for Messier 94
 - <a href="https://www.spacescout.info/2026/07/northrop-launches-evolved-satellite-servicing-spacecraft/" >🔗</a> **[Space Scout]** Northrop Launches Evolved Satellite Servicing Spacecraft
-- <a href="https://science.nasa.gov/photojournal/mapping-ios-hidden-heat-with-nasas-juno/" >🔗</a> **[NASA]** Mapping Io’s Hidden Heat With NASA’s Juno
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260723T040708">2026-07-23 04:07:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260723T053434">2026-07-23 05:34:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
