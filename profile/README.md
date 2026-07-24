@@ -94,6 +94,8 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/07/blue-ng-gs2-hot-fires-stennis-b-2/" >🔗</a> **[NASASpaceflight]** Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand
+- <a href="https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/" >🔗</a> **[NASA]** NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon
 - <a href="https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/" >🔗</a> **[NASA]** New Crew Members Welcomed to International Space Station
 - <a href="https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/" >🔗</a> **[NASA]** NASA Announces New Spacecraft Technology Demonstration Mission at Moon
 - <a href="https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/" >🔗</a> **[NASA]** NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis
@@ -102,8 +104,6 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 - <a href="https://spacenews.com/office-of-space-commerce-to-move-ahead-on-mission-authorization/" >🔗</a> **[SpaceNews]** Office of Space Commerce to move ahead on mission authorization
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/" >🔗</a> **[NASA]** Hubble Spies One-Sided Spiral
 - <a href="https://spacenews.com/lightning-strikes-long-march-3b-after-liftoff-kinetica-1-launches-5-satellites/" >🔗</a> **[SpaceNews]** Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites
-- <a href="https://spacenews.com/eu-delays-release-of-copernicus-imagery-over-gulf-of-oman/" >🔗</a> **[SpaceNews]** EU delays release of Copernicus imagery over Gulf of Oman
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/Why_total_solar_eclipses_are_so_special" >🔗</a> **[ESA]** Why total solar eclipses are so special
 
 
 ### Launch-related News 🚀
@@ -122,7 +122,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T175836">2026-07-24 17:58:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T183649">2026-07-24 18:36:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
