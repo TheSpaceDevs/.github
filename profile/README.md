@@ -94,6 +94,8 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/" >🔗</a> **[NASA]** New Crew Members Welcomed to International Space Station
+- <a href="https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/" >🔗</a> **[NASA]** NASA Announces New Spacecraft Technology Demonstration Mission at Moon
 - <a href="https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/" >🔗</a> **[NASA]** NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis
 - <a href="https://europeanspaceflight.com/esa-awards-ispace-e65m-contract-to-build-and-deliver-magpie-rover-to-the-moon/" >🔗</a> **[European Spaceflight]** ESA Awards ispace €65M Contract to Build and Deliver MAGPIE Rover to the Moon
 - <a href="https://spacenews.com/latconnect-60-unveils-proprietary-ai-capabilities-following-growing-indo-pacific-defence-interest-in-swirsat/" >🔗</a> **[SpaceNews]** LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT
@@ -102,8 +104,6 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 - <a href="https://spacenews.com/lightning-strikes-long-march-3b-after-liftoff-kinetica-1-launches-5-satellites/" >🔗</a> **[SpaceNews]** Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites
 - <a href="https://spacenews.com/eu-delays-release-of-copernicus-imagery-over-gulf-of-oman/" >🔗</a> **[SpaceNews]** EU delays release of Copernicus imagery over Gulf of Oman
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/Why_total_solar_eclipses_are_so_special" >🔗</a> **[ESA]** Why total solar eclipses are so special
-- <a href="https://spacenews.com/air-force-takes-over-troubled-military-gps-receiver-program/" >🔗</a> **[SpaceNews]** Air Force takes over troubled military GPS receiver program
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Agricultural_patchwork" >🔗</a> **[ESA]** Earth from Space: Agricultural patchwork
 
 
 ### Launch-related News 🚀
@@ -122,7 +122,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T160121">2026-07-24 16:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T170039">2026-07-24 17:00:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
