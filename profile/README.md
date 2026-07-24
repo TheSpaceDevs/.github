@@ -94,6 +94,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/air-force-takes-over-troubled-military-gps-receiver-program/" >🔗</a> **[SpaceNews]** Air Force takes over troubled military GPS receiver program
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Agricultural_patchwork" >🔗</a> **[ESA]** Earth from Space: Agricultural patchwork
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Two_new_Galileo_satellites_enter_service" >🔗</a> **[ESA]** Two new Galileo satellites enter service
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/" >🔗</a> **[NASA]** A Million-Panel Project
@@ -103,7 +104,6 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 - <a href="https://spacenews.com/poland-commits-745-million-to-eus-iris%c2%b2-constellation-project/" >🔗</a> **[SpaceNews]** Poland commits $745 million to EU’s IRIS² constellation project
 - <a href="https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/" >🔗</a> **[SpaceNews]** Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech
 - <a href="https://spaceflightnow.com/2026/07/23/live-coverage-spacex-ready-for-2nd-attempt-to-launch-starship-flight-13-following-post-abort-engine-work/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work
-- <a href="https://www.nasa.gov/news-release/look-for-nasa-now-streaming-on-amazon-fire-tv/" >🔗</a> **[NASA]** Look for NASA+ Now Streaming on Amazon Fire TV
 
 
 ### Launch-related News 🚀
@@ -122,7 +122,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T084812">2026-07-24 08:48:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T094429">2026-07-24 09:44:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
