@@ -94,7 +94,9 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lightning-strikes-long-march-3b-after-liftoff-kinetica-1-launches-5-satellites/" >🔗</a> **[SpaceNews]** Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites
 - <a href="https://spacenews.com/eu-delays-release-of-copernicus-imagery-over-gulf-of-oman/" >🔗</a> **[SpaceNews]** EU delays release of Copernicus imagery over Gulf of Oman
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/Why_total_solar_eclipses_are_so_special" >🔗</a> **[ESA]** Why total solar eclipses are so special
 - <a href="https://spacenews.com/air-force-takes-over-troubled-military-gps-receiver-program/" >🔗</a> **[SpaceNews]** Air Force takes over troubled military GPS receiver program
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Agricultural_patchwork" >🔗</a> **[ESA]** Earth from Space: Agricultural patchwork
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Two_new_Galileo_satellites_enter_service" >🔗</a> **[ESA]** Two new Galileo satellites enter service
@@ -102,8 +104,6 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 - <a href="https://spacepolicyonline.com/news/department-of-commerce-takes-step-towards-mission-authorization/" >🔗</a> **[SpacePolicyOnline.com]** Department of Commerce Takes Step Towards Mission Authorization
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present
 - <a href="https://spacenews.com/nasa-programs-feel-effects-of-workforce-reductions/" >🔗</a> **[SpaceNews]** NASA programs feel effects of workforce reductions
-- <a href="https://spacenews.com/poland-commits-745-million-to-eus-iris%c2%b2-constellation-project/" >🔗</a> **[SpaceNews]** Poland commits $745 million to EU’s IRIS² constellation project
-- <a href="https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/" >🔗</a> **[SpaceNews]** Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech
 
 
 ### Launch-related News 🚀
@@ -122,7 +122,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T103757">2026-07-24 10:37:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T113051">2026-07-24 11:30:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
