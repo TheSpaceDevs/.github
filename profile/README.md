@@ -94,6 +94,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/" >🔗</a> **[NASA]** NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis
 - <a href="https://europeanspaceflight.com/esa-awards-ispace-e65m-contract-to-build-and-deliver-magpie-rover-to-the-moon/" >🔗</a> **[European Spaceflight]** ESA Awards ispace €65M Contract to Build and Deliver MAGPIE Rover to the Moon
 - <a href="https://spacenews.com/latconnect-60-unveils-proprietary-ai-capabilities-following-growing-indo-pacific-defence-interest-in-swirsat/" >🔗</a> **[SpaceNews]** LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT
 - <a href="https://spacenews.com/office-of-space-commerce-to-move-ahead-on-mission-authorization/" >🔗</a> **[SpaceNews]** Office of Space Commerce to move ahead on mission authorization
@@ -103,7 +104,6 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/Why_total_solar_eclipses_are_so_special" >🔗</a> **[ESA]** Why total solar eclipses are so special
 - <a href="https://spacenews.com/air-force-takes-over-troubled-military-gps-receiver-program/" >🔗</a> **[SpaceNews]** Air Force takes over troubled military GPS receiver program
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Agricultural_patchwork" >🔗</a> **[ESA]** Earth from Space: Agricultural patchwork
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Two_new_Galileo_satellites_enter_service" >🔗</a> **[ESA]** Two new Galileo satellites enter service
 
 
 ### Launch-related News 🚀
@@ -122,7 +122,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T152807">2026-07-24 15:28:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T160121">2026-07-24 16:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
