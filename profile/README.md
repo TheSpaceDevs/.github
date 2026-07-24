@@ -94,6 +94,8 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Agricultural_patchwork" >🔗</a> **[ESA]** Earth from Space: Agricultural patchwork
+- <a href="https://www.esa.int/Applications/Satellite_navigation/Two_new_Galileo_satellites_enter_service" >🔗</a> **[ESA]** Two new Galileo satellites enter service
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/" >🔗</a> **[NASA]** A Million-Panel Project
 - <a href="https://spacepolicyonline.com/news/department-of-commerce-takes-step-towards-mission-authorization/" >🔗</a> **[SpacePolicyOnline.com]** Department of Commerce Takes Step Towards Mission Authorization
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present
@@ -102,8 +104,6 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 - <a href="https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/" >🔗</a> **[SpaceNews]** Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech
 - <a href="https://spaceflightnow.com/2026/07/23/live-coverage-spacex-ready-for-2nd-attempt-to-launch-starship-flight-13-following-post-abort-engine-work/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work
 - <a href="https://www.nasa.gov/news-release/look-for-nasa-now-streaming-on-amazon-fire-tv/" >🔗</a> **[NASA]** Look for NASA+ Now Streaming on Amazon Fire TV
-- <a href="https://www.nasa.gov/image-article/crews-move-artemis-iv-liquid-hydrogen-tank/" >🔗</a> **[NASA]** Crews Move Artemis IV Liquid Hydrogen Tank
-- <a href="https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/" >🔗</a> **[NASA]** NASA’s MAVEN Illuminates New Understanding of Auroras at Mars
 
 
 ### Launch-related News 🚀
@@ -122,7 +122,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T074520">2026-07-24 07:45:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T084812">2026-07-24 08:48:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
