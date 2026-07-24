@@ -94,6 +94,8 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-awards-ispace-e65m-contract-to-build-and-deliver-magpie-rover-to-the-moon/" >🔗</a> **[European Spaceflight]** ESA Awards ispace €65M Contract to Build and Deliver MAGPIE Rover to the Moon
+- <a href="https://spacenews.com/latconnect-60-unveils-proprietary-ai-capabilities-following-growing-indo-pacific-defence-interest-in-swirsat/" >🔗</a> **[SpaceNews]** LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT
 - <a href="https://spacenews.com/office-of-space-commerce-to-move-ahead-on-mission-authorization/" >🔗</a> **[SpaceNews]** Office of Space Commerce to move ahead on mission authorization
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/" >🔗</a> **[NASA]** Hubble Spies One-Sided Spiral
 - <a href="https://spacenews.com/lightning-strikes-long-march-3b-after-liftoff-kinetica-1-launches-5-satellites/" >🔗</a> **[SpaceNews]** Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites
@@ -102,8 +104,6 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 - <a href="https://spacenews.com/air-force-takes-over-troubled-military-gps-receiver-program/" >🔗</a> **[SpaceNews]** Air Force takes over troubled military GPS receiver program
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Agricultural_patchwork" >🔗</a> **[ESA]** Earth from Space: Agricultural patchwork
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Two_new_Galileo_satellites_enter_service" >🔗</a> **[ESA]** Two new Galileo satellites enter service
-- <a href="https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/" >🔗</a> **[NASA]** A Million-Panel Project
-- <a href="https://spacepolicyonline.com/news/department-of-commerce-takes-step-towards-mission-authorization/" >🔗</a> **[SpacePolicyOnline.com]** Department of Commerce Takes Step Towards Mission Authorization
 
 
 ### Launch-related News 🚀
@@ -122,7 +122,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T143141">2026-07-24 14:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T152807">2026-07-24 15:28:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
