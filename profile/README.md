@@ -19,27 +19,31 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Kinetica 1 | Unknown Payload**. It is scheduled to be launched by *CAS Space*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Launch Area 130</a>, Jiuquan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260723T232400">2026-07-23 23:24:00 UTC</a>.  Until
-then, this pad will have been used for 14
-out of 291 launches from this location. The launch status is currently
+**Starship | Flight 13**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/SpaceX_Starbase#Launch_site_(Orbital_Launch_Mount_(Pad_1_and_2))">Orbital Launch Pad 2</a>, SpaceX Starbase, TX, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T224500">2026-07-24 22:45:00 UTC</a>.  Until
+then, this pad will have been used for 1
+out of 21 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Test Flight* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  Details TBD.
+  13th test flight of the two-stage Starship launch vehicle. Second flight of Starship V3.
+
+For the first time, Starship will carry 20 V3 Starlink satellites to space, which will extend solar arrays and antennas and will attempt to connect with ground stations in South Africa and the larger Starlink constellation via high-capacity lasers. 
+
+6 of the satellites have been modified with a suite of cameras to scan Starship’s heat shield and transmit imagery down to operators to continue testing methods of analyzing Starship’s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/SpaceX_Starship#Block_3" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=40.8182,100.22514" >
+  <a href="https://www.google.com/maps?q=25.996770,-97.157990" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +58,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T000000">2026-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | LOXSAT 1&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260731T000000Z%2F20260731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | LOXSAT 1** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T000000">2026-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | StriX Launch 11&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260731T000000Z%2F20260731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | StriX Launch 11** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T000000">2026-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Grain Goddess Provides (iQPS Launch 7)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260731T000000Z%2F20260731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Grain Goddess Provides (iQPS Launch 7)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T000000">2026-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Mir | Demo Flight&location=Sea Launch&dates=20260731T000000Z%2F20260731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Mir | Demo Flight** from Sea Launch.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -103,12 +108,21 @@ into *an Unknown
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/07/path-flight-13-attempt-2-test/" >🔗</a> **[NASASpaceflight]** Path to Starship Flight 13 requires additional Booster 20 test
 - <a href="https://www.nasaspaceflight.com/2026/07/launch-preview-072026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch
+- <a href="https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/" >🔗</a> **[Arstechnica]** Rocket Report: India's Vikram-1 nears debut flight; AST to become rocket company?
+- <a href="https://spacepolicyonline.com/news/no-go-for-starship-today-next-try-maybe-next-week/" >🔗</a> **[SpacePolicyOnline.com]** No-Go For Starship Today, Next Try Maybe Next Week
+- <a href="https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/" >🔗</a> **[SpaceNews]** SpaceX aborts Starship Flight 13 launch attempt
+- <a href="https://www.nasaspaceflight.com/2026/07/starship-flight-13-flight/" >🔗</a> **[NASASpaceflight]** Starship Flight 13: Potentially the final Suborbital Flight
+- <a href="https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-deploy-first-starlink-v3-satellites-on-suborbital-starship-super-heavy-flight/" >🔗</a> **[Spaceflight Now]** SpaceX to deploy first Starlink V3 satellites on suborbital Starship-Super Heavy flight
+- <a href="https://www.nasaspaceflight.com/2026/07/launch-preview-071326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Soyuz to launch crew to ISS, Starship to fly another test flight
+- <a href="https://spacenews.com/spacex-gears-up-for-starship-flight-13/" >🔗</a> **[SpaceNews]** SpaceX gears up for Starship Flight 13
+- <a href="https://www.nasaspaceflight.com/2026/07/booster-20-record-static-fire/" >🔗</a> **[NASASpaceflight]** Booster 20 completes record duration Static Fire
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260723T234557">2026-07-23 23:45:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T001849">2026-07-24 00:18:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
