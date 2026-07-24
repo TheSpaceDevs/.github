@@ -94,6 +94,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present
 - <a href="https://spacenews.com/nasa-programs-feel-effects-of-workforce-reductions/" >🔗</a> **[SpaceNews]** NASA programs feel effects of workforce reductions
 - <a href="https://spacenews.com/poland-commits-745-million-to-eus-iris%c2%b2-constellation-project/" >🔗</a> **[SpaceNews]** Poland commits $745 million to EU’s IRIS² constellation project
 - <a href="https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/" >🔗</a> **[SpaceNews]** Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech
@@ -103,7 +104,6 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 - <a href="https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/" >🔗</a> **[NASA]** NASA’s MAVEN Illuminates New Understanding of Auroras at Mars
 - <a href="https://spacenews.com/will-bruey-on-rethinking-the-role-of-pharmaceuticals-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** Will Bruey on rethinking the role of pharmaceuticals in low Earth orbit
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams Closes Out Space Station Mission
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/The_silicon_brains_steering_next-generation_antennas" >🔗</a> **[ESA]** The silicon brains steering next-generation antennas
 
 
 ### Launch-related News 🚀
@@ -122,7 +122,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T013640">2026-07-24 01:36:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T025855">2026-07-24 02:58:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
