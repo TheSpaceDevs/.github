@@ -94,6 +94,8 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/office-of-space-commerce-to-move-ahead-on-mission-authorization/" >🔗</a> **[SpaceNews]** Office of Space Commerce to move ahead on mission authorization
+- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/" >🔗</a> **[NASA]** Hubble Spies One-Sided Spiral
 - <a href="https://spacenews.com/lightning-strikes-long-march-3b-after-liftoff-kinetica-1-launches-5-satellites/" >🔗</a> **[SpaceNews]** Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites
 - <a href="https://spacenews.com/eu-delays-release-of-copernicus-imagery-over-gulf-of-oman/" >🔗</a> **[SpaceNews]** EU delays release of Copernicus imagery over Gulf of Oman
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/Why_total_solar_eclipses_are_so_special" >🔗</a> **[ESA]** Why total solar eclipses are so special
@@ -102,8 +104,6 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Two_new_Galileo_satellites_enter_service" >🔗</a> **[ESA]** Two new Galileo satellites enter service
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/" >🔗</a> **[NASA]** A Million-Panel Project
 - <a href="https://spacepolicyonline.com/news/department-of-commerce-takes-step-towards-mission-authorization/" >🔗</a> **[SpacePolicyOnline.com]** Department of Commerce Takes Step Towards Mission Authorization
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present
-- <a href="https://spacenews.com/nasa-programs-feel-effects-of-workforce-reductions/" >🔗</a> **[SpaceNews]** NASA programs feel effects of workforce reductions
 
 
 ### Launch-related News 🚀
@@ -122,7 +122,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T113051">2026-07-24 11:30:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T122613">2026-07-24 12:26:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
