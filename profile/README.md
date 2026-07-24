@@ -94,6 +94,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/fires-near-madrid-force-evacuation-of-nasas-dsn-facility/" >🔗</a> **[SpacePolicyOnline.com]** Fires near Madrid Force Evacuation of NASA’s DSN Facility
 - <a href="https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/" >🔗</a> **[SpaceNews]** ULA deals with financial challenges caused by Vulcan grounding
 - <a href="https://spaceflightnow.com/2026/07/24/critical-nasa-deep-space-ground-station-in-spain-evacuated-due-to-wildfires/" >🔗</a> **[Spaceflight Now]** Critical NASA Deep Space ground station in Spain evacuated due to wildfires
 - <a href="https://www.nasaspaceflight.com/2026/07/blue-ng-gs2-hot-fires-stennis-b-2/" >🔗</a> **[NASASpaceflight]** Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand
@@ -103,7 +104,6 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 - <a href="https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/" >🔗</a> **[NASA]** NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis
 - <a href="https://europeanspaceflight.com/esa-awards-ispace-e65m-contract-to-build-and-deliver-magpie-rover-to-the-moon/" >🔗</a> **[European Spaceflight]** ESA Awards ispace €65M Contract to Build and Deliver MAGPIE Rover to the Moon
 - <a href="https://spacenews.com/latconnect-60-unveils-proprietary-ai-capabilities-following-growing-indo-pacific-defence-interest-in-swirsat/" >🔗</a> **[SpaceNews]** LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT
-- <a href="https://spacenews.com/office-of-space-commerce-to-move-ahead-on-mission-authorization/" >🔗</a> **[SpaceNews]** Office of Space Commerce to move ahead on mission authorization
 
 
 ### Launch-related News 🚀
@@ -122,7 +122,7 @@ For the first time, Starship will carry 20 V3 Starlink satellites to space, whic
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T203443">2026-07-24 20:34:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260724T212109">2026-07-24 21:21:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
