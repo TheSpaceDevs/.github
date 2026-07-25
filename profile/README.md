@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260725T140000">2026-07-25 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-51&location=Vandenberg SFB, CA, USA&dates=20260725T140000Z%2F20260725T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-51** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T020000">2026-07-29 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-52&location=Vandenberg SFB, CA, USA&dates=20260729T020000Z%2F20260729T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-52** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T114200">2026-07-29 11:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260729T114200Z%2F20260729T133900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260730T005200">2026-07-30 00:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20260730T005200Z%2F20260730T011200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
@@ -90,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/07/25/live-coverage-spacex-falcon-9-to-launch-starlink-satellites-from-west-coast/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX Falcon 9 to launch Starlink satellites from West Coast
 - <a href="https://spaceflightnow.com/2026/07/25/super-heavy-starship-rocket-chalks-up-mostly-successful-test-flight/" >🔗</a> **[Spaceflight Now]** Super Heavy-Starship rocket chalks up mostly successful test flight
 - <a href="https://spacenews.com/spacex-conducts-13th-starship-test-flight/" >🔗</a> **[SpaceNews]** SpaceX conducts 13th Starship test flight
 - <a href="https://spacepolicyonline.com/news/fires-near-madrid-force-evacuation-of-nasas-dsn-facility/" >🔗</a> **[SpacePolicyOnline.com]** Fires near Madrid Force Evacuation of NASA’s DSN Facility
@@ -99,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/" >🔗</a> **[NASA]** NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon
 - <a href="https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/" >🔗</a> **[NASA]** New Crew Members Welcomed to International Space Station
 - <a href="https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/" >🔗</a> **[NASA]** NASA Announces New Spacecraft Technology Demonstration Mission at Moon
-- <a href="https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/" >🔗</a> **[NASA]** NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis
 
 
 ### Launch-related News 🚀
@@ -109,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260725T132839">2026-07-25 13:28:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260725T140619">2026-07-25 14:06:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
