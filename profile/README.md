@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/07/25/super-heavy-starship-rocket-chalks-up-mostly-successful-test-flight/" >🔗</a> **[Spaceflight Now]** Super Heavy-Starship rocket chalks up mostly successful test flight
 - <a href="https://spacenews.com/spacex-conducts-13th-starship-test-flight/" >🔗</a> **[SpaceNews]** SpaceX conducts 13th Starship test flight
 - <a href="https://spacepolicyonline.com/news/fires-near-madrid-force-evacuation-of-nasas-dsn-facility/" >🔗</a> **[SpacePolicyOnline.com]** Fires near Madrid Force Evacuation of NASA’s DSN Facility
 - <a href="https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/" >🔗</a> **[SpaceNews]** ULA deals with financial challenges caused by Vulcan grounding
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/" >🔗</a> **[NASA]** New Crew Members Welcomed to International Space Station
 - <a href="https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/" >🔗</a> **[NASA]** NASA Announces New Spacecraft Technology Demonstration Mission at Moon
 - <a href="https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/" >🔗</a> **[NASA]** NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis
-- <a href="https://europeanspaceflight.com/esa-awards-ispace-e65m-contract-to-build-and-deliver-magpie-rover-to-the-moon/" >🔗</a> **[European Spaceflight]** ESA Awards ispace €65M Contract to Build and Deliver MAGPIE Rover to the Moon
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260725T005933">2026-07-25 00:59:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260725T014031">2026-07-25 01:40:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
