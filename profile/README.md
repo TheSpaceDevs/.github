@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams, Crewmates Return from Space Station
 - <a href="https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/" >🔗</a> **[SpaceNews]** NASA and ESA facilities avoid major damage from wildfires in Spain
 - <a href="https://spacepolicyonline.com/news/successful-flight-for-starship-ift-13/" >🔗</a> **[SpacePolicyOnline.com]** Successful Flight for Starship IFT-13
 - <a href="https://spaceflightnow.com/2026/07/25/live-coverage-spacex-falcon-9-to-launch-starlink-satellites-from-west-coast/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX Falcon 9 to launch Starlink satellites from West Coast
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/" >🔗</a> **[SpaceNews]** ULA deals with financial challenges caused by Vulcan grounding
 - <a href="https://spaceflightnow.com/2026/07/24/critical-nasa-deep-space-ground-station-in-spain-evacuated-due-to-wildfires/" >🔗</a> **[Spaceflight Now]** Critical NASA Deep Space ground station in Spain evacuated due to wildfires
 - <a href="https://www.nasaspaceflight.com/2026/07/blue-ng-gs2-hot-fires-stennis-b-2/" >🔗</a> **[NASASpaceflight]** Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand
-- <a href="https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/" >🔗</a> **[NASA]** NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260726T105851">2026-07-26 10:58:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260726T113150">2026-07-26 11:31:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
