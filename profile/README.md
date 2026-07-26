@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/" >🔗</a> **[SpaceNews]** NASA and ESA facilities avoid major damage from wildfires in Spain
 - <a href="https://spacepolicyonline.com/news/successful-flight-for-starship-ift-13/" >🔗</a> **[SpacePolicyOnline.com]** Successful Flight for Starship IFT-13
 - <a href="https://spaceflightnow.com/2026/07/25/live-coverage-spacex-falcon-9-to-launch-starlink-satellites-from-west-coast/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX Falcon 9 to launch Starlink satellites from West Coast
 - <a href="https://spaceflightnow.com/2026/07/25/super-heavy-starship-rocket-chalks-up-mostly-successful-test-flight/" >🔗</a> **[Spaceflight Now]** Super Heavy-Starship rocket chalks up mostly successful test flight
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/07/24/critical-nasa-deep-space-ground-station-in-spain-evacuated-due-to-wildfires/" >🔗</a> **[Spaceflight Now]** Critical NASA Deep Space ground station in Spain evacuated due to wildfires
 - <a href="https://www.nasaspaceflight.com/2026/07/blue-ng-gs2-hot-fires-stennis-b-2/" >🔗</a> **[NASASpaceflight]** Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand
 - <a href="https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/" >🔗</a> **[NASA]** NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon
-- <a href="https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/" >🔗</a> **[NASA]** New Crew Members Welcomed to International Space Station
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260726T021454">2026-07-26 02:14:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260726T034218">2026-07-26 03:42:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
