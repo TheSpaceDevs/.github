@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Business_with_ESA/Meet_space_startups_at_ESA_s_Industry_Space_Days" >🔗</a> **[ESA]** Meet space startups at ESA’s Industry Space Days
 - <a href="https://europeanspaceflight.com/esa-ground-station-in-spain-cleared-to-return-to-service-after-wildfire-threat/" >🔗</a> **[European Spaceflight]** ESA Ground Station in Spain Cleared to Return to Service After Wildfire Threat
 - <a href="https://www.nasaspaceflight.com/2026/07/juno-io-subsurface-temps/" >🔗</a> **[NASASpaceflight]** Juno reveals surprising subsurface tempertures at Io, remarkably smooth surface
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-26-august-1-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 26-August 1, 2026
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/successful-flight-for-starship-ift-13/" >🔗</a> **[SpacePolicyOnline.com]** Successful Flight for Starship IFT-13
 - <a href="https://spaceflightnow.com/2026/07/25/live-coverage-spacex-falcon-9-to-launch-starlink-satellites-from-west-coast/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX Falcon 9 to launch Starlink satellites from West Coast
 - <a href="https://spaceflightnow.com/2026/07/25/super-heavy-starship-rocket-chalks-up-mostly-successful-test-flight/" >🔗</a> **[Spaceflight Now]** Super Heavy-Starship rocket chalks up mostly successful test flight
-- <a href="https://spacenews.com/spacex-conducts-13th-starship-test-flight/" >🔗</a> **[SpaceNews]** SpaceX conducts 13th Starship test flight
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260727T080721">2026-07-27 08:07:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260727T094407">2026-07-27 09:44:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
