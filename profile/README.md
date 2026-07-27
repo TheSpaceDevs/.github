@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/" >🔗</a> **[SpaceNews]** Orbes unveils Exo-ORB and agreement with Symphony Space
+- <a href="https://spacenews.com/intel-debuts-new-chip-for-space-computing/" >🔗</a> **[SpaceNews]** Intel debuts new chip for space computing
 - <a href="https://spacenews.com/spacenews-welcomes-max-aliprandi-as-business-development-associate/" >🔗</a> **[SpaceNews]** SpaceNews Welcomes Max Aliprandi as Business Development Associate
 - <a href="https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation/" >🔗</a> **[SpaceNews]** Amazon files application for direct-to-device satellite constellation
 - <a href="https://spacenews.com/blue-origin-to-test-new-glenn-upper-stages-at-stennis/" >🔗</a> **[SpaceNews]** Blue Origin to test New Glenn upper stages at Stennis
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Meet_space_startups_at_ESA_s_Industry_Space_Days" >🔗</a> **[ESA]** Meet space startups at ESA’s Industry Space Days
 - <a href="https://europeanspaceflight.com/esa-ground-station-in-spain-cleared-to-return-to-service-after-wildfire-threat/" >🔗</a> **[European Spaceflight]** ESA Ground Station in Spain Cleared to Return to Service After Wildfire Threat
 - <a href="https://www.nasaspaceflight.com/2026/07/juno-io-subsurface-temps/" >🔗</a> **[NASASpaceflight]** Juno reveals surprising subsurface tempertures at Io, remarkably smooth surface
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-26-august-1-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 26-August 1, 2026
-- <a href="https://spacepolicyonline.com/news/soyuz-ms-28-back-home-after-8-months-on-iss/" >🔗</a> **[SpacePolicyOnline.com]** Soyuz MS-28 Back Home After 8 Months on ISS
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260727T123555">2026-07-27 12:35:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260727T134612">2026-07-27 13:46:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
