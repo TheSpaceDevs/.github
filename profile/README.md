@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams Returns to Earth
+- <a href="https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/" >🔗</a> **[NASA]** NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Raging_wildfires_near_Madrid_Spain" >🔗</a> **[ESA]** Raging wildfires near Madrid, Spain
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/" >🔗</a> **[NASA]** NASA to Cover Three US Spacewalks, Host Preview News Conference
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/" >🔗</a> **[NASA]** NASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/spacenews-welcomes-max-aliprandi-as-business-development-associate/" >🔗</a> **[SpaceNews]** SpaceNews Welcomes Max Aliprandi as Business Development Associate
 - <a href="https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation/" >🔗</a> **[SpaceNews]** Amazon files application for direct-to-device satellite constellation
 - <a href="https://spacenews.com/blue-origin-to-test-new-glenn-upper-stages-at-stennis/" >🔗</a> **[SpaceNews]** Blue Origin to test New Glenn upper stages at Stennis
-- <a href="https://spacenews.com/rocket-lab-to-open-alaska-launch-site-under-266-million-space-force-deal/" >🔗</a> **[SpaceNews]** Rocket Lab to open Alaska launch site under $266 million Space Force deal
-- <a href="https://spacenews.com/ai-in-orbit-is-a-double-edged-sword-heres-how-to-keep-it-from-cutting-space-cooperation-apart/" >🔗</a> **[SpaceNews]** AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260727T164016">2026-07-27 16:40:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260727T173047">2026-07-27 17:30:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
