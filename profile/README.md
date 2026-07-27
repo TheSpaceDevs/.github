@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/07/launch-preview-072726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 and Chang Zheng rockets set to launch this week
 - <a href="https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/" >🔗</a> **[SpaceNews]** Upper C-band auction offers another lift for GEO industry
 - <a href="https://spacenews.com/sphinx-defense-wins-287-million-contract-for-strategic-satellite-communications-software/" >🔗</a> **[SpaceNews]** Sphinx Defense wins $287 million contract for strategic satellite communications software
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams to Discuss Space Station Mission
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/" >🔗</a> **[NASA]** NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Raging_wildfires_near_Madrid_Spain" >🔗</a> **[ESA]** Raging wildfires near Madrid, Spain
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/" >🔗</a> **[NASA]** NASA to Cover Three US Spacewalks, Host Preview News Conference
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/" >🔗</a> **[NASA]** NASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260727T205334">2026-07-27 20:53:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260727T212222">2026-07-27 21:22:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
