@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacenews-welcomes-max-aliprandi-as-business-development-associate/" >🔗</a> **[SpaceNews]** SpaceNews Welcomes Max Aliprandi as Business Development Associate
+- <a href="https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation/" >🔗</a> **[SpaceNews]** Amazon files application for direct-to-device satellite constellation
+- <a href="https://spacenews.com/blue-origin-to-test-new-glenn-upper-stages-at-stennis/" >🔗</a> **[SpaceNews]** Blue Origin to test New Glenn upper stages at Stennis
+- <a href="https://spacenews.com/rocket-lab-to-open-alaska-launch-site-under-266-million-space-force-deal/" >🔗</a> **[SpaceNews]** Rocket Lab to open Alaska launch site under $266 million Space Force deal
+- <a href="https://spacenews.com/ai-in-orbit-is-a-double-edged-sword-heres-how-to-keep-it-from-cutting-space-cooperation-apart/" >🔗</a> **[SpaceNews]** AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Meet_space_startups_at_ESA_s_Industry_Space_Days" >🔗</a> **[ESA]** Meet space startups at ESA’s Industry Space Days
 - <a href="https://europeanspaceflight.com/esa-ground-station-in-spain-cleared-to-return-to-service-after-wildfire-threat/" >🔗</a> **[European Spaceflight]** ESA Ground Station in Spain Cleared to Return to Service After Wildfire Threat
 - <a href="https://www.nasaspaceflight.com/2026/07/juno-io-subsurface-temps/" >🔗</a> **[NASASpaceflight]** Juno reveals surprising subsurface tempertures at Io, remarkably smooth surface
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-26-august-1-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 26-August 1, 2026
 - <a href="https://spacepolicyonline.com/news/soyuz-ms-28-back-home-after-8-months-on-iss/" >🔗</a> **[SpacePolicyOnline.com]** Soyuz MS-28 Back Home After 8 Months on ISS
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams, Crewmates Return from Space Station
-- <a href="https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/" >🔗</a> **[SpaceNews]** NASA and ESA facilities avoid major damage from wildfires in Spain
-- <a href="https://spacepolicyonline.com/news/successful-flight-for-starship-ift-13/" >🔗</a> **[SpacePolicyOnline.com]** Successful Flight for Starship IFT-13
-- <a href="https://spaceflightnow.com/2026/07/25/live-coverage-spacex-falcon-9-to-launch-starlink-satellites-from-west-coast/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX Falcon 9 to launch Starlink satellites from West Coast
-- <a href="https://spaceflightnow.com/2026/07/25/super-heavy-starship-rocket-chalks-up-mostly-successful-test-flight/" >🔗</a> **[Spaceflight Now]** Super Heavy-Starship rocket chalks up mostly successful test flight
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260727T110052">2026-07-27 11:00:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260727T123555">2026-07-27 12:35:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
