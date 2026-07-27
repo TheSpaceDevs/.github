@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/07/juno-io-subsurface-temps/" >🔗</a> **[NASASpaceflight]** Juno reveals surprising subsurface tempertures at Io, remarkably smooth surface
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-26-august-1-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 26-August 1, 2026
 - <a href="https://spacepolicyonline.com/news/soyuz-ms-28-back-home-after-8-months-on-iss/" >🔗</a> **[SpacePolicyOnline.com]** Soyuz MS-28 Back Home After 8 Months on ISS
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams, Crewmates Return from Space Station
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/07/25/super-heavy-starship-rocket-chalks-up-mostly-successful-test-flight/" >🔗</a> **[Spaceflight Now]** Super Heavy-Starship rocket chalks up mostly successful test flight
 - <a href="https://spacenews.com/spacex-conducts-13th-starship-test-flight/" >🔗</a> **[SpaceNews]** SpaceX conducts 13th Starship test flight
 - <a href="https://spacepolicyonline.com/news/fires-near-madrid-force-evacuation-of-nasas-dsn-facility/" >🔗</a> **[SpacePolicyOnline.com]** Fires near Madrid Force Evacuation of NASA’s DSN Facility
-- <a href="https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/" >🔗</a> **[SpaceNews]** ULA deals with financial challenges caused by Vulcan grounding
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260726T234638">2026-07-26 23:46:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260727T002145">2026-07-27 00:21:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
