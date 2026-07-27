@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Raging_wildfires_near_Madrid_Spain" >🔗</a> **[ESA]** Raging wildfires near Madrid, Spain
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/" >🔗</a> **[NASA]** NASA to Cover Three US Spacewalks, Host Preview News Conference
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/" >🔗</a> **[NASA]** NASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down
 - <a href="https://spacenews.com/intel-debuts-new-chip-for-space-computing/" >🔗</a> **[SpaceNews]** Intel debuts new chip for space computing
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/blue-origin-to-test-new-glenn-upper-stages-at-stennis/" >🔗</a> **[SpaceNews]** Blue Origin to test New Glenn upper stages at Stennis
 - <a href="https://spacenews.com/rocket-lab-to-open-alaska-launch-site-under-266-million-space-force-deal/" >🔗</a> **[SpaceNews]** Rocket Lab to open Alaska launch site under $266 million Space Force deal
 - <a href="https://spacenews.com/ai-in-orbit-is-a-double-edged-sword-heres-how-to-keep-it-from-cutting-space-cooperation-apart/" >🔗</a> **[SpaceNews]** AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart
-- <a href="https://www.esa.int/About_Us/Business_with_ESA/Meet_space_startups_at_ESA_s_Industry_Space_Days" >🔗</a> **[ESA]** Meet space startups at ESA’s Industry Space Days
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260727T155210">2026-07-27 15:52:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260727T164016">2026-07-27 16:40:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
