@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/" >🔗</a> **[NASA]** NASA Science Soars During August Total Solar Eclipse
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams Returns to Earth
 - <a href="https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/" >🔗</a> **[NASA]** NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Raging_wildfires_near_Madrid_Spain" >🔗</a> **[ESA]** Raging wildfires near Madrid, Spain
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/" >🔗</a> **[SpaceNews]** Orbes unveils Exo-ORB and agreement with Symphony Space
 - <a href="https://spacenews.com/spacenews-welcomes-max-aliprandi-as-business-development-associate/" >🔗</a> **[SpaceNews]** SpaceNews Welcomes Max Aliprandi as Business Development Associate
 - <a href="https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation/" >🔗</a> **[SpaceNews]** Amazon files application for direct-to-device satellite constellation
-- <a href="https://spacenews.com/blue-origin-to-test-new-glenn-upper-stages-at-stennis/" >🔗</a> **[SpaceNews]** Blue Origin to test New Glenn upper stages at Stennis
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260727T173047">2026-07-27 17:30:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260727T182807">2026-07-27 18:28:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
