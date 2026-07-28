@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-selects-successor-to-capstone-lunar-mission/" >🔗</a> **[SpaceNews]** NASA selects successor to CAPSTONE lunar mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Vertical_liftoff_as_Ariane_6_takes_flight_for_the_first_time" >🔗</a> **[ESA]** Vertical liftoff as Ariane 6 takes flight for the first time
 - <a href="https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/" >🔗</a> **[NASA]** Smoke Blankets Oregon
 - <a href="https://www.nasaspaceflight.com/2026/07/launch-preview-072726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 and Chang Zheng rockets set to launch this week
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/" >🔗</a> **[Arstechnica]** Despite recent successes, rapid reuse of Starship remains a tough nut to crack
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/" >🔗</a> **[NASA]** NASA Science Soars During August Total Solar Eclipse
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams Returns to Earth
-- <a href="https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/" >🔗</a> **[NASA]** NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260728T120837">2026-07-28 12:08:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260728T130316">2026-07-28 13:03:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
