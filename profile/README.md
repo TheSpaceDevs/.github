@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/" >🔗</a> **[SpaceNews]** ESA opens call to repurpose Gateway communications module
 - <a href="https://www.nasaspaceflight.com/2026/07/ship-40-catch-potential/" >🔗</a> **[NASASpaceflight]** Ship 40’s flawless flight promotes next mission catch potential
 - <a href="https://europeanspaceflight.com/germany-considers-dedicated-launch-facility-for-its-armed-forces/" >🔗</a> **[European Spaceflight]** Germany Considers Dedicated Launch Facility for its Armed Forces
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/How_Sentinel-1_measured_movement_of_Venezuela_quakes" >🔗</a> **[ESA]** How Sentinel-1 measured movement of Venezuela quakes
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/07/launch-preview-072726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 and Chang Zheng rockets set to launch this week
 - <a href="https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/" >🔗</a> **[SpaceNews]** Upper C-band auction offers another lift for GEO industry
 - <a href="https://spacenews.com/sphinx-defense-wins-287-million-contract-for-strategic-satellite-communications-software/" >🔗</a> **[SpaceNews]** Sphinx Defense wins $287 million contract for strategic satellite communications software
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams to Discuss Space Station Mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260728T200209">2026-07-28 20:02:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260728T204924">2026-07-28 20:49:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
