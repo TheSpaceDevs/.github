@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/swift-reboost-mission-encounters-attitude-control-problems/" >🔗</a> **[SpaceNews]** Swift reboost mission encounters attitude control problems
 - <a href="https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/" >🔗</a> **[SpaceNews]** ESA opens call to repurpose Gateway communications module
 - <a href="https://www.nasaspaceflight.com/2026/07/ship-40-catch-potential/" >🔗</a> **[NASASpaceflight]** Ship 40’s flawless flight promotes next mission catch potential
 - <a href="https://europeanspaceflight.com/germany-considers-dedicated-launch-facility-for-its-armed-forces/" >🔗</a> **[European Spaceflight]** Germany Considers Dedicated Launch Facility for its Armed Forces
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/" >🔗</a> **[NASA]** Smoke Blankets Oregon
 - <a href="https://www.nasaspaceflight.com/2026/07/launch-preview-072726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 and Chang Zheng rockets set to launch this week
 - <a href="https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/" >🔗</a> **[SpaceNews]** Upper C-band auction offers another lift for GEO industry
-- <a href="https://spacenews.com/sphinx-defense-wins-287-million-contract-for-strategic-satellite-communications-software/" >🔗</a> **[SpaceNews]** Sphinx Defense wins $287 million contract for strategic satellite communications software
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260728T224601">2026-07-28 22:46:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260728T231835">2026-07-28 23:18:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
