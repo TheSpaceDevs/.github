@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/germany-considers-dedicated-launch-facility-for-its-armed-forces/" >🔗</a> **[European Spaceflight]** Germany Considers Dedicated Launch Facility for its Armed Forces
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/How_Sentinel-1_measured_movement_of_Venezuela_quakes" >🔗</a> **[ESA]** How Sentinel-1 measured movement of Venezuela quakes
 - <a href="https://spacenews.com/nasa-selects-successor-to-capstone-lunar-mission/" >🔗</a> **[SpaceNews]** NASA selects successor to CAPSTONE lunar mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Vertical_liftoff_as_Ariane_6_takes_flight_for_the_first_time" >🔗</a> **[ESA]** Vertical liftoff as Ariane 6 takes flight for the first time
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/sphinx-defense-wins-287-million-contract-for-strategic-satellite-communications-software/" >🔗</a> **[SpaceNews]** Sphinx Defense wins $287 million contract for strategic satellite communications software
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams to Discuss Space Station Mission
 - <a href="https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/" >🔗</a> **[Arstechnica]** Despite recent successes, rapid reuse of Starship remains a tough nut to crack
-- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/" >🔗</a> **[NASA]** NASA Science Soars During August Total Solar Eclipse
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260728T141321">2026-07-28 14:13:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260728T151449">2026-07-28 15:14:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
