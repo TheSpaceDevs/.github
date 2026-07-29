@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/swift-reboost-mission-encounters-setback/" >🔗</a> **[SpacePolicyOnline.com]** Swift Reboost Mission Encounters Setback
+- <a href="https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/" >🔗</a> **[Arstechnica]** Actually, Starliner might fly into space this year
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/" >🔗</a> **[NASA]** NASA Sets Coverage for August Northern Hemisphere Total Solar Eclipse
 - <a href="https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte/" >🔗</a> **[NASA]** NASA’s Curiosity Views a Sand-Capped Butte
 - <a href="https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/" >🔗</a> **[NASA]** NASA’s Curiosity Discovers a Field of Martian Polygons
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/understanding-how-martian-auroras-are-made/" >🔗</a> **[NASA]** Understanding How Martian Auroras Are Made
 - <a href="https://spacenews.com/latconnect-60-accelerates-swirsat-constellation-growth-anchored-in-western-australia-with-expansion-into-malaysia-and-uae/" >🔗</a> **[SpaceNews]** LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE
 - <a href="https://europeanspaceflight.com/maiaspace-ditches-suborbital-test-flight-plans/" >🔗</a> **[European Spaceflight]** MaiaSpace Ditches Suborbital Test Flight Plans
-- <a href="https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/" >🔗</a> **[NASA]** NASA Webb Explores Family Tree of Newly Discovered Distant Objects
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-ray-williams/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Ray Williams
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T175243">2026-07-29 17:52:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T181726">2026-07-29 18:17:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
