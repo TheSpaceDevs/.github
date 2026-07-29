@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/fortastra-and-hadrian-join-forces-to-streamline-satellite-production/" >🔗</a> **[SpaceNews]** Fortastra and Hadrian join forces to streamline satellite production
 - <a href="https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/" >🔗</a> **[SpaceNews]** H3 to launch next ispace lunar lander mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_and_Proba-3_s_Coronagraph_play_hide_and_seek" >🔗</a> **[ESA]** Earth and Proba-3’s Coronagraph play hide and seek
 - <a href="https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/" >🔗</a> **[NASA]** Sizing Up the Sargassum Belt
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/swift-reboost-mission-encounters-attitude-control-problems/" >🔗</a> **[SpaceNews]** Swift reboost mission encounters attitude control problems
 - <a href="https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/" >🔗</a> **[SpaceNews]** ESA opens call to repurpose Gateway communications module
 - <a href="https://www.nasaspaceflight.com/2026/07/ship-40-catch-potential/" >🔗</a> **[NASASpaceflight]** Ship 40’s flawless flight promotes next mission catch potential
-- <a href="https://europeanspaceflight.com/germany-considers-dedicated-launch-facility-for-its-armed-forces/" >🔗</a> **[European Spaceflight]** Germany Considers Dedicated Launch Facility for its Armed Forces
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T123550">2026-07-29 12:35:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T133139">2026-07-29 13:31:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
