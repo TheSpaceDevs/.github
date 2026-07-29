@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/dot-issues-proposed-rule-to-waive-environmental-regulations-for-space-launches/" >🔗</a> **[SpacePolicyOnline.com]** DOT Issues Proposed Rule to Waive Environmental Regulations for Space Launches
 - <a href="https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/" >🔗</a> **[SpaceNews]** Boeing still working with NASA to schedule next Starliner flight
 - <a href="https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/" >🔗</a> **[SpaceNews]** Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush
 - <a href="https://spacenews.com/swift-reboost-mission-encounters-attitude-control-problems/" >🔗</a> **[SpaceNews]** Swift reboost mission encounters attitude control problems
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/How_Sentinel-1_measured_movement_of_Venezuela_quakes" >🔗</a> **[ESA]** How Sentinel-1 measured movement of Venezuela quakes
 - <a href="https://spacenews.com/nasa-selects-successor-to-capstone-lunar-mission/" >🔗</a> **[SpaceNews]** NASA selects successor to CAPSTONE lunar mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Vertical_liftoff_as_Ariane_6_takes_flight_for_the_first_time" >🔗</a> **[ESA]** Vertical liftoff as Ariane 6 takes flight for the first time
-- <a href="https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/" >🔗</a> **[NASA]** Smoke Blankets Oregon
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T025857">2026-07-29 02:58:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T040623">2026-07-29 04:06:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
