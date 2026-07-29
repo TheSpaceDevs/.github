@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/" >🔗</a> **[NASA]** NASA Sets Coverage for August Northern Hemisphere Total Solar Eclipse
+- <a href="https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte/" >🔗</a> **[NASA]** NASA’s Curiosity Views a Sand-Capped Butte
+- <a href="https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/" >🔗</a> **[NASA]** NASA’s Curiosity Discovers a Field of Martian Polygons
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/" >🔗</a> **[NASA]** NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-july-29-psyche-receives-gravity-assist-from-mars/" >🔗</a> **[NASA]** APOD: 2026 July 29 – Psyche Receives Gravity Assist from Mars
 - <a href="https://www.nasa.gov/image-article/understanding-how-martian-auroras-are-made/" >🔗</a> **[NASA]** Understanding How Martian Auroras Are Made
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/maiaspace-ditches-suborbital-test-flight-plans/" >🔗</a> **[European Spaceflight]** MaiaSpace Ditches Suborbital Test Flight Plans
 - <a href="https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/" >🔗</a> **[NASA]** NASA Webb Explores Family Tree of Newly Discovered Distant Objects
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-ray-williams/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Ray Williams
-- <a href="https://spacenews.com/fortastra-and-hadrian-join-forces-to-streamline-satellite-production/" >🔗</a> **[SpaceNews]** Fortastra and Hadrian join forces to streamline satellite production
-- <a href="https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/" >🔗</a> **[SpaceNews]** H3 to launch next ispace lunar lander mission
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_and_Proba-3_s_Coronagraph_play_hide_and_seek" >🔗</a> **[ESA]** Earth and Proba-3’s Coronagraph play hide and seek
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T165536">2026-07-29 16:55:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T172512">2026-07-29 17:25:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
