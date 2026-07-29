@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_and_Proba-3_s_Coronagraph_play_hide_and_seek" >🔗</a> **[ESA]** Earth and Proba-3’s Coronagraph play hide and seek
 - <a href="https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/" >🔗</a> **[NASA]** Sizing Up the Sargassum Belt
 - <a href="https://spacepolicyonline.com/news/dot-issues-proposed-rule-to-waive-environmental-regulations-for-space-launches/" >🔗</a> **[SpacePolicyOnline.com]** DOT Issues Proposed Rule to Waive Environmental Regulations for Space Launches
 - <a href="https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/" >🔗</a> **[SpaceNews]** Boeing still working with NASA to schedule next Starliner flight
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/07/ship-40-catch-potential/" >🔗</a> **[NASASpaceflight]** Ship 40’s flawless flight promotes next mission catch potential
 - <a href="https://europeanspaceflight.com/germany-considers-dedicated-launch-facility-for-its-armed-forces/" >🔗</a> **[European Spaceflight]** Germany Considers Dedicated Launch Facility for its Armed Forces
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/How_Sentinel-1_measured_movement_of_Venezuela_quakes" >🔗</a> **[ESA]** How Sentinel-1 measured movement of Venezuela quakes
-- <a href="https://spacenews.com/nasa-selects-successor-to-capstone-lunar-mission/" >🔗</a> **[SpaceNews]** NASA selects successor to CAPSTONE lunar mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T105002">2026-07-29 10:50:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T114153">2026-07-29 11:41:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
