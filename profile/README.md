@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/latconnect-60-accelerates-swirsat-constellation-growth-anchored-in-western-australia-with-expansion-into-malaysia-and-uae/" >🔗</a> **[SpaceNews]** LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE
+- <a href="https://europeanspaceflight.com/maiaspace-ditches-suborbital-test-flight-plans/" >🔗</a> **[European Spaceflight]** MaiaSpace Ditches Suborbital Test Flight Plans
+- <a href="https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/" >🔗</a> **[NASA]** NASA Webb Explores Family Tree of Newly Discovered Distant Objects
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-ray-williams/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Ray Williams
 - <a href="https://spacenews.com/fortastra-and-hadrian-join-forces-to-streamline-satellite-production/" >🔗</a> **[SpaceNews]** Fortastra and Hadrian join forces to streamline satellite production
 - <a href="https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/" >🔗</a> **[SpaceNews]** H3 to launch next ispace lunar lander mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_and_Proba-3_s_Coronagraph_play_hide_and_seek" >🔗</a> **[ESA]** Earth and Proba-3’s Coronagraph play hide and seek
 - <a href="https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/" >🔗</a> **[NASA]** Sizing Up the Sargassum Belt
 - <a href="https://spacepolicyonline.com/news/dot-issues-proposed-rule-to-waive-environmental-regulations-for-space-launches/" >🔗</a> **[SpacePolicyOnline.com]** DOT Issues Proposed Rule to Waive Environmental Regulations for Space Launches
 - <a href="https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/" >🔗</a> **[SpaceNews]** Boeing still working with NASA to schedule next Starliner flight
-- <a href="https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/" >🔗</a> **[SpaceNews]** Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush
-- <a href="https://spacenews.com/swift-reboost-mission-encounters-attitude-control-problems/" >🔗</a> **[SpaceNews]** Swift reboost mission encounters attitude control problems
-- <a href="https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/" >🔗</a> **[SpaceNews]** ESA opens call to repurpose Gateway communications module
-- <a href="https://www.nasaspaceflight.com/2026/07/ship-40-catch-potential/" >🔗</a> **[NASASpaceflight]** Ship 40’s flawless flight promotes next mission catch potential
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T133139">2026-07-29 13:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T144338">2026-07-29 14:43:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
