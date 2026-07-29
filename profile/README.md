@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/" >🔗</a> **[SpaceNews]** Boeing still working with NASA to schedule next Starliner flight
+- <a href="https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/" >🔗</a> **[SpaceNews]** Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush
 - <a href="https://spacenews.com/swift-reboost-mission-encounters-attitude-control-problems/" >🔗</a> **[SpaceNews]** Swift reboost mission encounters attitude control problems
 - <a href="https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/" >🔗</a> **[SpaceNews]** ESA opens call to repurpose Gateway communications module
 - <a href="https://www.nasaspaceflight.com/2026/07/ship-40-catch-potential/" >🔗</a> **[NASASpaceflight]** Ship 40’s flawless flight promotes next mission catch potential
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/nasa-selects-successor-to-capstone-lunar-mission/" >🔗</a> **[SpaceNews]** NASA selects successor to CAPSTONE lunar mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Vertical_liftoff_as_Ariane_6_takes_flight_for_the_first_time" >🔗</a> **[ESA]** Vertical liftoff as Ariane 6 takes flight for the first time
 - <a href="https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/" >🔗</a> **[NASA]** Smoke Blankets Oregon
-- <a href="https://www.nasaspaceflight.com/2026/07/launch-preview-072726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 and Chang Zheng rockets set to launch this week
-- <a href="https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/" >🔗</a> **[SpaceNews]** Upper C-band auction offers another lift for GEO industry
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T005759">2026-07-29 00:57:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T013739">2026-07-29 01:37:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
