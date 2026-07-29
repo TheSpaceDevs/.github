@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/l3harris-delays-missile-business-ipo-to-2027-despite-surging-defense-demand/" >🔗</a> **[SpaceNews]** L3Harris delays missile business IPO to 2027 despite surging defense demand
 - <a href="https://www.nasa.gov/news-release/nasa-awards-2026-innovative-technology-concepts/" >🔗</a> **[NASA]** NASA Awards 2026 Innovative Technology Concepts
 - <a href="https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks/" >🔗</a> **[SpaceNews]** SpaceX wins $1.6 billion in launch orders for military satellite networks
 - <a href="https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/" >🔗</a> **[SpaceNews]** Space Force awards All Points $250 million to expand satellite processing at Vandenberg
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte/" >🔗</a> **[NASA]** NASA’s Curiosity Views a Sand-Capped Butte
 - <a href="https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/" >🔗</a> **[NASA]** NASA’s Curiosity Discovers a Field of Martian Polygons
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/" >🔗</a> **[NASA]** NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures
-- <a href="https://science.nasa.gov/image-article/apod/apod-2026-july-29-psyche-receives-gravity-assist-from-mars/" >🔗</a> **[NASA]** APOD: 2026 July 29 – Psyche Receives Gravity Assist from Mars
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T224546">2026-07-29 22:45:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T231828">2026-07-29 23:18:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
