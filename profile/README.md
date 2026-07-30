@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/07/29/live-coverage-spacex-to-launch-classified-payload-for-national-reconnaissance-office/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch classified payload for National Reconnaissance Office
+- <a href="https://spacenews.com/proposed-rule-would-exempt-commercial-launch-licensing-from-environmental-regulations/" >🔗</a> **[SpaceNews]** Proposed rule would exempt commercial launch licensing from environmental regulations
 - <a href="https://spacenews.com/l3harris-delays-missile-business-ipo-to-2027-despite-surging-defense-demand/" >🔗</a> **[SpaceNews]** L3Harris delays missile business IPO to 2027 despite surging defense demand
 - <a href="https://www.nasa.gov/news-release/nasa-awards-2026-innovative-technology-concepts/" >🔗</a> **[NASA]** NASA Awards 2026 Innovative Technology Concepts
 - <a href="https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks/" >🔗</a> **[SpaceNews]** SpaceX wins $1.6 billion in launch orders for military satellite networks
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/" >🔗</a> **[Arstechnica]** Actually, Starliner might fly into space this year
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/" >🔗</a> **[NASA]** NASA Sets Coverage for August Northern Hemisphere Total Solar Eclipse
 - <a href="https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte/" >🔗</a> **[NASA]** NASA’s Curiosity Views a Sand-Capped Butte
-- <a href="https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/" >🔗</a> **[NASA]** NASA’s Curiosity Discovers a Field of Martian Polygons
-- <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/" >🔗</a> **[NASA]** NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260729T234649">2026-07-29 23:46:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260730T001929">2026-07-30 00:19:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
