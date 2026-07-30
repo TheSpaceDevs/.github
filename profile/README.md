@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/" >🔗</a> **[NASA]** Students Take on Airborne Field Research with NASA
 - <a href="https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/" >🔗</a> **[SpaceNews]** K2 Space raises $500 million for commercial, defense satellite expansion
 - <a href="https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch/" >🔗</a> **[SpaceNews]** Roman Space Telescope on track for late August launch
 - <a href="https://spacenews.com/jim-bridenstine-on-his-new-role-at-quantum-space/" >🔗</a> **[SpaceNews]** Jim Bridenstine on his new role at Quantum Space
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/arianegroup-completes-themis-wet-dress-rehearsal/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Themis Wet Dress Rehearsal
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/From_drone_flight_to_sounding_rocket" >🔗</a> **[ESA]** From drone flight to sounding rocket
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/" >🔗</a> **[NASA]** NASA Johnson Interns Shaping the Future of Exploration
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/SMOS/SMOS_salinity_could_offer_early_indicator_of_El_Nino" >🔗</a> **[ESA]** SMOS salinity could offer early indicator of El Niño
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260730T224823">2026-07-30 22:48:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260730T231945">2026-07-30 23:19:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
