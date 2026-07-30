@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/" >🔗</a> **[NASA]** NASA Assigns Astronaut Deniz Burnham to First Space Station Mission
 - <a href="https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/" >🔗</a> **[NASA]** Starburst Galaxy Centaurus A
 - <a href="https://spacenews.com/rocket-lab-wins-another-launch-contract-from-japans-iqps/" >🔗</a> **[SpaceNews]** Rocket Lab wins another launch contract from Japan’s iQPS
 - <a href="https://europeanspaceflight.com/arianegroup-completes-themis-wet-dress-rehearsal/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Themis Wet Dress Rehearsal
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/apod-july-30-red-sun-trough-wildfire-smoke/" >🔗</a> **[NASA]** APOD: July 30 – Red Sun trough Wildfire Smoke
 - <a href="https://science.nasa.gov/earth/earth-observatory/new-zealands-southern-wilderness/" >🔗</a> **[NASA]** New Zealand’s Southern Wilderness
 - <a href="https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers/" >🔗</a> **[SpaceNews]** Sophia Space and Caltech claim patent for space data centers
-- <a href="https://spaceflightnow.com/2026/07/29/live-coverage-spacex-to-launch-classified-payload-for-national-reconnaissance-office/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch classified payload for National Reconnaissance Office
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260730T153531">2026-07-30 15:35:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260730T162823">2026-07-30 16:28:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
