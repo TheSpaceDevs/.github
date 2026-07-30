@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/" >🔗</a> **[SpaceNews]** K2 Space raises $500 million for commercial, defense satellite expansion
 - <a href="https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch/" >🔗</a> **[SpaceNews]** Roman Space Telescope on track for late August launch
 - <a href="https://spacenews.com/jim-bridenstine-on-his-new-role-at-quantum-space/" >🔗</a> **[SpaceNews]** Jim Bridenstine on his new role at Quantum Space
 - <a href="https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/" >🔗</a> **[NASA]** NASA Assigns Astronaut Deniz Burnham to First Space Station Mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/From_drone_flight_to_sounding_rocket" >🔗</a> **[ESA]** From drone flight to sounding rocket
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/" >🔗</a> **[NASA]** NASA Johnson Interns Shaping the Future of Exploration
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/SMOS/SMOS_salinity_could_offer_early_indicator_of_El_Nino" >🔗</a> **[ESA]** SMOS salinity could offer early indicator of El Niño
-- <a href="https://science.nasa.gov/image-article/apod-july-30-red-sun-trough-wildfire-smoke/" >🔗</a> **[NASA]** APOD: July 30 – Red Sun trough Wildfire Smoke
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260730T183217">2026-07-30 18:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260730T192817">2026-07-30 19:28:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
