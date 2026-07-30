@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers/" >🔗</a> **[SpaceNews]** Sophia Space and Caltech claim patent for space data centers
 - <a href="https://spaceflightnow.com/2026/07/29/live-coverage-spacex-to-launch-classified-payload-for-national-reconnaissance-office/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch classified payload for National Reconnaissance Office
 - <a href="https://spacenews.com/proposed-rule-would-exempt-commercial-launch-licensing-from-environmental-regulations/" >🔗</a> **[SpaceNews]** Proposed rule would exempt commercial launch licensing from environmental regulations
 - <a href="https://spacenews.com/l3harris-delays-missile-business-ipo-to-2027-despite-surging-defense-demand/" >🔗</a> **[SpaceNews]** L3Harris delays missile business IPO to 2027 despite surging defense demand
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/swift-reboost-mission-encounters-setback/" >🔗</a> **[SpacePolicyOnline.com]** Swift Reboost Mission Encounters Setback
 - <a href="https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/" >🔗</a> **[Arstechnica]** Actually, Starliner might fly into space this year
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/" >🔗</a> **[NASA]** NASA Sets Coverage for August Northern Hemisphere Total Solar Eclipse
-- <a href="https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte/" >🔗</a> **[NASA]** NASA’s Curiosity Views a Sand-Capped Butte
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260730T040433">2026-07-30 04:04:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260730T052441">2026-07-30 05:24:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
