@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/" >🔗</a> **[NASA]** NASA Johnson Interns Shaping the Future of Exploration
 - <a href="https://science.nasa.gov/image-article/apod-july-30-red-sun-trough-wildfire-smoke/" >🔗</a> **[NASA]** APOD: July 30 – Red Sun trough Wildfire Smoke
 - <a href="https://science.nasa.gov/earth/earth-observatory/new-zealands-southern-wilderness/" >🔗</a> **[NASA]** New Zealand’s Southern Wilderness
 - <a href="https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers/" >🔗</a> **[SpaceNews]** Sophia Space and Caltech claim patent for space data centers
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-awards-2026-innovative-technology-concepts/" >🔗</a> **[NASA]** NASA Awards 2026 Innovative Technology Concepts
 - <a href="https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks/" >🔗</a> **[SpaceNews]** SpaceX wins $1.6 billion in launch orders for military satellite networks
 - <a href="https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/" >🔗</a> **[SpaceNews]** Space Force awards All Points $250 million to expand satellite processing at Vandenberg
-- <a href="https://spacepolicyonline.com/news/swift-reboost-mission-encounters-setback/" >🔗</a> **[SpacePolicyOnline.com]** Swift Reboost Mission Encounters Setback
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260730T072025">2026-07-30 07:20:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260730T081441">2026-07-30 08:14:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
