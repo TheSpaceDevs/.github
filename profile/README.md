@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-wins-another-launch-contract-from-japans-iqps/" >🔗</a> **[SpaceNews]** Rocket Lab wins another launch contract from Japan’s iQPS
 - <a href="https://europeanspaceflight.com/arianegroup-completes-themis-wet-dress-rehearsal/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Themis Wet Dress Rehearsal
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/From_drone_flight_to_sounding_rocket" >🔗</a> **[ESA]** From drone flight to sounding rocket
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/" >🔗</a> **[NASA]** NASA Johnson Interns Shaping the Future of Exploration
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers/" >🔗</a> **[SpaceNews]** Sophia Space and Caltech claim patent for space data centers
 - <a href="https://spaceflightnow.com/2026/07/29/live-coverage-spacex-to-launch-classified-payload-for-national-reconnaissance-office/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch classified payload for National Reconnaissance Office
 - <a href="https://spacenews.com/proposed-rule-would-exempt-commercial-launch-licensing-from-environmental-regulations/" >🔗</a> **[SpaceNews]** Proposed rule would exempt commercial launch licensing from environmental regulations
-- <a href="https://spacenews.com/l3harris-delays-missile-business-ipo-to-2027-despite-surging-defense-demand/" >🔗</a> **[SpaceNews]** L3Harris delays missile business IPO to 2027 despite surging defense demand
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260730T111234">2026-07-30 11:12:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260730T120500">2026-07-30 12:05:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
