@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: August 2026 Skywatching Tips from NASA
 - <a href="https://www.nasaspaceflight.com/2026/07/pad-1-retrofits-block-3-flights/" >🔗</a> **[NASASpaceflight]** Starbase Pad 1 Retrofits Progress as Block 3 Flights Start
 - <a href="https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/" >🔗</a> **[NASA]** NASA to Host Florida Event Celebrating American Air, Space Leadership
 - <a href="https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/" >🔗</a> **[SpaceNews]** Sending repurposed Mars rover to the moon could cost more than $1 billion
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/07/31/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/" >🔗</a> **[NASA]** NASA Opens New Flight Dynamics Research Facility in Virginia
 - <a href="https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/" >🔗</a> **[SpaceNews]** Spain commits up to $2.3 billion for national military communications for IRIS²
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4961-4967: Approaching a Break in the Rock Record?
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T224606">2026-07-31 22:46:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T231834">2026-07-31 23:18:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
