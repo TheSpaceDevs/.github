@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/07/31/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/" >🔗</a> **[NASA]** NASA Opens New Flight Dynamics Research Facility in Virginia
 - <a href="https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/" >🔗</a> **[SpaceNews]** Spain commits up to $2.3 billion for national military communications for IRIS²
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4961-4967: Approaching a Break in the Rock Record?
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_27-31_July_2026" >🔗</a> **[ESA]** Week in images: 27-31 July 2026
 - <a href="https://europeanspaceflight.com/spain-offers-e1-billion-in-bid-to-host-thirty-meter-telescope/" >🔗</a> **[European Spaceflight]** Spain Offers €1 Billion in Bid to Host Thirty Meter Telescope
 - <a href="https://www.nasaspaceflight.com/2026/07/blue-origin-update-july26/" >🔗</a> **[NASASpaceflight]** Blue Origin continues rebuilding LC-36, prepares testing alternatives for New Glenn second stage
-- <a href="https://spacenews.com/nasa-still-assessing-starliner-1-flight-opportunities/" >🔗</a> **[SpaceNews]** NASA still assessing Starliner-1 flight opportunities
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T173610">2026-07-31 17:36:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T182716">2026-07-31 18:27:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
