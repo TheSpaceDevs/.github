@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_New_Orleans_and_the_mighty_Mississippi" >🔗</a> **[ESA]** Earth from Space: New Orleans and the mighty Mississippi
 - <a href="https://science.nasa.gov/image-article/apod-2026-july-31-ngc-4372-and-the-dark-doodad/" >🔗</a> **[NASA]** APOD: 2026 July 31 – NGC 4372 and the Dark Doodad
 - <a href="https://science.nasa.gov/earth/earth-observatory/destructive-fires-char-western-europe/" >🔗</a> **[NASA]** Destructive Fires Char Western Europe
 - <a href="https://spacepolicyonline.com/news/still-no-date-for-starliners-next-flight/" >🔗</a> **[SpacePolicyOnline.com]** Still No Date for Starliner’s Next Flight
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch/" >🔗</a> **[SpaceNews]** Roman Space Telescope on track for late August launch
 - <a href="https://spacenews.com/jim-bridenstine-on-his-new-role-at-quantum-space/" >🔗</a> **[SpaceNews]** Jim Bridenstine on his new role at Quantum Space
 - <a href="https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/" >🔗</a> **[NASA]** NASA Assigns Astronaut Deniz Burnham to First Space Station Mission
-- <a href="https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/" >🔗</a> **[NASA]** Starburst Galaxy Centaurus A
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T075729">2026-07-31 07:57:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T090349">2026-07-31 09:03:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
