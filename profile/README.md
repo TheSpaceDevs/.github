@@ -54,7 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260806T193000">2026-08-06 19:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | Michibiki 7 (QZS-7)&location=Tanegashima Space Center, Japan&dates=20260806T193000Z%2F20260806T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | Michibiki 7 (QZS-7)** from Tanegashima Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260808T140000">2026-08-08 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-38&location=Vandenberg SFB, CA, USA&dates=20260808T140000Z%2F20260808T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-38** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260809T110000">2026-08-09 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260809T110000Z%2F20260809T140000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T145000">2026-08-10 14:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-19&location=Cape Canaveral SFS, FL, USA&dates=20260810T145000Z%2F20260810T185000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-19** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T144900">2026-08-10 14:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-19&location=Cape Canaveral SFS, FL, USA&dates=20260810T144900Z%2F20260810T184900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-19** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4961-4967: Approaching a Break in the Rock Record?
+- <a href="https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/" >🔗</a> **[NASA]** NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space
 - <a href="https://spacenews.com/inside-the-effort-to-show-congress-what-war-in-space-looks-like/" >🔗</a> **[SpaceNews]** Inside the effort to show Congress what war in space looks like
 - <a href="https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract/" >🔗</a> **[SpaceNews]** Space Force picks 15 companies for $981 million training range contract
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_27-31_July_2026" >🔗</a> **[ESA]** Week in images: 27-31 July 2026
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-still-assessing-starliner-1-flight-opportunities/" >🔗</a> **[SpaceNews]** NASA still assessing Starliner-1 flight opportunities
 - <a href="https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east/" >🔗</a> **[SpaceNews]** The new space wars: lessons from Ukraine and the Middle East
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/This_Month_at_ESA_July_2026" >🔗</a> **[ESA]** This Month at ESA: July 2026
-- <a href="https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/" >🔗</a> **[Arstechnica]** Rocket Report: Big deals for US launch firms, RFA One debut is delayed
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse" >🔗</a> **[ESA]** How to safely watch a solar eclipse
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T141304">2026-07-31 14:13:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T151439">2026-07-31 15:14:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
