@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/" >🔗</a> **[NASA]** NASA’s Newest Wind Tunnel Opens at NASA Langley
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/" >🔗</a> **[NASA]** TB 26-04 Webbings for Use in Elevated Oxygen Environments
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/" >🔗</a> **[NASA]** NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket
 - <a href="https://spaceflightnow.com/2026/07/31/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/" >🔗</a> **[NASA]** NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space
 - <a href="https://spacenews.com/inside-the-effort-to-show-congress-what-war-in-space-looks-like/" >🔗</a> **[SpaceNews]** Inside the effort to show Congress what war in space looks like
 - <a href="https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract/" >🔗</a> **[SpaceNews]** Space Force picks 15 companies for $981 million training range contract
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_27-31_July_2026" >🔗</a> **[ESA]** Week in images: 27-31 July 2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T193036">2026-07-31 19:30:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T202604">2026-07-31 20:26:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
