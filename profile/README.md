@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/" >🔗</a> **[Arstechnica]** Rocket Report: Big deals for US launch firms, RFA One debut is delayed
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water" >🔗</a> **[ESA]** HydroGNSS data open for new insights into Earth’s water
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_New_Orleans_and_the_mighty_Mississippi" >🔗</a> **[ESA]** Earth from Space: New Orleans and the mighty Mississippi
 - <a href="https://science.nasa.gov/image-article/apod-2026-july-31-ngc-4372-and-the-dark-doodad/" >🔗</a> **[NASA]** APOD: 2026 July 31 – NGC 4372 and the Dark Doodad
 - <a href="https://science.nasa.gov/earth/earth-observatory/destructive-fires-char-western-europe/" >🔗</a> **[NASA]** Destructive Fires Char Western Europe
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/" >🔗</a> **[NASA]** Students Take on Airborne Field Research with NASA
 - <a href="https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/" >🔗</a> **[SpaceNews]** K2 Space raises $500 million for commercial, defense satellite expansion
 - <a href="https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch/" >🔗</a> **[SpaceNews]** Roman Space Telescope on track for late August launch
-- <a href="https://spacenews.com/jim-bridenstine-on-his-new-role-at-quantum-space/" >🔗</a> **[SpaceNews]** Jim Bridenstine on his new role at Quantum Space
-- <a href="https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/" >🔗</a> **[NASA]** NASA Assigns Astronaut Deniz Burnham to First Space Station Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T101920">2026-07-31 10:19:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T111556">2026-07-31 11:15:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
