@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/07/pad-1-retrofits-block-3-flights/" >🔗</a> **[NASASpaceflight]** Starbase Pad 1 Retrofits Progress as Block 3 Flights Start
+- <a href="https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/" >🔗</a> **[NASA]** NASA to Host Florida Event Celebrating American Air, Space Leadership
+- <a href="https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/" >🔗</a> **[SpaceNews]** Sending repurposed Mars rover to the moon could cost more than $1 billion
 - <a href="https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/" >🔗</a> **[NASA]** NASA’s Newest Wind Tunnel Opens at NASA Langley
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/" >🔗</a> **[NASA]** TB 26-04 Webbings for Use in Elevated Oxygen Environments
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/" >🔗</a> **[NASA]** NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/" >🔗</a> **[NASA]** NASA Opens New Flight Dynamics Research Facility in Virginia
 - <a href="https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/" >🔗</a> **[SpaceNews]** Spain commits up to $2.3 billion for national military communications for IRIS²
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4961-4967: Approaching a Break in the Rock Record?
-- <a href="https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/" >🔗</a> **[NASA]** NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space
-- <a href="https://spacenews.com/inside-the-effort-to-show-congress-what-war-in-space-looks-like/" >🔗</a> **[SpaceNews]** Inside the effort to show Congress what war in space looks like
-- <a href="https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract/" >🔗</a> **[SpaceNews]** Space Force picks 15 companies for $981 million training range contract
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T204810">2026-07-31 20:48:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T212135">2026-07-31 21:21:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
