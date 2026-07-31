@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/spain-offers-e1-billion-in-bid-to-host-thirty-meter-telescope/" >🔗</a> **[European Spaceflight]** Spain Offers €1 Billion in Bid to Host Thirty Meter Telescope
+- <a href="https://www.nasaspaceflight.com/2026/07/blue-origin-update-july26/" >🔗</a> **[NASASpaceflight]** Blue Origin continues rebuilding LC-36, prepares testing alternatives for New Glenn second stage
+- <a href="https://spacenews.com/nasa-still-assessing-starliner-1-flight-opportunities/" >🔗</a> **[SpaceNews]** NASA still assessing Starliner-1 flight opportunities
 - <a href="https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east/" >🔗</a> **[SpaceNews]** The new space wars: lessons from Ukraine and the Middle East
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/This_Month_at_ESA_July_2026" >🔗</a> **[ESA]** This Month at ESA: July 2026
 - <a href="https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/" >🔗</a> **[Arstechnica]** Rocket Report: Big deals for US launch firms, RFA One debut is delayed
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_New_Orleans_and_the_mighty_Mississippi" >🔗</a> **[ESA]** Earth from Space: New Orleans and the mighty Mississippi
 - <a href="https://science.nasa.gov/image-article/apod-2026-july-31-ngc-4372-and-the-dark-doodad/" >🔗</a> **[NASA]** APOD: 2026 July 31 – NGC 4372 and the Dark Doodad
 - <a href="https://science.nasa.gov/earth/earth-observatory/destructive-fires-char-western-europe/" >🔗</a> **[NASA]** Destructive Fires Char Western Europe
-- <a href="https://spacepolicyonline.com/news/still-no-date-for-starliners-next-flight/" >🔗</a> **[SpacePolicyOnline.com]** Still No Date for Starliner’s Next Flight
-- <a href="https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations/" >🔗</a> **[SpaceNews]** Rules of the road needed for orbital data center constellations
-- <a href="https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/" >🔗</a> **[NASA]** Students Take on Airborne Field Research with NASA
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T120921">2026-07-31 12:09:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T130535">2026-07-31 13:05:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
