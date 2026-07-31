@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east/" >🔗</a> **[SpaceNews]** The new space wars: lessons from Ukraine and the Middle East
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/This_Month_at_ESA_July_2026" >🔗</a> **[ESA]** This Month at ESA: July 2026
 - <a href="https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/" >🔗</a> **[Arstechnica]** Rocket Report: Big deals for US launch firms, RFA One debut is delayed
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water" >🔗</a> **[ESA]** HydroGNSS data open for new insights into Earth’s water
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_New_Orleans_and_the_mighty_Mississippi" >🔗</a> **[ESA]** Earth from Space: New Orleans and the mighty Mississippi
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/still-no-date-for-starliners-next-flight/" >🔗</a> **[SpacePolicyOnline.com]** Still No Date for Starliner’s Next Flight
 - <a href="https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations/" >🔗</a> **[SpaceNews]** Rules of the road needed for orbital data center constellations
 - <a href="https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/" >🔗</a> **[NASA]** Students Take on Airborne Field Research with NASA
-- <a href="https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/" >🔗</a> **[SpaceNews]** K2 Space raises $500 million for commercial, defense satellite expansion
-- <a href="https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch/" >🔗</a> **[SpaceNews]** Roman Space Telescope on track for late August launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T111556">2026-07-31 11:15:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T120921">2026-07-31 12:09:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
