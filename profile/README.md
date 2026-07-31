@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/" >🔗</a> **[SpaceNews]** Spain commits up to $2.3 billion for national military communications for IRIS²
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4961-4967: Approaching a Break in the Rock Record?
 - <a href="https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/" >🔗</a> **[NASA]** NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space
 - <a href="https://spacenews.com/inside-the-effort-to-show-congress-what-war-in-space-looks-like/" >🔗</a> **[SpaceNews]** Inside the effort to show Congress what war in space looks like
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/07/blue-origin-update-july26/" >🔗</a> **[NASASpaceflight]** Blue Origin continues rebuilding LC-36, prepares testing alternatives for New Glenn second stage
 - <a href="https://spacenews.com/nasa-still-assessing-starliner-1-flight-opportunities/" >🔗</a> **[SpaceNews]** NASA still assessing Starliner-1 flight opportunities
 - <a href="https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east/" >🔗</a> **[SpaceNews]** The new space wars: lessons from Ukraine and the Middle East
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/07/This_Month_at_ESA_July_2026" >🔗</a> **[ESA]** This Month at ESA: July 2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T151439">2026-07-31 15:14:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T160820">2026-07-31 16:08:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
