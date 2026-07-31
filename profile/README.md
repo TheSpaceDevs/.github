@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/still-no-date-for-starliners-next-flight/" >🔗</a> **[SpacePolicyOnline.com]** Still No Date for Starliner’s Next Flight
 - <a href="https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations/" >🔗</a> **[SpaceNews]** Rules of the road needed for orbital data center constellations
 - <a href="https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/" >🔗</a> **[NASA]** Students Take on Airborne Field Research with NASA
 - <a href="https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/" >🔗</a> **[SpaceNews]** K2 Space raises $500 million for commercial, defense satellite expansion
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/" >🔗</a> **[NASA]** Starburst Galaxy Centaurus A
 - <a href="https://spacenews.com/rocket-lab-wins-another-launch-contract-from-japans-iqps/" >🔗</a> **[SpaceNews]** Rocket Lab wins another launch contract from Japan’s iQPS
 - <a href="https://europeanspaceflight.com/arianegroup-completes-themis-wet-dress-rehearsal/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Themis Wet Dress Rehearsal
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/From_drone_flight_to_sounding_rocket" >🔗</a> **[ESA]** From drone flight to sounding rocket
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T002146">2026-07-31 00:21:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260731T010036">2026-07-31 01:00:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
