@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/" >🔗</a> **[SpaceNews]** China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat
 - <a href="https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/" >🔗</a> **[NASA]** APOD: 2026 August 1 – Buck Moon and Belt of Venus
 - <a href="https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: August 2026 Skywatching Tips from NASA
 - <a href="https://www.nasaspaceflight.com/2026/07/pad-1-retrofits-block-3-flights/" >🔗</a> **[NASASpaceflight]** Starbase Pad 1 Retrofits Progress as Block 3 Flights Start
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/" >🔗</a> **[NASA]** TB 26-04 Webbings for Use in Elevated Oxygen Environments
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/" >🔗</a> **[NASA]** NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket
 - <a href="https://spaceflightnow.com/2026/07/31/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/" >🔗</a> **[NASA]** NASA Opens New Flight Dynamics Research Facility in Virginia
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260801T132823">2026-08-01 13:28:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260801T140418">2026-08-01 14:04:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
