@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract/" >🔗</a> **[SpaceNews]** U.S. Air Force expands Blue Origin rocket cargo contract
 - <a href="https://www.nasaspaceflight.com/2026/08/boeing-starliner-2026-iss/" >🔗</a> **[NASASpaceflight]** Boeing’s Starliner set for potential 2026 cargo run to ISS
 - <a href="https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/" >🔗</a> **[SpaceNews]** Space Force awards K2 Space $22.9 million for orbital laser communications demonstration
 - <a href="https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/" >🔗</a> **[SpaceNews]** China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/" >🔗</a> **[NASA]** NASA to Host Florida Event Celebrating American Air, Space Leadership
 - <a href="https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/" >🔗</a> **[SpaceNews]** Sending repurposed Mars rover to the moon could cost more than $1 billion
 - <a href="https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/" >🔗</a> **[NASA]** NASA’s Newest Wind Tunnel Opens at NASA Langley
-- <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/" >🔗</a> **[NASA]** TB 26-04 Webbings for Use in Elevated Oxygen Environments
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260802T115235">2026-08-02 11:52:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260802T121838">2026-08-02 12:18:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
