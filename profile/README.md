@@ -95,11 +95,11 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/08/boeing-starliner-2026-iss/" >🔗</a> **[NASASpaceflight]** Boeing’s Starliner set for potential 2026 cargo run to ISS
 - <a href="https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/" >🔗</a> **[SpaceNews]** Space Force awards K2 Space $22.9 million for orbital laser communications demonstration
 - <a href="https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/" >🔗</a> **[SpaceNews]** China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat
+- <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-1-buck-moon-and-belt-of-venus/" >🔗</a> **[NASA]** APOD: 2026 August 1 – Buck Moon and Belt of Venus
 - <a href="https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/" >🔗</a> **[NASA]** APOD: 2026 August 1 – Buck Moon and Belt of Venus
 - <a href="https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: August 2026 Skywatching Tips from NASA
 - <a href="https://www.nasaspaceflight.com/2026/07/pad-1-retrofits-block-3-flights/" >🔗</a> **[NASASpaceflight]** Starbase Pad 1 Retrofits Progress as Block 3 Flights Start
 - <a href="https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/" >🔗</a> **[NASA]** NASA to Host Florida Event Celebrating American Air, Space Leadership
-- <a href="https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/" >🔗</a> **[SpaceNews]** Sending repurposed Mars rover to the moon could cost more than $1 billion
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260802T164531">2026-08-02 16:45:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260802T171918">2026-08-02 17:19:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
