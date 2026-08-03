@@ -95,11 +95,11 @@ into *an Unknown
 - <a href="https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/" >🔗</a> **[NASA]** APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-2-8-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 2-8, 2026
 - <a href="https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract/" >🔗</a> **[SpaceNews]** U.S. Air Force expands Blue Origin rocket cargo contract
+- <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-2-a-fire-rainbow-over-west-virginia/" >🔗</a> **[NASA]** APOD: 2026 August 2 – A Fire Rainbow over West Virginia
 - <a href="https://science.nasa.gov/image-article/apod-2026-august-2-a-fire-rainbow-over-west-virginia/" >🔗</a> **[NASA]** APOD: 2026 August 2 – A Fire Rainbow over West Virginia
 - <a href="https://www.nasaspaceflight.com/2026/08/boeing-starliner-2026-iss/" >🔗</a> **[NASASpaceflight]** Boeing’s Starliner set for potential 2026 cargo run to ISS
 - <a href="https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/" >🔗</a> **[SpaceNews]** Space Force awards K2 Space $22.9 million for orbital laser communications demonstration
 - <a href="https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/" >🔗</a> **[SpaceNews]** China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat
-- <a href="https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/" >🔗</a> **[NASA]** APOD: 2026 August 1 – Buck Moon and Belt of Venus
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260803T123548">2026-08-03 12:35:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260803T134937">2026-08-03 13:49:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
