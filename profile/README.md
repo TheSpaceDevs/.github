@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/08/starship-soars-as-spacex-looks-to-ai/" >🔗</a> **[Space Scout]** Starship Soars as SpaceX Looks to AI
+- <a href="https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/" >🔗</a> **[SpaceNews]** Xona secures spectrum approval for 250-satellite navigation network
+- <a href="https://europeanspaceflight.com/maiaspace-losses-required-arianegroup-to-decide-on-companys-future/" >🔗</a> **[European Spaceflight]** MaiaSpace Losses Required ArianeGroup to Decide on Company’s Future
 - <a href="https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/" >🔗</a> **[Arstechnica]** SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana
 - <a href="https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/" >🔗</a> **[NASA]** NASA Delivers Navigation System for Commercial Lunar Relay
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/ike-theriot-helps-prepare-astronauts-to-work-on-the-moon/" >🔗</a> **[NASA]** Ike Theriot Helps Prepare Astronauts to Work on the Moon
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement/" >🔗</a> **[SpaceNews]** Airbus and Thales win order for SpainSat replacement
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/The_journey_of_Sophie_Adenot_s_bonus_food" >🔗</a> **[ESA]** The journey of Sophie Adenot's bonus food
 - <a href="https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/" >🔗</a> **[NASA]** APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula
-- <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/" >🔗</a> **[NASA]** APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-2-8-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 2-8, 2026
-- <a href="https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract/" >🔗</a> **[SpaceNews]** U.S. Air Force expands Blue Origin rocket cargo contract
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260803T145806">2026-08-03 14:58:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260803T155401">2026-08-03 15:54:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
