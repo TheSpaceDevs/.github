@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/" >🔗</a> **[NASA]** Louisiana Students Loft Payloads from NASA Balloon Facility in Texas
 - <a href="https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/" >🔗</a> **[NASA]** Guinea-Bissau Tidal Waters
 - <a href="https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/" >🔗</a> **[SpaceNews]** Hughes files for bankruptcy after GEO business loses ground to Starlink
 - <a href="https://www.spacescout.info/2026/08/starship-soars-as-spacex-looks-to-ai/" >🔗</a> **[Space Scout]** Starship Soars as SpaceX Looks to AI
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/" >🔗</a> **[NASA]** NASA Delivers Navigation System for Commercial Lunar Relay
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/ike-theriot-helps-prepare-astronauts-to-work-on-the-moon/" >🔗</a> **[NASA]** Ike Theriot Helps Prepare Astronauts to Work on the Moon
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-brings-space-exploration-to-the-fifa-world-cup/" >🔗</a> **[NASA]** NASA Brings Space Exploration to the FIFA World Cup
-- <a href="https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement/" >🔗</a> **[SpaceNews]** Airbus and Thales win order for SpainSat replacement
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260803T192904">2026-08-03 19:29:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260803T200619">2026-08-03 20:06:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
