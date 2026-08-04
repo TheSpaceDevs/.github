@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/military-demand-shapes-market-for-sat-propulsion/" >🔗</a> **[SpaceNews]** Military demand shapes market for satellite propulsion
 - <a href="https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry/" >🔗</a> **[SpaceNews]** Future of Crew Dragon weighs on commercial spaceflight industry
 - <a href="https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups/" >🔗</a> **[SpaceNews]** SpaceX’s new Starfall program offers validation and competition for reentry startups
 - <a href="https://europeanspaceflight.com/esa-astronaut-completes-third-test-of-eurosuit-prototype-aboard-iss/" >🔗</a> **[European Spaceflight]** ESA Astronaut Completes Third Test of EuroSuit Prototype Aboard ISS
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/" >🔗</a> **[SpaceNews]** Kreios Space to fly VLEO demonstration in NanoAvionics bus
 - <a href="https://science.nasa.gov/earth/earth-observatory/smoke-streams-across-eastern-washington/" >🔗</a> **[NASA]** Smoke Streams Across Eastern Washington
 - <a href="https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/" >🔗</a> **[SpaceNews]** NASA, SpaceX studying how to prevent future upper stage lunar collisions
-- <a href="https://spacepolicyonline.com/news/spacex-replacing-mraps-with-cybertrucks-beginning-with-crew-13/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Replacing MRAPs with Cybertrucks Beginning with Crew-13
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T141334">2026-08-04 14:13:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T151521">2026-08-04 15:15:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
