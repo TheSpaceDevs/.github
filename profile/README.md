@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T140000">2026-08-04 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-53&location=Vandenberg SFB, CA, USA&dates=20260804T140000Z%2F20260804T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-53** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260805T022700">2026-08-05 02:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Smart Dragon 3 | Unknown Payload&location=Haiyang Oriental Spaceport&dates=20260805T022700Z%2F20260805T024800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Smart Dragon 3 | Unknown Payload** from Haiyang Oriental Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260805T074200">2026-08-05 07:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | BlueBird 11-13 (Block 2 #6-8)&location=Cape Canaveral SFS, FL, USA&dates=20260805T074200Z%2F20260805T091800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | BlueBird 11-13 (Block 2 #6-8)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260808T140000">2026-08-08 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-38&location=Vandenberg SFB, CA, USA&dates=20260808T140000Z%2F20260808T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-38** from Vandenberg SFB, CA, USA.
@@ -95,11 +94,11 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/esa-astronaut-completes-third-test-of-eurosuit-prototype-aboard-iss/" >🔗</a> **[European Spaceflight]** ESA Astronaut Completes Third Test of EuroSuit Prototype Aboard ISS
 - <a href="https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company/" >🔗</a> **[SpaceNews]** Rocketdyne reemerges as standalone space company
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week" >🔗</a> **[ESA]** ESA and Pokémon team up to celebrate World Space Week
+- <a href="https://science.nasa.gov/image-article/apod-august-4-2026-curious-cometary-knots-in-the-helix-nebula/" >🔗</a> **[NASA]** APOD: August 4, 2026 – Curious Cometary Knots in the Helix Nebula
 - <a href="https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/" >🔗</a> **[SpaceNews]** Kreios Space to fly VLEO demonstration in NanoAvionics bus
+- <a href="https://science.nasa.gov/earth/earth-observatory/smoke-streams-across-eastern-washington/" >🔗</a> **[NASA]** Smoke Streams Across Eastern Washington
 - <a href="https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/" >🔗</a> **[SpaceNews]** NASA, SpaceX studying how to prevent future upper stage lunar collisions
 - <a href="https://spacepolicyonline.com/news/spacex-replacing-mraps-with-cybertrucks-beginning-with-crew-13/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Replacing MRAPs with Cybertrucks Beginning with Crew-13
-- <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-080326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Starlink, AST SpaceMobile, and Chinese missions fill launch manifest
-- <a href="https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/" >🔗</a> **[NASA]** Louisiana Students Loft Payloads from NASA Balloon Facility in Texas
 
 
 ### Launch-related News 🚀
@@ -109,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T130716">2026-08-04 13:07:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T141334">2026-08-04 14:13:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
