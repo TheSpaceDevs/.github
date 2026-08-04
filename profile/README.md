@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-astronaut-completes-third-test-of-eurosuit-prototype-aboard-iss/" >🔗</a> **[European Spaceflight]** ESA Astronaut Completes Third Test of EuroSuit Prototype Aboard ISS
 - <a href="https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company/" >🔗</a> **[SpaceNews]** Rocketdyne reemerges as standalone space company
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week" >🔗</a> **[ESA]** ESA and Pokémon team up to celebrate World Space Week
 - <a href="https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/" >🔗</a> **[SpaceNews]** Kreios Space to fly VLEO demonstration in NanoAvionics bus
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/" >🔗</a> **[NASA]** Louisiana Students Loft Payloads from NASA Balloon Facility in Texas
 - <a href="https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/" >🔗</a> **[NASA]** Guinea-Bissau Tidal Waters
 - <a href="https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/" >🔗</a> **[SpaceNews]** Hughes files for bankruptcy after GEO business loses ground to Starlink
-- <a href="https://www.spacescout.info/2026/08/starship-soars-as-spacex-looks-to-ai/" >🔗</a> **[Space Scout]** Starship Soars as SpaceX Looks to AI
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T101913">2026-08-04 10:19:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T111519">2026-08-04 11:15:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
