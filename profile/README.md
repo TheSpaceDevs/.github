@@ -90,7 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/" >🔗</a> **[NASA]** NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test
 - <a href="https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/" >🔗</a> **[NASA]** Ames Science Stars of the Month – August 2026
+- <a href="https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/" >🔗</a> **[NASA]** August 2026 Satellite Puzzler
 - <a href="https://www.nasaspaceflight.com/2026/08/spacex-recovers-ship-40-ship-41-flight-14/" >🔗</a> **[NASASpaceflight]** While SpaceX recovers Ship 40, Ship 41 prepares for testing ahead of Flight 14
 - <a href="https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/" >🔗</a> **[NASA]** NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations
 - <a href="https://spaceflightnow.com/2026/08/04/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-13/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production/" >🔗</a> **[SpaceNews]** Rubicon ASCENT thruster moves from hot-fire testing to production
 - <a href="https://spacenews.com/military-demand-shapes-market-for-sat-propulsion/" >🔗</a> **[SpaceNews]** Military demand shapes market for satellite propulsion
 - <a href="https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry/" >🔗</a> **[SpaceNews]** Future of Crew Dragon weighs on commercial spaceflight industry
-- <a href="https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups/" >🔗</a> **[SpaceNews]** SpaceX’s new Starfall program offers validation and competition for reentry startups
-- <a href="https://europeanspaceflight.com/esa-astronaut-completes-third-test-of-eurosuit-prototype-aboard-iss/" >🔗</a> **[European Spaceflight]** ESA Astronaut Completes Third Test of EuroSuit Prototype Aboard ISS
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T190041">2026-08-04 19:00:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T200220">2026-08-04 20:02:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
