@@ -89,6 +89,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/08/04/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-13/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
+- <a href="https://www.nasa.gov/image-article/roman-space-telescope-plaque-install/" >🔗</a> **[NASA]** Roman Space Telescope Plaque Install
+- <a href="https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production/" >🔗</a> **[SpaceNews]** Rubicon ASCENT thruster moves from hot-fire testing to production
 - <a href="https://spacenews.com/military-demand-shapes-market-for-sat-propulsion/" >🔗</a> **[SpaceNews]** Military demand shapes market for satellite propulsion
 - <a href="https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry/" >🔗</a> **[SpaceNews]** Future of Crew Dragon weighs on commercial spaceflight industry
 - <a href="https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups/" >🔗</a> **[SpaceNews]** SpaceX’s new Starfall program offers validation and competition for reentry startups
@@ -96,9 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company/" >🔗</a> **[SpaceNews]** Rocketdyne reemerges as standalone space company
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week" >🔗</a> **[ESA]** ESA and Pokémon team up to celebrate World Space Week
 - <a href="https://science.nasa.gov/image-article/apod-august-4-2026-curious-cometary-knots-in-the-helix-nebula/" >🔗</a> **[NASA]** APOD: August 4, 2026 – Curious Cometary Knots in the Helix Nebula
-- <a href="https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/" >🔗</a> **[SpaceNews]** Kreios Space to fly VLEO demonstration in NanoAvionics bus
-- <a href="https://science.nasa.gov/earth/earth-observatory/smoke-streams-across-eastern-washington/" >🔗</a> **[NASA]** Smoke Streams Across Eastern Washington
-- <a href="https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/" >🔗</a> **[SpaceNews]** NASA, SpaceX studying how to prevent future upper stage lunar collisions
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T151521">2026-08-04 15:15:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T161305">2026-08-04 16:13:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
