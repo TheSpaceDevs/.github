@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/telesat-lands-1-63-billion-canadian-defense-contract/" >🔗</a> **[SpaceNews]** Telesat lands $1.63 billion Canadian defense contract
 - <a href="https://www.nasaspaceflight.com/2026/08/crew-13-delaney-interview/" >🔗</a> **[NASASpaceflight]** Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS
 - <a href="https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data/" >🔗</a> **[SpaceNews]** NOAA purchases Spire hyperspectral microwave sounder data
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/" >🔗</a> **[NASA]** NASA Will Attempt to Observe Rocket Part’s Lunar Impact
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/08/spacex-recovers-ship-40-ship-41-flight-14/" >🔗</a> **[NASASpaceflight]** While SpaceX recovers Ship 40, Ship 41 prepares for testing ahead of Flight 14
 - <a href="https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/" >🔗</a> **[NASA]** NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations
 - <a href="https://spaceflightnow.com/2026/08/04/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-13/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://www.nasa.gov/image-article/roman-space-telescope-plaque-install/" >🔗</a> **[NASA]** Roman Space Telescope Plaque Install
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T215247">2026-08-04 21:52:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T222151">2026-08-04 22:21:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
