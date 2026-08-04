@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week" >🔗</a> **[ESA]** ESA and Pokémon team up to celebrate World Space Week
 - <a href="https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/" >🔗</a> **[SpaceNews]** Kreios Space to fly VLEO demonstration in NanoAvionics bus
 - <a href="https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/" >🔗</a> **[SpaceNews]** NASA, SpaceX studying how to prevent future upper stage lunar collisions
 - <a href="https://spacepolicyonline.com/news/spacex-replacing-mraps-with-cybertrucks-beginning-with-crew-13/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Replacing MRAPs with Cybertrucks Beginning with Crew-13
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/" >🔗</a> **[SpaceNews]** Hughes files for bankruptcy after GEO business loses ground to Starlink
 - <a href="https://www.spacescout.info/2026/08/starship-soars-as-spacex-looks-to-ai/" >🔗</a> **[Space Scout]** Starship Soars as SpaceX Looks to AI
 - <a href="https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/" >🔗</a> **[SpaceNews]** Xona secures spectrum approval for 250-satellite navigation network
-- <a href="https://europeanspaceflight.com/maiaspace-losses-required-arianegroup-to-decide-on-companys-future/" >🔗</a> **[European Spaceflight]** MaiaSpace Losses Required ArianeGroup to Decide on Company’s Future
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T072209">2026-08-04 07:22:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T081541">2026-08-04 08:15:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
