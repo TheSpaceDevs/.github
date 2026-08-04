@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/08/crew-13-delaney-interview/" >🔗</a> **[NASASpaceflight]** Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS
+- <a href="https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data/" >🔗</a> **[SpaceNews]** NOAA purchases Spire hyperspectral microwave sounder data
+- <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/" >🔗</a> **[NASA]** NASA Will Attempt to Observe Rocket Part’s Lunar Impact
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/" >🔗</a> **[NASA]** NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test
 - <a href="https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/" >🔗</a> **[NASA]** Ames Science Stars of the Month – August 2026
 - <a href="https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/" >🔗</a> **[NASA]** August 2026 Satellite Puzzler
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/" >🔗</a> **[NASA]** NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations
 - <a href="https://spaceflightnow.com/2026/08/04/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-13/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasa.gov/image-article/roman-space-telescope-plaque-install/" >🔗</a> **[NASA]** Roman Space Telescope Plaque Install
-- <a href="https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production/" >🔗</a> **[SpaceNews]** Rubicon ASCENT thruster moves from hot-fire testing to production
-- <a href="https://spacenews.com/military-demand-shapes-market-for-sat-propulsion/" >🔗</a> **[SpaceNews]** Military demand shapes market for satellite propulsion
-- <a href="https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry/" >🔗</a> **[SpaceNews]** Future of Crew Dragon weighs on commercial spaceflight industry
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T200220">2026-08-04 20:02:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T205252">2026-08-04 20:52:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
