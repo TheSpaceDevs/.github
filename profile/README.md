@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-to-begin-starship-orbital-flights/" >🔗</a> **[SpaceNews]** SpaceX to begin Starship orbital flights
+- <a href="https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies/" >🔗</a> **[SpaceNews]** Rocket Lab, STR win Space Force contracts for airborne-target tracking technologies
 - <a href="https://spacenews.com/telesat-lands-1-63-billion-canadian-defense-contract/" >🔗</a> **[SpaceNews]** Telesat lands $1.63 billion Canadian defense contract
 - <a href="https://www.nasaspaceflight.com/2026/08/crew-13-delaney-interview/" >🔗</a> **[NASASpaceflight]** Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS
 - <a href="https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data/" >🔗</a> **[SpaceNews]** NOAA purchases Spire hyperspectral microwave sounder data
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/" >🔗</a> **[NASA]** Ames Science Stars of the Month – August 2026
 - <a href="https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/" >🔗</a> **[NASA]** August 2026 Satellite Puzzler
 - <a href="https://www.nasaspaceflight.com/2026/08/spacex-recovers-ship-40-ship-41-flight-14/" >🔗</a> **[NASASpaceflight]** While SpaceX recovers Ship 40, Ship 41 prepares for testing ahead of Flight 14
-- <a href="https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/" >🔗</a> **[NASA]** NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations
-- <a href="https://spaceflightnow.com/2026/08/04/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-13/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T224734">2026-08-04 22:47:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T231952">2026-08-04 23:19:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
