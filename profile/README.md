@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/spacex-replacing-mraps-with-cybertrucks-beginning-with-crew-13/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Replacing MRAPs with Cybertrucks Beginning with Crew-13
 - <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-080326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Starlink, AST SpaceMobile, and Chinese missions fill launch manifest
 - <a href="https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/" >🔗</a> **[NASA]** Louisiana Students Loft Payloads from NASA Balloon Facility in Texas
 - <a href="https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/" >🔗</a> **[NASA]** Guinea-Bissau Tidal Waters
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/maiaspace-losses-required-arianegroup-to-decide-on-companys-future/" >🔗</a> **[European Spaceflight]** MaiaSpace Losses Required ArianeGroup to Decide on Company’s Future
 - <a href="https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/" >🔗</a> **[Arstechnica]** SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana
 - <a href="https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/" >🔗</a> **[NASA]** NASA Delivers Navigation System for Commercial Lunar Relay
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/ike-theriot-helps-prepare-astronauts-to-work-on-the-moon/" >🔗</a> **[NASA]** Ike Theriot Helps Prepare Astronauts to Work on the Moon
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T005824">2026-08-04 00:58:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T013958">2026-08-04 01:39:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
