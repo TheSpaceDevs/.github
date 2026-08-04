@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry/" >🔗</a> **[SpaceNews]** Future of Crew Dragon weighs on commercial spaceflight industry
+- <a href="https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups/" >🔗</a> **[SpaceNews]** SpaceX’s new Starfall program offers validation and competition for reentry startups
 - <a href="https://europeanspaceflight.com/esa-astronaut-completes-third-test-of-eurosuit-prototype-aboard-iss/" >🔗</a> **[European Spaceflight]** ESA Astronaut Completes Third Test of EuroSuit Prototype Aboard ISS
 - <a href="https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company/" >🔗</a> **[SpaceNews]** Rocketdyne reemerges as standalone space company
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week" >🔗</a> **[ESA]** ESA and Pokémon team up to celebrate World Space Week
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/spacex-replacing-mraps-with-cybertrucks-beginning-with-crew-13/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Replacing MRAPs with Cybertrucks Beginning with Crew-13
 - <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-080326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Starlink, AST SpaceMobile, and Chinese missions fill launch manifest
 - <a href="https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/" >🔗</a> **[NASA]** Louisiana Students Loft Payloads from NASA Balloon Facility in Texas
-- <a href="https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/" >🔗</a> **[NASA]** Guinea-Bissau Tidal Waters
-- <a href="https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/" >🔗</a> **[SpaceNews]** Hughes files for bankruptcy after GEO business loses ground to Starlink
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T121007">2026-08-04 12:10:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T130716">2026-08-04 13:07:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
