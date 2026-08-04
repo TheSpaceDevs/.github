@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/" >🔗</a> **[SpaceNews]** Kreios Space to fly VLEO demonstration in NanoAvionics bus
 - <a href="https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/" >🔗</a> **[SpaceNews]** NASA, SpaceX studying how to prevent future upper stage lunar collisions
 - <a href="https://spacepolicyonline.com/news/spacex-replacing-mraps-with-cybertrucks-beginning-with-crew-13/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Replacing MRAPs with Cybertrucks Beginning with Crew-13
 - <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-080326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Starlink, AST SpaceMobile, and Chinese missions fill launch manifest
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.spacescout.info/2026/08/starship-soars-as-spacex-looks-to-ai/" >🔗</a> **[Space Scout]** Starship Soars as SpaceX Looks to AI
 - <a href="https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/" >🔗</a> **[SpaceNews]** Xona secures spectrum approval for 250-satellite navigation network
 - <a href="https://europeanspaceflight.com/maiaspace-losses-required-arianegroup-to-decide-on-companys-future/" >🔗</a> **[European Spaceflight]** MaiaSpace Losses Required ArianeGroup to Decide on Company’s Future
-- <a href="https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/" >🔗</a> **[Arstechnica]** SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T040556">2026-08-04 04:05:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260804T052914">2026-08-04 05:29:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
