@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon
 - <a href="https://spacenews.com/finding-room-in-starlinks-shadow/" >🔗</a> **[SpaceNews]** Finding room in Starlink’s shadow
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission" >🔗</a> **[ESA]** Your chance to run software in deep space on ESA's asteroid mission
 - <a href="https://www.nasa.gov/image-article/advanced-mini-laboratories-automate-space-station-research/" >🔗</a> **[NASA]** Advanced Mini-laboratories Automate Space Station Research
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home" >🔗</a> **[ESA]** Total solar eclipse: how to watch live from home
 - <a href="https://spaceflightnow.com/2026/08/05/live-coverage-spacex-to-launch-3-ast-spacemobile-bluebird-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 3 AST SpaceMobile BlueBird satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/" >🔗</a> **[SpaceNews]** Neuraspace raises $18 million to expand sovereign space awareness
-- <a href="https://science.nasa.gov/image-article/apod-2026-august-5-spokes-on-saturns-b-ring/" >🔗</a> **[NASA]** APOD: 2026 August 5 – Spokes on Saturn’s B Ring
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260805T151321">2026-08-05 15:13:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260805T160736">2026-08-05 16:07:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
