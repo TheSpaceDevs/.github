@@ -32,7 +32,7 @@ into *an Unknown
 (N/A)*.
 <br>
 <blockquote>
-  Details TBD.
+  Possible ride-share launch to SSO with payload including 2 hyperspectral Earth observation satellites from STAR.VISION. Details TBD.
 </blockquote>
 
 <p float="left" align="center">
@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/next-starship-will-deliver-operational-v3-starlinks-to-orbit-maybe-catch-ship/" >🔗</a> **[SpacePolicyOnline.com]** Next Starship Will Deliver Operational V3 Starlinks to Orbit, Maybe Catch Ship
 - <a href="https://spacenews.com/spacex-to-begin-starship-orbital-flights/" >🔗</a> **[SpaceNews]** SpaceX to begin Starship orbital flights
 - <a href="https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies/" >🔗</a> **[SpaceNews]** Rocket Lab, STR win Space Force contracts for airborne-target tracking technologies
 - <a href="https://spacenews.com/telesat-lands-1-63-billion-canadian-defense-contract/" >🔗</a> **[SpaceNews]** Telesat lands $1.63 billion Canadian defense contract
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/" >🔗</a> **[NASA]** NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test
 - <a href="https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/" >🔗</a> **[NASA]** Ames Science Stars of the Month – August 2026
 - <a href="https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/" >🔗</a> **[NASA]** August 2026 Satellite Puzzler
-- <a href="https://www.nasaspaceflight.com/2026/08/spacex-recovers-ship-40-ship-41-flight-14/" >🔗</a> **[NASASpaceflight]** While SpaceX recovers Ship 40, Ship 41 prepares for testing ahead of Flight 14
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260805T005620">2026-08-05 00:56:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260805T013247">2026-08-05 01:32:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
