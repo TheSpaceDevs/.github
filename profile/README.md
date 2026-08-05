@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/" >🔗</a> **[NASA]** Artemis III Orion Crew and Service Models Joined
 - <a href="https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/" >🔗</a> **[SpaceNews]** Capella, Iceye and Umbra win NRO radar-data contracts
+- <a href="https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/" >🔗</a> **[NASA]** NASA’s Perseverance Captures Phobos and Earth
 - <a href="https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon
 - <a href="https://spacenews.com/finding-room-in-starlinks-shadow/" >🔗</a> **[SpaceNews]** Finding room in Starlink’s shadow
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission" >🔗</a> **[ESA]** Your chance to run software in deep space on ESA's asteroid mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures/" >🔗</a> **[SpaceNews]** Satellite manufacturing thrives in California despite cost and regulatory pressures
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Europe_s_forests_losing_more_biomass_since_2018" >🔗</a> **[ESA]** Europe’s forests losing more biomass since 2018
 - <a href="https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening/" >🔗</a> **[SpaceNews]** Think tank warns Europe’s orbital compute gap is widening
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home" >🔗</a> **[ESA]** Total solar eclipse: how to watch live from home
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260805T173515">2026-08-05 17:35:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260805T182828">2026-08-05 18:28:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
