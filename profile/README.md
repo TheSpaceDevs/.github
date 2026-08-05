@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/" >🔗</a> **[Arstechnica]** This Atlantic hurricane season is looking like a dud, but there will be a price to pay
 - <a href="https://europeanspaceflight.com/cnes-sets-2028-target-for-hot-fire-test-of-new-high-thrust-rocket-engine/" >🔗</a> **[European Spaceflight]** CNES Sets 2028 Target for Hot-Fire Test of New High-Thrust Rocket Engine
+- <a href="https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/" >🔗</a> **[NASA]** NASA’s IXPE May Have Proven 90-Year-Old Theory
 - <a href="https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/" >🔗</a> **[NASA]** Artemis III Orion Crew and Service Models Joined
 - <a href="https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/" >🔗</a> **[SpaceNews]** Capella, Iceye and Umbra win NRO radar-data contracts
 - <a href="https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/" >🔗</a> **[NASA]** NASA’s Perseverance Captures Phobos and Earth
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/finding-room-in-starlinks-shadow/" >🔗</a> **[SpaceNews]** Finding room in Starlink’s shadow
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission" >🔗</a> **[ESA]** Your chance to run software in deep space on ESA's asteroid mission
 - <a href="https://www.nasa.gov/image-article/advanced-mini-laboratories-automate-space-station-research/" >🔗</a> **[NASA]** Advanced Mini-laboratories Automate Space Station Research
-- <a href="https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures/" >🔗</a> **[SpaceNews]** Satellite manufacturing thrives in California despite cost and regulatory pressures
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260805T215248">2026-08-05 21:52:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260805T222053">2026-08-05 22:20:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
