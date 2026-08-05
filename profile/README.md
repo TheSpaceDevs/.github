@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/cnes-sets-2028-target-for-hot-fire-test-of-new-high-thrust-rocket-engine/" >🔗</a> **[European Spaceflight]** CNES Sets 2028 Target for Hot-Fire Test of New High-Thrust Rocket Engine
 - <a href="https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/" >🔗</a> **[NASA]** Artemis III Orion Crew and Service Models Joined
 - <a href="https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/" >🔗</a> **[SpaceNews]** Capella, Iceye and Umbra win NRO radar-data contracts
 - <a href="https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/" >🔗</a> **[NASA]** NASA’s Perseverance Captures Phobos and Earth
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/advanced-mini-laboratories-automate-space-station-research/" >🔗</a> **[NASA]** Advanced Mini-laboratories Automate Space Station Research
 - <a href="https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures/" >🔗</a> **[SpaceNews]** Satellite manufacturing thrives in California despite cost and regulatory pressures
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Europe_s_forests_losing_more_biomass_since_2018" >🔗</a> **[ESA]** Europe’s forests losing more biomass since 2018
-- <a href="https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening/" >🔗</a> **[SpaceNews]** Think tank warns Europe’s orbital compute gap is widening
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260805T182828">2026-08-05 18:28:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260805T190234">2026-08-05 19:02:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
