@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/advanced-mini-laboratories-automate-space-station-research/" >🔗</a> **[NASA]** Advanced Mini-laboratories Automate Space Station Research
 - <a href="https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures/" >🔗</a> **[SpaceNews]** Satellite manufacturing thrives in California despite cost and regulatory pressures
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Europe_s_forests_losing_more_biomass_since_2018" >🔗</a> **[ESA]** Europe’s forests losing more biomass since 2018
-- <a href="https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening/" >🔗</a> **[SpaceNews]** Think tank warns Europe’s orbital compute gap is widening
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home" >🔗</a> **[ESA]** Total solar eclipse: how to watch live from home
+- <a href="https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening/" >🔗</a> **[SpaceNews]** Think tank warns Europe’s orbital compute gap is widening
 - <a href="https://spaceflightnow.com/2026/08/05/live-coverage-spacex-to-launch-3-ast-spacemobile-bluebird-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 3 AST SpaceMobile BlueBird satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/" >🔗</a> **[SpaceNews]** Neuraspace raises $18 million to expand sovereign space awareness
 - <a href="https://science.nasa.gov/image-article/apod-2026-august-5-spokes-on-saturns-b-ring/" >🔗</a> **[NASA]** APOD: 2026 August 5 – Spokes on Saturn’s B Ring
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/" >🔗</a> **[NASA]** The Paradox of Lençóis Maranhenses National Park
 - <a href="https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp/" >🔗</a> **[SpaceNews]** Voyager seeks relaxed requirements in NASA commercial space station RFP
-- <a href="https://spacepolicyonline.com/news/next-starship-will-deliver-operational-v3-starlinks-to-orbit-maybe-catch-ship/" >🔗</a> **[SpacePolicyOnline.com]** Next Starship Will Deliver Operational V3 Starlinks to Orbit, Maybe Catch Ship
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260805T130337">2026-08-05 13:03:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260805T141313">2026-08-05 14:13:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
