@@ -92,6 +92,7 @@ This launch will feature 3 satellites.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp/" >🔗</a> **[SpaceNews]** Voyager seeks relaxed requirements in NASA commercial space station RFP
 - <a href="https://spacepolicyonline.com/news/next-starship-will-deliver-operational-v3-starlinks-to-orbit-maybe-catch-ship/" >🔗</a> **[SpacePolicyOnline.com]** Next Starship Will Deliver Operational V3 Starlinks to Orbit, Maybe Catch Ship
 - <a href="https://spacenews.com/spacex-to-begin-starship-orbital-flights/" >🔗</a> **[SpaceNews]** SpaceX to begin Starship orbital flights
 - <a href="https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies/" >🔗</a> **[SpaceNews]** Rocket Lab, STR win Space Force contracts for airborne-target tracking technologies
@@ -101,7 +102,6 @@ This launch will feature 3 satellites.
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/" >🔗</a> **[NASA]** NASA Will Attempt to Observe Rocket Part’s Lunar Impact
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/" >🔗</a> **[NASA]** NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test
 - <a href="https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/" >🔗</a> **[NASA]** Ames Science Stars of the Month – August 2026
-- <a href="https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/" >🔗</a> **[NASA]** August 2026 Satellite Puzzler
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ This launch will feature 3 satellites.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260805T025836">2026-08-05 02:58:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260805T040446">2026-08-05 04:04:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
