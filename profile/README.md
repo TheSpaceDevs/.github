@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket/" >🔗</a> **[SpaceNews]** Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/ExoMars_stretches_out_its_legs" >🔗</a> **[ESA]** ExoMars stretches out its legs
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars" >🔗</a> **[ESA]** Webb opens a Treasure Chest filled with stars
 - <a href="https://science.nasa.gov/image-article/apod-2026-august-6-new-sharpest-image-of-the-sun-uncovers-instability/" >🔗</a> **[NASA]** APOD: 2026 August 6 – New Sharpest Image of the Sun Uncovers Instability
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/cnes-sets-2028-target-for-hot-fire-test-of-new-high-thrust-rocket-engine/" >🔗</a> **[European Spaceflight]** CNES Sets 2028 Target for Hot-Fire Test of New High-Thrust Rocket Engine
 - <a href="https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/" >🔗</a> **[NASA]** NASA’s IXPE May Have Proven 90-Year-Old Theory
 - <a href="https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/" >🔗</a> **[NASA]** Artemis III Orion Crew and Service Models Joined
-- <a href="https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/" >🔗</a> **[SpaceNews]** Capella, Iceye and Umbra win NRO radar-data contracts
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260806T101811">2026-08-06 10:18:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260806T111453">2026-08-06 11:14:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
