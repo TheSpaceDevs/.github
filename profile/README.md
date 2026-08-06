@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/08/06/nasa-northrop-grumman-repurpose-gateway-elements-for-moon-base-demo-missions/" >🔗</a> **[Spaceflight Now]** NASA, Northrop Grumman repurpose Gateway elements for Moon Base demo missions
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/A_match_made_in_cleanrooms" >🔗</a> **[ESA]** A match made in cleanrooms
 - <a href="https://spacenews.com/three-companies-building-the-tech-to-grow-crops-on-the-moon/" >🔗</a> **[SpaceNews]** Three companies building the tech to grow crops on the moon
 - <a href="https://spacenews.com/rocket-lab-launches-8th-iqps-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches 8th iQPS satellite
@@ -97,9 +98,8 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/ExoMars_stretches_out_its_legs" >🔗</a> **[ESA]** ExoMars stretches out its legs
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars" >🔗</a> **[ESA]** Webb opens a Treasure Chest filled with stars
 - <a href="https://science.nasa.gov/image-article/apod-2026-august-6-new-sharpest-image-of-the-sun-uncovers-instability/" >🔗</a> **[NASA]** APOD: 2026 August 6 – New Sharpest Image of the Sun Uncovers Instability
+- <a href="https://science.nasa.gov/earth/earth-observatory/how-the-tide-turns-at-the-mouth-of-the-elbe/" >🔗</a> **[NASA]** How the Tide Turns at the Mouth of the Elbe
 - <a href="https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement/" >🔗</a> **[SpaceNews]** NASA and Roscosmos continue seat barter agreement
-- <a href="https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve/" >🔗</a> **[SpaceNews]** New Glenn explosion linked to rocket engine valve
-- <a href="https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/" >🔗</a> **[Arstechnica]** This Atlantic hurricane season is looking like a dud, but there will be a price to pay
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260806T130326">2026-08-06 13:03:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260806T141320">2026-08-06 14:13:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
