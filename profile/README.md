@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-august-6-new-sharpest-image-of-the-sun-uncovers-instability/" >🔗</a> **[NASA]** APOD: 2026 August 6 – New Sharpest Image of the Sun Uncovers Instability
 - <a href="https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement/" >🔗</a> **[SpaceNews]** NASA and Roscosmos continue seat barter agreement
 - <a href="https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve/" >🔗</a> **[SpaceNews]** New Glenn explosion linked to rocket engine valve
 - <a href="https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/" >🔗</a> **[Arstechnica]** This Atlantic hurricane season is looking like a dud, but there will be a price to pay
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/" >🔗</a> **[SpaceNews]** Capella, Iceye and Umbra win NRO radar-data contracts
 - <a href="https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/" >🔗</a> **[NASA]** NASA’s Perseverance Captures Phobos and Earth
 - <a href="https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon
-- <a href="https://spacenews.com/finding-room-in-starlinks-shadow/" >🔗</a> **[SpaceNews]** Finding room in Starlink’s shadow
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260806T040521">2026-08-06 04:05:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260806T052948">2026-08-06 05:29:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
