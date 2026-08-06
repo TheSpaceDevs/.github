@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement/" >🔗</a> **[SpaceNews]** NASA and Roscosmos continue seat barter agreement
 - <a href="https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve/" >🔗</a> **[SpaceNews]** New Glenn explosion linked to rocket engine valve
 - <a href="https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/" >🔗</a> **[Arstechnica]** This Atlantic hurricane season is looking like a dud, but there will be a price to pay
 - <a href="https://europeanspaceflight.com/cnes-sets-2028-target-for-hot-fire-test-of-new-high-thrust-rocket-engine/" >🔗</a> **[European Spaceflight]** CNES Sets 2028 Target for Hot-Fire Test of New High-Thrust Rocket Engine
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/" >🔗</a> **[NASA]** NASA’s Perseverance Captures Phobos and Earth
 - <a href="https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon
 - <a href="https://spacenews.com/finding-room-in-starlinks-shadow/" >🔗</a> **[SpaceNews]** Finding room in Starlink’s shadow
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission" >🔗</a> **[ESA]** Your chance to run software in deep space on ESA's asteroid mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260806T013330">2026-08-06 01:33:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260806T025846">2026-08-06 02:58:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
