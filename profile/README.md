@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/A_match_made_in_cleanrooms" >🔗</a> **[ESA]** A match made in cleanrooms
+- <a href="https://spacenews.com/three-companies-building-the-tech-to-grow-crops-on-the-moon/" >🔗</a> **[SpaceNews]** Three companies building the tech to grow crops on the moon
+- <a href="https://spacenews.com/rocket-lab-launches-8th-iqps-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches 8th iQPS satellite
 - <a href="https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket/" >🔗</a> **[SpaceNews]** Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/ExoMars_stretches_out_its_legs" >🔗</a> **[ESA]** ExoMars stretches out its legs
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars" >🔗</a> **[ESA]** Webb opens a Treasure Chest filled with stars
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement/" >🔗</a> **[SpaceNews]** NASA and Roscosmos continue seat barter agreement
 - <a href="https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve/" >🔗</a> **[SpaceNews]** New Glenn explosion linked to rocket engine valve
 - <a href="https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/" >🔗</a> **[Arstechnica]** This Atlantic hurricane season is looking like a dud, but there will be a price to pay
-- <a href="https://europeanspaceflight.com/cnes-sets-2028-target-for-hot-fire-test-of-new-high-thrust-rocket-engine/" >🔗</a> **[European Spaceflight]** CNES Sets 2028 Target for Hot-Fire Test of New High-Thrust Rocket Engine
-- <a href="https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/" >🔗</a> **[NASA]** NASA’s IXPE May Have Proven 90-Year-Old Theory
-- <a href="https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/" >🔗</a> **[NASA]** Artemis III Orion Crew and Service Models Joined
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260806T111453">2026-08-06 11:14:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260806T121025">2026-08-06 12:10:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
