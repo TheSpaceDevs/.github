@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Join_us_live_and_enjoy_the_total_solar_eclipse" >🔗</a> **[ESA]** Join us live and enjoy the total solar eclipse!
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_August_2026" >🔗</a> **[ESA]** Week in images: 03-07 August 2026
 - <a href="https://spacenews.com/u-s-senate-confirms-schiess-to-lead-space-force/" >🔗</a> **[SpaceNews]** U.S. Senate confirms Schiess to lead Space Force
 - <a href="https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation/" >🔗</a> **[SpaceNews]** Europe increases size and cost of IRIS² constellation
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/asi-board-resigns-to-allow-for-the-appointment-of-an-extraordinary-commissioner/" >🔗</a> **[European Spaceflight]** ASI Board Resigns to Allow for the Appointment of an Extraordinary Commissioner
 - <a href="https://spaceflightnow.com/2026/08/06/blue-origin-identifies-engine-issue-behind-new-glenn-explosion/" >🔗</a> **[Spaceflight Now]** Blue Origin identifies engine issue behind New Glenn explosion
 - <a href="https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/" >🔗</a> **[Arstechnica]** Blue Origin narrowing in on root cause of catastrophic rocket accident
-- <a href="https://spacenews.com/how-should-europes-militaries-respond-to-space-threats/" >🔗</a> **[SpaceNews]** How should Europe’s militaries respond to space threats
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260807T135447">2026-08-07 13:54:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260807T141939">2026-08-07 14:19:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
