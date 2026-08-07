@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/asi-board-resigns-to-allow-for-the-appointment-of-an-extraordinary-commissioner/" >🔗</a> **[European Spaceflight]** ASI Board Resigns to Allow for the Appointment of an Extraordinary Commissioner
 - <a href="https://spaceflightnow.com/2026/08/06/blue-origin-identifies-engine-issue-behind-new-glenn-explosion/" >🔗</a> **[Spaceflight Now]** Blue Origin identifies engine issue behind New Glenn explosion
 - <a href="https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/" >🔗</a> **[Arstechnica]** Blue Origin narrowing in on root cause of catastrophic rocket accident
 - <a href="https://spacenews.com/how-should-europes-militaries-respond-to-space-threats/" >🔗</a> **[SpaceNews]** How should Europe’s militaries respond to space threats
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/A_match_made_in_cleanrooms" >🔗</a> **[ESA]** A match made in cleanrooms
 - <a href="https://spacenews.com/three-companies-building-the-tech-to-grow-crops-on-the-moon/" >🔗</a> **[SpaceNews]** Three companies building the tech to grow crops on the moon
 - <a href="https://spacenews.com/rocket-lab-launches-8th-iqps-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches 8th iQPS satellite
-- <a href="https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket/" >🔗</a> **[SpaceNews]** Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260807T065155">2026-08-07 06:51:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260807T072732">2026-08-07 07:27:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
