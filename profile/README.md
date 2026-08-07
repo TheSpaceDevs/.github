@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances" >🔗</a> **[ESA]** IRIS² reinforced and accelerated as implementation advances
 - <a href="https://spacenews.com/bipartisan-senate-bill-would-sharpen-space-force-training-for-conflict-with-china/" >🔗</a> **[SpaceNews]** Bipartisan Senate bill would sharpen Space Force training for conflict with China
 - <a href="https://europeanspaceflight.com/asi-board-resigns-to-allow-for-the-appointment-of-an-extraordinary-commissioner/" >🔗</a> **[European Spaceflight]** ASI Board Resigns to Allow for the Appointment of an Extraordinary Commissioner
 - <a href="https://spaceflightnow.com/2026/08/06/blue-origin-identifies-engine-issue-behind-new-glenn-explosion/" >🔗</a> **[Spaceflight Now]** Blue Origin identifies engine issue behind New Glenn explosion
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/redwire-to-fly-dedicated-starfall-mission-for-microgravity-research/" >🔗</a> **[SpaceNews]** Redwire to fly dedicated Starfall mission for microgravity research
 - <a href="https://spaceflightnow.com/2026/08/06/nasa-northrop-grumman-repurpose-gateway-elements-for-moon-base-demo-missions/" >🔗</a> **[Spaceflight Now]** NASA, Northrop Grumman repurpose Gateway elements for Moon Base demo missions
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/A_match_made_in_cleanrooms" >🔗</a> **[ESA]** A match made in cleanrooms
-- <a href="https://spacenews.com/three-companies-building-the-tech-to-grow-crops-on-the-moon/" >🔗</a> **[SpaceNews]** Three companies building the tech to grow crops on the moon
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260807T094604">2026-08-07 09:46:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260807T101626">2026-08-07 10:16:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
