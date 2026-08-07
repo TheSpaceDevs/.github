@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/08/relativity-engine-integration-milestone-terran-r/" >🔗</a> **[NASASpaceflight]** Relativity Space engine integration milestone for Terran-R first stage
+- <a href="https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites/" >🔗</a> **[SpaceNews]** Senate installs new chiefs for U.S. military space acquisition, spy satellites
 - <a href="https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/" >🔗</a> **[NASA]** 2026 IGARSS Hyperwall Schedule
 - <a href="https://spacenews.com/fcc-space-bureau-deputy-takes-the-reins-amid-licensing-overhaul/" >🔗</a> **[SpaceNews]** FCC Space Bureau deputy takes the reins amid licensing overhaul
 - <a href="https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/" >🔗</a> **[NASA]** NASA’s IXPE Studies Magnetar
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-senate-confirms-schiess-to-lead-space-force/" >🔗</a> **[SpaceNews]** U.S. Senate confirms Schiess to lead Space Force
 - <a href="https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation/" >🔗</a> **[SpaceNews]** Europe increases size and cost of IRIS² constellation
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Danube_s_waters_fall_to_record_lows" >🔗</a> **[ESA]** Danube’s waters fall to record lows
-- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances" >🔗</a> **[ESA]** IRIS² reinforced and accelerated as implementation advances
-- <a href="https://spacenews.com/bipartisan-senate-bill-would-sharpen-space-force-training-for-conflict-with-china/" >🔗</a> **[SpaceNews]** Bipartisan Senate bill would sharpen Space Force training for conflict with China
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260807T211219">2026-08-07 21:12:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260807T214248">2026-08-07 21:42:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
