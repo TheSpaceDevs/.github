@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/08/08/live-coverage-spacex-west-coast-launch-surge-continues-with-starlink-mission/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX West Coast launch surge continues with Starlink mission
 - <a href="https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/" >🔗</a> **[Arstechnica]** The first self-driving vehicle on Mars has proven to be a smashing success
 - <a href="https://europeanspaceflight.com/iris2-gets-green-light-with-more-money-and-more-satellites/" >🔗</a> **[European Spaceflight]** IRIS2 Gets Green Light With More Money and More Satellites
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/" >🔗</a> **[NASA]** APOD: 2026 August 8 – A Messier Moment for Tempel 2
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/fcc-space-bureau-deputy-takes-the-reins-amid-licensing-overhaul/" >🔗</a> **[SpaceNews]** FCC Space Bureau deputy takes the reins amid licensing overhaul
 - <a href="https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/" >🔗</a> **[NASA]** NASA’s IXPE Studies Magnetar
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Join_us_live_and_enjoy_the_total_solar_eclipse" >🔗</a> **[ESA]** Join us live and enjoy the total solar eclipse!
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_August_2026" >🔗</a> **[ESA]** Week in images: 03-07 August 2026
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260808T141001">2026-08-08 14:10:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260808T144056">2026-08-08 14:40:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
