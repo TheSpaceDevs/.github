@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/08/blue-origin-engine-resolutions-dual-pad/" >🔗</a> **[NASASpaceflight]** Blue Origin working engine resolutions and dual pad future
 - <a href="https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/" >🔗</a> **[SpaceNews]** Northrop Grumman, Canadian Space Agency repurpose their Gateway projects
 - <a href="https://www.spacescout.info/2026/08/ariane-6-lightweight-upper-stage-future-upgrades-cancelled/" >🔗</a> **[Space Scout]** Ariane 6 Lightweight Upper Stage, Future Upgrades Cancelled
 - <a href="https://spaceflightnow.com/2026/08/08/live-coverage-spacex-west-coast-launch-surge-continues-with-starlink-mission/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX West Coast launch surge continues with Starlink mission
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/08/relativity-engine-integration-milestone-terran-r/" >🔗</a> **[NASASpaceflight]** Relativity Space engine integration milestone for Terran-R first stage
 - <a href="https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites/" >🔗</a> **[SpaceNews]** Senate installs new chiefs for U.S. military space acquisition, spy satellites
 - <a href="https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/" >🔗</a> **[NASA]** 2026 IGARSS Hyperwall Schedule
-- <a href="https://spacenews.com/fcc-space-bureau-deputy-takes-the-reins-amid-licensing-overhaul/" >🔗</a> **[SpaceNews]** FCC Space Bureau deputy takes the reins amid licensing overhaul
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260808T210545">2026-08-08 21:05:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260808T214012">2026-08-08 21:40:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
