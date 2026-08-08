@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/" >🔗</a> **[SpaceNews]** Northrop Grumman, Canadian Space Agency repurpose their Gateway projects
 - <a href="https://www.spacescout.info/2026/08/ariane-6-lightweight-upper-stage-future-upgrades-cancelled/" >🔗</a> **[Space Scout]** Ariane 6 Lightweight Upper Stage, Future Upgrades Cancelled
 - <a href="https://spaceflightnow.com/2026/08/08/live-coverage-spacex-west-coast-launch-surge-continues-with-starlink-mission/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX West Coast launch surge continues with Starlink mission
 - <a href="https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/" >🔗</a> **[Arstechnica]** The first self-driving vehicle on Mars has proven to be a smashing success
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites/" >🔗</a> **[SpaceNews]** Senate installs new chiefs for U.S. military space acquisition, spy satellites
 - <a href="https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/" >🔗</a> **[NASA]** 2026 IGARSS Hyperwall Schedule
 - <a href="https://spacenews.com/fcc-space-bureau-deputy-takes-the-reins-amid-licensing-overhaul/" >🔗</a> **[SpaceNews]** FCC Space Bureau deputy takes the reins amid licensing overhaul
-- <a href="https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/" >🔗</a> **[NASA]** NASA’s IXPE Studies Magnetar
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260808T180508">2026-08-08 18:05:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260808T184301">2026-08-08 18:43:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
