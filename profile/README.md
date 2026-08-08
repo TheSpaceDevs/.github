@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/iris2-gets-green-light-with-more-money-and-more-satellites/" >🔗</a> **[European Spaceflight]** IRIS2 Gets Green Light With More Money and More Satellites
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/" >🔗</a> **[NASA]** APOD: 2026 August 8 – A Messier Moment for Tempel 2
 - <a href="https://www.nasaspaceflight.com/2026/08/relativity-engine-integration-milestone-terran-r/" >🔗</a> **[NASASpaceflight]** Relativity Space engine integration milestone for Terran-R first stage
 - <a href="https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites/" >🔗</a> **[SpaceNews]** Senate installs new chiefs for U.S. military space acquisition, spy satellites
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Join_us_live_and_enjoy_the_total_solar_eclipse" >🔗</a> **[ESA]** Join us live and enjoy the total solar eclipse!
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_August_2026" >🔗</a> **[ESA]** Week in images: 03-07 August 2026
 - <a href="https://spacenews.com/u-s-senate-confirms-schiess-to-lead-space-force/" >🔗</a> **[SpaceNews]** U.S. Senate confirms Schiess to lead Space Force
-- <a href="https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation/" >🔗</a> **[SpaceNews]** Europe increases size and cost of IRIS² constellation
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260808T061145">2026-08-08 06:11:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260808T064411">2026-08-08 06:44:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
