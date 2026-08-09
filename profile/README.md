@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-9-22-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 9-22, 2026
 - <a href="https://www.nasaspaceflight.com/2026/08/artemis-progress-lunar-return-roadmap/" >🔗</a> **[NASASpaceflight]** Artemis progress building lunar return roadmap
 - <a href="https://www.nasaspaceflight.com/2026/08/blue-origin-engine-resolutions-dual-pad/" >🔗</a> **[NASASpaceflight]** Blue Origin working engine resolutions and dual pad future
 - <a href="https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/" >🔗</a> **[SpaceNews]** Northrop Grumman, Canadian Space Agency repurpose their Gateway projects
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/iris2-gets-green-light-with-more-money-and-more-satellites/" >🔗</a> **[European Spaceflight]** IRIS2 Gets Green Light With More Money and More Satellites
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/" >🔗</a> **[NASA]** APOD: 2026 August 8 – A Messier Moment for Tempel 2
 - <a href="https://www.nasaspaceflight.com/2026/08/relativity-engine-integration-milestone-terran-r/" >🔗</a> **[NASASpaceflight]** Relativity Space engine integration milestone for Terran-R first stage
-- <a href="https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites/" >🔗</a> **[SpaceNews]** Senate installs new chiefs for U.S. military space acquisition, spy satellites
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260809T200545">2026-08-09 20:05:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260809T204212">2026-08-09 20:42:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
