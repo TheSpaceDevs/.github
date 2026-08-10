@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/tank-problem-delays-first-rfa-launch/" >🔗</a> **[SpaceNews]** Tank problem delays first RFA launch
 - <a href="https://spacenews.com/astrolight-atmos-space-cargo-eye-first-in-flight-laser-link-between-reentry-vehicle-satellite/" >🔗</a> **[SpaceNews]** Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse" >🔗</a> **[ESA]** How ESA mimics and models the 2026 total solar eclipse
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Ground_Control_to_Galileo_Second_Generation" >🔗</a> **[ESA]** Ground Control to Galileo Second Generation
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/08/artemis-progress-lunar-return-roadmap/" >🔗</a> **[NASASpaceflight]** Artemis progress building lunar return roadmap
 - <a href="https://www.nasaspaceflight.com/2026/08/blue-origin-engine-resolutions-dual-pad/" >🔗</a> **[NASASpaceflight]** Blue Origin working engine resolutions and dual pad future
 - <a href="https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/" >🔗</a> **[SpaceNews]** Northrop Grumman, Canadian Space Agency repurpose their Gateway projects
-- <a href="https://www.spacescout.info/2026/08/ariane-6-lightweight-upper-stage-future-upgrades-cancelled/" >🔗</a> **[Space Scout]** Ariane 6 Lightweight Upper Stage, Future Upgrades Cancelled
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T121216">2026-08-10 12:12:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T124526">2026-08-10 12:45:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
