@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement/" >🔗</a> **[SpaceNews]** National security doesn’t need more maps or imagery; it needs measurement
+- <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Chinese failure opens busy international launch salvo
 - <a href="https://spacenews.com/tank-problem-delays-first-rfa-launch/" >🔗</a> **[SpaceNews]** Tank problem delays first RFA launch
 - <a href="https://spacenews.com/astrolight-atmos-space-cargo-eye-first-in-flight-laser-link-between-reentry-vehicle-satellite/" >🔗</a> **[SpaceNews]** Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse" >🔗</a> **[ESA]** How ESA mimics and models the 2026 total solar eclipse
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Ground_Control_to_Galileo_Second_Generation" >🔗</a> **[ESA]** Ground Control to Galileo Second Generation
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/" >🔗</a> **[NASA]** APOD: 2026 August 10 – Three Galaxy Pairs
+- <a href="https://science.nasa.gov/earth/earth-observatory/el-nino-alters-marine-life-in-the-pacific/" >🔗</a> **[NASA]** El Niño Alters Marine Life in the Pacific
 - <a href="https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft/" >🔗</a> **[SpaceNews]** Katalyst Space makes progress in restoring control of Swift servicing spacecraft
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-9-22-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 9-22, 2026
-- <a href="https://www.nasaspaceflight.com/2026/08/artemis-progress-lunar-return-roadmap/" >🔗</a> **[NASASpaceflight]** Artemis progress building lunar return roadmap
-- <a href="https://www.nasaspaceflight.com/2026/08/blue-origin-engine-resolutions-dual-pad/" >🔗</a> **[NASASpaceflight]** Blue Origin working engine resolutions and dual pad future
-- <a href="https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/" >🔗</a> **[SpaceNews]** Northrop Grumman, Canadian Space Agency repurpose their Gateway projects
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T124526">2026-08-10 12:45:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T132706">2026-08-10 13:27:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
