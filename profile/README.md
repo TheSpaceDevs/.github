@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/08/10/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-16/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/" >🔗</a> **[SpaceNews]** Chinese Long March 7A rocket explodes shortly after liftoff
 - <a href="https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement/" >🔗</a> **[SpaceNews]** National security doesn’t need more maps or imagery; it needs measurement
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026" >🔗</a> **[ESA]** Wildfires, drought and extreme heat, 2026
 - <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Chinese failure opens busy international launch salvo
 - <a href="https://spacenews.com/tank-problem-delays-first-rfa-launch/" >🔗</a> **[SpaceNews]** Tank problem delays first RFA launch
 - <a href="https://spacenews.com/astrolight-atmos-space-cargo-eye-first-in-flight-laser-link-between-reentry-vehicle-satellite/" >🔗</a> **[SpaceNews]** Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse" >🔗</a> **[ESA]** How ESA mimics and models the 2026 total solar eclipse
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Ground_Control_to_Galileo_Second_Generation" >🔗</a> **[ESA]** Ground Control to Galileo Second Generation
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/" >🔗</a> **[NASA]** APOD: 2026 August 10 – Three Galaxy Pairs
-- <a href="https://science.nasa.gov/earth/earth-observatory/el-nino-alters-marine-life-in-the-pacific/" >🔗</a> **[NASA]** El Niño Alters Marine Life in the Pacific
-- <a href="https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft/" >🔗</a> **[SpaceNews]** Katalyst Space makes progress in restoring control of Swift servicing spacecraft
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-9-22-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 9-22, 2026
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T132706">2026-08-10 13:27:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T135906">2026-08-10 13:59:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
