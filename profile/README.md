@@ -19,35 +19,37 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 10-19**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T144900">2026-08-10 14:49:00 UTC</a>.  Until
-then, this pad will have been used for 396
-out of 1124 launches from this location. The launch status is currently
+**H3-22 | Michibiki 7 (QZS-7)**. It is scheduled to be launched by *Mitsubishi Heavy Industries*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Yoshinobu_Launch_Complex">Yoshinobu Launch Complex LP-2</a>, Tanegashima Space Center, Japan*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T192331">2026-08-10 19:23:31 UTC</a>.  Until
+then, this pad will have been used for 17
+out of 98 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Navigation* and the payload will be injected
+into *a Geostationary Transfer Orbit
+(GTO)*.
 <br>
 <blockquote>
-  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  QZSS (Quasi Zenith Satellite System) is a Japanese satellite navigation system operating from inclined, elliptical geosynchronous orbits to achieve optimal high-elevation visibility in urban canyons and mountainous areas. The navigation system objective is to broadcast GPS-interoperable and augmentation signals as well as original Japanese (QZSS) signals from a three-spacecraft constellation.
+
+The navigation system objective is to broadcast GPS-interoperable and augmentation signals as well as original Japanese (QZSS) signals from a three-spacecraft constellation in inclined, elliptical geosynchronous orbits.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/H3_(rocket)" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=30.400938,130.97564" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T144900">2026-08-10 14:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-19&location=Cape Canaveral SFS, FL, USA&dates=20260810T144900Z%2F20260810T184900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-19** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T192331">2026-08-10 19:23:31 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | Michibiki 7 (QZS-7)&location=Tanegashima Space Center, Japan&dates=20260810T192331Z%2F20260810T202331Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | Michibiki 7 (QZS-7)** from Tanegashima Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T233700">2026-08-10 23:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-3 | Flight 2&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20260810T233700Z%2F20260811T001400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Zhuque-3 | Flight 2** from Jiuquan Satellite Launch Center, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T142600">2026-08-11 14:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-19&location=Cape Canaveral SFS, FL, USA&dates=20260811T142600Z%2F20260811T182600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-19** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260812T020000">2026-08-12 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-49&location=Vandenberg SFB, CA, USA&dates=20260812T020000Z%2F20260812T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-49** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260815T215200">2026-08-15 21:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | R-1&location=Vandenberg SFB, CA, USA&dates=20260815T215200Z%2F20260816T023500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | R-1** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260816T011200">2026-08-16 01:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)&location=Cape Canaveral SFS, FL, USA&dates=20260816T011200Z%2F20260816T012700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)** from Cape Canaveral SFS, FL, USA.
@@ -90,6 +92,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/" >🔗</a> **[NASA]** Lion Nebula Roars to Life With NASA’s Webb
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Lion_Nebula_roars_to_life_for_Webb" >🔗</a> **[ESA]** Lion Nebula roars to life for Webb
+- <a href="https://www.nasa.gov/learning-resources/launch-into-a-new-school-year-with-nasa/" >🔗</a> **[NASA]** Launch Into a New School Year With NASA
 - <a href="https://spaceflightnow.com/2026/08/10/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-16/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/" >🔗</a> **[SpaceNews]** Chinese Long March 7A rocket explodes shortly after liftoff
 - <a href="https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement/" >🔗</a> **[SpaceNews]** National security doesn’t need more maps or imagery; it needs measurement
@@ -97,18 +102,16 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Chinese failure opens busy international launch salvo
 - <a href="https://spacenews.com/tank-problem-delays-first-rfa-launch/" >🔗</a> **[SpaceNews]** Tank problem delays first RFA launch
 - <a href="https://spacenews.com/astrolight-atmos-space-cargo-eye-first-in-flight-laser-link-between-reentry-vehicle-satellite/" >🔗</a> **[SpaceNews]** Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse" >🔗</a> **[ESA]** How ESA mimics and models the 2026 total solar eclipse
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Ground_Control_to_Galileo_Second_Generation" >🔗</a> **[ESA]** Ground Control to Galileo Second Generation
-- <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/" >🔗</a> **[NASA]** APOD: 2026 August 10 – Three Galaxy Pairs
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spacenews.com/space-force-delivers-second-u-s-payload-to-be-hosted-on-japanese-satellite/" >🔗</a> **[SpaceNews]** Space Force delivers second U.S. payload to be hosted on Japanese satellite
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T135906">2026-08-10 13:59:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T143020">2026-08-10 14:30:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
