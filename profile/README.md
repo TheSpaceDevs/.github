@@ -92,8 +92,9 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/" >🔗</a> **[NASA]** Lion Nebula Roars to Life With NASA’s Webb
+- <a href="https://arstechnica.com/space/2026/08/one-of-chinas-workhorse-rockets-just-exploded-in-flight/" >🔗</a> **[Arstechnica]** One of China's workhorse rockets just exploded in flight
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Lion_Nebula_roars_to_life_for_Webb" >🔗</a> **[ESA]** Lion Nebula roars to life for Webb
+- <a href="https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/" >🔗</a> **[NASA]** Lion Nebula Roars to Life With NASA’s Webb
 - <a href="https://www.nasa.gov/learning-resources/launch-into-a-new-school-year-with-nasa/" >🔗</a> **[NASA]** Launch Into a New School Year With NASA
 - <a href="https://spaceflightnow.com/2026/08/10/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-16/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/" >🔗</a> **[SpaceNews]** Chinese Long March 7A rocket explodes shortly after liftoff
@@ -101,7 +102,6 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026" >🔗</a> **[ESA]** Wildfires, drought and extreme heat, 2026
 - <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Chinese failure opens busy international launch salvo
 - <a href="https://spacenews.com/tank-problem-delays-first-rfa-launch/" >🔗</a> **[SpaceNews]** Tank problem delays first RFA launch
-- <a href="https://spacenews.com/astrolight-atmos-space-cargo-eye-first-in-flight-laser-link-between-reentry-vehicle-satellite/" >🔗</a> **[SpaceNews]** Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T145146">2026-08-10 14:51:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T151922">2026-08-10 15:19:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
