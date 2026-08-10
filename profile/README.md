@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/" >🔗</a> **[NASA]** APOD: 2026 August 10 – Three Galaxy Pairs
 - <a href="https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft/" >🔗</a> **[SpaceNews]** Katalyst Space makes progress in restoring control of Swift servicing spacecraft
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-9-22-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 9-22, 2026
 - <a href="https://www.nasaspaceflight.com/2026/08/artemis-progress-lunar-return-roadmap/" >🔗</a> **[NASASpaceflight]** Artemis progress building lunar return roadmap
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2026/08/08/live-coverage-spacex-west-coast-launch-surge-continues-with-starlink-mission/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX West Coast launch surge continues with Starlink mission
 - <a href="https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/" >🔗</a> **[Arstechnica]** The first self-driving vehicle on Mars has proven to be a smashing success
 - <a href="https://europeanspaceflight.com/iris2-gets-green-light-with-more-money-and-more-satellites/" >🔗</a> **[European Spaceflight]** IRIS2 Gets Green Light With More Money and More Satellites
-- <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/" >🔗</a> **[NASA]** APOD: 2026 August 8 – A Messier Moment for Tempel 2
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T040623">2026-08-10 04:06:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T050037">2026-08-10 05:00:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
