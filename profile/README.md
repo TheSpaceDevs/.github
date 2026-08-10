@@ -92,6 +92,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/learning-resources/science-activation/community-college-instructors-bring-astronomy-textbook-into-21st-century/" >🔗</a> **[NASA]** Community College Instructors Bring Astronomy Textbook Into 21st Century
 - <a href="https://www.nasa.gov/news-release/nasa-debuts-on-discovery-coming-soon-to-hbo-max/" >🔗</a> **[NASA]** NASA+ Debuts on discovery+, Coming Soon to HBO Max
 - <a href="https://arstechnica.com/space/2026/08/one-of-chinas-workhorse-rockets-just-exploded-in-flight/" >🔗</a> **[Arstechnica]** One of China's workhorse rockets just exploded in flight
 - <a href="https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/" >🔗</a> **[NASA]** Lion Nebula Roars to Life With NASA’s Webb
@@ -101,7 +102,6 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 - <a href="https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/" >🔗</a> **[SpaceNews]** Chinese Long March 7A rocket explodes shortly after liftoff
 - <a href="https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement/" >🔗</a> **[SpaceNews]** National security doesn’t need more maps or imagery; it needs measurement
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026" >🔗</a> **[ESA]** Wildfires, drought and extreme heat, 2026
-- <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Chinese failure opens busy international launch salvo
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T181356">2026-08-10 18:13:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260810T184454">2026-08-10 18:44:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
