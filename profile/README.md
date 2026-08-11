@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Sophie_Adenot_s_first_spacewalk" >🔗</a> **[ESA]** Sophie Adenot’s first spacewalk
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole" >🔗</a> **[ESA]** Dust and water spotted close to giant black hole
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4968-4974: Rock Climbing Towards the Discontinuity
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/" >🔗</a> **[NASA]** APOD: 2026 August 11 – Six Moons of Saturn
 - <a href="https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/" >🔗</a> **[NASA]** Bountiful Roebuck Bay
 - <a href="https://spacepolicyonline.com/news/chinese-lm-7a-rocket-fails/" >🔗</a> **[SpacePolicyOnline.com]** Chinese LM-7A Rocket Fails
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches/" >🔗</a> **[SpaceNews]** Rocket Lab builds deployable infrastructure for Electron launches
 - <a href="https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch/" >🔗</a> **[SpaceNews]** Kepler books Neutron for 2028 optical relay launch
 - <a href="https://science.nasa.gov/learning-resources/science-activation/community-college-instructors-bring-astronomy-textbook-into-21st-century/" >🔗</a> **[NASA]** Community College Instructors Bring Astronomy Textbook Into 21st Century
-- <a href="https://www.nasa.gov/news-release/nasa-debuts-on-discovery-coming-soon-to-hbo-max/" >🔗</a> **[NASA]** NASA+ Debuts on discovery+, Coming Soon to HBO Max
-- <a href="https://arstechnica.com/space/2026/08/one-of-chinas-workhorse-rockets-just-exploded-in-flight/" >🔗</a> **[Arstechnica]** One of China's workhorse rockets just exploded in flight
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Lion_Nebula_roars_to_life_for_Webb" >🔗</a> **[ESA]** Lion Nebula roars to life for Webb
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T075229">2026-08-11 07:52:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T081740">2026-08-11 08:17:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
