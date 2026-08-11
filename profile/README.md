@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/golden-dome-faces-2027-funding-cliff/" >🔗</a> **[SpaceNews]** Golden Dome faces 2027 funding cliff
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/" >🔗</a> **[NASA]** What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)
 - <a href="https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission/" >🔗</a> **[SpaceNews]** National lab visit boosts NASA’s confidence in space nuclear propulsion mission
 - <a href="https://spaceflightnow.com/2026/08/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-14/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/chandra/nasa-telescopes-create-colorful-craft-from-nearby-nebula/" >🔗</a> **[NASA]** NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula
 - <a href="https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026/" >🔗</a> **[SpaceNews]** Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026
 - <a href="https://spacenews.com/technomiles-five-year-sustained-growth-recognized-with-place-on-the-2026-inc-5000-list/" >🔗</a> **[SpaceNews]** TechnoMile’s Five-Year Sustained Growth Recognized with  Place on the 2026 Inc. 5000 List
-- <a href="https://spacenews.com/spacex-increasing-footprint-in-missile-defense/" >🔗</a> **[SpaceNews]** SpaceX increasing footprint in missile defense
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T214346">2026-08-11 21:43:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T221258">2026-08-11 22:12:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
