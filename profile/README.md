@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/" >🔗</a> **[SpaceNews]** Why Golden Dome Demands a Reimagined and Revitalized Industrial Base
+- <a href="https://spacenews.com/first-neutron-launch-may-slip-to-2027/" >🔗</a> **[SpaceNews]** First Neutron launch may slip to 2027
 - <a href="https://www.nasaspaceflight.com/2026/08/starbase-lining-future-vehicles/" >🔗</a> **[NASASpaceflight]** Starbase Production lining up future vehicles
 - <a href="https://spacenews.com/proteus-space-names-maj-gen-kim-crider-usaf-ret-to-board-of-directors/" >🔗</a> **[SpaceNews]** Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors
 - <a href="https://spacenews.com/h3-launches-navigation-satellite/" >🔗</a> **[SpaceNews]** H3 launches navigation satellite
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole" >🔗</a> **[ESA]** Dust and water spotted close to giant black hole
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Sophie_Adenot_s_first_spacewalk" >🔗</a> **[ESA]** Sophie Adenot’s first spacewalk
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4968-4974: Rock Climbing Towards the Discontinuity
-- <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/" >🔗</a> **[NASA]** APOD: 2026 August 11 – Six Moons of Saturn
-- <a href="https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/" >🔗</a> **[NASA]** Bountiful Roebuck Bay
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T114329">2026-08-11 11:43:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T121257">2026-08-11 12:12:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
