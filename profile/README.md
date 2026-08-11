@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/golden-dome-money-starting-to-reach-contractors-but-long-term-funding-still-unclear/" >🔗</a> **[SpaceNews]** Golden Dome money starting to reach contractors, but long-term funding still unclear
 - <a href="https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights/" >🔗</a> **[NASA]** Lion Nebula Roars in Webb’s Sights
 - <a href="https://science.nasa.gov/missions/chandra/nasa-telescopes-create-colorful-craft-from-nearby-nebula/" >🔗</a> **[NASA]** NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula
 - <a href="https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026/" >🔗</a> **[SpaceNews]** Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/" >🔗</a> **[NASA]** NASA Shares Station Research Today Supporting Moon, Mars Tomorrow
 - <a href="https://spacenews.com/former-space-force-general-joins-lunar-outpost-board/" >🔗</a> **[SpaceNews]** Former Space Force general joins Lunar Outpost board
 - <a href="https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract/" >🔗</a> **[SpaceNews]** BlackSky wins seven-figure, multiyear international contract
-- <a href="https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/" >🔗</a> **[SpaceNews]** Why Golden Dome Demands a Reimagined and Revitalized Industrial Base
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T174548">2026-08-11 17:45:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T181441">2026-08-11 18:14:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
