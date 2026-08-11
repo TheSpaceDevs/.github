@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/proteus-space-names-maj-gen-kim-crider-usaf-ret-to-board-of-directors/" >🔗</a> **[SpaceNews]** Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors
+- <a href="https://spacenews.com/h3-launches-navigation-satellite/" >🔗</a> **[SpaceNews]** H3 launches navigation satellite
 - <a href="https://europeanspaceflight.com/italy-appoints-career-diplomat-as-space-agency-extraordinary-commissioner/" >🔗</a> **[European Spaceflight]** Italy Appoints Career Diplomat as Space Agency Extraordinary Commissioner
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Sophie_Adenot_s_first_spacewalk" >🔗</a> **[ESA]** Sophie Adenot’s first spacewalk
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole" >🔗</a> **[ESA]** Dust and water spotted close to giant black hole
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Sophie_Adenot_s_first_spacewalk" >🔗</a> **[ESA]** Sophie Adenot’s first spacewalk
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4968-4974: Rock Climbing Towards the Discontinuity
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/" >🔗</a> **[NASA]** APOD: 2026 August 11 – Six Moons of Saturn
 - <a href="https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/" >🔗</a> **[NASA]** Bountiful Roebuck Bay
 - <a href="https://spacepolicyonline.com/news/chinese-lm-7a-rocket-fails/" >🔗</a> **[SpacePolicyOnline.com]** Chinese LM-7A Rocket Fails
 - <a href="https://spaceflightnow.com/2026/08/10/window-for-2026-launch-debut-of-rocket-labs-neutron-rocket-is-narrowing-as-development-continues/" >🔗</a> **[Spaceflight Now]** Window for 2026 launch debut of Rocket Lab’s Neutron rocket ‘is narrowing’ as development continues
-- <a href="https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches/" >🔗</a> **[SpaceNews]** Rocket Lab builds deployable infrastructure for Electron launches
-- <a href="https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch/" >🔗</a> **[SpaceNews]** Kepler books Neutron for 2028 optical relay launch
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T094559">2026-08-11 09:45:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T101556">2026-08-11 10:15:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
