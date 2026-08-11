@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spaceflightnow.com/2026/08/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-14/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
+- <a href="https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface/" >🔗</a> **[NASA]** NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface
 - <a href="https://spacenews.com/golden-dome-money-starting-to-reach-contractors-but-long-term-funding-still-unclear/" >🔗</a> **[SpaceNews]** Golden Dome money starting to reach contractors, but long-term funding still unclear
 - <a href="https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights/" >🔗</a> **[NASA]** Lion Nebula Roars in Webb’s Sights
 - <a href="https://science.nasa.gov/missions/chandra/nasa-telescopes-create-colorful-craft-from-nearby-nebula/" >🔗</a> **[NASA]** NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacex-increasing-footprint-in-missile-defense/" >🔗</a> **[SpaceNews]** SpaceX increasing footprint in missile defense
 - <a href="https://www.nasa.gov/missions/moon-base/building-the-moon-base-nasa-stories-at-the-ion/" >🔗</a> **[NASA]** Building the Moon Base: NASA Stories at the Ion
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/" >🔗</a> **[NASA]** NASA Shares Station Research Today Supporting Moon, Mars Tomorrow
-- <a href="https://spacenews.com/former-space-force-general-joins-lunar-outpost-board/" >🔗</a> **[SpaceNews]** Former Space Force general joins Lunar Outpost board
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T201207">2026-08-11 20:12:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T204325">2026-08-11 20:43:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
