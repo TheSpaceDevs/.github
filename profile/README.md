@@ -89,6 +89,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026/" >🔗</a> **[SpaceNews]** Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026
+- <a href="https://spacenews.com/technomiles-five-year-sustained-growth-recognized-with-place-on-the-2026-inc-5000-list/" >🔗</a> **[SpaceNews]** TechnoMile’s Five-Year Sustained Growth Recognized with  Place on the 2026 Inc. 5000 List
+- <a href="https://spacenews.com/spacex-increasing-footprint-in-missile-defense/" >🔗</a> **[SpaceNews]** SpaceX increasing footprint in missile defense
 - <a href="https://www.nasa.gov/missions/moon-base/building-the-moon-base-nasa-stories-at-the-ion/" >🔗</a> **[NASA]** Building the Moon Base: NASA Stories at the Ion
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/" >🔗</a> **[NASA]** NASA Shares Station Research Today Supporting Moon, Mars Tomorrow
 - <a href="https://spacenews.com/former-space-force-general-joins-lunar-outpost-board/" >🔗</a> **[SpaceNews]** Former Space Force general joins Lunar Outpost board
@@ -96,9 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/" >🔗</a> **[SpaceNews]** Why Golden Dome Demands a Reimagined and Revitalized Industrial Base
 - <a href="https://spacenews.com/first-neutron-launch-may-slip-to-2027/" >🔗</a> **[SpaceNews]** First Neutron launch may slip to 2027
 - <a href="https://www.nasaspaceflight.com/2026/08/starbase-lining-future-vehicles/" >🔗</a> **[NASASpaceflight]** Starbase Production lining up future vehicles
-- <a href="https://spacenews.com/proteus-space-names-maj-gen-kim-crider-usaf-ret-to-board-of-directors/" >🔗</a> **[SpaceNews]** Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors
-- <a href="https://spacenews.com/h3-launches-navigation-satellite/" >🔗</a> **[SpaceNews]** H3 launches navigation satellite
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_total_solar_eclipse_is_coming_to_Europe" >🔗</a> **[ESA]** A total solar eclipse is coming to Europe
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T145000">2026-08-11 14:50:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T151847">2026-08-11 15:18:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
