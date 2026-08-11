@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 10-19**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 17-49**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T142600">2026-08-11 14:26:00 UTC</a>.  Until
-then, this pad will have been used for 396
-out of 1124 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260812T020000">2026-08-12 02:00:00 UTC</a>.  Until
+then, this pad will have been used for 288
+out of 904 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260824T000000">2026-08-24 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 5 | Chang&#x27;e 7&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260824T000000Z%2F20260824T040000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 5 | Chang'e 7** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260827T201000">2026-08-27 20:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | MTG-I2&location=Guiana Space Centre, French Guiana&dates=20260827T201000Z%2F20260827T224000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | MTG-I2** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260830T112600">2026-08-30 11:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | Nancy Grace Roman Space Telescope&location=Kennedy Space Center, FL, USA&dates=20260830T112600Z%2F20260830T112600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | Nancy Grace Roman Space Telescope** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260831T000000">2026-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara 1.2 | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20260831T000000Z%2F20260831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Angara 1.2 | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/chandra/nasa-telescopes-create-colorful-craft-from-nearby-nebula/" >🔗</a> **[NASA]** NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula
 - <a href="https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026/" >🔗</a> **[SpaceNews]** Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026
 - <a href="https://spacenews.com/technomiles-five-year-sustained-growth-recognized-with-place-on-the-2026-inc-5000-list/" >🔗</a> **[SpaceNews]** TechnoMile’s Five-Year Sustained Growth Recognized with  Place on the 2026 Inc. 5000 List
 - <a href="https://spacenews.com/spacex-increasing-footprint-in-missile-defense/" >🔗</a> **[SpaceNews]** SpaceX increasing footprint in missile defense
@@ -98,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract/" >🔗</a> **[SpaceNews]** BlackSky wins seven-figure, multiyear international contract
 - <a href="https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/" >🔗</a> **[SpaceNews]** Why Golden Dome Demands a Reimagined and Revitalized Industrial Base
 - <a href="https://spacenews.com/first-neutron-launch-may-slip-to-2027/" >🔗</a> **[SpaceNews]** First Neutron launch may slip to 2027
-- <a href="https://www.nasaspaceflight.com/2026/08/starbase-lining-future-vehicles/" >🔗</a> **[NASASpaceflight]** Starbase Production lining up future vehicles
 
 
 ### Launch-related News 🚀
@@ -107,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T154552">2026-08-11 15:45:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T161512">2026-08-11 16:15:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
