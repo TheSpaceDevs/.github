@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/former-space-force-general-joins-lunar-outpost-board/" >🔗</a> **[SpaceNews]** Former Space Force general joins Lunar Outpost board
+- <a href="https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract/" >🔗</a> **[SpaceNews]** BlackSky wins seven-figure, multiyear international contract
 - <a href="https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/" >🔗</a> **[SpaceNews]** Why Golden Dome Demands a Reimagined and Revitalized Industrial Base
 - <a href="https://spacenews.com/first-neutron-launch-may-slip-to-2027/" >🔗</a> **[SpaceNews]** First Neutron launch may slip to 2027
 - <a href="https://www.nasaspaceflight.com/2026/08/starbase-lining-future-vehicles/" >🔗</a> **[NASASpaceflight]** Starbase Production lining up future vehicles
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_total_solar_eclipse_is_coming_to_Europe" >🔗</a> **[ESA]** A total solar eclipse is coming to Europe
 - <a href="https://europeanspaceflight.com/italy-appoints-career-diplomat-as-space-agency-extraordinary-commissioner/" >🔗</a> **[European Spaceflight]** Italy Appoints Career Diplomat as Space Agency Extraordinary Commissioner
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole" >🔗</a> **[ESA]** Dust and water spotted close to giant black hole
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Sophie_Adenot_s_first_spacewalk" >🔗</a> **[ESA]** Sophie Adenot’s first spacewalk
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4968-4974: Rock Climbing Towards the Discontinuity
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T124505">2026-08-11 12:45:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T132613">2026-08-11 13:26:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
