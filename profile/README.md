@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T142600">2026-08-11 14:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-19&location=Cape Canaveral SFS, FL, USA&dates=20260811T142600Z%2F20260811T182600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-19** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260812T020000">2026-08-12 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-49&location=Vandenberg SFB, CA, USA&dates=20260812T020000Z%2F20260812T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-49** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260815T215200">2026-08-15 21:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | USSF-366&location=Vandenberg SFB, CA, USA&dates=20260815T215200Z%2F20260816T015200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | USSF-366** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260816T011200">2026-08-16 01:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)&location=Cape Canaveral SFS, FL, USA&dates=20260816T011200Z%2F20260816T012700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)** from Cape Canaveral SFS, FL, USA.
@@ -90,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/moon-base/building-the-moon-base-nasa-stories-at-the-ion/" >🔗</a> **[NASA]** Building the Moon Base: NASA Stories at the Ion
+- <a href="https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/" >🔗</a> **[NASA]** NASA Shares Station Research Today Supporting Moon, Mars Tomorrow
 - <a href="https://spacenews.com/former-space-force-general-joins-lunar-outpost-board/" >🔗</a> **[SpaceNews]** Former Space Force general joins Lunar Outpost board
 - <a href="https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract/" >🔗</a> **[SpaceNews]** BlackSky wins seven-figure, multiyear international contract
 - <a href="https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/" >🔗</a> **[SpaceNews]** Why Golden Dome Demands a Reimagined and Revitalized Industrial Base
@@ -98,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/proteus-space-names-maj-gen-kim-crider-usaf-ret-to-board-of-directors/" >🔗</a> **[SpaceNews]** Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors
 - <a href="https://spacenews.com/h3-launches-navigation-satellite/" >🔗</a> **[SpaceNews]** H3 launches navigation satellite
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_total_solar_eclipse_is_coming_to_Europe" >🔗</a> **[ESA]** A total solar eclipse is coming to Europe
-- <a href="https://europeanspaceflight.com/italy-appoints-career-diplomat-as-space-agency-extraordinary-commissioner/" >🔗</a> **[European Spaceflight]** Italy Appoints Career Diplomat as Space Agency Extraordinary Commissioner
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole" >🔗</a> **[ESA]** Dust and water spotted close to giant black hole
 
 
 ### Launch-related News 🚀
@@ -108,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T135824">2026-08-11 13:58:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260811T142831">2026-08-11 14:28:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
