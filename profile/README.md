@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products/" >🔗</a> **[NASA]** Quality Assessment Report Evaluates Polar Geospatial Center EarthDEM Elevation Products
+- <a href="https://spacenews.com/golden-dome-creates-digital-hub-to-expand-commercial-participation/" >🔗</a> **[SpaceNews]** Golden Dome creates digital hub to expand commercial participation
 - <a href="https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry/" >🔗</a> **[SpaceNews]** China’s iSpace raises first batch of series E funding for reusable rocketry
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse" >🔗</a> **[ESA]** Musification of the 2026 total solar eclipse
 - <a href="https://spacenews.com/one-species-one-planet-the-moon-is-our-ethical-dress-rehearsal-for-mars/" >🔗</a> **[SpaceNews]** One species, one planet: The moon is our ethical dress rehearsal for Mars
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse" >🔗</a> **[ESA]** Musification of the 2026 total solar eclipse
 - <a href="https://europeanspaceflight.com/rocket-lab-establishes-german-subsidiary/" >🔗</a> **[European Spaceflight]** Rocket Lab Establishes German Subsidiary
 - <a href="https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/" >🔗</a> **[NASA]** Stops Along the Path of Totality
 - <a href="https://spacenews.com/firefly-increases-vehicle-production-even-as-launches-lag/" >🔗</a> **[SpaceNews]** Firefly increases vehicle production even as launches lag
 - <a href="https://spacenews.com/u-s-expands-missile-production-as-army-seeks-more-depth-in-its-arsenal/" >🔗</a> **[SpaceNews]** U.S. expands missile production as Army seeks more depth in its arsenal
 - <a href="https://spaceflightnow.com/2026/08/11/firefly-aerospace-pushes-debut-of-alpha-block-2-rocket-to-the-fourth-quarter-of-2026/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace pushes debut of Alpha Block 2 rocket to the fourth quarter of 2026
-- <a href="https://spacenews.com/golden-dome-faces-2027-funding-cliff/" >🔗</a> **[SpaceNews]** Golden Dome faces 2027 funding cliff
-- <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/" >🔗</a> **[NASA]** What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260812T140010">2026-08-12 14:00:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260812T143028">2026-08-12 14:30:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
