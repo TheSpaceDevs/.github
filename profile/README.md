@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/rocket-lab-establishes-german-subsidiary/" >🔗</a> **[European Spaceflight]** Rocket Lab Establishes German Subsidiary
 - <a href="https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/" >🔗</a> **[NASA]** Stops Along the Path of Totality
 - <a href="https://spacenews.com/firefly-increases-vehicle-production-even-as-launches-lag/" >🔗</a> **[SpaceNews]** Firefly increases vehicle production even as launches lag
 - <a href="https://spacenews.com/u-s-expands-missile-production-as-army-seeks-more-depth-in-its-arsenal/" >🔗</a> **[SpaceNews]** U.S. expands missile production as Army seeks more depth in its arsenal
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission/" >🔗</a> **[SpaceNews]** National lab visit boosts NASA’s confidence in space nuclear propulsion mission
 - <a href="https://spaceflightnow.com/2026/08/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-14/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface/" >🔗</a> **[NASA]** NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface
-- <a href="https://spacenews.com/golden-dome-money-starting-to-reach-contractors-but-long-term-funding-still-unclear/" >🔗</a> **[SpaceNews]** Golden Dome money starting to reach contractors, but long-term funding still unclear
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260812T063314">2026-08-12 06:33:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260812T072825">2026-08-12 07:28:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
