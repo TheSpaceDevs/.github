@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/" >🔗</a> **[NASA]** 2026 Total Solar Eclipse in Spain
+- <a href="https://www.nasaspaceflight.com/2026/08/china-roundup-20260813/" >🔗</a> **[NASASpaceflight]** Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/" >🔗</a> **[NASA]** NASA Upgrades Vertical Motion Simulator for Modern Mission Needs
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/" >🔗</a> **[NASA]** NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/pursuing-a-dream-of-working-for-nasa/" >🔗</a> **[NASA]** Pursuing a Dream of Working for NASA
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/golden-dome-creates-digital-hub-to-expand-commercial-participation/" >🔗</a> **[SpaceNews]** Golden Dome creates digital hub to expand commercial participation
 - <a href="https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry/" >🔗</a> **[SpaceNews]** China’s iSpace raises first batch of series E funding for reusable rocketry
 - <a href="https://spacenews.com/one-species-one-planet-the-moon-is-our-ethical-dress-rehearsal-for-mars/" >🔗</a> **[SpaceNews]** One species, one planet: The moon is our ethical dress rehearsal for Mars
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse" >🔗</a> **[ESA]** Musification of the 2026 total solar eclipse
-- <a href="https://europeanspaceflight.com/rocket-lab-establishes-german-subsidiary/" >🔗</a> **[European Spaceflight]** Rocket Lab Establishes German Subsidiary
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260812T194938">2026-08-12 19:49:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260812T201129">2026-08-12 20:11:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
