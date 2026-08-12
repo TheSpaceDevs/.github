@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/" >🔗</a> **[SpaceNews]** Space Force orders two more Impulse Space vehicles for maneuvering demonstrations
+- <a href="https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/" >🔗</a> **[SpaceNews]** Pentagon missile buildup changing the factory floor
 - <a href="https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/" >🔗</a> **[SpaceNews]** Space Command identifies capabilities it needs for the next space war
 - <a href="https://spaceflightnow.com/2026/08/12/mike-fincke-a-30-year-astronaut-with-experience-across-four-human-rated-spacecraft-retires-from-nasa/" >🔗</a> **[Spaceflight Now]** Mike Fincke, a 30-year astronaut with experience across four spacecraft, retires from NASA
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/" >🔗</a> **[NASA]** NASA Data Helps Commercial Space Plan Living Off Our Moon
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/" >🔗</a> **[NASA]** NASA Upgrades Vertical Motion Simulator for Modern Mission Needs
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/" >🔗</a> **[NASA]** NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/pursuing-a-dream-of-working-for-nasa/" >🔗</a> **[NASA]** Pursuing a Dream of Working for NASA
-- <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-12-perseids-over-a-little-planet/" >🔗</a> **[NASA]** APOD: 2026 August 12 – Perseids over a Little Planet
-- <a href="https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products/" >🔗</a> **[NASA]** Quality Assessment Report Evaluates Polar Geospatial Center EarthDEM Elevation Products
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260812T231226">2026-08-12 23:12:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260812T234310">2026-08-12 23:43:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
