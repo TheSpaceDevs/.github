@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/08/11/firefly-aerospace-pushes-debut-of-alpha-block-2-rocket-to-the-fourth-quarter-of-2026/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace pushes debut of Alpha Block 2 rocket to the fourth quarter of 2026
 - <a href="https://spacenews.com/golden-dome-faces-2027-funding-cliff/" >🔗</a> **[SpaceNews]** Golden Dome faces 2027 funding cliff
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/" >🔗</a> **[NASA]** What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)
 - <a href="https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission/" >🔗</a> **[SpaceNews]** National lab visit boosts NASA’s confidence in space nuclear propulsion mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights/" >🔗</a> **[NASA]** Lion Nebula Roars in Webb’s Sights
 - <a href="https://science.nasa.gov/missions/chandra/nasa-telescopes-create-colorful-craft-from-nearby-nebula/" >🔗</a> **[NASA]** NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula
 - <a href="https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026/" >🔗</a> **[SpaceNews]** Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026
-- <a href="https://spacenews.com/technomiles-five-year-sustained-growth-recognized-with-place-on-the-2026-inc-5000-list/" >🔗</a> **[SpaceNews]** TechnoMile’s Five-Year Sustained Growth Recognized with  Place on the 2026 Inc. 5000 List
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260812T001230">2026-08-12 00:12:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260812T004611">2026-08-12 00:46:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
