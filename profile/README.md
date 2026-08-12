@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/" >🔗</a> **[NASA]** NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights
+- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/pursuing-a-dream-of-working-for-nasa/" >🔗</a> **[NASA]** Pursuing a Dream of Working for NASA
+- <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-12-perseids-over-a-little-planet/" >🔗</a> **[NASA]** APOD: 2026 August 12 – Perseids over a Little Planet
 - <a href="https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products/" >🔗</a> **[NASA]** Quality Assessment Report Evaluates Polar Geospatial Center EarthDEM Elevation Products
 - <a href="https://spacenews.com/golden-dome-creates-digital-hub-to-expand-commercial-participation/" >🔗</a> **[SpaceNews]** Golden Dome creates digital hub to expand commercial participation
 - <a href="https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry/" >🔗</a> **[SpaceNews]** China’s iSpace raises first batch of series E funding for reusable rocketry
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse" >🔗</a> **[ESA]** Musification of the 2026 total solar eclipse
 - <a href="https://europeanspaceflight.com/rocket-lab-establishes-german-subsidiary/" >🔗</a> **[European Spaceflight]** Rocket Lab Establishes German Subsidiary
 - <a href="https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/" >🔗</a> **[NASA]** Stops Along the Path of Totality
-- <a href="https://spacenews.com/firefly-increases-vehicle-production-even-as-launches-lag/" >🔗</a> **[SpaceNews]** Firefly increases vehicle production even as launches lag
-- <a href="https://spacenews.com/u-s-expands-missile-production-as-army-seeks-more-depth-in-its-arsenal/" >🔗</a> **[SpaceNews]** U.S. expands missile production as Army seeks more depth in its arsenal
-- <a href="https://spaceflightnow.com/2026/08/11/firefly-aerospace-pushes-debut-of-alpha-block-2-rocket-to-the-fourth-quarter-of-2026/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace pushes debut of Alpha Block 2 rocket to the fourth quarter of 2026
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260812T154554">2026-08-12 15:45:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260812T161538">2026-08-12 16:15:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
