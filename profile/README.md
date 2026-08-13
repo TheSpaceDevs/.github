@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space/" >🔗</a> **[SpaceNews]** An optical link ‘internet’ to connect networks in space
+- <a href="https://europeanspaceflight.com/suborbital-rocket-builder-gravitilab-enters-liquidation/" >🔗</a> **[European Spaceflight]** Suborbital Rocket Builder Gravitilab Enters Liquidation
+- <a href="https://spacenews.com/maritime-satellite-service-revenues-to-reach-3-79-billion-by-2035-as-ngso-reshapes-maritime-connectivity/" >🔗</a> **[SpaceNews]** Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity
 - <a href="https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation/" >🔗</a> **[SpaceNews]** Paragon lays off staff after Gateway cancellation
 - <a href="https://www.esa.int/Space_Safety/Hera/Cruise_control_the_team_guiding_Hera_to_its_asteroid" >🔗</a> **[ESA]** Cruise control: the team guiding Hera to its asteroid
 - <a href="https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/" >🔗</a> **[SpaceNews]** Astranis unveils geostationary surveillance satellite
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/MTG-I1_captures_eclipse_path_of_totality_over_Europe" >🔗</a> **[ESA]** MTG-I1 captures eclipse path of totality over Europe
 - <a href="https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/" >🔗</a> **[NASA]** APOD: 2026 August 13 – Total Solar Eclipse Over Spain
 - <a href="https://science.nasa.gov/earth/earth-observatory/cascade-volcanoes-shrouded-in-smoke/" >🔗</a> **[NASA]** Cascade Volcanoes Shrouded in Smoke
-- <a href="https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/" >🔗</a> **[SpaceNews]** Virgin Galactic delays resumption of commercial flights to 2027
-- <a href="https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/" >🔗</a> **[SpaceNews]** Space Force orders two more Impulse Space vehicles for maneuvering demonstrations
-- <a href="https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/" >🔗</a> **[SpaceNews]** Pentagon missile buildup changing the factory floor
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260813T140114">2026-08-13 14:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260813T144707">2026-08-13 14:47:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
