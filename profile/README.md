@@ -91,15 +91,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation/" >🔗</a> **[SpaceNews]** Paragon lays off staff after Gateway cancellation
+- <a href="https://www.esa.int/Space_Safety/Hera/Cruise_control_the_team_guiding_Hera_to_its_asteroid" >🔗</a> **[ESA]** Cruise control: the team guiding Hera to its asteroid
 - <a href="https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/" >🔗</a> **[SpaceNews]** Astranis unveils geostationary surveillance satellite
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Sophie_Adenot_prepares_for_her_first_spacewalk" >🔗</a> **[ESA]** Sophie Adenot prepares for her first spacewalk
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/MTG-I1_captures_eclipse_path_of_totality_over_Europe" >🔗</a> **[ESA]** MTG-I1 captures eclipse path of totality over Europe
 - <a href="https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/" >🔗</a> **[NASA]** APOD: 2026 August 13 – Total Solar Eclipse Over Spain
+- <a href="https://science.nasa.gov/earth/earth-observatory/cascade-volcanoes-shrouded-in-smoke/" >🔗</a> **[NASA]** Cascade Volcanoes Shrouded in Smoke
 - <a href="https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/" >🔗</a> **[SpaceNews]** Virgin Galactic delays resumption of commercial flights to 2027
 - <a href="https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/" >🔗</a> **[SpaceNews]** Space Force orders two more Impulse Space vehicles for maneuvering demonstrations
 - <a href="https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/" >🔗</a> **[SpaceNews]** Pentagon missile buildup changing the factory floor
-- <a href="https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/" >🔗</a> **[SpaceNews]** Space Command identifies capabilities it needs for the next space war
-- <a href="https://spaceflightnow.com/2026/08/12/mike-fincke-a-30-year-astronaut-with-experience-across-four-human-rated-spacecraft-retires-from-nasa/" >🔗</a> **[Spaceflight Now]** Mike Fincke, a 30-year astronaut with experience across four spacecraft, retires from NASA
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260813T132741">2026-08-13 13:27:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260813T140114">2026-08-13 14:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
