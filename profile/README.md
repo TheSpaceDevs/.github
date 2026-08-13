@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation/" >🔗</a> **[SpaceNews]** Paragon lays off staff after Gateway cancellation
+- <a href="https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/" >🔗</a> **[SpaceNews]** Astranis unveils geostationary surveillance satellite
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Sophie_Adenot_prepares_for_her_first_spacewalk" >🔗</a> **[ESA]** Sophie Adenot prepares for her first spacewalk
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/MTG-I1_captures_eclipse_path_of_totality_over_Europe" >🔗</a> **[ESA]** MTG-I1 captures eclipse path of totality over Europe
 - <a href="https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/" >🔗</a> **[NASA]** APOD: 2026 August 13 – Total Solar Eclipse Over Spain
 - <a href="https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/" >🔗</a> **[SpaceNews]** Virgin Galactic delays resumption of commercial flights to 2027
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/" >🔗</a> **[SpaceNews]** Pentagon missile buildup changing the factory floor
 - <a href="https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/" >🔗</a> **[SpaceNews]** Space Command identifies capabilities it needs for the next space war
 - <a href="https://spaceflightnow.com/2026/08/12/mike-fincke-a-30-year-astronaut-with-experience-across-four-human-rated-spacecraft-retires-from-nasa/" >🔗</a> **[Spaceflight Now]** Mike Fincke, a 30-year astronaut with experience across four spacecraft, retires from NASA
-- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/" >🔗</a> **[NASA]** NASA Data Helps Commercial Space Plan Living Off Our Moon
-- <a href="https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/" >🔗</a> **[NASA]** 2026 Total Solar Eclipse in Spain
-- <a href="https://www.nasaspaceflight.com/2026/08/china-roundup-20260813/" >🔗</a> **[NASASpaceflight]** Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260813T094839">2026-08-13 09:48:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260813T102133">2026-08-13 10:21:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
