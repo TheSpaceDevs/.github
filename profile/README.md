@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/" >🔗</a> **[NASA]** For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too
 - <a href="https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/" >🔗</a> **[SpaceNews]** Space Command expands Alabama footprint as headquarters relocation advances
 - <a href="https://www.nasa.gov/image-article/perseids-meteor-shower-2/" >🔗</a> **[NASA]** Perseids Meteor Shower
 - <a href="https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space/" >🔗</a> **[SpaceNews]** An optical link ‘internet’ to connect networks in space
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Space_Safety/Hera/Cruise_control_the_team_guiding_Hera_to_its_asteroid" >🔗</a> **[ESA]** Cruise control: the team guiding Hera to its asteroid
 - <a href="https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/" >🔗</a> **[SpaceNews]** Astranis unveils geostationary surveillance satellite
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Sophie_Adenot_prepares_for_her_first_spacewalk" >🔗</a> **[ESA]** Sophie Adenot prepares for her first spacewalk
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/MTG-I1_captures_eclipse_path_of_totality_over_Europe" >🔗</a> **[ESA]** MTG-I1 captures eclipse path of totality over Europe
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260813T184543">2026-08-13 18:45:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260813T192050">2026-08-13 19:20:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
