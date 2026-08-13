@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/" >🔗</a> **[SpaceNews]** Space Force awards five companies $60 million for multi-vendor satellite network tests
 - <a href="https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/" >🔗</a> **[NASA]** NASA’s 737 Reveals New Paint
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/" >🔗</a> **[NASA]** For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too
 - <a href="https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/" >🔗</a> **[SpaceNews]** Space Command expands Alabama footprint as headquarters relocation advances
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/maritime-satellite-service-revenues-to-reach-3-79-billion-by-2035-as-ngso-reshapes-maritime-connectivity/" >🔗</a> **[SpaceNews]** Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity
 - <a href="https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation/" >🔗</a> **[SpaceNews]** Paragon lays off staff after Gateway cancellation
 - <a href="https://www.esa.int/Space_Safety/Hera/Cruise_control_the_team_guiding_Hera_to_its_asteroid" >🔗</a> **[ESA]** Cruise control: the team guiding Hera to its asteroid
-- <a href="https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/" >🔗</a> **[SpaceNews]** Astranis unveils geostationary surveillance satellite
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260813T214336">2026-08-13 21:43:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260813T221252">2026-08-13 22:12:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
