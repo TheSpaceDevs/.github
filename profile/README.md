@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/MTG-I1_captures_eclipse_path_of_totality_over_Europe" >🔗</a> **[ESA]** MTG-I1 captures eclipse path of totality over Europe
 - <a href="https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/" >🔗</a> **[NASA]** APOD: 2026 August 13 – Total Solar Eclipse Over Spain
 - <a href="https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/" >🔗</a> **[SpaceNews]** Virgin Galactic delays resumption of commercial flights to 2027
 - <a href="https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/" >🔗</a> **[SpaceNews]** Space Force orders two more Impulse Space vehicles for maneuvering demonstrations
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/" >🔗</a> **[NASA]** NASA Data Helps Commercial Space Plan Living Off Our Moon
 - <a href="https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/" >🔗</a> **[NASA]** 2026 Total Solar Eclipse in Spain
 - <a href="https://www.nasaspaceflight.com/2026/08/china-roundup-20260813/" >🔗</a> **[NASASpaceflight]** Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/" >🔗</a> **[NASA]** NASA Upgrades Vertical Motion Simulator for Modern Mission Needs
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260813T080144">2026-08-13 08:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260813T085257">2026-08-13 08:52:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
