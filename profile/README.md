@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/" >🔗</a> **[SpaceNews]** Space Command expands Alabama footprint as headquarters relocation advances
 - <a href="https://www.nasa.gov/image-article/perseids-meteor-shower-2/" >🔗</a> **[NASA]** Perseids Meteor Shower
 - <a href="https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space/" >🔗</a> **[SpaceNews]** An optical link ‘internet’ to connect networks in space
 - <a href="https://europeanspaceflight.com/suborbital-rocket-builder-gravitilab-enters-liquidation/" >🔗</a> **[European Spaceflight]** Suborbital Rocket Builder Gravitilab Enters Liquidation
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/" >🔗</a> **[SpaceNews]** Astranis unveils geostationary surveillance satellite
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Sophie_Adenot_prepares_for_her_first_spacewalk" >🔗</a> **[ESA]** Sophie Adenot prepares for her first spacewalk
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/MTG-I1_captures_eclipse_path_of_totality_over_Europe" >🔗</a> **[ESA]** MTG-I1 captures eclipse path of totality over Europe
-- <a href="https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/" >🔗</a> **[NASA]** APOD: 2026 August 13 – Total Solar Eclipse Over Spain
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260813T164515">2026-08-13 16:45:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260813T171740">2026-08-13 17:17:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
