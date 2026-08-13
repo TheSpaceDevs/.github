@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/" >🔗</a> **[SpaceNews]** Virgin Galactic delays resumption of commercial flights to 2027
 - <a href="https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/" >🔗</a> **[SpaceNews]** Space Force orders two more Impulse Space vehicles for maneuvering demonstrations
 - <a href="https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/" >🔗</a> **[SpaceNews]** Pentagon missile buildup changing the factory floor
 - <a href="https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/" >🔗</a> **[SpaceNews]** Space Command identifies capabilities it needs for the next space war
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/08/china-roundup-20260813/" >🔗</a> **[NASASpaceflight]** Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/" >🔗</a> **[NASA]** NASA Upgrades Vertical Motion Simulator for Modern Mission Needs
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/" >🔗</a> **[NASA]** NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights
-- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/pursuing-a-dream-of-working-for-nasa/" >🔗</a> **[NASA]** Pursuing a Dream of Working for NASA
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260813T012950">2026-08-13 01:29:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260813T021940">2026-08-13 02:19:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
