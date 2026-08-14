@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/" >🔗</a> **[NASA]** Total Solar Eclipse in Sunflower Field
 - <a href="https://europeanspaceflight.com/avio-filings-shed-light-on-fd1-rocket-demonstrator-test-flight/" >🔗</a> **[European Spaceflight]** Avio Filings Shed Light on FD1 Rocket Demonstrator Test Flight
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_August_2026" >🔗</a> **[ESA]** Week in images: 10-14 August 2026
 - <a href="https://spacenews.com/cheaper-launch-has-moved-the-spacecraft-bottleneck-mass-is-out-surface-area-is-in/" >🔗</a> **[SpaceNews]** Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/" >🔗</a> **[Arstechnica]** Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_double_eclipse_for_Proba-3" >🔗</a> **[ESA]** A double eclipse for Proba-3
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse" >🔗</a> **[ESA]** A look back at the 2026 total solar eclipse
-- <a href="https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/" >🔗</a> **[SpaceNews]** In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260814T151445">2026-08-14 15:14:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260814T154435">2026-08-14 15:44:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
