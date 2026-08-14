@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/" >🔗</a> **[NASA]** NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun
 - <a href="https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts/" >🔗</a> **[SpaceNews]** Spire and PlanetiQ win NOAA radio-occultation contracts
 - <a href="https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/" >🔗</a> **[Arstechnica]** Policy experts: Europe stuck between "rock and a hard place" on launch
 - <a href="https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/" >🔗</a> **[NASA]** Total Solar Eclipse in Sunflower Field
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/" >🔗</a> **[SpaceNews]** Blue Origin outlines plans for second Cape Canaveral launch pad
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Proba-3_s_eclipse_hours_before_totality_in_Europe" >🔗</a> **[ESA]** Proba-3’s eclipse hours before totality in Europe
 - <a href="https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/" >🔗</a> **[SpaceNews]** Intuitive Machines wins contract for three GEO satellites
-- <a href="https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/" >🔗</a> **[Arstechnica]** Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260814T171620">2026-08-14 17:16:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260814T174504">2026-08-14 17:45:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
