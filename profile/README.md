@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/" >🔗</a> **[NASA]** NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow
 - <a href="https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/" >🔗</a> **[NASA]** Volunteer Develops Machine-Learning Tool to Identify Rare Clouds
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/" >🔗</a> **[NASA]** NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun
 - <a href="https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts/" >🔗</a> **[SpaceNews]** Spire and PlanetiQ win NOAA radio-occultation contracts
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_August_2026" >🔗</a> **[ESA]** Week in images: 10-14 August 2026
 - <a href="https://spacenews.com/cheaper-launch-has-moved-the-spacecraft-bottleneck-mass-is-out-surface-area-is-in/" >🔗</a> **[SpaceNews]** Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.
 - <a href="https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/" >🔗</a> **[SpaceNews]** Blue Origin outlines plans for second Cape Canaveral launch pad
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Proba-3_s_eclipse_hours_before_totality_in_Europe" >🔗</a> **[ESA]** Proba-3’s eclipse hours before totality in Europe
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260814T184431">2026-08-14 18:44:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260814T191755">2026-08-14 19:17:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
