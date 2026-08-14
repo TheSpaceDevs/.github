@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/" >🔗</a> **[SpaceNews]** U.S. Space Force adds second surveillance sensor to Japanese constellation
+- <a href="https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/" >🔗</a> **[SpaceNews]** Wallops gears up for an increase in launches
+- <a href="https://spacepolicyonline.com/news/isaacman-extremely-confident-artemis-iii-will-launch-in-2027/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman “Extremely Confident” Artemis III Will Launch in 2027
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/" >🔗</a> **[NASA]** NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies
 - <a href="https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/" >🔗</a> **[NASA]** NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow
 - <a href="https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/" >🔗</a> **[NASA]** Volunteer Develops Machine-Learning Tool to Identify Rare Clouds
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts/" >🔗</a> **[SpaceNews]** Spire and PlanetiQ win NOAA radio-occultation contracts
 - <a href="https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/" >🔗</a> **[Arstechnica]** Policy experts: Europe stuck between "rock and a hard place" on launch
 - <a href="https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/" >🔗</a> **[NASA]** Total Solar Eclipse in Sunflower Field
-- <a href="https://europeanspaceflight.com/avio-filings-shed-light-on-fd1-rocket-demonstrator-test-flight/" >🔗</a> **[European Spaceflight]** Avio Filings Shed Light on FD1 Rocket Demonstrator Test Flight
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_August_2026" >🔗</a> **[ESA]** Week in images: 10-14 August 2026
-- <a href="https://spacenews.com/cheaper-launch-has-moved-the-spacecraft-bottleneck-mass-is-out-surface-area-is-in/" >🔗</a> **[SpaceNews]** Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260814T220242">2026-08-14 22:02:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260814T223733">2026-08-14 22:37:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
