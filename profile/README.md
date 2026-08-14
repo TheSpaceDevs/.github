@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/" >🔗</a> **[NASA]** NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies
 - <a href="https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/" >🔗</a> **[NASA]** NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow
 - <a href="https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/" >🔗</a> **[NASA]** Volunteer Develops Machine-Learning Tool to Identify Rare Clouds
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/" >🔗</a> **[NASA]** NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/avio-filings-shed-light-on-fd1-rocket-demonstrator-test-flight/" >🔗</a> **[European Spaceflight]** Avio Filings Shed Light on FD1 Rocket Demonstrator Test Flight
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_August_2026" >🔗</a> **[ESA]** Week in images: 10-14 August 2026
 - <a href="https://spacenews.com/cheaper-launch-has-moved-the-spacecraft-bottleneck-mass-is-out-surface-area-is-in/" >🔗</a> **[SpaceNews]** Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.
-- <a href="https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/" >🔗</a> **[SpaceNews]** Blue Origin outlines plans for second Cape Canaveral launch pad
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260814T200806">2026-08-14 20:08:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260814T203933">2026-08-14 20:39:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
