@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/" >🔗</a> **[SpaceNews]** Blue Origin outlines plans for second Cape Canaveral launch pad
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Proba-3_s_eclipse_hours_before_totality_in_Europe" >🔗</a> **[ESA]** Proba-3’s eclipse hours before totality in Europe
+- <a href="https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/" >🔗</a> **[SpaceNews]** Intuitive Machines wins contract for three GEO satellites
 - <a href="https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/" >🔗</a> **[Arstechnica]** Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_double_eclipse_for_Proba-3" >🔗</a> **[ESA]** A double eclipse for Proba-3
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse" >🔗</a> **[ESA]** A look back at the 2026 total solar eclipse
 - <a href="https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/" >🔗</a> **[SpaceNews]** In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade
 - <a href="https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/" >🔗</a> **[SpaceNews]** Bulgaria advances project to launch new space, defense innovation hub
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/" >🔗</a> **[NASA]** APOD: 2026 August 14 – Total Solar Eclipse from Greenland
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality/" >🔗</a> **[NASA]** A Sunflower’s View of Totality
-- <a href="https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/" >🔗</a> **[SpaceNews]** CesiumAstro buys semiconductor specialist to boost constellation plans
-- <a href="https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/" >🔗</a> **[SpaceNews]** Space Force awards five companies $60 million for multi-vendor satellite network tests
-- <a href="https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/" >🔗</a> **[NASA]** NASA’s 737 Reveals New Paint
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/" >🔗</a> **[NASA]** For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too
-- <a href="https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/" >🔗</a> **[SpaceNews]** Space Command expands Alabama footprint as headquarters relocation advances
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260814T114332">2026-08-14 11:43:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260814T121240">2026-08-14 12:12:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
