@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/" >🔗</a> **[SpaceNews]** In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade
+- <a href="https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/" >🔗</a> **[SpaceNews]** Bulgaria advances project to launch new space, defense innovation hub
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/" >🔗</a> **[NASA]** APOD: 2026 August 14 – Total Solar Eclipse from Greenland
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality/" >🔗</a> **[NASA]** A Sunflower’s View of Totality
 - <a href="https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/" >🔗</a> **[SpaceNews]** CesiumAstro buys semiconductor specialist to boost constellation plans
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/" >🔗</a> **[NASA]** For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too
 - <a href="https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/" >🔗</a> **[SpaceNews]** Space Command expands Alabama footprint as headquarters relocation advances
 - <a href="https://www.nasa.gov/image-article/perseids-meteor-shower-2/" >🔗</a> **[NASA]** Perseids Meteor Shower
-- <a href="https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space/" >🔗</a> **[SpaceNews]** An optical link ‘internet’ to connect networks in space
-- <a href="https://europeanspaceflight.com/suborbital-rocket-builder-gravitilab-enters-liquidation/" >🔗</a> **[European Spaceflight]** Suborbital Rocket Builder Gravitilab Enters Liquidation
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260814T083308">2026-08-14 08:33:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260814T092054">2026-08-14 09:20:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
