@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/" >🔗</a> **[NASA]** APOD: 2026 August 14 – Total Solar Eclipse from Greenland
+- <a href="https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality/" >🔗</a> **[NASA]** A Sunflower’s View of Totality
 - <a href="https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/" >🔗</a> **[SpaceNews]** CesiumAstro buys semiconductor specialist to boost constellation plans
 - <a href="https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/" >🔗</a> **[SpaceNews]** Space Force awards five companies $60 million for multi-vendor satellite network tests
 - <a href="https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/" >🔗</a> **[NASA]** NASA’s 737 Reveals New Paint
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/perseids-meteor-shower-2/" >🔗</a> **[NASA]** Perseids Meteor Shower
 - <a href="https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space/" >🔗</a> **[SpaceNews]** An optical link ‘internet’ to connect networks in space
 - <a href="https://europeanspaceflight.com/suborbital-rocket-builder-gravitilab-enters-liquidation/" >🔗</a> **[European Spaceflight]** Suborbital Rocket Builder Gravitilab Enters Liquidation
-- <a href="https://spacenews.com/maritime-satellite-service-revenues-to-reach-3-79-billion-by-2035-as-ngso-reshapes-maritime-connectivity/" >🔗</a> **[SpaceNews]** Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity
-- <a href="https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation/" >🔗</a> **[SpaceNews]** Paragon lays off staff after Gateway cancellation
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260814T041234">2026-08-14 04:12:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260814T050451">2026-08-14 05:04:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
