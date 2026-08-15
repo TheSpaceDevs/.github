@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/08/14/nasa-administrator-extremely-confident-in-artemis-3-launch-in-2027/" >🔗</a> **[Spaceflight Now]** NASA Administrator ‘extremely confident’ in Artemis 3 mission in 2027
 - <a href="https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/" >🔗</a> **[SpaceNews]** U.S. Space Force adds second surveillance sensor to Japanese constellation
 - <a href="https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/" >🔗</a> **[SpaceNews]** Wallops gears up for an increase in launches
 - <a href="https://spacepolicyonline.com/news/isaacman-extremely-confident-artemis-iii-will-launch-in-2027/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman “Extremely Confident” Artemis III Will Launch in 2027
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/" >🔗</a> **[NASA]** NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun
 - <a href="https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts/" >🔗</a> **[SpaceNews]** Spire and PlanetiQ win NOAA radio-occultation contracts
 - <a href="https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/" >🔗</a> **[Arstechnica]** Policy experts: Europe stuck between "rock and a hard place" on launch
-- <a href="https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/" >🔗</a> **[NASA]** Total Solar Eclipse in Sunflower Field
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260815T000431">2026-08-15 00:04:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260815T004509">2026-08-15 00:45:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
