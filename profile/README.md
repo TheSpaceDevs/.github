@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/" >🔗</a> **[Arstechnica]** Ukraine strikes major Russian rocket factory with cruise missiles
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/" >🔗</a> **[NASA]** APOD: 2026 August 15 – Bright Perseids from Sweden
 - <a href="https://www.nasaspaceflight.com/2026/08/rocket-lab-advances-announcements/" >🔗</a> **[NASASpaceflight]** Rocket Lab advances via series of announcements
 - <a href="https://spaceflightnow.com/2026/08/14/nasa-administrator-extremely-confident-in-artemis-3-launch-in-2027/" >🔗</a> **[Spaceflight Now]** NASA Administrator ‘extremely confident’ in Artemis 3 mission in 2027
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/" >🔗</a> **[NASA]** NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies
 - <a href="https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/" >🔗</a> **[NASA]** NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow
 - <a href="https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/" >🔗</a> **[NASA]** Volunteer Develops Machine-Learning Tool to Identify Rare Clouds
-- <a href="https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/" >🔗</a> **[NASA]** NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260815T160204">2026-08-15 16:02:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260815T163748">2026-08-15 16:37:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
