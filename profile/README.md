@@ -91,6 +91,7 @@ In early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/08/blue-origin-launch-pad-cape-canaveral/" >🔗</a> **[NASASpaceflight]** Blue Origin overviews plan for dual pad ops at Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/ukrainian-missiles-strike-russian-soyuz-rocket-factory/" >🔗</a> **[SpacePolicyOnline.com]** Ukrainian Missiles Strike Russian Soyuz Rocket Factory
 - <a href="https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/" >🔗</a> **[Arstechnica]** Ukraine strikes major Russian rocket factory with cruise missiles
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/" >🔗</a> **[NASA]** APOD: 2026 August 15 – Bright Perseids from Sweden
@@ -100,7 +101,6 @@ In early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd
 - <a href="https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/" >🔗</a> **[SpaceNews]** Wallops gears up for an increase in launches
 - <a href="https://spacepolicyonline.com/news/isaacman-extremely-confident-artemis-iii-will-launch-in-2027/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman “Extremely Confident” Artemis III Will Launch in 2027
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/" >🔗</a> **[NASA]** NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies
-- <a href="https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/" >🔗</a> **[NASA]** NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ In early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260815T230212">2026-08-15 23:02:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260815T233516">2026-08-15 23:35:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
