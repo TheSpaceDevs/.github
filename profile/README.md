@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/08/firefly-block-alpha-eclipse-progress/" >🔗</a> **[NASASpaceflight]** Firefly promote next block of Alpha amid Eclipse progress
 - <a href="https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/" >🔗</a> **[SpaceNews]** U.S. defense agencies tap three companies for satellite disposal study
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/" >🔗</a> **[NASA]** APOD: 2026 August 16 – Milky Way over Yellowstone
 - <a href="https://spaceflightnow.com/2026/08/15/live-coverage-spacex-to-launch-satellite-replenishment-mission-for-globalstar-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch satellite replenishment mission for Globalstar from Cape Canaveral
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/" >🔗</a> **[Arstechnica]** Ukraine strikes major Russian rocket factory with cruise missiles
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/" >🔗</a> **[NASA]** APOD: 2026 August 15 – Bright Perseids from Sweden
 - <a href="https://www.nasaspaceflight.com/2026/08/rocket-lab-advances-announcements/" >🔗</a> **[NASASpaceflight]** Rocket Lab advances via series of announcements
-- <a href="https://spaceflightnow.com/2026/08/14/nasa-administrator-extremely-confident-in-artemis-3-launch-in-2027/" >🔗</a> **[Spaceflight Now]** NASA Administrator ‘extremely confident’ in Artemis 3 mission in 2027
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260816T170315">2026-08-16 17:03:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260816T173454">2026-08-16 17:34:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
