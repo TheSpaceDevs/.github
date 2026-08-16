@@ -19,13 +19,13 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 12 | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+**Long March 2C | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Wenchang_Commercial_Space_Launch_Site">Commercial LC-2</a>, Wenchang Space Launch Site, People's Republic of China*
+from *<a href="None">Launch Complex 9</a>, Taiyuan Satellite Launch Center, People's Republic of China*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260816T040300">2026-08-16 04:03:00 UTC</a>.  Until
-then, this pad will have been used for 7
-out of 71 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T025300">2026-08-17 02:53:00 UTC</a>.  Until
+then, this pad will have been used for 78
+out of 158 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Unknown* and the payload will be injected
 into *an Unknown
@@ -36,10 +36,10 @@ into *an Unknown
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_12" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_2C" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=19.59755,110.936481" >
+  <a href="https://www.google.com/maps?q=38.863128,111.589567" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260825T054900">2026-08-25 05:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-49&location=Cape Canaveral SFS, FL, USA&dates=20260825T054900Z%2F20260825T094900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-49** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260825T164400">2026-08-25 16:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-22&location=Vandenberg SFB, CA, USA&dates=20260825T164400Z%2F20260825T204400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-22** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260827T201000">2026-08-27 20:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | MTG-I2&location=Guiana Space Centre, French Guiana&dates=20260827T201000Z%2F20260827T224000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | MTG-I2** from Guiana Space Centre, French Guiana.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260830T112600">2026-08-30 11:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | Nancy Grace Roman Space Telescope&location=Kennedy Space Center, FL, USA&dates=20260830T112600Z%2F20260830T112600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | Nancy Grace Roman Space Telescope** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/" >🔗</a> **[NASA]** APOD: 2026 August 16 – Milky Way over Yellowstone
 - <a href="https://spaceflightnow.com/2026/08/15/live-coverage-spacex-to-launch-satellite-replenishment-mission-for-globalstar-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch satellite replenishment mission for Globalstar from Cape Canaveral
 - <a href="https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/" >🔗</a> **[SpaceNews]** Lunar orbiter among upcoming NASA CLPS task orders
 - <a href="https://www.nasaspaceflight.com/2026/08/blue-origin-launch-pad-cape-canaveral/" >🔗</a> **[NASASpaceflight]** Blue Origin overviews plan for dual pad ops at Cape Canaveral
@@ -98,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/08/rocket-lab-advances-announcements/" >🔗</a> **[NASASpaceflight]** Rocket Lab advances via series of announcements
 - <a href="https://spaceflightnow.com/2026/08/14/nasa-administrator-extremely-confident-in-artemis-3-launch-in-2027/" >🔗</a> **[Spaceflight Now]** NASA Administrator ‘extremely confident’ in Artemis 3 mission in 2027
 - <a href="https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/" >🔗</a> **[SpaceNews]** U.S. Space Force adds second surveillance sensor to Japanese constellation
-- <a href="https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/" >🔗</a> **[SpaceNews]** Wallops gears up for an increase in launches
 
 
 ### Launch-related News 🚀
@@ -107,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260816T041101">2026-08-16 04:11:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260816T044208">2026-08-16 04:42:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
