@@ -91,6 +91,8 @@ In early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/08/15/live-coverage-spacex-to-launch-satellite-replenishment-mission-for-globalstar-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch satellite replenishment mission for Globalstar from Cape Canaveral
+- <a href="https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/" >🔗</a> **[SpaceNews]** Lunar orbiter among upcoming NASA CLPS task orders
 - <a href="https://www.nasaspaceflight.com/2026/08/blue-origin-launch-pad-cape-canaveral/" >🔗</a> **[NASASpaceflight]** Blue Origin overviews plan for dual pad ops at Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/ukrainian-missiles-strike-russian-soyuz-rocket-factory/" >🔗</a> **[SpacePolicyOnline.com]** Ukrainian Missiles Strike Russian Soyuz Rocket Factory
 - <a href="https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/" >🔗</a> **[Arstechnica]** Ukraine strikes major Russian rocket factory with cruise missiles
@@ -99,8 +101,6 @@ In early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd
 - <a href="https://spaceflightnow.com/2026/08/14/nasa-administrator-extremely-confident-in-artemis-3-launch-in-2027/" >🔗</a> **[Spaceflight Now]** NASA Administrator ‘extremely confident’ in Artemis 3 mission in 2027
 - <a href="https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/" >🔗</a> **[SpaceNews]** U.S. Space Force adds second surveillance sensor to Japanese constellation
 - <a href="https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/" >🔗</a> **[SpaceNews]** Wallops gears up for an increase in launches
-- <a href="https://spacepolicyonline.com/news/isaacman-extremely-confident-artemis-iii-will-launch-in-2027/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman “Extremely Confident” Artemis III Will Launch in 2027
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/" >🔗</a> **[NASA]** NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ In early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260816T000342">2026-08-16 00:03:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260816T004512">2026-08-16 00:45:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
