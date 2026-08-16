@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/" >🔗</a> **[SpaceNews]** Satellite operators emphasize launch deals in a constrained market
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-16-30-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 16-30, 2026
 - <a href="https://www.nasaspaceflight.com/2026/08/firefly-block-alpha-eclipse-progress/" >🔗</a> **[NASASpaceflight]** Firefly promote next block of Alpha amid Eclipse progress
 - <a href="https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/" >🔗</a> **[SpaceNews]** U.S. defense agencies tap three companies for satellite disposal study
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/08/blue-origin-launch-pad-cape-canaveral/" >🔗</a> **[NASASpaceflight]** Blue Origin overviews plan for dual pad ops at Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/ukrainian-missiles-strike-russian-soyuz-rocket-factory/" >🔗</a> **[SpacePolicyOnline.com]** Ukrainian Missiles Strike Russian Soyuz Rocket Factory
 - <a href="https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/" >🔗</a> **[Arstechnica]** Ukraine strikes major Russian rocket factory with cruise missiles
-- <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/" >🔗</a> **[NASA]** APOD: 2026 August 15 – Bright Perseids from Sweden
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260816T230149">2026-08-16 23:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260816T233457">2026-08-16 23:34:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
