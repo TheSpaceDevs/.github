@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/" >🔗</a> **[NASA]** NASA Selects Companies to Provide Payload Processing Services
 - <a href="https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/" >🔗</a> **[NASA]** NASA Mission Studies Air Pollution Over Ethiopia
 - <a href="https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/" >🔗</a> **[NASA]** Next Generation of Planetary Scientists Learn Public Engagement Skills
 - <a href="https://spacenews.com/ula-names-peller-as-new-ceo/" >🔗</a> **[SpaceNews]** ULA names Peller as new CEO
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery" >🔗</a> **[ESA]** Hubble & Gaia solve our galaxy's merger mystery
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast" >🔗</a> **[ESA]** Total solar eclipse 2026 (Official ESA broadcast)
 - <a href="https://spacenews.com/l3harris-names-space-sector-leader-sam-mehta-ceo-after-kubasik-steps-down/" >🔗</a> **[SpaceNews]** L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down
-- <a href="https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss/" >🔗</a> **[SpaceNews]** The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T200342">2026-08-17 20:03:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T203900">2026-08-17 20:39:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
