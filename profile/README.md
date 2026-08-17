@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae/" >🔗</a> **[SpaceNews]** Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE
+- <a href="https://www.esa.int/Applications/Satellite_navigation/How_digital_twins_can_strengthen_the_resilience_of_position_navigation_and_timing_capabilities" >🔗</a> **[ESA]** How digital twins can strengthen the resilience of position, navigation and timing capabilities
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_spacewalk_live" >🔗</a> **[ESA]** Watch Sophie Adenot’s spacewalk live
 - <a href="https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/" >🔗</a> **[SpaceNews]** Lynk and Omnispace form Elveo Mobile to advance D2D services
 - <a href="https://science.nasa.gov/image-article/apod-2026-august-17-a-golden-corona-eclipse/" >🔗</a> **[NASA]** APOD: 2026 August 17 – A Golden Corona Eclipse
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/08/firefly-block-alpha-eclipse-progress/" >🔗</a> **[NASASpaceflight]** Firefly promote next block of Alpha amid Eclipse progress
 - <a href="https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/" >🔗</a> **[SpaceNews]** U.S. defense agencies tap three companies for satellite disposal study
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/" >🔗</a> **[NASA]** APOD: 2026 August 16 – Milky Way over Yellowstone
-- <a href="https://spaceflightnow.com/2026/08/15/live-coverage-spacex-to-launch-satellite-replenishment-mission-for-globalstar-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch satellite replenishment mission for Globalstar from Cape Canaveral
-- <a href="https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/" >🔗</a> **[SpaceNews]** Lunar orbiter among upcoming NASA CLPS task orders
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T094321">2026-08-17 09:43:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T100824">2026-08-17 10:08:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
