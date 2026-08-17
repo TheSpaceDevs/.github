@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Chang’e 7 headlines week of Chinese and Starlink launches
+- <a href="https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/" >🔗</a> **[SpaceNews]** HEO to use Planet satellites for non-Earth imaging
 - <a href="https://spacenews.com/new-eu-sanctions-target-leaders-of-russias-space-industry/" >🔗</a> **[SpaceNews]** New EU sanctions target leaders of Russia’s space industry
 - <a href="https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/" >🔗</a> **[NASA]** NASA Selects Companies to Provide Payload Processing Services
 - <a href="https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/" >🔗</a> **[NASA]** NASA Mission Studies Air Pollution Over Ethiopia
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/" >🔗</a> **[NASA]** Colorful Collage of Tarantula Nebula
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/" >🔗</a> **[NASA]** NASA Challenge Tests Wheel Designs for Moon Base Mobility
 - <a href="https://science.nasa.gov/missions/hubble/hubble-solves-merger-mystery-from-milky-ways-early-years/" >🔗</a> **[NASA]** Hubble Solves Merger Mystery From Milky Way’s Early Years
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery" >🔗</a> **[ESA]** Hubble & Gaia solve our galaxy's merger mystery
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast" >🔗</a> **[ESA]** Total solar eclipse 2026 (Official ESA broadcast)
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T220304">2026-08-17 22:03:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T223740">2026-08-17 22:37:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
