@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast" >🔗</a> **[ESA]** Total solar eclipse 2026 (Official ESA broadcast)
 - <a href="https://spacenews.com/l3harris-names-space-sector-leader-sam-mehta-ceo-after-kubasik-steps-down/" >🔗</a> **[SpaceNews]** L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down
 - <a href="https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss/" >🔗</a> **[SpaceNews]** The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss
 - <a href="https://spacenews.com/seops-adds-second-waymaker-rideshare-mission/" >🔗</a> **[SpaceNews]** SEOPS adds second Waymaker rideshare mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Satellite_navigation/How_digital_twins_can_strengthen_the_resilience_of_position_navigation_and_timing_capabilities" >🔗</a> **[ESA]** How digital twins can strengthen the resilience of position, navigation and timing capabilities
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_spacewalk_live" >🔗</a> **[ESA]** Watch Sophie Adenot’s spacewalk live
 - <a href="https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/" >🔗</a> **[SpaceNews]** Lynk and Omnispace form Elveo Mobile to advance D2D services
-- <a href="https://science.nasa.gov/image-article/apod-2026-august-17-a-golden-corona-eclipse/" >🔗</a> **[NASA]** APOD: 2026 August 17 – A Golden Corona Eclipse
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T140526">2026-08-17 14:05:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T143905">2026-08-17 14:39:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
