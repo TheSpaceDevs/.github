@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/" >🔗</a> **[NASA]** NASA Mission Studies Air Pollution Over Ethiopia
 - <a href="https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/" >🔗</a> **[NASA]** Next Generation of Planetary Scientists Learn Public Engagement Skills
 - <a href="https://spacenews.com/ula-names-peller-as-new-ceo/" >🔗</a> **[SpaceNews]** ULA names Peller as new CEO
 - <a href="https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/" >🔗</a> **[NASA]** Colorful Collage of Tarantula Nebula
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast" >🔗</a> **[ESA]** Total solar eclipse 2026 (Official ESA broadcast)
 - <a href="https://spacenews.com/l3harris-names-space-sector-leader-sam-mehta-ceo-after-kubasik-steps-down/" >🔗</a> **[SpaceNews]** L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down
 - <a href="https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss/" >🔗</a> **[SpaceNews]** The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss
-- <a href="https://spacenews.com/seops-adds-second-waymaker-rideshare-mission/" >🔗</a> **[SpaceNews]** SEOPS adds second Waymaker rideshare mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T190958">2026-08-17 19:09:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T193824">2026-08-17 19:38:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
