@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary
 - <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Chang’e 7 headlines week of Chinese and Starlink launches
 - <a href="https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/" >🔗</a> **[SpaceNews]** HEO to use Planet satellites for non-Earth imaging
 - <a href="https://spacenews.com/new-eu-sanctions-target-leaders-of-russias-space-industry/" >🔗</a> **[SpaceNews]** New EU sanctions target leaders of Russia’s space industry
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ula-names-peller-as-new-ceo/" >🔗</a> **[SpaceNews]** ULA names Peller as new CEO
 - <a href="https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/" >🔗</a> **[NASA]** Colorful Collage of Tarantula Nebula
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/" >🔗</a> **[NASA]** NASA Challenge Tests Wheel Designs for Moon Base Mobility
-- <a href="https://science.nasa.gov/missions/hubble/hubble-solves-merger-mystery-from-milky-ways-early-years/" >🔗</a> **[NASA]** Hubble Solves Merger Mystery From Milky Way’s Early Years
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T230313">2026-08-17 23:03:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T233558">2026-08-17 23:35:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
