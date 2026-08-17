@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/" >🔗</a> **[SpaceNews]** Lynk and Omnispace form Elveo Mobile to advance D2D services
+- <a href="https://science.nasa.gov/image-article/apod-2026-august-17-a-golden-corona-eclipse/" >🔗</a> **[NASA]** APOD: 2026 August 17 – A Golden Corona Eclipse
 - <a href="https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/" >🔗</a> **[SpaceNews]** Satellite operators emphasize launch deals in a constrained market
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-16-30-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 16-30, 2026
 - <a href="https://www.nasaspaceflight.com/2026/08/firefly-block-alpha-eclipse-progress/" >🔗</a> **[NASASpaceflight]** Firefly promote next block of Alpha amid Eclipse progress
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/08/15/live-coverage-spacex-to-launch-satellite-replenishment-mission-for-globalstar-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch satellite replenishment mission for Globalstar from Cape Canaveral
 - <a href="https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/" >🔗</a> **[SpaceNews]** Lunar orbiter among upcoming NASA CLPS task orders
 - <a href="https://www.nasaspaceflight.com/2026/08/blue-origin-launch-pad-cape-canaveral/" >🔗</a> **[NASASpaceflight]** Blue Origin overviews plan for dual pad ops at Cape Canaveral
-- <a href="https://spacepolicyonline.com/news/ukrainian-missiles-strike-russian-soyuz-rocket-factory/" >🔗</a> **[SpacePolicyOnline.com]** Ukrainian Missiles Strike Russian Soyuz Rocket Factory
-- <a href="https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/" >🔗</a> **[Arstechnica]** Ukraine strikes major Russian rocket factory with cruise missiles
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T041248">2026-08-17 04:12:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T044311">2026-08-17 04:43:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
