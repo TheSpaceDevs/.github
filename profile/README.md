@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/l3harris-names-space-sector-leader-sam-mehta-ceo-after-kubasik-steps-down/" >🔗</a> **[SpaceNews]** L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down
+- <a href="https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss/" >🔗</a> **[SpaceNews]** The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss
+- <a href="https://spacenews.com/seops-adds-second-waymaker-rideshare-mission/" >🔗</a> **[SpaceNews]** SEOPS adds second Waymaker rideshare mission
 - <a href="https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/" >🔗</a> **[Arstechnica]** There's a huge launch crunch right now, and it will probably get worse
 - <a href="https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be/" >🔗</a> **[SpaceNews]** A rocket crashed into the moon. It was harmless, but the next one might not be.
 - <a href="https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae/" >🔗</a> **[SpaceNews]** Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_spacewalk_live" >🔗</a> **[ESA]** Watch Sophie Adenot’s spacewalk live
 - <a href="https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/" >🔗</a> **[SpaceNews]** Lynk and Omnispace form Elveo Mobile to advance D2D services
 - <a href="https://science.nasa.gov/image-article/apod-2026-august-17-a-golden-corona-eclipse/" >🔗</a> **[NASA]** APOD: 2026 August 17 – A Golden Corona Eclipse
-- <a href="https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/" >🔗</a> **[SpaceNews]** Satellite operators emphasize launch deals in a constrained market
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-16-30-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 16-30, 2026
-- <a href="https://www.nasaspaceflight.com/2026/08/firefly-block-alpha-eclipse-progress/" >🔗</a> **[NASASpaceflight]** Firefly promote next block of Alpha amid Eclipse progress
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T120332">2026-08-17 12:03:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T124326">2026-08-17 12:43:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
