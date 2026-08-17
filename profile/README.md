@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_spacewalk_live" >🔗</a> **[ESA]** Watch Sophie Adenot’s spacewalk live
 - <a href="https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/" >🔗</a> **[SpaceNews]** Lynk and Omnispace form Elveo Mobile to advance D2D services
 - <a href="https://science.nasa.gov/image-article/apod-2026-august-17-a-golden-corona-eclipse/" >🔗</a> **[NASA]** APOD: 2026 August 17 – A Golden Corona Eclipse
 - <a href="https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/" >🔗</a> **[SpaceNews]** Satellite operators emphasize launch deals in a constrained market
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/" >🔗</a> **[NASA]** APOD: 2026 August 16 – Milky Way over Yellowstone
 - <a href="https://spaceflightnow.com/2026/08/15/live-coverage-spacex-to-launch-satellite-replenishment-mission-for-globalstar-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch satellite replenishment mission for Globalstar from Cape Canaveral
 - <a href="https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/" >🔗</a> **[SpaceNews]** Lunar orbiter among upcoming NASA CLPS task orders
-- <a href="https://www.nasaspaceflight.com/2026/08/blue-origin-launch-pad-cape-canaveral/" >🔗</a> **[NASASpaceflight]** Blue Origin overviews plan for dual pad ops at Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T074455">2026-08-17 07:44:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T081046">2026-08-17 08:10:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
