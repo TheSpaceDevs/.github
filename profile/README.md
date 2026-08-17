@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/" >🔗</a> **[NASA]** Colorful Collage of Tarantula Nebula
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/" >🔗</a> **[NASA]** NASA Challenge Tests Wheel Designs for Moon Base Mobility
 - <a href="https://science.nasa.gov/missions/hubble/hubble-solves-merger-mystery-from-milky-ways-early-years/" >🔗</a> **[NASA]** Hubble Solves Merger Mystery From Milky Way’s Early Years
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery" >🔗</a> **[ESA]** Hubble & Gaia solve our galaxy's merger mystery
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/seops-adds-second-waymaker-rideshare-mission/" >🔗</a> **[SpaceNews]** SEOPS adds second Waymaker rideshare mission
 - <a href="https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/" >🔗</a> **[Arstechnica]** There's a huge launch crunch right now, and it will probably get worse
 - <a href="https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be/" >🔗</a> **[SpaceNews]** A rocket crashed into the moon. It was harmless, but the next one might not be.
-- <a href="https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae/" >🔗</a> **[SpaceNews]** Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T160307">2026-08-17 16:03:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T163927">2026-08-17 16:39:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
