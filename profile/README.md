@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/" >🔗</a> **[NASA]** Next Generation of Planetary Scientists Learn Public Engagement Skills
 - <a href="https://spacenews.com/ula-names-peller-as-new-ceo/" >🔗</a> **[SpaceNews]** ULA names Peller as new CEO
 - <a href="https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/" >🔗</a> **[NASA]** Colorful Collage of Tarantula Nebula
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/" >🔗</a> **[NASA]** NASA Challenge Tests Wheel Designs for Moon Base Mobility
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/l3harris-names-space-sector-leader-sam-mehta-ceo-after-kubasik-steps-down/" >🔗</a> **[SpaceNews]** L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down
 - <a href="https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss/" >🔗</a> **[SpaceNews]** The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss
 - <a href="https://spacenews.com/seops-adds-second-waymaker-rideshare-mission/" >🔗</a> **[SpaceNews]** SEOPS adds second Waymaker rideshare mission
-- <a href="https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/" >🔗</a> **[Arstechnica]** There's a huge launch crunch right now, and it will probably get worse
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T180511">2026-08-17 18:05:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260817T184308">2026-08-17 18:43:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
