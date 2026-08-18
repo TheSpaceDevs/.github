@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/" >🔗</a> **[SpaceNews]** Rocket Lab to test Space Force data network connection in orbit in 2027
 - <a href="https://spaceflightnow.com/2026/08/18/astronauts-remove-failed-antenna-run-out-of-time-to-install-a-spare/" >🔗</a> **[Spaceflight Now]** Astronauts remove failed antenna; run out of time to install a spare
 - <a href="https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/" >🔗</a> **[NASA]** NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details
 - <a href="https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/" >🔗</a> **[NASA]** NASA Student Aviation Challenge Focuses on Nation’s Infrastructure
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/08/18/live-coverage-spacex-to-send-starlink-satellites-to-orbit-with-tuesday-night-launch-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to send Starlink satellites to orbit with Tuesday night launch from California
 - <a href="https://www.nasaspaceflight.com/2026/08/ship-40-christmas-island-plans-return-starbase/" >🔗</a> **[NASASpaceflight]** Ship 40 arrives at Christmas Island, Plans Return to Starbase
 - <a href="https://spacenews.com/new-report-takes-closer-look-at-the-space-force-spending-surge/" >🔗</a> **[SpaceNews]** New report takes closer look at the Space Force spending surge
-- <a href="https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027/" >🔗</a> **[SpaceNews]** Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260818T220231">2026-08-18 22:02:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260818T230321">2026-08-18 23:03:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
