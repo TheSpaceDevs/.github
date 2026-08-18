@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/spacex-reverses-starlink-roaming-decision-for-polish-customers/" >🔗</a> **[European Spaceflight]** SpaceX Reverses Starlink Roaming Decision for Polish Customers
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary
 - <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Chang’e 7 headlines week of Chinese and Starlink launches
 - <a href="https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/" >🔗</a> **[SpaceNews]** HEO to use Planet satellites for non-Earth imaging
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/" >🔗</a> **[NASA]** Next Generation of Planetary Scientists Learn Public Engagement Skills
 - <a href="https://spacenews.com/ula-names-peller-as-new-ceo/" >🔗</a> **[SpaceNews]** ULA names Peller as new CEO
 - <a href="https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/" >🔗</a> **[NASA]** Colorful Collage of Tarantula Nebula
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/" >🔗</a> **[NASA]** NASA Challenge Tests Wheel Designs for Moon Base Mobility
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260818T080636">2026-08-18 08:06:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260818T084238">2026-08-18 08:42:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
