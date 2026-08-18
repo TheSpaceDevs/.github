@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027/" >🔗</a> **[SpaceNews]** Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027
+- <a href="https://spacenews.com/new-report-takes-closer-look-at-the-space-force-spending-surge/" >🔗</a> **[SpaceNews]** New report takes closer look at the Space Force spending surge
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_s_Mars_flyby_guided_impact_study_of_Deimos_moon" >🔗</a> **[ESA]** Hera's Mars flyby guided impact study of Deimos moon
 - <a href="https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/" >🔗</a> **[SpaceNews]** NRO to expand use of HawkEye 360’s satellite intelligence
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Phoenix_3_concept_study_for_a_reusable_European_spacecraft" >🔗</a> **[ESA]** Phoenix 3: concept study for a reusable European spacecraft
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Chang’e 7 headlines week of Chinese and Starlink launches
 - <a href="https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/" >🔗</a> **[SpaceNews]** HEO to use Planet satellites for non-Earth imaging
 - <a href="https://spacenews.com/new-eu-sanctions-target-leaders-of-russias-space-industry/" >🔗</a> **[SpaceNews]** New EU sanctions target leaders of Russia’s space industry
-- <a href="https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/" >🔗</a> **[NASA]** NASA Selects Companies to Provide Payload Processing Services
-- <a href="https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/" >🔗</a> **[NASA]** NASA Mission Studies Air Pollution Over Ethiopia
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260818T120414">2026-08-18 12:04:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260818T124343">2026-08-18 12:43:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
