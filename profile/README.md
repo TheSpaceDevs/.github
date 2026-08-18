@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Space_Safety/Hera/Hera_s_Mars_flyby_guided_impact_study_of_Deimos_moon" >🔗</a> **[ESA]** Hera's Mars flyby guided impact study of Deimos moon
+- <a href="https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/" >🔗</a> **[SpaceNews]** NRO to expand use of HawkEye 360’s satellite intelligence
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Phoenix_3_concept_study_for_a_reusable_European_spacecraft" >🔗</a> **[ESA]** Phoenix 3: concept study for a reusable European spacecraft
 - <a href="https://europeanspaceflight.com/spacex-reverses-starlink-roaming-decision-for-polish-customers/" >🔗</a> **[European Spaceflight]** SpaceX Reverses Starlink Roaming Decision for Polish Customers
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary
 - <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Chang’e 7 headlines week of Chinese and Starlink launches
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/new-eu-sanctions-target-leaders-of-russias-space-industry/" >🔗</a> **[SpaceNews]** New EU sanctions target leaders of Russia’s space industry
 - <a href="https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/" >🔗</a> **[NASA]** NASA Selects Companies to Provide Payload Processing Services
 - <a href="https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/" >🔗</a> **[NASA]** NASA Mission Studies Air Pollution Over Ethiopia
-- <a href="https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/" >🔗</a> **[NASA]** Next Generation of Planetary Scientists Learn Public Engagement Skills
-- <a href="https://spacenews.com/ula-names-peller-as-new-ceo/" >🔗</a> **[SpaceNews]** ULA names Peller as new CEO
-- <a href="https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/" >🔗</a> **[NASA]** Colorful Collage of Tarantula Nebula
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260818T090735">2026-08-18 09:07:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260818T094129">2026-08-18 09:41:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
