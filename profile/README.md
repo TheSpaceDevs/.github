@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/" >🔗</a> **[NASA]** NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details
 - <a href="https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/" >🔗</a> **[NASA]** NASA Student Aviation Challenge Focuses on Nation’s Infrastructure
 - <a href="https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/" >🔗</a> **[Arstechnica]** The United States is about to wake up to the threat from China's space program
 - <a href="https://www.nasa.gov/image-article/nasas-b777-gets-new-coat-of-paint/" >🔗</a> **[NASA]** NASA’s B777 Gets New Coat of Paint
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/new-report-takes-closer-look-at-the-space-force-spending-surge/" >🔗</a> **[SpaceNews]** New report takes closer look at the Space Force spending surge
 - <a href="https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027/" >🔗</a> **[SpaceNews]** Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_s_Mars_flyby_guided_impact_study_of_Deimos_moon" >🔗</a> **[ESA]** Hera's Mars flyby guided impact study of Deimos moon
-- <a href="https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/" >🔗</a> **[SpaceNews]** NRO to expand use of HawkEye 360’s satellite intelligence
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260818T190926">2026-08-18 19:09:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260818T193735">2026-08-18 19:37:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
