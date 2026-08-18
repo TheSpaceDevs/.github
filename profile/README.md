@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/" >🔗</a> **[Arstechnica]** The United States is about to wake up to the threat from China's space program
 - <a href="https://www.nasa.gov/image-article/nasas-b777-gets-new-coat-of-paint/" >🔗</a> **[NASA]** NASA’s B777 Gets New Coat of Paint
 - <a href="https://www.nasa.gov/general/nasa-glenn-inflight-research/" >🔗</a> **[NASA]** NASA Glenn’s Legacy Forged Through Decades of Flight Research
 - <a href="https://spaceflightnow.com/2026/08/18/live-coverage-spacex-to-send-starlink-satellites-to-orbit-with-tuesday-night-launch-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to send Starlink satellites to orbit with Tuesday night launch from California
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_s_Mars_flyby_guided_impact_study_of_Deimos_moon" >🔗</a> **[ESA]** Hera's Mars flyby guided impact study of Deimos moon
 - <a href="https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/" >🔗</a> **[SpaceNews]** NRO to expand use of HawkEye 360’s satellite intelligence
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Phoenix_3_concept_study_for_a_reusable_European_spacecraft" >🔗</a> **[ESA]** Phoenix 3: concept study for a reusable European spacecraft
-- <a href="https://europeanspaceflight.com/spacex-reverses-starlink-roaming-decision-for-polish-customers/" >🔗</a> **[European Spaceflight]** SpaceX Reverses Starlink Roaming Decision for Polish Customers
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260818T160445">2026-08-18 16:04:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260818T164104">2026-08-18 16:41:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
