@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-glenn-inflight-research/" >🔗</a> **[NASA]** NASA Glenn’s Legacy Forged Through Decades of Flight Research
+- <a href="https://spaceflightnow.com/2026/08/18/live-coverage-spacex-to-send-starlink-satellites-to-orbit-with-tuesday-night-launch-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to send Starlink satellites to orbit with Tuesday night launch from California
 - <a href="https://www.nasaspaceflight.com/2026/08/ship-40-christmas-island-plans-return-starbase/" >🔗</a> **[NASASpaceflight]** Ship 40 arrives at Christmas Island, Plans Return to Starbase
 - <a href="https://spacenews.com/new-report-takes-closer-look-at-the-space-force-spending-surge/" >🔗</a> **[SpaceNews]** New report takes closer look at the Space Force spending surge
 - <a href="https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027/" >🔗</a> **[SpaceNews]** Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Phoenix_3_concept_study_for_a_reusable_European_spacecraft" >🔗</a> **[ESA]** Phoenix 3: concept study for a reusable European spacecraft
 - <a href="https://europeanspaceflight.com/spacex-reverses-starlink-roaming-decision-for-polish-customers/" >🔗</a> **[European Spaceflight]** SpaceX Reverses Starlink Roaming Decision for Polish Customers
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary
-- <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Chang’e 7 headlines week of Chinese and Starlink launches
-- <a href="https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/" >🔗</a> **[SpaceNews]** HEO to use Planet satellites for non-Earth imaging
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260818T134307">2026-08-18 13:43:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260818T140947">2026-08-18 14:09:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
