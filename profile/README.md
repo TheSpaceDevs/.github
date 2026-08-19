@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/08/zhuque-3-second-flight-successful-landing/" >🔗</a> **[NASASpaceflight]** Zhuque-3 Completes Second Flight with Successful First-Stage Landing
 - <a href="https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges/" >🔗</a> **[SpaceNews]** Space nuclear programs face near- and long-term challenges
 - <a href="https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/" >🔗</a> **[SpaceNews]** China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket
 - <a href="https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/" >🔗</a> **[SpaceNews]** Rocket Lab to test Space Force data network connection in orbit in 2027
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/" >🔗</a> **[Arstechnica]** The United States is about to wake up to the threat from China's space program
 - <a href="https://www.nasa.gov/image-article/nasas-b777-gets-new-coat-of-paint/" >🔗</a> **[NASA]** NASA’s B777 Gets New Coat of Paint
 - <a href="https://www.nasa.gov/general/nasa-glenn-inflight-research/" >🔗</a> **[NASA]** NASA Glenn’s Legacy Forged Through Decades of Flight Research
-- <a href="https://spaceflightnow.com/2026/08/18/live-coverage-spacex-to-send-starlink-satellites-to-orbit-with-tuesday-night-launch-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to send Starlink satellites to orbit with Tuesday night launch from California
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T031554">2026-08-19 03:15:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T034355">2026-08-19 03:43:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
