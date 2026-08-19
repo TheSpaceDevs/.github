@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/08/landspace-scores-first-booster-landing/" >🔗</a> **[Space Scout]** LandSpace Scores First Booster Landing
 - <a href="https://www.nasa.gov/learning-resources/career-spotlight-mechanic-ages-14-18/" >🔗</a> **[NASA]** Career Spotlight: Mechanic (Ages 14-18)
 - <a href="https://spacenews.com/the-space-industrys-next-challenge-supply-chain-resilience/" >🔗</a> **[SpaceNews]** The space industry’s next challenge: supply chain resilience
 - <a href="https://spacenews.com/vantor-names-new-head-of-u-s-government-business/" >🔗</a> **[SpaceNews]** Vantor names new head of U.S. government business
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/" >🔗</a> **[NASA]** APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor
 - <a href="https://www.nasaspaceflight.com/2026/08/zhuque-3-second-flight-successful-landing/" >🔗</a> **[NASASpaceflight]** Zhuque-3 Completes Second Flight with Successful First-Stage Landing
 - <a href="https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges/" >🔗</a> **[SpaceNews]** Space nuclear programs face near- and long-term challenges
-- <a href="https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/" >🔗</a> **[SpaceNews]** China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T140943">2026-08-19 14:09:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T144141">2026-08-19 14:41:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
