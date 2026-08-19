@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/" >🔗</a> **[NASA]** Behind the Lens: Meet NASA Johnson’s Photographers
 - <a href="https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/" >🔗</a> **[NASA]** APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor
 - <a href="https://www.nasaspaceflight.com/2026/08/zhuque-3-second-flight-successful-landing/" >🔗</a> **[NASASpaceflight]** Zhuque-3 Completes Second Flight with Successful First-Stage Landing
 - <a href="https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges/" >🔗</a> **[SpaceNews]** Space nuclear programs face near- and long-term challenges
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/" >🔗</a> **[NASA]** NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details
 - <a href="https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/" >🔗</a> **[NASA]** NASA Student Aviation Challenge Focuses on Nation’s Infrastructure
 - <a href="https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/" >🔗</a> **[Arstechnica]** The United States is about to wake up to the threat from China's space program
-- <a href="https://www.nasa.gov/image-article/nasas-b777-gets-new-coat-of-paint/" >🔗</a> **[NASA]** NASA’s B777 Gets New Coat of Paint
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T050727">2026-08-19 05:07:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T053955">2026-08-19 05:39:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
