@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/vantor-names-new-head-of-u-s-government-business/" >🔗</a> **[SpaceNews]** Vantor names new head of U.S. government business
+- <a href="https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express" >🔗</a> **[ESA]** Fly around Schiaparelli Crater with Mars Express
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/" >🔗</a> **[NASA]** Behind the Lens: Meet NASA Johnson’s Photographers
 - <a href="https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/" >🔗</a> **[NASA]** APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/" >🔗</a> **[SpaceNews]** China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket
 - <a href="https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/" >🔗</a> **[SpaceNews]** Rocket Lab to test Space Force data network connection in orbit in 2027
 - <a href="https://spaceflightnow.com/2026/08/18/astronauts-remove-failed-antenna-run-out-of-time-to-install-a-spare/" >🔗</a> **[Spaceflight Now]** Astronauts remove failed antenna; run out of time to install a spare
-- <a href="https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/" >🔗</a> **[NASA]** NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details
-- <a href="https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/" >🔗</a> **[NASA]** NASA Student Aviation Challenge Focuses on Nation’s Infrastructure
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T120408">2026-08-19 12:04:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T124340">2026-08-19 12:43:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
