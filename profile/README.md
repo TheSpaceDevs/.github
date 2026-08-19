@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/" >🔗</a> **[SpaceNews]** Hypersonic missile startup Castelion raises $1 billion
+- <a href="https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2/" >🔗</a> **[SpaceNews]** Eartheye Space forges strategic partnership with IN2
+- <a href="https://spacepolicyonline.com/news/space-force-funding-could-be-record-high-if-congress-agrees/" >🔗</a> **[SpacePolicyOnline.com]** Space Force Funding Could Be Record High, If Congress Agrees
 - <a href="https://www.nasaspaceflight.com/2026/08/stoke-update-081926/" >🔗</a> **[NASASpaceflight]** Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut
 - <a href="https://spaceflightnow.com/2026/08/19/landspace-becomes-first-commercial-chinese-company-to-land-an-orbital-class-booster/" >🔗</a> **[Spaceflight Now]** LandSpace becomes first commercial Chinese company to land an orbital-class booster
 - <a href="https://spacepolicyonline.com/news/no-go-for-katalysts-reboost-of-nasas-swift-observatory/" >🔗</a> **[SpacePolicyOnline.com]** No-Go for Katalyst’s Reboost of NASA’s Swift Observatory
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/parse-ly-test/" >🔗</a> **[NASA]** Parse.ly Test
 - <a href="https://europeanspaceflight.com/atmos-moves-forward-with-phoenix-3-as-phoenix-2-launch-slips/" >🔗</a> **[European Spaceflight]** ATMOS Moves Forward with Phoenix 3 as Phoenix 2 Launch Slips
 - <a href="https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/" >🔗</a> **[SpaceNews]** Katalyst Space and NASA abandon plans for Swift reboost
-- <a href="https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/" >🔗</a> **[NASA]** NASA Updates Next Steps for Commercial Swift Boost Mission
-- <a href="https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/" >🔗</a> **[NASA]** Human-Related Microbes May Survive Moon’s South Pole, NASA Finds
-- <a href="https://www.nasa.gov/image-article/ancient-milky-way-merger/" >🔗</a> **[NASA]** Ancient Milky Way Merger
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T230351">2026-08-19 23:03:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T233601">2026-08-19 23:36:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
