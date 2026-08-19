@@ -90,7 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/" >🔗</a> **[SpaceNews]** Katalyst Space and NASA abandon plans for Swift reboost
 - <a href="https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/" >🔗</a> **[NASA]** NASA Updates Next Steps for Commercial Swift Boost Mission
+- <a href="https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/" >🔗</a> **[NASA]** Human-Related Microbes May Survive Moon’s South Pole, NASA Finds
 - <a href="https://www.nasa.gov/image-article/ancient-milky-way-merger/" >🔗</a> **[NASA]** Ancient Milky Way Merger
 - <a href="https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce/" >🔗</a> **[NASA]** NASA Establishes State Hubs to Grow Technical Aerospace Workforce
 - <a href="https://spacenews.com/moog-inc-expands-meteorite-satellite-bus-capacity-for-high-maneuverability-missions/" >🔗</a> **[SpaceNews]** Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2026/08/landspace-scores-first-booster-landing/" >🔗</a> **[Space Scout]** LandSpace Scores First Booster Landing
 - <a href="https://www.nasa.gov/learning-resources/career-spotlight-mechanic-ages-14-18/" >🔗</a> **[NASA]** Career Spotlight: Mechanic (Ages 14-18)
 - <a href="https://spacenews.com/the-space-industrys-next-challenge-supply-chain-resilience/" >🔗</a> **[SpaceNews]** The space industry’s next challenge: supply chain resilience
-- <a href="https://spacenews.com/vantor-names-new-head-of-u-s-government-business/" >🔗</a> **[SpaceNews]** Vantor names new head of U.S. government business
-- <a href="https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T190635">2026-08-19 19:06:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T193651">2026-08-19 19:36:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
