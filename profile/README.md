@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/ancient-milky-way-merger/" >🔗</a> **[NASA]** Ancient Milky Way Merger
+- <a href="https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce/" >🔗</a> **[NASA]** NASA Establishes State Hubs to Grow Technical Aerospace Workforce
 - <a href="https://spacenews.com/moog-inc-expands-meteorite-satellite-bus-capacity-for-high-maneuverability-missions/" >🔗</a> **[SpaceNews]** Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Replay_MTG-I2_pre-launch_media_briefing" >🔗</a> **[ESA]** Replay: MTG-I2 pre-launch media briefing
 - <a href="https://www.spacescout.info/2026/08/landspace-scores-first-booster-landing/" >🔗</a> **[Space Scout]** LandSpace Scores First Booster Landing
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/vantor-names-new-head-of-u-s-government-business/" >🔗</a> **[SpaceNews]** Vantor names new head of U.S. government business
 - <a href="https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express" >🔗</a> **[ESA]** Fly around Schiaparelli Crater with Mars Express
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/" >🔗</a> **[NASA]** Behind the Lens: Meet NASA Johnson’s Photographers
-- <a href="https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/" >🔗</a> **[NASA]** APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T160440">2026-08-19 16:04:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T164037">2026-08-19 16:40:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
