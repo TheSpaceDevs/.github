@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/" >🔗</a> **[NASA]** NASA Updates Next Steps for Commercial Swift Boost Mission
 - <a href="https://www.nasa.gov/image-article/ancient-milky-way-merger/" >🔗</a> **[NASA]** Ancient Milky Way Merger
 - <a href="https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce/" >🔗</a> **[NASA]** NASA Establishes State Hubs to Grow Technical Aerospace Workforce
 - <a href="https://spacenews.com/moog-inc-expands-meteorite-satellite-bus-capacity-for-high-maneuverability-missions/" >🔗</a> **[SpaceNews]** Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-space-industrys-next-challenge-supply-chain-resilience/" >🔗</a> **[SpaceNews]** The space industry’s next challenge: supply chain resilience
 - <a href="https://spacenews.com/vantor-names-new-head-of-u-s-government-business/" >🔗</a> **[SpaceNews]** Vantor names new head of U.S. government business
 - <a href="https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express" >🔗</a> **[ESA]** Fly around Schiaparelli Crater with Mars Express
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T180327">2026-08-19 18:03:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T184226">2026-08-19 18:42:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
