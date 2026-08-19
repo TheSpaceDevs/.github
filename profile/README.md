@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges/" >🔗</a> **[SpaceNews]** Space nuclear programs face near- and long-term challenges
 - <a href="https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/" >🔗</a> **[SpaceNews]** China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket
 - <a href="https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/" >🔗</a> **[SpaceNews]** Rocket Lab to test Space Force data network connection in orbit in 2027
 - <a href="https://spaceflightnow.com/2026/08/18/astronauts-remove-failed-antenna-run-out-of-time-to-install-a-spare/" >🔗</a> **[Spaceflight Now]** Astronauts remove failed antenna; run out of time to install a spare
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasas-b777-gets-new-coat-of-paint/" >🔗</a> **[NASA]** NASA’s B777 Gets New Coat of Paint
 - <a href="https://www.nasa.gov/general/nasa-glenn-inflight-research/" >🔗</a> **[NASA]** NASA Glenn’s Legacy Forged Through Decades of Flight Research
 - <a href="https://spaceflightnow.com/2026/08/18/live-coverage-spacex-to-send-starlink-satellites-to-orbit-with-tuesday-night-launch-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to send Starlink satellites to orbit with Tuesday night launch from California
-- <a href="https://www.nasaspaceflight.com/2026/08/ship-40-christmas-island-plans-return-starbase/" >🔗</a> **[NASASpaceflight]** Ship 40 arrives at Christmas Island, Plans Return to Starbase
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T020142">2026-08-19 02:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T024605">2026-08-19 02:46:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
