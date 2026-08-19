@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-space-industrys-next-challenge-supply-chain-resilience/" >🔗</a> **[SpaceNews]** The space industry’s next challenge: supply chain resilience
 - <a href="https://spacenews.com/vantor-names-new-head-of-u-s-government-business/" >🔗</a> **[SpaceNews]** Vantor names new head of U.S. government business
 - <a href="https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express" >🔗</a> **[ESA]** Fly around Schiaparelli Crater with Mars Express
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges/" >🔗</a> **[SpaceNews]** Space nuclear programs face near- and long-term challenges
 - <a href="https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/" >🔗</a> **[SpaceNews]** China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket
 - <a href="https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/" >🔗</a> **[SpaceNews]** Rocket Lab to test Space Force data network connection in orbit in 2027
-- <a href="https://spaceflightnow.com/2026/08/18/astronauts-remove-failed-antenna-run-out-of-time-to-install-a-spare/" >🔗</a> **[Spaceflight Now]** Astronauts remove failed antenna; run out of time to install a spare
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T124340">2026-08-19 12:43:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T131606">2026-08-19 13:16:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
