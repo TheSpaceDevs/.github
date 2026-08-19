@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/no-go-for-katalysts-reboost-of-nasas-swift-observatory/" >🔗</a> **[SpacePolicyOnline.com]** No-Go for Katalyst’s Reboost of NASA’s Swift Observatory
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/" >🔗</a> **[NASA]** NASA TechLeap Prize: Orbital Clarity Challenge
+- <a href="https://www.nasa.gov/general/parse-ly-test/" >🔗</a> **[NASA]** Parse.ly Test
+- <a href="https://europeanspaceflight.com/atmos-moves-forward-with-phoenix-3-as-phoenix-2-launch-slips/" >🔗</a> **[European Spaceflight]** ATMOS Moves Forward with Phoenix 3 as Phoenix 2 Launch Slips
 - <a href="https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/" >🔗</a> **[SpaceNews]** Katalyst Space and NASA abandon plans for Swift reboost
 - <a href="https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/" >🔗</a> **[NASA]** NASA Updates Next Steps for Commercial Swift Boost Mission
 - <a href="https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/" >🔗</a> **[NASA]** Human-Related Microbes May Survive Moon’s South Pole, NASA Finds
 - <a href="https://www.nasa.gov/image-article/ancient-milky-way-merger/" >🔗</a> **[NASA]** Ancient Milky Way Merger
 - <a href="https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce/" >🔗</a> **[NASA]** NASA Establishes State Hubs to Grow Technical Aerospace Workforce
 - <a href="https://spacenews.com/moog-inc-expands-meteorite-satellite-bus-capacity-for-high-maneuverability-missions/" >🔗</a> **[SpaceNews]** Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/Replay_MTG-I2_pre-launch_media_briefing" >🔗</a> **[ESA]** Replay: MTG-I2 pre-launch media briefing
-- <a href="https://www.spacescout.info/2026/08/landspace-scores-first-booster-landing/" >🔗</a> **[Space Scout]** LandSpace Scores First Booster Landing
-- <a href="https://www.nasa.gov/learning-resources/career-spotlight-mechanic-ages-14-18/" >🔗</a> **[NASA]** Career Spotlight: Mechanic (Ages 14-18)
-- <a href="https://spacenews.com/the-space-industrys-next-challenge-supply-chain-resilience/" >🔗</a> **[SpaceNews]** The space industry’s next challenge: supply chain resilience
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T200312">2026-08-19 20:03:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260819T203930">2026-08-19 20:39:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
