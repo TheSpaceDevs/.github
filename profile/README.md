@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production/" >🔗</a> **[SpaceNews]** Muon Space raises $250 million to ramp up satellite production
 - <a href="https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission/" >🔗</a> **[SpaceNews]** Draper Selects Proteus Space for Advanced On-Orbit Mission
 - <a href="https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation/" >🔗</a> **[SpaceNews]** LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation
 - <a href="https://spaceflightnow.com/2026/08/20/live-coverage-spacex-to-launch-75th-starlink-mission-of-2026/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 75th Starlink mission of 2026
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2/" >🔗</a> **[SpaceNews]** Eartheye Space forges strategic partnership with IN2
 - <a href="https://spacepolicyonline.com/news/space-force-funding-could-be-record-high-if-congress-agrees/" >🔗</a> **[SpacePolicyOnline.com]** Space Force Funding Could Be Record High, If Congress Agrees
 - <a href="https://www.nasaspaceflight.com/2026/08/stoke-update-081926/" >🔗</a> **[NASASpaceflight]** Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut
-- <a href="https://spaceflightnow.com/2026/08/19/landspace-becomes-first-commercial-chinese-company-to-land-an-orbital-class-booster/" >🔗</a> **[Spaceflight Now]** LandSpace becomes first commercial Chinese company to land an orbital-class booster
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260820T110454">2026-08-20 11:04:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260820T113804">2026-08-20 11:38:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
