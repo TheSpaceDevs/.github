@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/" >🔗</a> **[NASA]** The View from Above: The Gemini Visual Acuity Experiments
 - <a href="https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference/" >🔗</a> **[SpaceNews]** Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference
 - <a href="https://spacenews.com/portal-space-systems-to-include-rideshare-payloads-on-falcon-9-launch-of-supernova/" >🔗</a> **[SpaceNews]** Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova
 - <a href="https://spacenews.com/chinas-change-7-lunar-ice-hunting-mission-set-for-sunday-launch/" >🔗</a> **[SpaceNews]** China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission/" >🔗</a> **[SpaceNews]** Draper Selects Proteus Space for Advanced On-Orbit Mission
 - <a href="https://spaceflightnow.com/2026/08/20/live-coverage-spacex-to-launch-75th-starlink-mission-of-2026/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 75th Starlink mission of 2026
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/FLEX/ESA_s_photosynthesis_satellite_fuelled" >🔗</a> **[ESA]** ESA’s photosynthesis satellite fuelled
-- <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/" >🔗</a> **[NASA]** APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260820T141104">2026-08-20 14:11:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260820T144218">2026-08-20 14:42:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
