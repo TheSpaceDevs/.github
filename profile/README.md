@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/smallsat-2026/" >🔗</a> **[NASA]** SmallSat 2026
 - <a href="https://spacenews.com/whats-next-for-isr-in-space/" >🔗</a> **[SpaceNews]** What’s next for ISR in space
 - <a href="https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps/" >🔗</a> **[SpaceNews]** Rocket Lab launches 9th satellite for iQPS
 - <a href="https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/" >🔗</a> **[SpaceNews]** Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/" >🔗</a> **[NASA]** The View from Above: The Gemini Visual Acuity Experiments
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/" >🔗</a> **[NASA]** NASA Data Feeds River Forecasts as Snow Drought Effects Linger
 - <a href="https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference/" >🔗</a> **[SpaceNews]** Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference
-- <a href="https://spacenews.com/portal-space-systems-to-include-rideshare-payloads-on-falcon-9-launch-of-supernova/" >🔗</a> **[SpaceNews]** Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260820T210529">2026-08-20 21:05:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260820T213901">2026-08-20 21:39:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
