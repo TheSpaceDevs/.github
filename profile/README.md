@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacewerx-selects-11-firms-to-scale-technologies-for-military-space/" >🔗</a> **[SpaceNews]** SpaceWERX selects 11 firms to scale technologies for military space
+- <a href="https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/" >🔗</a> **[Arstechnica]** Europe cancels planned upgrades for Ariane 6 rocket
 - <a href="https://science.nasa.gov/earth/smallsat-2026/" >🔗</a> **[NASA]** SmallSat 2026
 - <a href="https://spacenews.com/whats-next-for-isr-in-space/" >🔗</a> **[SpaceNews]** What’s next for ISR in space
 - <a href="https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps/" >🔗</a> **[SpaceNews]** Rocket Lab launches 9th satellite for iQPS
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/esa-confirms-ariane-6-block-3-upgrades-have-been-shelved/" >🔗</a> **[European Spaceflight]** ESA Confirms Ariane 6 Block 3 Upgrades Have Been Shelved
 - <a href="https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/" >🔗</a> **[NASA]** NASA Selects University Teams to Help Advance Aviation Research
 - <a href="https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/" >🔗</a> **[NASA]** The View from Above: The Gemini Visual Acuity Experiments
-- <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/" >🔗</a> **[NASA]** NASA Data Feeds River Forecasts as Snow Drought Effects Linger
-- <a href="https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference/" >🔗</a> **[SpaceNews]** Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260820T220407">2026-08-20 22:04:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260820T223917">2026-08-20 22:39:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
