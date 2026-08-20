@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/whats-next-for-isr-in-space/" >🔗</a> **[SpaceNews]** What’s next for ISR in space
 - <a href="https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps/" >🔗</a> **[SpaceNews]** Rocket Lab launches 9th satellite for iQPS
 - <a href="https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/" >🔗</a> **[SpaceNews]** Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium
 - <a href="https://www.nasa.gov/image-article/artemis-mission-patches/" >🔗</a> **[NASA]** Artemis Mission Patches
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/" >🔗</a> **[NASA]** NASA Data Feeds River Forecasts as Snow Drought Effects Linger
 - <a href="https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference/" >🔗</a> **[SpaceNews]** Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference
 - <a href="https://spacenews.com/portal-space-systems-to-include-rideshare-payloads-on-falcon-9-launch-of-supernova/" >🔗</a> **[SpaceNews]** Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova
-- <a href="https://spacenews.com/chinas-change-7-lunar-ice-hunting-mission-set-for-sunday-launch/" >🔗</a> **[SpaceNews]** China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260820T170624">2026-08-20 17:06:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260820T173930">2026-08-20 17:39:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
