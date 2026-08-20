@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission/" >🔗</a> **[SpaceNews]** Draper Selects Proteus Space for Advanced On-Orbit Mission
+- <a href="https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation/" >🔗</a> **[SpaceNews]** LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation
 - <a href="https://spaceflightnow.com/2026/08/20/live-coverage-spacex-to-launch-75th-starlink-mission-of-2026/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 75th Starlink mission of 2026
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/FLEX/ESA_s_photosynthesis_satellite_fuelled" >🔗</a> **[ESA]** ESA’s photosynthesis satellite fuelled
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/" >🔗</a> **[NASA]** APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/space-force-funding-could-be-record-high-if-congress-agrees/" >🔗</a> **[SpacePolicyOnline.com]** Space Force Funding Could Be Record High, If Congress Agrees
 - <a href="https://www.nasaspaceflight.com/2026/08/stoke-update-081926/" >🔗</a> **[NASASpaceflight]** Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut
 - <a href="https://spaceflightnow.com/2026/08/19/landspace-becomes-first-commercial-chinese-company-to-land-an-orbital-class-booster/" >🔗</a> **[Spaceflight Now]** LandSpace becomes first commercial Chinese company to land an orbital-class booster
-- <a href="https://spacepolicyonline.com/news/no-go-for-katalysts-reboost-of-nasas-swift-observatory/" >🔗</a> **[SpacePolicyOnline.com]** No-Go for Katalyst’s Reboost of NASA’s Swift Observatory
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/" >🔗</a> **[NASA]** NASA TechLeap Prize: Orbital Clarity Challenge
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260820T100604">2026-08-20 10:06:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260820T104016">2026-08-20 10:40:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
