@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates/" >🔗</a> **[SpaceNews]** New space transportation policy focuses on increased launch rates
+- <a href="https://spacenews.com/golden-dome-chief-touts-progress-as-funding-questions-loom/" >🔗</a> **[SpaceNews]** Golden Dome chief touts progress as funding questions loom
+- <a href="https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/" >🔗</a> **[SpaceNews]** Elve qualifies millimeter-wave amplifiers for spaceflight
 - <a href="https://spacenews.com/spacewerx-selects-11-firms-to-scale-technologies-for-military-space/" >🔗</a> **[SpaceNews]** SpaceWERX selects 11 firms to scale technologies for military space
 - <a href="https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/" >🔗</a> **[Arstechnica]** Europe cancels planned upgrades for Ariane 6 rocket
 - <a href="https://science.nasa.gov/earth/smallsat-2026/" >🔗</a> **[NASA]** SmallSat 2026
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps/" >🔗</a> **[SpaceNews]** Rocket Lab launches 9th satellite for iQPS
 - <a href="https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/" >🔗</a> **[SpaceNews]** Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium
 - <a href="https://www.nasa.gov/image-article/artemis-mission-patches/" >🔗</a> **[NASA]** Artemis Mission Patches
-- <a href="https://europeanspaceflight.com/esa-confirms-ariane-6-block-3-upgrades-have-been-shelved/" >🔗</a> **[European Spaceflight]** ESA Confirms Ariane 6 Block 3 Upgrades Have Been Shelved
-- <a href="https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/" >🔗</a> **[NASA]** NASA Selects University Teams to Help Advance Aviation Research
-- <a href="https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/" >🔗</a> **[NASA]** The View from Above: The Gemini Visual Acuity Experiments
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260820T230445">2026-08-20 23:04:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260820T233712">2026-08-20 23:37:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
