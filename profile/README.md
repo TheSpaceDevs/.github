@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/08/20/live-coverage-spacex-to-launch-75th-starlink-mission-of-2026/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 75th Starlink mission of 2026
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/FLEX/ESA_s_photosynthesis_satellite_fuelled" >🔗</a> **[ESA]** ESA’s photosynthesis satellite fuelled
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/" >🔗</a> **[NASA]** APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus
 - <a href="https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/" >🔗</a> **[SpaceNews]** Hypersonic missile startup Castelion raises $1 billion
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/08/19/landspace-becomes-first-commercial-chinese-company-to-land-an-orbital-class-booster/" >🔗</a> **[Spaceflight Now]** LandSpace becomes first commercial Chinese company to land an orbital-class booster
 - <a href="https://spacepolicyonline.com/news/no-go-for-katalysts-reboost-of-nasas-swift-observatory/" >🔗</a> **[SpacePolicyOnline.com]** No-Go for Katalyst’s Reboost of NASA’s Swift Observatory
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/" >🔗</a> **[NASA]** NASA TechLeap Prize: Orbital Clarity Challenge
-- <a href="https://www.nasa.gov/general/parse-ly-test/" >🔗</a> **[NASA]** Parse.ly Test
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260820T090853">2026-08-20 09:08:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260820T094159">2026-08-20 09:41:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
