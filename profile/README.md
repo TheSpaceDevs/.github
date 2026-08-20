@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/FLEX/ESA_s_photosynthesis_satellite_fuelled" >🔗</a> **[ESA]** ESA’s photosynthesis satellite fuelled
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/" >🔗</a> **[NASA]** APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus
 - <a href="https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/" >🔗</a> **[SpaceNews]** Hypersonic missile startup Castelion raises $1 billion
 - <a href="https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2/" >🔗</a> **[SpaceNews]** Eartheye Space forges strategic partnership with IN2
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/no-go-for-katalysts-reboost-of-nasas-swift-observatory/" >🔗</a> **[SpacePolicyOnline.com]** No-Go for Katalyst’s Reboost of NASA’s Swift Observatory
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/" >🔗</a> **[NASA]** NASA TechLeap Prize: Orbital Clarity Challenge
 - <a href="https://www.nasa.gov/general/parse-ly-test/" >🔗</a> **[NASA]** Parse.ly Test
-- <a href="https://europeanspaceflight.com/atmos-moves-forward-with-phoenix-3-as-phoenix-2-launch-slips/" >🔗</a> **[European Spaceflight]** ATMOS Moves Forward with Phoenix 3 as Phoenix 2 Launch Slips
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260820T074308">2026-08-20 07:43:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260820T080903">2026-08-20 08:09:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
