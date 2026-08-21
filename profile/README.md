@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/landspace-aims-to-refly-recovered-zhuque-3-booster-within-six-months/" >🔗</a> **[SpaceNews]** Landspace aims to refly recovered Zhuque-3 booster within six months
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_major_ice_loss_from_Greenland_glacier" >🔗</a> **[ESA]** Sentinel-1 captures major ice loss from Greenland glacier
 - <a href="https://science.nasa.gov/earth/europes-scorching-summer/" >🔗</a> **[NASA]** Europe’s Scorching Summer
 - <a href="https://spacepolicyonline.com/news/white-house-releases-new-space-transportation-policy/" >🔗</a> **[SpacePolicyOnline.com]** White House Releases New Space Transportation Policy
 - <a href="https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates/" >🔗</a> **[SpaceNews]** New space transportation policy focuses on increased launch rates
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacewerx-selects-11-firms-to-scale-technologies-for-military-space/" >🔗</a> **[SpaceNews]** SpaceWERX selects 11 firms to scale technologies for military space
 - <a href="https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/" >🔗</a> **[Arstechnica]** Europe cancels planned upgrades for Ariane 6 rocket
 - <a href="https://science.nasa.gov/earth/smallsat-2026/" >🔗</a> **[NASA]** SmallSat 2026
-- <a href="https://spacenews.com/whats-next-for-isr-in-space/" >🔗</a> **[SpaceNews]** What’s next for ISR in space
-- <a href="https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps/" >🔗</a> **[SpaceNews]** Rocket Lab launches 9th satellite for iQPS
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260821T091031">2026-08-21 09:10:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260821T094227">2026-08-21 09:42:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
