@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/" >🔗</a> **[NASA]** NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_second_spacewalk_live" >🔗</a> **[ESA]** Watch Sophie Adenot’s second spacewalk live
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_17-21_August_2026" >🔗</a> **[ESA]** Week in images: 17-21 August 2026
 - <a href="https://spacenews.com/the-cosmosis-framework-can-ensure-that-washington-governs-space-with-its-complexity-in-mind/" >🔗</a> **[SpaceNews]** The COSMOSIS framework can ensure that Washington governs space with its complexity in mind.
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/white-house-releases-new-space-transportation-policy/" >🔗</a> **[SpacePolicyOnline.com]** White House Releases New Space Transportation Policy
 - <a href="https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates/" >🔗</a> **[SpaceNews]** New space transportation policy focuses on increased launch rates
 - <a href="https://spacenews.com/golden-dome-chief-touts-progress-as-funding-questions-loom/" >🔗</a> **[SpaceNews]** Golden Dome chief touts progress as funding questions loom
-- <a href="https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/" >🔗</a> **[SpaceNews]** Elve qualifies millimeter-wave amplifiers for spaceflight
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260821T170617">2026-08-21 17:06:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260821T173908">2026-08-21 17:39:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
