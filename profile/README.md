@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/" >🔗</a> **[NASA]** TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code
+- <a href="https://www.nasa.gov/image-article/webb-opens-treasure-chest/" >🔗</a> **[NASA]** Webb Opens Treasure Chest
 - <a href="https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/" >🔗</a> **[NASA]** NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_second_spacewalk_live" >🔗</a> **[ESA]** Watch Sophie Adenot’s second spacewalk live
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_17-21_August_2026" >🔗</a> **[ESA]** Week in images: 17-21 August 2026
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_major_ice_loss_from_Greenland_glacier" >🔗</a> **[ESA]** Sentinel-1 captures major ice loss from Greenland glacier
 - <a href="https://science.nasa.gov/earth/europes-scorching-summer/" >🔗</a> **[NASA]** Europe’s Scorching Summer
 - <a href="https://spacepolicyonline.com/news/white-house-releases-new-space-transportation-policy/" >🔗</a> **[SpacePolicyOnline.com]** White House Releases New Space Transportation Policy
-- <a href="https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates/" >🔗</a> **[SpaceNews]** New space transportation policy focuses on increased launch rates
-- <a href="https://spacenews.com/golden-dome-chief-touts-progress-as-funding-questions-loom/" >🔗</a> **[SpaceNews]** Golden Dome chief touts progress as funding questions loom
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260821T180512">2026-08-21 18:05:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260821T184245">2026-08-21 18:42:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
