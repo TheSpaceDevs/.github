@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 100th orbital mission of 2026
+- <a href="https://www.nasaspaceflight.com/2026/08/ship-41-engine-testing-flight-14/" >🔗</a> **[NASASpaceflight]** Ship 41 Completes Engine Testing Ahead of Flight 14
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/" >🔗</a> **[NASA]** TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code
 - <a href="https://www.nasa.gov/image-article/webb-opens-treasure-chest/" >🔗</a> **[NASA]** Webb Opens Treasure Chest
 - <a href="https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/" >🔗</a> **[NASA]** NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-cosmosis-framework-can-ensure-that-washington-governs-space-with-its-complexity-in-mind/" >🔗</a> **[SpaceNews]** The COSMOSIS framework can ensure that Washington governs space with its complexity in mind.
 - <a href="https://spacenews.com/landspace-aims-to-refly-recovered-zhuque-3-booster-within-six-months/" >🔗</a> **[SpaceNews]** Landspace aims to refly recovered Zhuque-3 booster within six months
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_major_ice_loss_from_Greenland_glacier" >🔗</a> **[ESA]** Sentinel-1 captures major ice loss from Greenland glacier
-- <a href="https://science.nasa.gov/earth/europes-scorching-summer/" >🔗</a> **[NASA]** Europe’s Scorching Summer
-- <a href="https://spacepolicyonline.com/news/white-house-releases-new-space-transportation-policy/" >🔗</a> **[SpacePolicyOnline.com]** White House Releases New Space Transportation Policy
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260821T190905">2026-08-21 19:09:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260821T193620">2026-08-21 19:36:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
