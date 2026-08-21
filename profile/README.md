@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/white-house-releases-new-space-transportation-policy/" >🔗</a> **[SpacePolicyOnline.com]** White House Releases New Space Transportation Policy
 - <a href="https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates/" >🔗</a> **[SpaceNews]** New space transportation policy focuses on increased launch rates
 - <a href="https://spacenews.com/golden-dome-chief-touts-progress-as-funding-questions-loom/" >🔗</a> **[SpaceNews]** Golden Dome chief touts progress as funding questions loom
 - <a href="https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/" >🔗</a> **[SpaceNews]** Elve qualifies millimeter-wave amplifiers for spaceflight
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/whats-next-for-isr-in-space/" >🔗</a> **[SpaceNews]** What’s next for ISR in space
 - <a href="https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps/" >🔗</a> **[SpaceNews]** Rocket Lab launches 9th satellite for iQPS
 - <a href="https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/" >🔗</a> **[SpaceNews]** Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium
-- <a href="https://www.nasa.gov/image-article/artemis-mission-patches/" >🔗</a> **[NASA]** Artemis Mission Patches
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260821T031841">2026-08-21 03:18:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260821T034437">2026-08-21 03:44:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
