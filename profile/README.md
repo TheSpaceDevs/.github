@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/europes-scorching-summer/" >🔗</a> **[NASA]** Europe’s Scorching Summer
 - <a href="https://spacepolicyonline.com/news/white-house-releases-new-space-transportation-policy/" >🔗</a> **[SpacePolicyOnline.com]** White House Releases New Space Transportation Policy
 - <a href="https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates/" >🔗</a> **[SpaceNews]** New space transportation policy focuses on increased launch rates
 - <a href="https://spacenews.com/golden-dome-chief-touts-progress-as-funding-questions-loom/" >🔗</a> **[SpaceNews]** Golden Dome chief touts progress as funding questions loom
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/smallsat-2026/" >🔗</a> **[NASA]** SmallSat 2026
 - <a href="https://spacenews.com/whats-next-for-isr-in-space/" >🔗</a> **[SpaceNews]** What’s next for ISR in space
 - <a href="https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps/" >🔗</a> **[SpaceNews]** Rocket Lab launches 9th satellite for iQPS
-- <a href="https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/" >🔗</a> **[SpaceNews]** Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260821T050838">2026-08-21 05:08:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260821T054039">2026-08-21 05:40:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
