@@ -90,6 +90,7 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/cnes-seeks-partners-to-mass-produce-compact-optical-telescopes/" >🔗</a> **[European Spaceflight]** CNES Seeks Partners to Mass-Produce Compact Optical Telescopes
 - <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/" >🔗</a> **[NASA]** APOD: 2026 August 22 – Mostly Perseids
 - <a href="https://spacenews.com/chinese-radio-frequency-intelligence-startup-starrf-closes-new-funding-round/" >🔗</a> **[SpaceNews]** Chinese radio-frequency intelligence startup StarRF closes new funding round
 - <a href="https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/" >🔗</a> **[SpaceNews]** New Novaspace forecast: 6,500+ EO satellites to launch by 2035
@@ -99,7 +100,6 @@ into *a Lunar Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/" >🔗</a> **[NASA]** TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code
 - <a href="https://www.nasa.gov/image-article/webb-opens-treasure-chest/" >🔗</a> **[NASA]** Webb Opens Treasure Chest
 - <a href="https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/" >🔗</a> **[NASA]** NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_second_spacewalk_live" >🔗</a> **[ESA]** Watch Sophie Adenot’s second spacewalk live
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260822T090509">2026-08-22 09:05:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260822T093803">2026-08-22 09:38:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
