@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/" >🔗</a> **[NASA]** APOD: 2026 August 22 – Mostly Perseids
 - <a href="https://spacenews.com/chinese-radio-frequency-intelligence-startup-starrf-closes-new-funding-round/" >🔗</a> **[SpaceNews]** Chinese radio-frequency intelligence startup StarRF closes new funding round
 - <a href="https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/" >🔗</a> **[SpaceNews]** New Novaspace forecast: 6,500+ EO satellites to launch by 2035
 - <a href="https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 100th orbital mission of 2026
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/webb-opens-treasure-chest/" >🔗</a> **[NASA]** Webb Opens Treasure Chest
 - <a href="https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/" >🔗</a> **[NASA]** NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_second_spacewalk_live" >🔗</a> **[ESA]** Watch Sophie Adenot’s second spacewalk live
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_17-21_August_2026" >🔗</a> **[ESA]** Week in images: 17-21 August 2026
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260822T040958">2026-08-22 04:09:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260822T044108">2026-08-22 04:41:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
