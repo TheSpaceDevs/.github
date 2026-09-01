@@ -83,6 +83,9 @@ def cache_image_and_make_square(url: str, filename: str):
     """
     cache an image and make it square from center using PIL
     """
+    if not url:
+        return None
+
     # get the image
     r = requests.get(url)
 
@@ -91,9 +94,13 @@ def cache_image_and_make_square(url: str, filename: str):
         # save image
         with open(filename, "wb") as f:
             f.write(r.content)
+    else:
+        return None
 
     # open the image
     img = cv2.imread(filename)
+    if img is None:
+        return None
 
     # get the image size
     height, width, _ = img.shape
