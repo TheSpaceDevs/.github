@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/pld-space-adds-e108-million-to-series-c-funding-round/" >🔗</a> **[European Spaceflight]** PLD Space Adds €108 million to Series C Funding Round
 - <a href="https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/" >🔗</a> **[Arstechnica]** Private group wants to launch "cheapest possible" mission to Alpha Centauri
 - <a href="https://www.esa.int/Space_Safety/Space_Debris/Samba_s_fiery_farewell_recorded" >🔗</a> **[ESA]** Samba’s fiery farewell recorded
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-1-a-plane-lunar-eclipse/" >🔗</a> **[NASA]** APOD: 2026 September 1 – A Plane Lunar Eclipse
@@ -99,16 +100,16 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/" >🔗</a> **[NASA]** September 2026 Satellite Puzzler
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members-2/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes Two New Associate Members
 - <a href="https://www.spacescout.info/2026/08/roman-space-telescope-headed-to-deep-space/" >🔗</a> **[Space Scout]** Roman Space Telescope Headed to Deep Space
-- <a href="https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/" >🔗</a> **[NASA]** NASA’s Nancy Grace Roman Space Telescope Launches
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-083126/" >🔗</a> **[NASASpaceflight]** Launch Preview: Array of international launches planned this week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260901T110241">2026-09-01 11:02:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260901T113108">2026-09-01 11:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
