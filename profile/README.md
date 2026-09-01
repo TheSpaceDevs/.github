@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/house-clears-fy2027-cr-now-to-the-president/" >🔗</a> **[SpacePolicyOnline.com]** House Clears FY2027 CR, Now to the President
+- <a href="https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/" >🔗</a> **[NASA]** NASA Selects Blue Origin as Mars Telecommunications Network Provider
 - <a href="https://spaceflightnow.com/2026/09/01/spacex-to-launch-starlink-mission-from-west-coast/" >🔗</a> **[Spaceflight Now]** SpaceX to launch Starlink mission from West Coast
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: September 2026 Skywatching Tips from NASA
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship/" >🔗</a> **[NASASpaceflight]** Launch Site and Facility Progress ahead of East Coast Starship debut
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/pld-space-adds-e108-million-to-series-c-funding-round/" >🔗</a> **[European Spaceflight]** PLD Space Adds €108 million to Series C Funding Round
 - <a href="https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/" >🔗</a> **[Arstechnica]** Private group wants to launch "cheapest possible" mission to Alpha Centauri
 - <a href="https://www.esa.int/Space_Safety/Space_Debris/Samba_s_fiery_farewell_recorded" >🔗</a> **[ESA]** Samba’s fiery farewell recorded
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-1-a-plane-lunar-eclipse/" >🔗</a> **[NASA]** APOD: 2026 September 1 – A Plane Lunar Eclipse
-- <a href="https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/" >🔗</a> **[NASA]** Ice Island Survives Run-In With Joe Island
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260901T213056">2026-09-01 21:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260901T220220">2026-09-01 22:02:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
