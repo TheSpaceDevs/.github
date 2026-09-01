@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/" >🔗</a> **[NASA]** Historic Engines Take Their Place on Artemis III
 - <a href="https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/" >🔗</a> **[Arstechnica]** It turns out that Orion's much-maligned heat shield performed really well
 - <a href="https://europeanspaceflight.com/pld-space-adds-e108-million-to-series-c-funding-round/" >🔗</a> **[European Spaceflight]** PLD Space Adds €108 million to Series C Funding Round
 - <a href="https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/" >🔗</a> **[Arstechnica]** Private group wants to launch "cheapest possible" mission to Alpha Centauri
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Türkiye as Newest Artemis Accords Signatory
 - <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-083126/" >🔗</a> **[NASASpaceflight]** Launch Preview: Array of international launches planned this week
 - <a href="https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/" >🔗</a> **[NASA]** September 2026 Satellite Puzzler
-- <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members-2/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes Two New Associate Members
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260901T173106">2026-09-01 17:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260901T180330">2026-09-01 18:03:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
