@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/hyimpulse-extends-series-a-funding-round-by-e50-million/" >🔗</a> **[European Spaceflight]** HyImpulse Extends Series A Funding Round by €50 Million
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_s_first_lunar_rover_rolls_forward" >🔗</a> **[ESA]** ESA’s first lunar rover rolls forward
 - <a href="https://spacepolicyonline.com/news/house-clears-fy2027-cr-now-to-the-president/" >🔗</a> **[SpacePolicyOnline.com]** House Clears FY2027 CR, Now to the President
 - <a href="https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/" >🔗</a> **[NASA]** NASA Selects Blue Origin as Mars Telecommunications Network Provider
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/" >🔗</a> **[NASA]** Historic Engines Take Their Place on Artemis III
 - <a href="https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/" >🔗</a> **[Arstechnica]** It turns out that Orion's much-maligned heat shield performed really well
 - <a href="https://europeanspaceflight.com/pld-space-adds-e108-million-to-series-c-funding-round/" >🔗</a> **[European Spaceflight]** PLD Space Adds €108 million to Series C Funding Round
-- <a href="https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/" >🔗</a> **[Arstechnica]** Private group wants to launch "cheapest possible" mission to Alpha Centauri
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260902T103344">2026-09-02 10:33:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260902T110240">2026-09-02 11:02:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
