@@ -92,6 +92,7 @@ EOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting/" >🔗</a> **[SpaceNews]** Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot" >🔗</a> **[ESA]** Third spacewalk completed for Sophie Adenot
 - <a href="https://europeanspaceflight.com/hyimpulse-extends-series-a-funding-round-by-e50-million/" >🔗</a> **[European Spaceflight]** HyImpulse Extends Series A Funding Round by €50 Million
 - <a href="https://www.esa.int/Space_Safety/Space_Debris/Cluster_s_encore_for_reentry_science_a_success" >🔗</a> **[ESA]** Cluster’s encore for reentry science a success
@@ -101,7 +102,6 @@ EOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021.
 - <a href="https://spaceflightnow.com/2026/09/01/spacex-to-launch-starlink-mission-from-west-coast/" >🔗</a> **[Spaceflight Now]** SpaceX to launch Starlink mission from West Coast
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: September 2026 Skywatching Tips from NASA
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship/" >🔗</a> **[NASASpaceflight]** Launch Site and Facility Progress ahead of East Coast Starship debut
-- <a href="https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/" >🔗</a> **[NASA]** Historic Engines Take Their Place on Artemis III
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ EOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260902T120443">2026-09-02 12:04:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260902T124241">2026-09-02 12:42:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
