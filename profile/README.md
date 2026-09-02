@@ -95,13 +95,13 @@ EOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021.
 - <a href="https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/" >🔗</a> **[Arstechnica]** Wary of Artemis IV timeline, NASA is changing lunar spacesuit design
 - <a href="https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/" >🔗</a> **[NASA]** NASA Revamps Challenge Linking Community College Studies to Aerospace Careers
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/" >🔗</a> **[NASA]** NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole" >🔗</a> **[ESA]** Hubble tracks new decagon encircling Saturn’s south pole
 - <a href="https://www.nasa.gov/image-article/rising-over-louisiana/" >🔗</a> **[NASA]** Rising Over Louisiana
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/" >🔗</a> **[NASA]** NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds
 - <a href="https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting/" >🔗</a> **[SpaceNews]** Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot" >🔗</a> **[ESA]** Third spacewalk completed for Sophie Adenot
 - <a href="https://europeanspaceflight.com/hyimpulse-extends-series-a-funding-round-by-e50-million/" >🔗</a> **[European Spaceflight]** HyImpulse Extends Series A Funding Round by €50 Million
 - <a href="https://www.esa.int/Space_Safety/Space_Debris/Cluster_s_encore_for_reentry_science_a_success" >🔗</a> **[ESA]** Cluster’s encore for reentry science a success
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_s_first_lunar_rover_rolls_forward" >🔗</a> **[ESA]** ESA’s first lunar rover rolls forward
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ EOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260902T200252">2026-09-02 20:02:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260902T203303">2026-09-02 20:33:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
