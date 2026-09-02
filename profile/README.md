@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_s_first_lunar_rover_rolls_forward" >🔗</a> **[ESA]** ESA’s first lunar rover rolls forward
 - <a href="https://spacepolicyonline.com/news/house-clears-fy2027-cr-now-to-the-president/" >🔗</a> **[SpacePolicyOnline.com]** House Clears FY2027 CR, Now to the President
 - <a href="https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/" >🔗</a> **[NASA]** NASA Selects Blue Origin as Mars Telecommunications Network Provider
 - <a href="https://spaceflightnow.com/2026/09/01/spacex-to-launch-starlink-mission-from-west-coast/" >🔗</a> **[Spaceflight Now]** SpaceX to launch Starlink mission from West Coast
@@ -99,17 +100,17 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/" >🔗</a> **[Arstechnica]** It turns out that Orion's much-maligned heat shield performed really well
 - <a href="https://europeanspaceflight.com/pld-space-adds-e108-million-to-series-c-funding-round/" >🔗</a> **[European Spaceflight]** PLD Space Adds €108 million to Series C Funding Round
 - <a href="https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/" >🔗</a> **[Arstechnica]** Private group wants to launch "cheapest possible" mission to Alpha Centauri
-- <a href="https://www.esa.int/Space_Safety/Space_Debris/Samba_s_fiery_farewell_recorded" >🔗</a> **[ESA]** Samba’s fiery farewell recorded
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2026/09/01/spacex-to-launch-starlink-mission-from-west-coast/" >🔗</a> **[Spaceflight Now]** SpaceX to launch Starlink mission from West Coast
 - <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-083126/" >🔗</a> **[NASASpaceflight]** Launch Preview: Array of international launches planned this week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260902T070444">2026-09-02 07:04:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260902T073453">2026-09-02 07:34:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
