@@ -92,6 +92,7 @@ EOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/arcspace-to-demo-on-orbit-welding-tech-in-2027/" >🔗</a> **[European Spaceflight]** ArcSpace to Demo On-Orbit Welding Tech in 2027
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/" >🔗</a> **[NASA]** APOD: 2026 September 3 – The Eclipse and the Stork
 - <a href="https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/" >🔗</a> **[NASA]** Peatland Fires Darken Skies in Indonesia
 - <a href="https://www.nasaspaceflight.com/2026/09/rocket-lab-update/" >🔗</a> **[NASASpaceflight]** Rocket Lab’s Hungry Hippo completes testing
@@ -101,7 +102,6 @@ EOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021.
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole" >🔗</a> **[ESA]** Hubble tracks new decagon encircling Saturn’s south pole
 - <a href="https://www.nasa.gov/image-article/rising-over-louisiana/" >🔗</a> **[NASA]** Rising Over Louisiana
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/" >🔗</a> **[NASA]** NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds
-- <a href="https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting/" >🔗</a> **[SpaceNews]** Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ EOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260903T060511">2026-09-03 06:05:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260903T064640">2026-09-03 06:46:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
