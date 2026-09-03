@@ -92,6 +92,7 @@ EOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/" >🔗</a> **[SpaceNews]** Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury" >🔗</a> **[ESA]** Latest updates: BepiColombo's arrival at Mercury
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Hubble_s_superbubble_scene" >🔗</a> **[ESA]** Hubble's superbubble scene
 - <a href="https://europeanspaceflight.com/arcspace-to-demo-on-orbit-welding-tech-in-2027/" >🔗</a> **[European Spaceflight]** ArcSpace to Demo On-Orbit Welding Tech in 2027
@@ -101,7 +102,6 @@ EOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021.
 - <a href="https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/" >🔗</a> **[Arstechnica]** Wary of Artemis IV timeline, NASA is changing lunar spacesuit design
 - <a href="https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/" >🔗</a> **[NASA]** NASA Revamps Challenge Linking Community College Studies to Aerospace Careers
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/" >🔗</a> **[NASA]** NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole" >🔗</a> **[ESA]** Hubble tracks new decagon encircling Saturn’s south pole
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ EOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260903T130233">2026-09-03 13:02:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260903T133335">2026-09-03 13:33:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
