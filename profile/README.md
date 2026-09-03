@@ -92,6 +92,8 @@ EOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/" >🔗</a> **[NASA]** NASA to Cover Progress 96 Spacecraft Launch, Docking
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog
 - <a href="https://www.nasa.gov/image-article/igniting-romans-journey/" >🔗</a> **[NASA]** Igniting Roman’s Journey
 - <a href="https://europeanspaceflight.com/isar-aerospace-could-attempt-second-spectrum-flight-as-early-as-4-september/" >🔗</a> **[European Spaceflight]** Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/" >🔗</a> **[NASA]** NASA’s Hubble Spies Superbubble Scene
@@ -100,8 +102,6 @@ EOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021.
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Hubble_s_superbubble_scene" >🔗</a> **[ESA]** Hubble's superbubble scene
 - <a href="https://europeanspaceflight.com/arcspace-to-demo-on-orbit-welding-tech-in-2027/" >🔗</a> **[European Spaceflight]** ArcSpace to Demo On-Orbit Welding Tech in 2027
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/" >🔗</a> **[NASA]** APOD: 2026 September 3 – The Eclipse and the Stork
-- <a href="https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/" >🔗</a> **[NASA]** Peatland Fires Darken Skies in Indonesia
-- <a href="https://www.nasaspaceflight.com/2026/09/rocket-lab-update/" >🔗</a> **[NASASpaceflight]** Rocket Lab’s Hungry Hippo completes testing
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ EOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260903T170220">2026-09-03 17:02:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260903T173134">2026-09-03 17:31:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
