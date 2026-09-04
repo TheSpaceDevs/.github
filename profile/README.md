@@ -97,6 +97,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/" >🔗</a> **[NASA]** NASA Ames Fire Department Aircraft Firefighting Training
 - <a href="https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/" >🔗</a> **[NASA]** NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community
 - <a href="https://www.spacescout.info/2026/09/blue-origin-nets-nasa-mars-orbiter-contract/" >🔗</a> **[Space Scout]** Blue Origin Nets NASA Mars Orbiter Contract
 - <a href="https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/" >🔗</a> **[Arstechnica]** Why did US space companies pull out of a French space meeting? It’s complicated.
@@ -106,7 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_31_Aug_-_04_Sep_2026" >🔗</a> **[ESA]** Week in images: 31 Aug - 04 Sep 2026
 - <a href="https://europeanspaceflight.com/german-space-situation-awareness-startup-project-s-emerges-from-stealth/" >🔗</a> **[European Spaceflight]** German Space Situation Awareness Startup Project-S Emerges from Stealth
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/How_Sentinel-3_tracks_climate_change" >🔗</a> **[ESA]** How Sentinel-3 tracks climate change
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/" >🔗</a> **[NASA]** APOD: 2026 September 4 – Na Uhane Mahoe Huki Pu i ke Ola
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260904T193114">2026-09-04 19:31:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260904T200217">2026-09-04 20:02:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
