@@ -97,6 +97,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/german-space-situation-awareness-startup-project-s-emerges-from-stealth/" >🔗</a> **[European Spaceflight]** German Space Situation Awareness Startup Project-S Emerges from Stealth
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/How_Sentinel-3_tracks_climate_change" >🔗</a> **[ESA]** How Sentinel-3 tracks climate change
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/" >🔗</a> **[NASA]** A Trio of Tropical Cyclones in the Pacific
 - <a href="https://spacepolicyonline.com/news/schiess-takes-charge-of-u-s-space-force/" >🔗</a> **[SpacePolicyOnline.com]** Schiess Takes Charge of U.S. Space Force
@@ -106,7 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay" >🔗</a> **[ESA]** BepiColombo’s Mercury arrival begins - full replay
 - <a href="https://www.nasa.gov/image-article/igniting-romans-journey/" >🔗</a> **[NASA]** Igniting Roman’s Journey
 - <a href="https://europeanspaceflight.com/isar-aerospace-could-attempt-second-spectrum-flight-as-early-as-4-september/" >🔗</a> **[European Spaceflight]** Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/" >🔗</a> **[NASA]** NASA’s Hubble Spies Superbubble Scene
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260904T110233">2026-09-04 11:02:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260904T113058">2026-09-04 11:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
