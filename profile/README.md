@@ -97,6 +97,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/" >🔗</a> **[NASA]** A Trio of Tropical Cyclones in the Pacific
 - <a href="https://spacepolicyonline.com/news/schiess-takes-charge-of-u-s-space-force/" >🔗</a> **[SpacePolicyOnline.com]** Schiess Takes Charge of U.S. Space Force
 - <a href="https://spacenews.com/schiess-takes-command-of-space-force-as-the-service-prepares-for-expansion/" >🔗</a> **[SpaceNews]** Schiess takes command of Space Force as the service prepares for expansion
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/" >🔗</a> **[NASA]** NASA to Cover Progress 96 Spacecraft Launch, Docking
@@ -106,7 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/" >🔗</a> **[NASA]** NASA’s Hubble Spies Superbubble Scene
 - <a href="https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/" >🔗</a> **[SpaceNews]** Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury" >🔗</a> **[ESA]** Latest updates: BepiColombo's arrival at Mercury
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Hubble_s_superbubble_scene" >🔗</a> **[ESA]** Hubble's superbubble scene
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260904T050230">2026-09-04 05:02:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260904T053255">2026-09-04 05:32:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
