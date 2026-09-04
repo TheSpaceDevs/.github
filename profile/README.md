@@ -97,6 +97,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/09/blue-origin-nets-nasa-mars-orbiter-contract/" >🔗</a> **[Space Scout]** Blue Origin Nets NASA Mars Orbiter Contract
+- <a href="https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/" >🔗</a> **[Arstechnica]** Why did US space companies pull out of a French space meeting? It’s complicated.
 - <a href="https://www.nasa.gov/image-article/lunar-occultation-of-venus/" >🔗</a> **[NASA]** Lunar Occultation of Venus
 - <a href="https://europeanspaceflight.com/isar-aerospace-calls-off-4-september-spectrum-launch-attempt/" >🔗</a> **[European Spaceflight]** Isar Aerospace Calls Off 4 September Spectrum Launch Attempt
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_31_Aug_-_04_Sep_2026" >🔗</a> **[ESA]** Week in images: 31 Aug - 04 Sep 2026
@@ -105,12 +107,11 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/" >🔗</a> **[NASA]** APOD: 2026 September 4 – Na Uhane Mahoe Huki Pu i ke Ola
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/" >🔗</a> **[NASA]** A Trio of Tropical Cyclones in the Pacific
 - <a href="https://spacepolicyonline.com/news/schiess-takes-charge-of-u-s-space-force/" >🔗</a> **[SpacePolicyOnline.com]** Schiess Takes Charge of U.S. Space Force
-- <a href="https://spacenews.com/schiess-takes-command-of-space-force-as-the-service-prepares-for-expansion/" >🔗</a> **[SpaceNews]** Schiess takes command of Space Force as the service prepares for expansion
-- <a href="https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/" >🔗</a> **[NASA]** NASA to Cover Progress 96 Spacecraft Launch, Docking
 
 
 ### Launch-related News 🚀
 
+- <a href="https://europeanspaceflight.com/isar-aerospace-calls-off-4-september-spectrum-launch-attempt/" >🔗</a> **[European Spaceflight]** Isar Aerospace Calls Off 4 September Spectrum Launch Attempt
 - <a href="https://europeanspaceflight.com/isar-aerospace-could-attempt-second-spectrum-flight-as-early-as-4-september/" >🔗</a> **[European Spaceflight]** Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September
 - <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-083126/" >🔗</a> **[NASASpaceflight]** Launch Preview: Array of international launches planned this week
 - <a href="https://www.nasaspaceflight.com/2026/06/isar-onward-and-upward/" >🔗</a> **[NASASpaceflight]** Isar Aerospace set for second launch of Spectrum rocket after weeks of delays
@@ -120,12 +121,11 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-032326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Russia to debut Soyuz-5; Falcon 9 and Atlas V to launch internet satellites
 - <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-031626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, Spectrum, Electron to launch during busy week of launches
 - <a href="https://www.spacedaily.com/reports/Exolaunch_to_deploy_five_satellites_on_Spectrum_mission_from_Norway_999.html" >🔗</a> **[SpaceDaily]** Exolaunch to deploy five satellites on Spectrum mission from Norway
-- <a href="https://europeanspaceflight.com/isar-aerospace-to-expand-testing-facilities-as-it-prepares-for-next-spectrum-flight/" >🔗</a> **[European Spaceflight]** Isar Aerospace to Expand Testing Facilities as it Prepares for Next Spectrum Flight
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260904T160434">2026-09-04 16:04:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260904T163306">2026-09-04 16:33:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
