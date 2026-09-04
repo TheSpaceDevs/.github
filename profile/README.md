@@ -97,6 +97,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/lunar-occultation-of-venus/" >🔗</a> **[NASA]** Lunar Occultation of Venus
+- <a href="https://europeanspaceflight.com/isar-aerospace-calls-off-4-september-spectrum-launch-attempt/" >🔗</a> **[European Spaceflight]** Isar Aerospace Calls Off 4 September Spectrum Launch Attempt
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_31_Aug_-_04_Sep_2026" >🔗</a> **[ESA]** Week in images: 31 Aug - 04 Sep 2026
 - <a href="https://europeanspaceflight.com/german-space-situation-awareness-startup-project-s-emerges-from-stealth/" >🔗</a> **[European Spaceflight]** German Space Situation Awareness Startup Project-S Emerges from Stealth
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/How_Sentinel-3_tracks_climate_change" >🔗</a> **[ESA]** How Sentinel-3 tracks climate change
@@ -105,8 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/schiess-takes-command-of-space-force-as-the-service-prepares-for-expansion/" >🔗</a> **[SpaceNews]** Schiess takes command of Space Force as the service prepares for expansion
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/" >🔗</a> **[NASA]** NASA to Cover Progress 96 Spacecraft Launch, Docking
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay" >🔗</a> **[ESA]** BepiColombo’s Mercury arrival begins - full replay
-- <a href="https://www.nasa.gov/image-article/igniting-romans-journey/" >🔗</a> **[NASA]** Igniting Roman’s Journey
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260904T140233">2026-09-04 14:02:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260904T143233">2026-09-04 14:32:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
