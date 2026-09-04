@@ -111,6 +111,7 @@ into *a Sun-Synchronous Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://europeanspaceflight.com/isar-aerospace-could-attempt-second-spectrum-flight-as-early-as-4-september/" >🔗</a> **[European Spaceflight]** Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September
 - <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-083126/" >🔗</a> **[NASASpaceflight]** Launch Preview: Array of international launches planned this week
 - <a href="https://www.nasaspaceflight.com/2026/06/isar-onward-and-upward/" >🔗</a> **[NASASpaceflight]** Isar Aerospace set for second launch of Spectrum rocket after weeks of delays
 - <a href="https://europeanspaceflight.com/isar-aerospace-announces-new-launch-date-alongside-series-d-funding/" >🔗</a> **[European Spaceflight]** Isar Aerospace Announces New Launch Date Alongside Series D Funding
@@ -120,12 +121,11 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-031626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, Spectrum, Electron to launch during busy week of launches
 - <a href="https://www.spacedaily.com/reports/Exolaunch_to_deploy_five_satellites_on_Spectrum_mission_from_Norway_999.html" >🔗</a> **[SpaceDaily]** Exolaunch to deploy five satellites on Spectrum mission from Norway
 - <a href="https://europeanspaceflight.com/isar-aerospace-to-expand-testing-facilities-as-it-prepares-for-next-spectrum-flight/" >🔗</a> **[European Spaceflight]** Isar Aerospace to Expand Testing Facilities as it Prepares for Next Spectrum Flight
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Spectrum_s_qualifying_second_launch" >🔗</a> **[ESA]** Spectrum’s qualifying second launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260904T070240">2026-09-04 07:02:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260904T073355">2026-09-04 07:33:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
