@@ -102,11 +102,11 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_31_Aug_-_04_Sep_2026" >🔗</a> **[ESA]** Week in images: 31 Aug - 04 Sep 2026
 - <a href="https://europeanspaceflight.com/german-space-situation-awareness-startup-project-s-emerges-from-stealth/" >🔗</a> **[European Spaceflight]** German Space Situation Awareness Startup Project-S Emerges from Stealth
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/How_Sentinel-3_tracks_climate_change" >🔗</a> **[ESA]** How Sentinel-3 tracks climate change
+- <a href="https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/" >🔗</a> **[NASA]** APOD: 2026 September 4 – Na Uhane Mahoe Huki Pu i ke Ola
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/" >🔗</a> **[NASA]** A Trio of Tropical Cyclones in the Pacific
 - <a href="https://spacepolicyonline.com/news/schiess-takes-charge-of-u-s-space-force/" >🔗</a> **[SpacePolicyOnline.com]** Schiess Takes Charge of U.S. Space Force
 - <a href="https://spacenews.com/schiess-takes-command-of-space-force-as-the-service-prepares-for-expansion/" >🔗</a> **[SpaceNews]** Schiess takes command of Space Force as the service prepares for expansion
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/" >🔗</a> **[NASA]** NASA to Cover Progress 96 Spacecraft Launch, Docking
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260904T143233">2026-09-04 14:32:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260904T150242">2026-09-04 15:02:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
