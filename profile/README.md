@@ -97,6 +97,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/" >🔗</a> **[NASASpaceflight]** Isar Aerospace attempts launch of Spectrum rocket after months of delays
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/" >🔗</a> **[NASA]** APOD: 2026 September 5 – Chasing the Moon’s Shadow
 - <a href="https://www.nasaspaceflight.com/2026/09/blue-origin-expands-test-launch-cape/" >🔗</a> **[NASASpaceflight]** Blue Origin expands test and launch sites across the Cape
 - <a href="https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/" >🔗</a> **[NASA]** NASA Ames Fire Department Aircraft Firefighting Training
@@ -106,7 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/image-article/lunar-occultation-of-venus/" >🔗</a> **[NASA]** Lunar Occultation of Venus
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/Media_briefing_ahead_of_FLEX_and_Sentinel-3C_launch" >🔗</a> **[ESA]** Media briefing ahead of FLEX and Sentinel-3C launch
 - <a href="https://europeanspaceflight.com/isar-aerospace-calls-off-4-september-spectrum-launch-attempt/" >🔗</a> **[European Spaceflight]** Isar Aerospace Calls Off 4 September Spectrum Launch Attempt
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_31_Aug_-_04_Sep_2026" >🔗</a> **[ESA]** Week in images: 31 Aug - 04 Sep 2026
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260905T163103">2026-09-05 16:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260905T170153">2026-09-05 17:01:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
