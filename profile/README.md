@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 80th Starlink mission of 2026
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe" >🔗</a> **[ESA]** Isar Aerospace achieves first launch to orbit from continental Europe
 - <a href="https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/" >🔗</a> **[NASASpaceflight]** Isar Aerospace attempts launch of Spectrum rocket after months of delays
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/" >🔗</a> **[NASA]** APOD: 2026 September 5 – Chasing the Moon’s Shadow
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2026/09/blue-origin-nets-nasa-mars-orbiter-contract/" >🔗</a> **[Space Scout]** Blue Origin Nets NASA Mars Orbiter Contract
 - <a href="https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/" >🔗</a> **[Arstechnica]** Why did US space companies pull out of a French space meeting? It’s complicated.
 - <a href="https://www.nasa.gov/image-article/lunar-occultation-of-venus/" >🔗</a> **[NASA]** Lunar Occultation of Venus
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/Media_briefing_ahead_of_FLEX_and_Sentinel-3C_launch" >🔗</a> **[ESA]** Media briefing ahead of FLEX and Sentinel-3C launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260905T223058">2026-09-05 22:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260905T230204">2026-09-05 23:02:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
