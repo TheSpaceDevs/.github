@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-6-12-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 6-12, 2026
 - <a href="https://www.nasaspaceflight.com/2026/09/starbase-infrastructure-spacex-flight-14/" >🔗</a> **[NASASpaceflight]** Starbase Infrastructure Advances Toward Flight 14
 - <a href="https://www.nasaspaceflight.com/2026/09/cape-neighbors-stoke-relativity-advance-lc-14-lc-16/" >🔗</a> **[NASASpaceflight]** Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights
 - <a href="https://europeanspaceflight.com/isar-aerospace-completes-first-successful-spectrum-flight/" >🔗</a> **[European Spaceflight]** Isar Aerospace Completes First Successful Spectrum Flight
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/" >🔗</a> **[NASA]** APOD: 2026 September 5 – Chasing the Moon’s Shadow
 - <a href="https://www.nasaspaceflight.com/2026/09/blue-origin-expands-test-launch-cape/" >🔗</a> **[NASASpaceflight]** Blue Origin expands test and launch sites across the Cape
 - <a href="https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/" >🔗</a> **[NASA]** NASA Ames Fire Department Aircraft Firefighting Training
-- <a href="https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/" >🔗</a> **[NASA]** NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260906T203101">2026-09-06 20:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260906T210203">2026-09-06 21:02:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
