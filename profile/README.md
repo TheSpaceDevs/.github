@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Soyuz, CZ-8A, and Falcon 9 to launch from sites around the world
 - <a href="https://www.nasaspaceflight.com/2026/09/artemis-iii-sls-stacking-artemis-ii-orion-fix/" >🔗</a> **[NASASpaceflight]** Artemis III SLS stacking advances as Orion results confirm trajectory fix
 - <a href="https://www.spacescout.info/2026/09/isar-aerospace-soars-to-orbit-on-historic-second-launch/" >🔗</a> **[Space Scout]** Isar Aerospace Soars to Orbit On Historic Second Launch
 - <a href="https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success" >🔗</a> **[ESA]** BepiColombo begins Mercury arrival with MTM separation success
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/" >🔗</a> **[NASA]** A Bright Spot at Mount Michael
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-6-12-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 6-12, 2026
 - <a href="https://www.nasaspaceflight.com/2026/09/starbase-infrastructure-spacex-flight-14/" >🔗</a> **[NASASpaceflight]** Starbase Infrastructure Advances Toward Flight 14
-- <a href="https://www.nasaspaceflight.com/2026/09/cape-neighbors-stoke-relativity-advance-lc-14-lc-16/" >🔗</a> **[NASASpaceflight]** Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260907T223059">2026-09-07 22:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260907T230250">2026-09-07 23:02:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
