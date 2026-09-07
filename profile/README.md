@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe" >🔗</a> **[ESA]** Isar Aerospace achieves first launch to orbit from continental Europe
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/" >🔗</a> **[NASA]** APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/" >🔗</a> **[NASA]** A Bright Spot at Mount Michael
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-6-12-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 6-12, 2026
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 80th Starlink mission of 2026
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe" >🔗</a> **[ESA]** Isar Aerospace achieves first launch to orbit from continental Europe
 - <a href="https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/" >🔗</a> **[NASASpaceflight]** Isar Aerospace attempts launch of Spectrum rocket after months of delays
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/" >🔗</a> **[NASA]** APOD: 2026 September 5 – Chasing the Moon’s Shadow
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260907T074122">2026-09-07 07:41:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260907T080412">2026-09-07 08:04:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
