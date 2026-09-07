@@ -92,6 +92,7 @@ into *an Unknown
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success" >🔗</a> **[ESA]** BepiColombo begins Mercury arrival with MTM separation success
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe" >🔗</a> **[ESA]** Isar Aerospace achieves first launch to orbit from continental Europe
+- <a href="https://www.esa.int/About_Us/Corporate_news/Europe_s_space_future_in_focus_at_the_International_Space_Summit" >🔗</a> **[ESA]** Europe's space future in focus at the International Space Summit
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/" >🔗</a> **[NASA]** APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/" >🔗</a> **[NASA]** A Bright Spot at Mount Michael
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-6-12-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 6-12, 2026
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/09/cape-neighbors-stoke-relativity-advance-lc-14-lc-16/" >🔗</a> **[NASASpaceflight]** Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights
 - <a href="https://europeanspaceflight.com/isar-aerospace-completes-first-successful-spectrum-flight/" >🔗</a> **[European Spaceflight]** Isar Aerospace Completes First Successful Spectrum Flight
 - <a href="https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 80th Starlink mission of 2026
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe" >🔗</a> **[ESA]** Isar Aerospace achieves first launch to orbit from continental Europe
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260907T113158">2026-09-07 11:31:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260907T120351">2026-09-07 12:03:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
