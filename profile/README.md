@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success" >🔗</a> **[ESA]** BepiColombo begins Mercury arrival with MTM separation success
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe" >🔗</a> **[ESA]** Isar Aerospace achieves first launch to orbit from continental Europe
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/" >🔗</a> **[NASA]** APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/" >🔗</a> **[NASA]** A Bright Spot at Mount Michael
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/isar-aerospace-completes-first-successful-spectrum-flight/" >🔗</a> **[European Spaceflight]** Isar Aerospace Completes First Successful Spectrum Flight
 - <a href="https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 80th Starlink mission of 2026
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe" >🔗</a> **[ESA]** Isar Aerospace achieves first launch to orbit from continental Europe
-- <a href="https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/" >🔗</a> **[NASASpaceflight]** Isar Aerospace attempts launch of Spectrum rocket after months of delays
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260907T110233">2026-09-07 11:02:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260907T113158">2026-09-07 11:31:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
