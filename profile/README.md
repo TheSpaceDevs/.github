@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/09/isar-aerospace-soars-to-orbit-on-historic-second-launch/" >🔗</a> **[Space Scout]** Isar Aerospace Soars to Orbit On Historic Second Launch
 - <a href="https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success" >🔗</a> **[ESA]** BepiColombo begins Mercury arrival with MTM separation success
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe" >🔗</a> **[ESA]** Isar Aerospace achieves first launch to orbit from continental Europe
 - <a href="https://www.esa.int/About_Us/Corporate_news/Europe_s_space_future_in_focus_at_the_International_Space_Summit" >🔗</a> **[ESA]** Europe's space future in focus at the International Space Summit
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/09/starbase-infrastructure-spacex-flight-14/" >🔗</a> **[NASASpaceflight]** Starbase Infrastructure Advances Toward Flight 14
 - <a href="https://www.nasaspaceflight.com/2026/09/cape-neighbors-stoke-relativity-advance-lc-14-lc-16/" >🔗</a> **[NASASpaceflight]** Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights
 - <a href="https://europeanspaceflight.com/isar-aerospace-completes-first-successful-spectrum-flight/" >🔗</a> **[European Spaceflight]** Isar Aerospace Completes First Successful Spectrum Flight
-- <a href="https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 80th Starlink mission of 2026
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260907T170211">2026-09-07 17:02:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260907T173131">2026-09-07 17:31:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
