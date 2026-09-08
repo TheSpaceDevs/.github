@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/" >🔗</a> **[NASA]** From the Corps to the Cosmos, featuring Jaden Caradine
+- <a href="https://www.nasa.gov/news-release/nasa-calls-for-proposals-to-accelerate-lunar-surface-technologies/" >🔗</a> **[NASA]** NASA Calls for Proposals to Accelerate Lunar Surface Technologies
 - <a href="https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/" >🔗</a> **[NASA]** Superbubble in the Large Magellanic Cloud
 - <a href="https://europeanspaceflight.com/the-exploration-company-raises-450-million-in-series-c-funding/" >🔗</a> **[European Spaceflight]** The Exploration Company Raises $450 Million in Series C Funding
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/" >🔗</a> **[NASA]** NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/" >🔗</a> **[Arstechnica]** Stoke Space sets debut launch target, reveals plans for larger rocket
 - <a href="https://europeanspaceflight.com/hyimpulse-could-attempt-second-sr75-flight-as-early-as-5-october/" >🔗</a> **[European Spaceflight]** HyImpulse Could Attempt Second SR75 Flight as Early as 5 October
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Anak_Krakatau_eruption_by_Sentinel-3" >🔗</a> **[ESA]** Anak Krakatau eruption by Sentinel-3
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/" >🔗</a> **[NASA]** APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole
-- <a href="https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks/" >🔗</a> **[NASA]** The Otherworldly Geology of Vasquez Rocks
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260908T203219">2026-09-08 20:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260908T210207">2026-09-08 21:02:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
