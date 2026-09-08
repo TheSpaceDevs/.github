@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/the-exploration-company-raises-450-million-in-series-c-funding/" >🔗</a> **[European Spaceflight]** The Exploration Company Raises $450 Million in Series C Funding
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/" >🔗</a> **[NASA]** NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images
+- <a href="https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/" >🔗</a> **[NASA]** 1,000 Museum Visitors Dive Into NASA Sea Level Science on World Ocean Day
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/" >🔗</a> **[NASA]** NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past
 - <a href="https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/" >🔗</a> **[Arstechnica]** Stoke Space sets debut launch target, reveals plans for larger rocket
 - <a href="https://europeanspaceflight.com/hyimpulse-could-attempt-second-sr75-flight-as-early-as-5-october/" >🔗</a> **[European Spaceflight]** HyImpulse Could Attempt Second SR75 Flight as Early as 5 October
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Anak_Krakatau_eruption_by_Sentinel-3" >🔗</a> **[ESA]** Anak Krakatau eruption by Sentinel-3
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/" >🔗</a> **[NASA]** APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks/" >🔗</a> **[NASA]** The Otherworldly Geology of Vasquez Rocks
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Soyuz, CZ-8A, and Falcon 9 to launch from sites around the world
-- <a href="https://www.nasaspaceflight.com/2026/09/artemis-iii-sls-stacking-artemis-ii-orion-fix/" >🔗</a> **[NASASpaceflight]** Artemis III SLS stacking advances as Orion results confirm trajectory fix
-- <a href="https://www.spacescout.info/2026/09/isar-aerospace-soars-to-orbit-on-historic-second-launch/" >🔗</a> **[Space Scout]** Isar Aerospace Soars to Orbit On Historic Second Launch
-- <a href="https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success" >🔗</a> **[ESA]** BepiColombo begins Mercury arrival with MTM separation success
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe" >🔗</a> **[ESA]** Isar Aerospace achieves first launch to orbit from continental Europe
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260908T150254">2026-09-08 15:02:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260908T153411">2026-09-08 15:34:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
