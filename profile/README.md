@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/hyimpulse-could-attempt-second-sr75-flight-as-early-as-5-october/" >🔗</a> **[European Spaceflight]** HyImpulse Could Attempt Second SR75 Flight as Early as 5 October
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Anak_Krakatau_eruption_by_Sentinel-3" >🔗</a> **[ESA]** Anak Krakatau eruption by Sentinel-3
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/" >🔗</a> **[NASA]** APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks/" >🔗</a> **[NASA]** The Otherworldly Geology of Vasquez Rocks
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success" >🔗</a> **[ESA]** BepiColombo begins Mercury arrival with MTM separation success
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe" >🔗</a> **[ESA]** Isar Aerospace achieves first launch to orbit from continental Europe
 - <a href="https://www.esa.int/About_Us/Corporate_news/Europe_s_space_future_in_focus_at_the_International_Space_Summit" >🔗</a> **[ESA]** Europe's space future in focus at the International Space Summit
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/" >🔗</a> **[NASA]** APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260908T110304">2026-09-08 11:03:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260908T113113">2026-09-08 11:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
