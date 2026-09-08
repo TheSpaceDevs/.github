@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Anak_Krakatau_eruption_by_Sentinel-3" >🔗</a> **[ESA]** Anak Krakatau eruption by Sentinel-3
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/" >🔗</a> **[NASA]** APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks/" >🔗</a> **[NASA]** The Otherworldly Geology of Vasquez Rocks
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Soyuz, CZ-8A, and Falcon 9 to launch from sites around the world
@@ -99,18 +100,18 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe" >🔗</a> **[ESA]** Isar Aerospace achieves first launch to orbit from continental Europe
 - <a href="https://www.esa.int/About_Us/Corporate_news/Europe_s_space_future_in_focus_at_the_International_Space_Summit" >🔗</a> **[ESA]** Europe's space future in focus at the International Space Summit
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/" >🔗</a> **[NASA]** APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars
-- <a href="https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/" >🔗</a> **[NASA]** A Bright Spot at Mount Michael
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Soyuz, CZ-8A, and Falcon 9 to launch from sites around the world
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/" >🔗</a> **[NASA]** NASA to Cover Progress 96 Spacecraft Launch, Docking
 - <a href="https://www.nasaspaceflight.com/2026/06/iss-roundup-061826/" >🔗</a> **[NASASpaceflight]** Canadarm2 repairs planned as CRS-34 departs ISS
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260908T090319">2026-09-08 09:03:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260908T093424">2026-09-08 09:34:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
