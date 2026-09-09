@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again/" >🔗</a> **[NASA]** Anak Krakatau Rumbles Again
 - <a href="https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/" >🔗</a> **[NASA]** From the Corps to the Cosmos, featuring Jaden Caradine
 - <a href="https://www.nasa.gov/news-release/nasa-calls-for-proposals-to-accelerate-lunar-surface-technologies/" >🔗</a> **[NASA]** NASA Calls for Proposals to Accelerate Lunar Surface Technologies
 - <a href="https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/" >🔗</a> **[NASA]** Superbubble in the Large Magellanic Cloud
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/" >🔗</a> **[NASA]** NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past
 - <a href="https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/" >🔗</a> **[Arstechnica]** Stoke Space sets debut launch target, reveals plans for larger rocket
 - <a href="https://europeanspaceflight.com/hyimpulse-could-attempt-second-sr75-flight-as-early-as-5-october/" >🔗</a> **[European Spaceflight]** HyImpulse Could Attempt Second SR75 Flight as Early as 5 October
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Anak_Krakatau_eruption_by_Sentinel-3" >🔗</a> **[ESA]** Anak Krakatau eruption by Sentinel-3
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260909T050256">2026-09-09 05:02:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260909T053333">2026-09-09 05:33:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
