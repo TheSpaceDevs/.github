@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/" >🔗</a> **[Arstechnica]** As Europe flounders in space, a rising French star may show the way
+- <a href="https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/" >🔗</a> **[NASASpaceflight]** Flight 15 pairing undergo testing at Massey’s
+- <a href="https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/" >🔗</a> **[NASA]** NASA Adds Relativity Space’s Terran R to Launch Services Contract
 - <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/" >🔗</a> **[NASA]** NASA’s Chandra Unveils Mysterious X-Ray Objects
 - <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/" >🔗</a> **[NASA]** How 2 US, European Satellites Are Studying Hurricanes During El Niño
 - <a href="https://www.nasa.gov/image-article/artemis-ii-crew-at-nasa-marshall/" >🔗</a> **[NASA]** Artemis II Crew at NASA Marshall
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/" >🔗</a> **[NASA]** NASA Names Two Artemis II Astronauts to Emeritus Program
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey" >🔗</a> **[ESA]** MTM's selfie footage of BepiColombo's eight-year journey
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Vega-C_flight_VV30_with_FLEX_and_Sentinel-3C" >🔗</a> **[ESA]** Vega-C flight VV30 with FLEX and Sentinel-3C
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Watch_FLEX_and_Sentinel-3C_launch_on_Vega-C" >🔗</a> **[ESA]** Watch: FLEX and Sentinel-3C launch on Vega-C
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_reaches_its_final_orbit" >🔗</a> **[ESA]** MTG-I2 reaches its final orbit
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260909T200243">2026-09-09 20:02:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260909T203247">2026-09-09 20:32:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
