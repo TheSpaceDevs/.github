@@ -91,6 +91,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_reaches_its_final_orbit" >🔗</a> **[ESA]** MTG-I2 reaches its final orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again/" >🔗</a> **[NASA]** Anak Krakatau Rumbles Again
 - <a href="https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/" >🔗</a> **[NASA]** From the Corps to the Cosmos, featuring Jaden Caradine
 - <a href="https://www.nasa.gov/news-release/nasa-calls-for-proposals-to-accelerate-lunar-surface-technologies/" >🔗</a> **[NASA]** NASA Calls for Proposals to Accelerate Lunar Surface Technologies
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/" >🔗</a> **[NASA]** NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images
 - <a href="https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/" >🔗</a> **[NASA]** 1,000 Museum Visitors Dive Into NASA Sea Level Science on World Ocean Day
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/" >🔗</a> **[NASA]** NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past
-- <a href="https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/" >🔗</a> **[Arstechnica]** Stoke Space sets debut launch target, reveals plans for larger rocket
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260909T080358">2026-09-09 08:03:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260909T083717">2026-09-09 08:37:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
