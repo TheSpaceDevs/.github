@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch classified payload for the U.S. Space Force
 - <a href="https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/" >🔗</a> **[Arstechnica]** As Europe flounders in space, a rising French star may show the way
 - <a href="https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/" >🔗</a> **[NASASpaceflight]** Flight 15 pairing undergo testing at Massey’s
 - <a href="https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/" >🔗</a> **[NASA]** NASA Adds Relativity Space’s Terran R to Launch Services Contract
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/uk-to-leave-launch-to-germany-and-other-allies/" >🔗</a> **[European Spaceflight]** UK to Leave Launch to “Germany and Other Allies”
 - <a href="https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/" >🔗</a> **[NASA]** NASA Names Two Artemis II Astronauts to Emeritus Program
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey" >🔗</a> **[ESA]** MTM's selfie footage of BepiColombo's eight-year journey
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Vega-C_flight_VV30_with_FLEX_and_Sentinel-3C" >🔗</a> **[ESA]** Vega-C flight VV30 with FLEX and Sentinel-3C
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260909T223058">2026-09-09 22:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260909T230208">2026-09-09 23:02:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
