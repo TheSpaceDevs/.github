@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/uk-to-leave-launch-to-germany-and-other-allies/" >🔗</a> **[European Spaceflight]** UK to Leave Launch to “Germany and Other Allies”
+- <a href="https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/" >🔗</a> **[NASA]** NASA Names Two Artemis II Astronauts to Emeritus Program
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey" >🔗</a> **[ESA]** MTM's selfie footage of BepiColombo's eight-year journey
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Vega-C_flight_VV30_with_FLEX_and_Sentinel-3C" >🔗</a> **[ESA]** Vega-C flight VV30 with FLEX and Sentinel-3C
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Watch_FLEX_and_Sentinel-3C_launch_on_Vega-C" >🔗</a> **[ESA]** Watch: FLEX and Sentinel-3C launch on Vega-C
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_reaches_its_final_orbit" >🔗</a> **[ESA]** MTG-I2 reaches its final orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again/" >🔗</a> **[NASA]** Anak Krakatau Rumbles Again
 - <a href="https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/" >🔗</a> **[NASA]** From the Corps to the Cosmos, featuring Jaden Caradine
 - <a href="https://www.nasa.gov/news-release/nasa-calls-for-proposals-to-accelerate-lunar-surface-technologies/" >🔗</a> **[NASA]** NASA Calls for Proposals to Accelerate Lunar Surface Technologies
-- <a href="https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/" >🔗</a> **[NASA]** Superbubble in the Large Magellanic Cloud
-- <a href="https://europeanspaceflight.com/the-exploration-company-raises-450-million-in-series-c-funding/" >🔗</a> **[European Spaceflight]** The Exploration Company Raises $450 Million in Series C Funding
-- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/" >🔗</a> **[NASA]** NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260909T130227">2026-09-09 13:02:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260909T133359">2026-09-09 13:33:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
