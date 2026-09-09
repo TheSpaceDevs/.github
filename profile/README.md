@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Vega-C_flight_VV30_with_FLEX_and_Sentinel-3C" >🔗</a> **[ESA]** Vega-C flight VV30 with FLEX and Sentinel-3C
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_reaches_its_final_orbit" >🔗</a> **[ESA]** MTG-I2 reaches its final orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again/" >🔗</a> **[NASA]** Anak Krakatau Rumbles Again
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/the-exploration-company-raises-450-million-in-series-c-funding/" >🔗</a> **[European Spaceflight]** The Exploration Company Raises $450 Million in Series C Funding
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/" >🔗</a> **[NASA]** NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images
 - <a href="https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/" >🔗</a> **[NASA]** 1,000 Museum Visitors Dive Into NASA Sea Level Science on World Ocean Day
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/" >🔗</a> **[NASA]** NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260909T100308">2026-09-09 10:03:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260909T103339">2026-09-09 10:33:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
