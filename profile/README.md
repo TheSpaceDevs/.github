@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/aerospacelab-thales-alenia-space-secure-e5-4-billion-in-iris2-contracts/" >🔗</a> **[European Spaceflight]** Aerospacelab, Thales Alenia Space Secure €5.4 Billion in IRIS2 Contracts
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/CubeSat_for_safer_seas_and_cleaner_orbits_ready_to_launch" >🔗</a> **[ESA]** CubeSat for safer seas and cleaner orbits ready to launch
 - <a href="https://europeanspaceflight.com/the-exploration-company-books-ariane-6-flight-for-nyx-demo-mission/" >🔗</a> **[European Spaceflight]** The Exploration Company Books Ariane 6 Flight for Nyx Demo Mission
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/" >🔗</a> **[NASA]** APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/" >🔗</a> **[NASASpaceflight]** Flight 15 pairing undergo testing at Massey’s
 - <a href="https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/" >🔗</a> **[NASA]** NASA Adds Relativity Space’s Terran R to Launch Services Contract
 - <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/" >🔗</a> **[NASA]** NASA’s Chandra Unveils Mysterious X-Ray Objects
-- <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/" >🔗</a> **[NASA]** How 2 US, European Satellites Are Studying Hurricanes During El Niño
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260910T130223">2026-09-10 13:02:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260910T133118">2026-09-10 13:31:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
