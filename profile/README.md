@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/" >🔗</a> **[NASA]** APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula
+- <a href="https://science.nasa.gov/earth/earth-observatory/dust-storm-sweeps-over-mali/" >🔗</a> **[NASA]** Dust Storm Sweeps Over Mali
 - <a href="https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch classified payload for the U.S. Space Force
 - <a href="https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/" >🔗</a> **[Arstechnica]** As Europe flounders in space, a rising French star may show the way
 - <a href="https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/" >🔗</a> **[NASASpaceflight]** Flight 15 pairing undergo testing at Massey’s
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/" >🔗</a> **[NASA]** How 2 US, European Satellites Are Studying Hurricanes During El Niño
 - <a href="https://www.nasa.gov/image-article/artemis-ii-crew-at-nasa-marshall/" >🔗</a> **[NASA]** Artemis II Crew at NASA Marshall
 - <a href="https://europeanspaceflight.com/uk-to-leave-launch-to-germany-and-other-allies/" >🔗</a> **[European Spaceflight]** UK to Leave Launch to “Germany and Other Allies”
-- <a href="https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/" >🔗</a> **[NASA]** NASA Names Two Artemis II Astronauts to Emeritus Program
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey" >🔗</a> **[ESA]** MTM's selfie footage of BepiColombo's eight-year journey
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260910T050257">2026-09-10 05:02:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260910T053238">2026-09-10 05:32:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
