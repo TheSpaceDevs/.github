@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/" >🔗</a> **[NASA]** NASA Answers President’s Call to Establish United States Space Academy
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/" >🔗</a> **[NASA]** NASA’s Life-Saving Technology Where Cell Signals Can’t Go
 - <a href="https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/" >🔗</a> **[NASA]** NASA, NFL Team Up to Showcase Space, Aeronautics Innovation
 - <a href="https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a/" >🔗</a> **[NASA]** Dust and Water in Sagittarius A*
 - <a href="https://www.esa.int/Space_Safety/Hera/Name_our_dino_ESA_s_Hera_asteroid_mission_mascot" >🔗</a> **[ESA]** Name our dino – ESA’s Hera asteroid mission mascot!
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/CubeSat_for_safer_seas_and_cleaner_orbits_ready_to_launch" >🔗</a> **[ESA]** CubeSat for safer seas and cleaner orbits ready to launch
 - <a href="https://europeanspaceflight.com/the-exploration-company-books-ariane-6-flight-for-nyx-demo-mission/" >🔗</a> **[European Spaceflight]** The Exploration Company Books Ariane 6 Flight for Nyx Demo Mission
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/" >🔗</a> **[NASA]** APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula
-- <a href="https://science.nasa.gov/earth/earth-observatory/dust-storm-sweeps-over-mali/" >🔗</a> **[NASA]** Dust Storm Sweeps Over Mali
-- <a href="https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch classified payload for the U.S. Space Force
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260910T203103">2026-09-10 20:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260910T210217">2026-09-10 21:02:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
