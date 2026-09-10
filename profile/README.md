@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a/" >🔗</a> **[NASA]** Dust and Water in Sagittarius A*
 - <a href="https://www.esa.int/Space_Safety/Hera/Name_our_dino_ESA_s_Hera_asteroid_mission_mascot" >🔗</a> **[ESA]** Name our dino – ESA’s Hera asteroid mission mascot!
 - <a href="https://europeanspaceflight.com/esa-awards-the-exploration-company-a-e760m-space-station-cargo-contract/" >🔗</a> **[European Spaceflight]** ESA Awards The Exploration Company a €760M Space Station Cargo Contract
 - <a href="https://europeanspaceflight.com/aerospacelab-thales-alenia-space-secure-e5-4-billion-in-iris2-contracts/" >🔗</a> **[European Spaceflight]** Aerospacelab, Thales Alenia Space Secure €5.4 Billion in IRIS2 Contracts
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/dust-storm-sweeps-over-mali/" >🔗</a> **[NASA]** Dust Storm Sweeps Over Mali
 - <a href="https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch classified payload for the U.S. Space Force
 - <a href="https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/" >🔗</a> **[Arstechnica]** As Europe flounders in space, a rising French star may show the way
-- <a href="https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/" >🔗</a> **[NASASpaceflight]** Flight 15 pairing undergo testing at Massey’s
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260910T163228">2026-09-10 16:32:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260910T170219">2026-09-10 17:02:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
