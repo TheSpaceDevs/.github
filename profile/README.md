@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Space_Safety/Hera/Name_our_dino_ESA_s_Hera_asteroid_mission_mascot" >🔗</a> **[ESA]** Name our dino – ESA’s Hera asteroid mission mascot!
 - <a href="https://europeanspaceflight.com/esa-awards-the-exploration-company-a-e760m-space-station-cargo-contract/" >🔗</a> **[European Spaceflight]** ESA Awards The Exploration Company a €760M Space Station Cargo Contract
 - <a href="https://europeanspaceflight.com/aerospacelab-thales-alenia-space-secure-e5-4-billion-in-iris2-contracts/" >🔗</a> **[European Spaceflight]** Aerospacelab, Thales Alenia Space Secure €5.4 Billion in IRIS2 Contracts
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/CubeSat_for_safer_seas_and_cleaner_orbits_ready_to_launch" >🔗</a> **[ESA]** CubeSat for safer seas and cleaner orbits ready to launch
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch classified payload for the U.S. Space Force
 - <a href="https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/" >🔗</a> **[Arstechnica]** As Europe flounders in space, a rising French star may show the way
 - <a href="https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/" >🔗</a> **[NASASpaceflight]** Flight 15 pairing undergo testing at Massey’s
-- <a href="https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/" >🔗</a> **[NASA]** NASA Adds Relativity Space’s Terran R to Launch Services Contract
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260910T140229">2026-09-10 14:02:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260910T143322">2026-09-10 14:33:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
