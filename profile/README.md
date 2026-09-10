@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Djibouti Artemis Accords Signing Ceremony
 - <a href="https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/" >🔗</a> **[NASA]** NASA Answers President’s Call to Establish United States Space Academy
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/" >🔗</a> **[NASA]** NASA’s Life-Saving Technology Where Cell Signals Can’t Go
 - <a href="https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/" >🔗</a> **[NASA]** NASA, NFL Team Up to Showcase Space, Aeronautics Innovation
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://europeanspaceflight.com/aerospacelab-thales-alenia-space-secure-e5-4-billion-in-iris2-contracts/" >🔗</a> **[European Spaceflight]** Aerospacelab, Thales Alenia Space Secure €5.4 Billion in IRIS2 Contracts
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/CubeSat_for_safer_seas_and_cleaner_orbits_ready_to_launch" >🔗</a> **[ESA]** CubeSat for safer seas and cleaner orbits ready to launch
 - <a href="https://europeanspaceflight.com/the-exploration-company-books-ariane-6-flight-for-nyx-demo-mission/" >🔗</a> **[European Spaceflight]** The Exploration Company Books Ariane 6 Flight for Nyx Demo Mission
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/" >🔗</a> **[NASA]** APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260910T213124">2026-09-10 21:31:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260910T220218">2026-09-10 22:02:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
