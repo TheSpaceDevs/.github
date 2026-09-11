@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-invites-governors-to-compete-to-be-home-to-the-new-u-s-space-academy/" >🔗</a> **[SpacePolicyOnline.com]** NASA Invites Governors to Compete to be Home to the New U.S. Space Academy
 - <a href="https://www.nasaspaceflight.com/2026/09/roman-commissioning-update/" >🔗</a> **[NASASpaceflight]** Roman telescope deploys solar array and communication systems, powers on Coronagraph Instrument
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Djibouti Artemis Accords Signing Ceremony
 - <a href="https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/" >🔗</a> **[NASA]** NASA Answers President’s Call to Establish United States Space Academy
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.esa.int/Space_Safety/Hera/Name_our_dino_ESA_s_Hera_asteroid_mission_mascot" >🔗</a> **[ESA]** Name our dino – ESA’s Hera asteroid mission mascot!
 - <a href="https://europeanspaceflight.com/esa-awards-the-exploration-company-a-e760m-space-station-cargo-contract/" >🔗</a> **[European Spaceflight]** ESA Awards The Exploration Company a €760M Space Station Cargo Contract
 - <a href="https://europeanspaceflight.com/aerospacelab-thales-alenia-space-secure-e5-4-billion-in-iris2-contracts/" >🔗</a> **[European Spaceflight]** Aerospacelab, Thales Alenia Space Secure €5.4 Billion in IRIS2 Contracts
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/CubeSat_for_safer_seas_and_cleaner_orbits_ready_to_launch" >🔗</a> **[ESA]** CubeSat for safer seas and cleaner orbits ready to launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260910T233124">2026-09-10 23:31:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260911T000752">2026-09-11 00:07:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
