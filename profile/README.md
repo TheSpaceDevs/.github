@@ -96,10 +96,10 @@ into *a Medium Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control" >🔗</a> **[ESA]** A team of teams like never before: rehearsing a unique launch at ESA mission control
 - <a href="https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/" >🔗</a> **[SpaceNews]** LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/" >🔗</a> **[NASA]** APOD: 2026 September 11 – M83: The Southern Pinwheel
+- <a href="https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/" >🔗</a> **[NASA]** Monterrey Amid Mountains
 - <a href="https://spacepolicyonline.com/news/nasa-invites-governors-to-compete-to-be-home-to-the-new-u-s-space-academy/" >🔗</a> **[SpacePolicyOnline.com]** NASA Invites Governors to Compete to be Home to the New U.S. Space Academy
 - <a href="https://www.nasaspaceflight.com/2026/09/roman-commissioning-update/" >🔗</a> **[NASASpaceflight]** Roman telescope deploys solar array and communication systems, powers on Coronagraph Instrument
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Djibouti Artemis Accords Signing Ceremony
-- <a href="https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/" >🔗</a> **[NASA]** NASA Answers President’s Call to Establish United States Space Academy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260911T130226">2026-09-11 13:02:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260911T133305">2026-09-11 13:33:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
