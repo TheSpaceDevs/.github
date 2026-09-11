@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026" >🔗</a> **[ESA]** Week in images: 07-11 Sep 2026
 - <a href="https://europeanspaceflight.com/avio-completes-integration-of-fd1-rocket-demonstrator/" >🔗</a> **[European Spaceflight]** Avio Completes Integration of FD1 Rocket Demonstrator
 - <a href="https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control" >🔗</a> **[ESA]** A team of teams like never before: rehearsing a unique launch at ESA mission control
 - <a href="https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/" >🔗</a> **[SpaceNews]** LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Djibouti Artemis Accords Signing Ceremony
 - <a href="https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/" >🔗</a> **[NASA]** NASA Answers President’s Call to Establish United States Space Academy
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/" >🔗</a> **[NASA]** NASA’s Life-Saving Technology Where Cell Signals Can’t Go
-- <a href="https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/" >🔗</a> **[NASA]** NASA, NFL Team Up to Showcase Space, Aeronautics Innovation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260911T100242">2026-09-11 10:02:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260911T103317">2026-09-11 10:33:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
