@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/avio-completes-integration-of-fd1-rocket-demonstrator/" >🔗</a> **[European Spaceflight]** Avio Completes Integration of FD1 Rocket Demonstrator
+- <a href="https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control" >🔗</a> **[ESA]** A team of teams like never before: rehearsing a unique launch at ESA mission control
 - <a href="https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/" >🔗</a> **[SpaceNews]** LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/" >🔗</a> **[NASA]** APOD: 2026 September 11 – M83: The Southern Pinwheel
 - <a href="https://spacepolicyonline.com/news/nasa-invites-governors-to-compete-to-be-home-to-the-new-u-s-space-academy/" >🔗</a> **[SpacePolicyOnline.com]** NASA Invites Governors to Compete to be Home to the New U.S. Space Academy
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/" >🔗</a> **[NASA]** NASA Answers President’s Call to Establish United States Space Academy
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/" >🔗</a> **[NASA]** NASA’s Life-Saving Technology Where Cell Signals Can’t Go
 - <a href="https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/" >🔗</a> **[NASA]** NASA, NFL Team Up to Showcase Space, Aeronautics Innovation
-- <a href="https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a/" >🔗</a> **[NASA]** Dust and Water in Sagittarius A*
-- <a href="https://www.esa.int/Space_Safety/Hera/Name_our_dino_ESA_s_Hera_asteroid_mission_mascot" >🔗</a> **[ESA]** Name our dino – ESA’s Hera asteroid mission mascot!
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260911T080346">2026-09-11 08:03:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260911T083757">2026-09-11 08:37:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
