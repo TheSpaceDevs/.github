@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/" >🔗</a> **[Arstechnica]** NASA moving at warp speed to set up US Space Academy
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/" >🔗</a> **[NASA]** NASA Boosts Open Science, Data Sharing with Artemis Accords
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026" >🔗</a> **[ESA]** Week in images: 07-11 Sep 2026
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/" >🔗</a> **[SpaceNews]** LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/" >🔗</a> **[NASA]** APOD: 2026 September 11 – M83: The Southern Pinwheel
 - <a href="https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/" >🔗</a> **[NASA]** Monterrey Amid Mountains
-- <a href="https://spacepolicyonline.com/news/nasa-invites-governors-to-compete-to-be-home-to-the-new-u-s-space-academy/" >🔗</a> **[SpacePolicyOnline.com]** NASA Invites Governors to Compete to be Home to the New U.S. Space Academy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260911T160254">2026-09-11 16:02:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260911T163355">2026-09-11 16:33:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
