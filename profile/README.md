@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return
+- <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/" >🔗</a> **[NASA]** NASA Boosts Open Science, Data Sharing with Artemis Accords
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026" >🔗</a> **[ESA]** Week in images: 07-11 Sep 2026
 - <a href="https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/" >🔗</a> **[Arstechnica]** Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?
 - <a href="https://europeanspaceflight.com/avio-completes-integration-of-fd1-rocket-demonstrator/" >🔗</a> **[European Spaceflight]** Avio Completes Integration of FD1 Rocket Demonstrator
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/" >🔗</a> **[NASA]** APOD: 2026 September 11 – M83: The Southern Pinwheel
 - <a href="https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/" >🔗</a> **[NASA]** Monterrey Amid Mountains
 - <a href="https://spacepolicyonline.com/news/nasa-invites-governors-to-compete-to-be-home-to-the-new-u-s-space-academy/" >🔗</a> **[SpacePolicyOnline.com]** NASA Invites Governors to Compete to be Home to the New U.S. Space Academy
-- <a href="https://www.nasaspaceflight.com/2026/09/roman-commissioning-update/" >🔗</a> **[NASASpaceflight]** Roman telescope deploys solar array and communication systems, powers on Coronagraph Instrument
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Djibouti Artemis Accords Signing Ceremony
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260911T150245">2026-09-11 15:02:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260911T153208">2026-09-11 15:32:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
