@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/first-hyprspace-baguette-one-launch-slips-to-2027/" >🔗</a> **[European Spaceflight]** First HyPrSpace Baguette One Launch Slips to 2027
 - <a href="https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/" >🔗</a> **[NASA]** Help Refine Data from Space Telescopes with Artifact InSPECtor
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/" >🔗</a> **[NASA]** NASA’s Chandra Spots Galactic Gem
 - <a href="https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/" >🔗</a> **[Arstechnica]** NASA moving at warp speed to set up US Space Academy
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/" >🔗</a> **[Arstechnica]** Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?
 - <a href="https://europeanspaceflight.com/avio-completes-integration-of-fd1-rocket-demonstrator/" >🔗</a> **[European Spaceflight]** Avio Completes Integration of FD1 Rocket Demonstrator
 - <a href="https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control" >🔗</a> **[ESA]** A team of teams like never before: rehearsing a unique launch at ESA mission control
-- <a href="https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/" >🔗</a> **[SpaceNews]** LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260912T050239">2026-09-12 05:02:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260912T053136">2026-09-12 05:31:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
