@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/sirius-space-fires-complete-star-1-rocket-engine-for-the-first-time/" >🔗</a> **[European Spaceflight]** Sirius Space Fires Complete STAR-1 Rocket Engine for the First Time
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/" >🔗</a> **[NASA]** APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea
 - <a href="https://www.nasaspaceflight.com/2026/09/europes-commercial-launch-sector-pace/" >🔗</a> **[NASASpaceflight]** Europe’s commercial launch sector picking up the pace
 - <a href="https://europeanspaceflight.com/first-hyprspace-baguette-one-launch-slips-to-2027/" >🔗</a> **[European Spaceflight]** First HyPrSpace Baguette One Launch Slips to 2027
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/" >🔗</a> **[NASA]** NASA Boosts Open Science, Data Sharing with Artemis Accords
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026" >🔗</a> **[ESA]** Week in images: 07-11 Sep 2026
-- <a href="https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/" >🔗</a> **[Arstechnica]** Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260913T110150">2026-09-13 11:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260913T113122">2026-09-13 11:31:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
