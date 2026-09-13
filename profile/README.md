@@ -92,6 +92,7 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-13-19-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 13-19, 2026
 - <a href="https://spaceflightnow.com/2026/09/13/live-coverage-spacex-to-launch-final-3-o3b-mpower-satellites-for-ses/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final 3 O3b mPOWER satellites for SES
 - <a href="https://europeanspaceflight.com/sirius-space-fires-complete-star-1-rocket-engine-for-the-first-time/" >🔗</a> **[European Spaceflight]** Sirius Space Fires Complete STAR-1 Rocket Engine for the First Time
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/" >🔗</a> **[NASA]** APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea
@@ -101,7 +102,6 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/" >🔗</a> **[NASA]** NASA’s Chandra Spots Galactic Gem
 - <a href="https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/" >🔗</a> **[Arstechnica]** NASA moving at warp speed to set up US Space Academy
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return
-- <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/" >🔗</a> **[NASA]** NASA Boosts Open Science, Data Sharing with Artemis Accords
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260913T213103">2026-09-13 21:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260913T220234">2026-09-13 22:02:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
