@@ -92,6 +92,9 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game/" >🔗</a> **[NASA]** NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game
+- <a href="https://www.spacescout.info/2026/09/commercial-rockets-bring-new-life-to-stennis/" >🔗</a> **[Space Scout]** Commercial Rockets Bring New Life to Stennis
+- <a href="https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/" >🔗</a> **[SpaceNews]** Space’s growing billion-dollar club
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/" >🔗</a> **[NASA]** Summer Training: Catching Up With NASA’s Astronaut Candidates
 - <a href="https://www.esa.int/Space_Safety/Hera/Questions_Ask_our_Hera_Space_Companion" >🔗</a> **[ESA]** Questions? Ask our Hera Space Companion!
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants" >🔗</a> **[ESA]** ESA’s FLEX mission reveals the secret glow of plants
@@ -99,9 +102,6 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/" >🔗</a> **[NASA]** APOD: 2026 September 14 – Where Your Elements Came From
 - <a href="https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/" >🔗</a> **[NASA]** An Early Look at Fall Color in Canada
 - <a href="https://www.nasaspaceflight.com/2026/09/vega-c-launch-sentinel-3c-flex/" >🔗</a> **[NASASpaceflight]** Vega C set to launch the ESA Sentinel-3C and FLEX missions from Kourou
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-13-19-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 13-19, 2026
-- <a href="https://spaceflightnow.com/2026/09/13/live-coverage-spacex-to-launch-final-3-o3b-mpower-satellites-for-ses/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final 3 O3b mPOWER satellites for SES
-- <a href="https://europeanspaceflight.com/sirius-space-fires-complete-star-1-rocket-engine-for-the-first-time/" >🔗</a> **[European Spaceflight]** Sirius Space Fires Complete STAR-1 Rocket Engine for the First Time
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260914T160256">2026-09-14 16:02:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260914T163411">2026-09-14 16:34:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
