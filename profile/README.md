@@ -92,6 +92,9 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/" >🔗</a> **[Arstechnica]** Rocket Lab is seeing red about NASA's decision on a Mars spacecraft
+- <a href="https://spacepolicyonline.com/news/meink-u-s-has-orbiting-space-control-weapons/" >🔗</a> **[SpacePolicyOnline.com]** Meink: U.S. Has Orbiting Space Control Weapons
+- <a href="https://science.nasa.gov/science-research/earth-science/webinar-9-23-nasa-csda-program-update-2026/" >🔗</a> **[NASA]** Webinar 9/23: NASA CSDA Program Update 2026
 - <a href="https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/" >🔗</a> **[NASA]** New Crops, Health Research Proposals to Help NASA Advance Exploration
 - <a href="https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/" >🔗</a> **[NASASpaceflight]** Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22
 - <a href="https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/" >🔗</a> **[SpaceNews]** Sept. 21: What Comes Next for On-Orbit Servicing?
@@ -99,9 +102,6 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 - <a href="https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game/" >🔗</a> **[NASA]** NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game
 - <a href="https://www.spacescout.info/2026/09/commercial-rockets-bring-new-life-to-stennis/" >🔗</a> **[Space Scout]** Commercial Rockets Bring New Life to Stennis
 - <a href="https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/" >🔗</a> **[SpaceNews]** Space’s growing billion-dollar club
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/" >🔗</a> **[NASA]** Summer Training: Catching Up With NASA’s Astronaut Candidates
-- <a href="https://www.esa.int/Space_Safety/Hera/Questions_Ask_our_Hera_Space_Companion" >🔗</a> **[ESA]** Questions? Ask our Hera Space Companion!
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants" >🔗</a> **[ESA]** ESA’s FLEX mission reveals the secret glow of plants
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260914T213110">2026-09-14 21:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260914T220240">2026-09-14 22:02:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
