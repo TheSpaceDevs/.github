@@ -92,6 +92,9 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/" >🔗</a> **[NASASpaceflight]** Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22
+- <a href="https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/" >🔗</a> **[SpaceNews]** Sept. 21: What Comes Next for On-Orbit Servicing?
+- <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-djibouti-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Djibouti as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game/" >🔗</a> **[NASA]** NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game
 - <a href="https://www.spacescout.info/2026/09/commercial-rockets-bring-new-life-to-stennis/" >🔗</a> **[Space Scout]** Commercial Rockets Bring New Life to Stennis
 - <a href="https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/" >🔗</a> **[SpaceNews]** Space’s growing billion-dollar club
@@ -99,9 +102,6 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 - <a href="https://www.esa.int/Space_Safety/Hera/Questions_Ask_our_Hera_Space_Companion" >🔗</a> **[ESA]** Questions? Ask our Hera Space Companion!
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants" >🔗</a> **[ESA]** ESA’s FLEX mission reveals the secret glow of plants
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_ready_for_liftoff_on_Vega-C" >🔗</a> **[ESA]** FLEX and Sentinel-3C ready for liftoff on Vega-C
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/" >🔗</a> **[NASA]** APOD: 2026 September 14 – Where Your Elements Came From
-- <a href="https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/" >🔗</a> **[NASA]** An Early Look at Fall Color in Canada
-- <a href="https://www.nasaspaceflight.com/2026/09/vega-c-launch-sentinel-3c-flex/" >🔗</a> **[NASASpaceflight]** Vega C set to launch the ESA Sentinel-3C and FLEX missions from Kourou
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260914T173103">2026-09-14 17:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260914T180314">2026-09-14 18:03:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
