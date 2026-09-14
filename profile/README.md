@@ -92,6 +92,8 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/" >🔗</a> **[NASA]** Summer Training: Catching Up With NASA’s Astronaut Candidates
+- <a href="https://www.esa.int/Space_Safety/Hera/Questions_Ask_our_Hera_Space_Companion" >🔗</a> **[ESA]** Questions? Ask our Hera Space Companion!
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants" >🔗</a> **[ESA]** ESA’s FLEX mission reveals the secret glow of plants
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_ready_for_liftoff_on_Vega-C" >🔗</a> **[ESA]** FLEX and Sentinel-3C ready for liftoff on Vega-C
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/" >🔗</a> **[NASA]** APOD: 2026 September 14 – Where Your Elements Came From
@@ -100,8 +102,6 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-13-19-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 13-19, 2026
 - <a href="https://spaceflightnow.com/2026/09/13/live-coverage-spacex-to-launch-final-3-o3b-mpower-satellites-for-ses/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final 3 O3b mPOWER satellites for SES
 - <a href="https://europeanspaceflight.com/sirius-space-fires-complete-star-1-rocket-engine-for-the-first-time/" >🔗</a> **[European Spaceflight]** Sirius Space Fires Complete STAR-1 Rocket Engine for the First Time
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/" >🔗</a> **[NASA]** APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea
-- <a href="https://www.nasaspaceflight.com/2026/09/europes-commercial-launch-sector-pace/" >🔗</a> **[NASASpaceflight]** Europe’s commercial launch sector picking up the pace
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260914T150307">2026-09-14 15:03:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260914T153424">2026-09-14 15:34:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
