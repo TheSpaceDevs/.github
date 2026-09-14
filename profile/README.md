@@ -92,6 +92,8 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/" >🔗</a> **[NASA]** APOD: 2026 September 14 – Where Your Elements Came From
+- <a href="https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/" >🔗</a> **[NASA]** An Early Look at Fall Color in Canada
 - <a href="https://www.nasaspaceflight.com/2026/09/vega-c-launch-sentinel-3c-flex/" >🔗</a> **[NASASpaceflight]** Vega C set to launch the ESA Sentinel-3C and FLEX missions from Kourou
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-13-19-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 13-19, 2026
 - <a href="https://spaceflightnow.com/2026/09/13/live-coverage-spacex-to-launch-final-3-o3b-mpower-satellites-for-ses/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final 3 O3b mPOWER satellites for SES
@@ -100,8 +102,6 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 - <a href="https://www.nasaspaceflight.com/2026/09/europes-commercial-launch-sector-pace/" >🔗</a> **[NASASpaceflight]** Europe’s commercial launch sector picking up the pace
 - <a href="https://europeanspaceflight.com/first-hyprspace-baguette-one-launch-slips-to-2027/" >🔗</a> **[European Spaceflight]** First HyPrSpace Baguette One Launch Slips to 2027
 - <a href="https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/" >🔗</a> **[NASA]** Help Refine Data from Space Telescopes with Artifact InSPECtor
-- <a href="https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/" >🔗</a> **[NASA]** NASA’s Chandra Spots Galactic Gem
-- <a href="https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/" >🔗</a> **[Arstechnica]** NASA moving at warp speed to set up US Space Academy
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260914T050334">2026-09-14 05:03:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260914T053431">2026-09-14 05:34:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
