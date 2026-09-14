@@ -92,6 +92,8 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants" >🔗</a> **[ESA]** ESA’s FLEX mission reveals the secret glow of plants
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_ready_for_liftoff_on_Vega-C" >🔗</a> **[ESA]** FLEX and Sentinel-3C ready for liftoff on Vega-C
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/" >🔗</a> **[NASA]** APOD: 2026 September 14 – Where Your Elements Came From
 - <a href="https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/" >🔗</a> **[NASA]** An Early Look at Fall Color in Canada
 - <a href="https://www.nasaspaceflight.com/2026/09/vega-c-launch-sentinel-3c-flex/" >🔗</a> **[NASASpaceflight]** Vega C set to launch the ESA Sentinel-3C and FLEX missions from Kourou
@@ -100,27 +102,25 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 - <a href="https://europeanspaceflight.com/sirius-space-fires-complete-star-1-rocket-engine-for-the-first-time/" >🔗</a> **[European Spaceflight]** Sirius Space Fires Complete STAR-1 Rocket Engine for the First Time
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/" >🔗</a> **[NASA]** APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea
 - <a href="https://www.nasaspaceflight.com/2026/09/europes-commercial-launch-sector-pace/" >🔗</a> **[NASASpaceflight]** Europe’s commercial launch sector picking up the pace
-- <a href="https://europeanspaceflight.com/first-hyprspace-baguette-one-launch-slips-to-2027/" >🔗</a> **[European Spaceflight]** First HyPrSpace Baguette One Launch Slips to 2027
-- <a href="https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/" >🔗</a> **[NASA]** Help Refine Data from Space Telescopes with Artifact InSPECtor
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants" >🔗</a> **[ESA]** ESA’s FLEX mission reveals the secret glow of plants
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_ready_for_liftoff_on_Vega-C" >🔗</a> **[ESA]** FLEX and Sentinel-3C ready for liftoff on Vega-C
+- <a href="https://www.nasaspaceflight.com/2026/09/vega-c-launch-sentinel-3c-flex/" >🔗</a> **[NASASpaceflight]** Vega C set to launch the ESA Sentinel-3C and FLEX missions from Kourou
 - <a href="https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control" >🔗</a> **[ESA]** A team of teams like never before: rehearsing a unique launch at ESA mission control
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/pVega-C_flight_VV30_with_FLEX_and_Sentinel-3C" >🔗</a> **[ESA]** pVega-C flight VV30 with FLEX and Sentinel-3C
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Vega-C_flight_VV30_with_FLEX_and_Sentinel-3C" >🔗</a> **[ESA]** Vega-C flight VV30 with FLEX and Sentinel-3C
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/pVega-C_flight_VV30_with_FLEX_and_Sentinel-3C" >🔗</a> **[ESA]** pVega-C flight VV30 with FLEX and Sentinel-3C
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Watch_FLEX_and_Sentinel-3C_launch_on_Vega-C" >🔗</a> **[ESA]** Watch: FLEX and Sentinel-3C launch on Vega-C
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/Media_briefing_ahead_of_FLEX_and_Sentinel-3C_launch" >🔗</a> **[ESA]** Media briefing ahead of FLEX and Sentinel-3C launch
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_sealed_within_Vega-C_fairing" >🔗</a> **[ESA]** FLEX and Sentinel-3C sealed within Vega-C fairing
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Sentinel-3C_positioned_on_the_top_of_the_Vespa_adapter" >🔗</a> **[ESA]** Sentinel-3C positioned on the top of the Vespa adapter
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/FLEX/ESA_s_photosynthesis_satellite_fuelled" >🔗</a> **[ESA]** ESA’s photosynthesis satellite fuelled
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_arrive_at_Europe_s_Spaceport" >🔗</a> **[ESA]** FLEX and Sentinel-3C arrive at Europe’s Spaceport
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Three_ESA-built_satellites_on_show_in_France" >🔗</a> **[ESA]** Three ESA-built satellites on show in France
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260914T080405">2026-09-14 08:04:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260914T084239">2026-09-14 08:42:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
