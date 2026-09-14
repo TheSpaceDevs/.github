@@ -92,6 +92,7 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/" >🔗</a> **[NASA]** New Crops, Health Research Proposals to Help NASA Advance Exploration
 - <a href="https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/" >🔗</a> **[NASASpaceflight]** Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22
 - <a href="https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/" >🔗</a> **[SpaceNews]** Sept. 21: What Comes Next for On-Orbit Servicing?
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-djibouti-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Djibouti as Newest Artemis Accords Signatory
@@ -101,7 +102,6 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/" >🔗</a> **[NASA]** Summer Training: Catching Up With NASA’s Astronaut Candidates
 - <a href="https://www.esa.int/Space_Safety/Hera/Questions_Ask_our_Hera_Space_Companion" >🔗</a> **[ESA]** Questions? Ask our Hera Space Companion!
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants" >🔗</a> **[ESA]** ESA’s FLEX mission reveals the secret glow of plants
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_ready_for_liftoff_on_Vega-C" >🔗</a> **[ESA]** FLEX and Sentinel-3C ready for liftoff on Vega-C
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260914T193101">2026-09-14 19:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260914T200301">2026-09-14 20:03:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
