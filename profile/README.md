@@ -92,6 +92,7 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/09/14/live-coverage-avio-to-launch-spacecraft-to-monitor-plant-health-and-ocean-conditions/" >🔗</a> **[Spaceflight Now]** Live coverage: Avio to launch spacecraft to monitor plant health and ocean conditions
 - <a href="https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/" >🔗</a> **[Arstechnica]** Rocket Lab is seeing red about NASA's decision on a Mars spacecraft
 - <a href="https://spacepolicyonline.com/news/meink-u-s-has-orbiting-space-control-weapons/" >🔗</a> **[SpacePolicyOnline.com]** Meink: U.S. Has Orbiting Space Control Weapons
 - <a href="https://science.nasa.gov/science-research/earth-science/webinar-9-23-nasa-csda-program-update-2026/" >🔗</a> **[NASA]** Webinar 9/23: NASA CSDA Program Update 2026
@@ -101,7 +102,6 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-djibouti-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Djibouti as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game/" >🔗</a> **[NASA]** NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game
 - <a href="https://www.spacescout.info/2026/09/commercial-rockets-bring-new-life-to-stennis/" >🔗</a> **[Space Scout]** Commercial Rockets Bring New Life to Stennis
-- <a href="https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/" >🔗</a> **[SpaceNews]** Space’s growing billion-dollar club
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ The Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer pro
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260914T223147">2026-09-14 22:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260914T230324">2026-09-14 23:03:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
