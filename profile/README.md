@@ -53,8 +53,8 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260919T104300">2026-09-19 10:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20260919T104300Z%2F20260919T110600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260920T014700">2026-09-20 01:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-27&location=Vandenberg SFB, CA, USA&dates=20260920T014700Z%2F20260920T054700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-27** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260922T121500">2026-09-22 12:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 14&location=SpaceX Starbase, TX, USA&dates=20260922T121500Z%2F20260922T141400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 14** from SpaceX Starbase, TX, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260927T114200">2026-09-27 11:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | USSF-xxx (&quot;R-3&quot;)&location=Vandenberg SFB, CA, USA&dates=20260927T114200Z%2F20260927T152500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | USSF-xxx ("R-3")** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260930T000000">2026-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | LOXSAT 1&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260930T000000Z%2F20260930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | LOXSAT 1** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260930T000000">2026-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-13&location=Cape Canaveral SFS, FL, USA&dates=20260930T000000Z%2F20260930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-13** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation" >🔗</a> **[ESA]** Webb reveals stunning panorama of star formation
 - <a href="https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/" >🔗</a> **[Arstechnica]** This is by far the most peaceful Atlantic hurricane season we've ever seen
 - <a href="https://europeanspaceflight.com/avio-launches-second-successful-vega-c-flight-of-2026/" >🔗</a> **[European Spaceflight]** Avio Launches Second Successful Vega C Flight of 2026
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/FLEX_and_Sentinel-3C_launch_highlights" >🔗</a> **[ESA]** FLEX and Sentinel-3C launch highlights
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2026/09/15/avio-launches-pair-of-climate-monitoring-european-spacecraft-to-study-plants-oceans-and-atmospheric-changes/" >🔗</a> **[Spaceflight Now]** Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_launched" >🔗</a> **[ESA]** FLEX and Sentinel-3C launched
 - <a href="https://spacepolicyonline.com/news/state-department-launches-space-catalyst-partnership/" >🔗</a> **[SpacePolicyOnline.com]** State Department Launches Space Catalyst Partnership
-- <a href="https://spaceflightnow.com/2026/09/14/live-coverage-avio-to-launch-spacecraft-to-monitor-plant-health-and-ocean-conditions/" >🔗</a> **[Spaceflight Now]** Live coverage: Avio to launch spacecraft to monitor plant health and ocean conditions
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260915T140335">2026-09-15 14:03:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260915T143407">2026-09-15 14:34:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
