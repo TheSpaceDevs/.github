@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/09/15/avio-launches-pair-of-climate-monitoring-european-spacecraft-to-study-plants-oceans-and-atmospheric-changes/" >🔗</a> **[Spaceflight Now]** Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_launched" >🔗</a> **[ESA]** FLEX and Sentinel-3C launched
 - <a href="https://spacepolicyonline.com/news/state-department-launches-space-catalyst-partnership/" >🔗</a> **[SpacePolicyOnline.com]** State Department Launches Space Catalyst Partnership
 - <a href="https://spaceflightnow.com/2026/09/14/live-coverage-avio-to-launch-spacecraft-to-monitor-plant-health-and-ocean-conditions/" >🔗</a> **[Spaceflight Now]** Live coverage: Avio to launch spacecraft to monitor plant health and ocean conditions
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/" >🔗</a> **[NASA]** New Crops, Health Research Proposals to Help NASA Advance Exploration
 - <a href="https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/" >🔗</a> **[NASASpaceflight]** Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22
 - <a href="https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/" >🔗</a> **[SpaceNews]** Sept. 21: What Comes Next for On-Orbit Servicing?
-- <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-djibouti-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Djibouti as Newest Artemis Accords Signatory
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260915T040305">2026-09-15 04:03:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260915T043615">2026-09-15 04:36:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
