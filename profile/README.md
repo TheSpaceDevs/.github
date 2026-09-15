@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/avio-launches-second-successful-vega-c-flight-of-2026/" >🔗</a> **[European Spaceflight]** Avio Launches Second Successful Vega C Flight of 2026
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/FLEX_and_Sentinel-3C_launch_highlights" >🔗</a> **[ESA]** FLEX and Sentinel-3C launch highlights
 - <a href="https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/" >🔗</a> **[SpaceNews]** Iceye’s global presence expands to address sovereign demand
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/Relive_the_launch_of_FLEX_and_Sentinel-3C" >🔗</a> **[ESA]** Relive the launch of FLEX and Sentinel-3C
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/" >🔗</a> **[NASA]** APOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus
 - <a href="https://spaceflightnow.com/2026/09/15/avio-launches-pair-of-climate-monitoring-european-spacecraft-to-study-plants-oceans-and-atmospheric-changes/" >🔗</a> **[Spaceflight Now]** Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_launched" >🔗</a> **[ESA]** FLEX and Sentinel-3C launched
 - <a href="https://spacepolicyonline.com/news/state-department-launches-space-catalyst-partnership/" >🔗</a> **[SpacePolicyOnline.com]** State Department Launches Space Catalyst Partnership
 - <a href="https://spaceflightnow.com/2026/09/14/live-coverage-avio-to-launch-spacecraft-to-monitor-plant-health-and-ocean-conditions/" >🔗</a> **[Spaceflight Now]** Live coverage: Avio to launch spacecraft to monitor plant health and ocean conditions
 - <a href="https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/" >🔗</a> **[Arstechnica]** Rocket Lab is seeing red about NASA's decision on a Mars spacecraft
-- <a href="https://spacepolicyonline.com/news/meink-u-s-has-orbiting-space-control-weapons/" >🔗</a> **[SpacePolicyOnline.com]** Meink: U.S. Has Orbiting Space Control Weapons
-- <a href="https://science.nasa.gov/science-research/earth-science/webinar-9-23-nasa-csda-program-update-2026/" >🔗</a> **[NASA]** Webinar 9/23: NASA CSDA Program Update 2026
-- <a href="https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/" >🔗</a> **[NASA]** New Crops, Health Research Proposals to Help NASA Advance Exploration
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260915T080340">2026-09-15 08:03:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260915T083940">2026-09-15 08:39:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
