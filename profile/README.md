@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/state-department-launches-space-catalyst-partnership/" >🔗</a> **[SpacePolicyOnline.com]** State Department Launches Space Catalyst Partnership
 - <a href="https://spaceflightnow.com/2026/09/14/live-coverage-avio-to-launch-spacecraft-to-monitor-plant-health-and-ocean-conditions/" >🔗</a> **[Spaceflight Now]** Live coverage: Avio to launch spacecraft to monitor plant health and ocean conditions
 - <a href="https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/" >🔗</a> **[Arstechnica]** Rocket Lab is seeing red about NASA's decision on a Mars spacecraft
 - <a href="https://spacepolicyonline.com/news/meink-u-s-has-orbiting-space-control-weapons/" >🔗</a> **[SpacePolicyOnline.com]** Meink: U.S. Has Orbiting Space Control Weapons
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/" >🔗</a> **[SpaceNews]** Sept. 21: What Comes Next for On-Orbit Servicing?
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-djibouti-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Djibouti as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game/" >🔗</a> **[NASA]** NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game
-- <a href="https://www.spacescout.info/2026/09/commercial-rockets-bring-new-life-to-stennis/" >🔗</a> **[Space Scout]** Commercial Rockets Bring New Life to Stennis
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260915T020439">2026-09-15 02:04:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260915T023941">2026-09-15 02:39:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
