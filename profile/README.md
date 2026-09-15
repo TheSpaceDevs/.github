@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/" >🔗</a> **[NASA]** Celebrate International Observe the Moon Night with NASA
+- <a href="https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/" >🔗</a> **[NASA]** Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building
 - <a href="https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/" >🔗</a> **[SpaceNews]** More satellites watch the battlefield, putting a premium on making sense of the data
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/" >🔗</a> **[NASA]** NASA’s Webb Reveals Dynamic Panorama of Star Formation
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation" >🔗</a> **[ESA]** Webb reveals stunning panorama of star formation
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/FLEX_and_Sentinel-3C_launch_highlights" >🔗</a> **[ESA]** FLEX and Sentinel-3C launch highlights
 - <a href="https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/" >🔗</a> **[SpaceNews]** Iceye’s global presence expands to address sovereign demand
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/Relive_the_launch_of_FLEX_and_Sentinel-3C" >🔗</a> **[ESA]** Relive the launch of FLEX and Sentinel-3C
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/" >🔗</a> **[NASA]** APOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus
-- <a href="https://spaceflightnow.com/2026/09/15/avio-launches-pair-of-climate-monitoring-european-spacecraft-to-study-plants-oceans-and-atmospheric-changes/" >🔗</a> **[Spaceflight Now]** Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260915T160259">2026-09-15 16:02:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260915T163453">2026-09-15 16:34:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
