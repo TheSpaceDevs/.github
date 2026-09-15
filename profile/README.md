@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/open-cosmos-raises-e300-million-as-investors-back-europes-space-push/" >🔗</a> **[European Spaceflight]** Open Cosmos Raises €300 Million as Investors Back Europe’s Space Push
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/" >🔗</a> **[NASA]** NASA Invites Media to International Observe the Moon Night
 - <a href="https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/" >🔗</a> **[Arstechnica]** SpaceX sets launch date for first Starship orbital flight
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/" >🔗</a> **[NASASpaceflight]** Launch Preview: Nine orbital launches scheduled from sites around the world
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/" >🔗</a> **[NASA]** Celebrate International Observe the Moon Night with NASA
 - <a href="https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/" >🔗</a> **[NASA]** Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building
 - <a href="https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/" >🔗</a> **[SpaceNews]** More satellites watch the battlefield, putting a premium on making sense of the data
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/" >🔗</a> **[NASA]** NASA’s Webb Reveals Dynamic Panorama of Star Formation
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation" >🔗</a> **[ESA]** Webb reveals stunning panorama of star formation
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/" >🔗</a> **[NASA]** NASA’s Webb Reveals Dynamic Panorama of Star Formation
 - <a href="https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/" >🔗</a> **[Arstechnica]** This is by far the most peaceful Atlantic hurricane season we've ever seen
-- <a href="https://europeanspaceflight.com/avio-launches-second-successful-vega-c-flight-of-2026/" >🔗</a> **[European Spaceflight]** Avio Launches Second Successful Vega C Flight of 2026
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260915T203154">2026-09-15 20:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260915T210240">2026-09-15 21:02:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
