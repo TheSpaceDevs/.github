@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/" >🔗</a> **[Arstechnica]** This is by far the most peaceful Atlantic hurricane season we've ever seen
 - <a href="https://europeanspaceflight.com/avio-launches-second-successful-vega-c-flight-of-2026/" >🔗</a> **[European Spaceflight]** Avio Launches Second Successful Vega C Flight of 2026
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/FLEX_and_Sentinel-3C_launch_highlights" >🔗</a> **[ESA]** FLEX and Sentinel-3C launch highlights
 - <a href="https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/" >🔗</a> **[SpaceNews]** Iceye’s global presence expands to address sovereign demand
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_launched" >🔗</a> **[ESA]** FLEX and Sentinel-3C launched
 - <a href="https://spacepolicyonline.com/news/state-department-launches-space-catalyst-partnership/" >🔗</a> **[SpacePolicyOnline.com]** State Department Launches Space Catalyst Partnership
 - <a href="https://spaceflightnow.com/2026/09/14/live-coverage-avio-to-launch-spacecraft-to-monitor-plant-health-and-ocean-conditions/" >🔗</a> **[Spaceflight Now]** Live coverage: Avio to launch spacecraft to monitor plant health and ocean conditions
-- <a href="https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/" >🔗</a> **[Arstechnica]** Rocket Lab is seeing red about NASA's decision on a Mars spacecraft
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260915T120407">2026-09-15 12:04:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260915T124216">2026-09-15 12:42:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
