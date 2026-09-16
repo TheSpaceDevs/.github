@@ -90,6 +90,7 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: September 2026
 - <a href="https://spaceflightnow.com/2026/09/15/live-coverage-spacex-to-launch-national-security-payload-for-the-u-s-space-force-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch national security payload for the U.S. Space Force on Falcon 9 rocket from Vandenberg
 - <a href="https://europeanspaceflight.com/open-cosmos-raises-e300-million-as-investors-back-europes-space-push/" >🔗</a> **[European Spaceflight]** Open Cosmos Raises €300 Million as Investors Back Europe’s Space Push
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/" >🔗</a> **[NASA]** NASA Invites Media to International Observe the Moon Night
@@ -99,7 +100,6 @@ into *a Polar Orbit
 - <a href="https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/" >🔗</a> **[NASA]** Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building
 - <a href="https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/" >🔗</a> **[SpaceNews]** More satellites watch the battlefield, putting a premium on making sense of the data
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation" >🔗</a> **[ESA]** Webb reveals stunning panorama of star formation
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/" >🔗</a> **[NASA]** NASA’s Webb Reveals Dynamic Panorama of Star Formation
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260915T233056">2026-09-15 23:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260916T000655">2026-09-16 00:06:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
