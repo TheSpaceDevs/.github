@@ -91,15 +91,15 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.nasa.gov/image-article/indonesias-anak-krakatau/" >🔗</a> **[NASA]** Indonesia’s Anak Krakatau
+- <a href="https://science.nasa.gov/photojournal/curiosity-postcard-celebrates-rovers-5000th-day-on-mars/" >🔗</a> **[NASA]** Curiosity Postcard Celebrates Rover’s 5,000th Day on Mars
 - <a href="https://www.nasa.gov/image-article/nasa-visits-schools-strengthening-floridas-skilled-workforce/" >🔗</a> **[NASA]** NASA Visits Schools Strengthening Florida’s Skilled Workforce
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-reid-wiseman-to-join-nfl-fans-in-baltimore/" >🔗</a> **[NASA]** NASA Astronaut Reid Wiseman to Join NFL Fans in Baltimore
 - <a href="https://www.nasa.gov/general/nasas-integrated-medical-model-imm/" >🔗</a> **[NASA]** NASA’s Integrated Medical Model (IMM)
 - <a href="https://science.nasa.gov/universe/newfound-baby-planet-smashes-record-for-youngest-known-world/" >🔗</a> **[NASA]** Newfound ‘Baby’ Planet Smashes Record for Youngest Known World
 - <a href="https://science.nasa.gov/blog/1345718/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5002-5009: Tough Planning To Learn More About Wind-Blown Sediments
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5002-5009-tough-planning-to-learn-more-about-wind-blown-sediments/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5002-5009: Tough Planning To Learn More About Wind-Blown Sediments
 - <a href="https://europeanspaceflight.com/avio-ceo-reports-influx-of-customers-turned-away-by-spacex/" >🔗</a> **[European Spaceflight]** Avio CEO Reports Influx of Customers Turned Away by SpaceX
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet" >🔗</a> **[ESA]** Purple swirls on the Red Planet
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Faster-flowing_glaciers_fuel_decades_of_polar_ice_loss" >🔗</a> **[ESA]** Faster-flowing glaciers fuel decades of polar ice loss
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/" >🔗</a> **[NASA]** APOD: 2026 September 16 – Webb’s View of M64
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260916T153247">2026-09-16 15:32:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260916T160329">2026-09-16 16:03:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
