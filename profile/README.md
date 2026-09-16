@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/indonesias-anak-krakatau/" >🔗</a> **[NASA]** Indonesia’s Anak Krakatau
+- <a href="https://www.nasa.gov/image-article/nasa-visits-schools-strengthening-floridas-skilled-workforce/" >🔗</a> **[NASA]** NASA Visits Schools Strengthening Florida’s Skilled Workforce
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-reid-wiseman-to-join-nfl-fans-in-baltimore/" >🔗</a> **[NASA]** NASA Astronaut Reid Wiseman to Join NFL Fans in Baltimore
+- <a href="https://www.nasa.gov/general/nasas-integrated-medical-model-imm/" >🔗</a> **[NASA]** NASA’s Integrated Medical Model (IMM)
+- <a href="https://science.nasa.gov/universe/newfound-baby-planet-smashes-record-for-youngest-known-world/" >🔗</a> **[NASA]** Newfound ‘Baby’ Planet Smashes Record for Youngest Known World
+- <a href="https://science.nasa.gov/blog/1345718/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5002-5009: Tough Planning To Learn More About Wind-Blown Sediments
 - <a href="https://europeanspaceflight.com/avio-ceo-reports-influx-of-customers-turned-away-by-spacex/" >🔗</a> **[European Spaceflight]** Avio CEO Reports Influx of Customers Turned Away by SpaceX
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet" >🔗</a> **[ESA]** Purple swirls on the Red Planet
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Faster-flowing_glaciers_fuel_decades_of_polar_ice_loss" >🔗</a> **[ESA]** Faster-flowing glaciers fuel decades of polar ice loss
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/" >🔗</a> **[NASA]** APOD: 2026 September 16 – Webb’s View of M64
-- <a href="https://www.nasaspaceflight.com/2026/09/progress-ms-35-launch/" >🔗</a> **[NASASpaceflight]** Progress MS-35 poised to launch cargo to ISS from Kazakhstan
-- <a href="https://spacepolicyonline.com/news/starship-to-attempt-first-orbital-flight-next-week/" >🔗</a> **[SpacePolicyOnline.com]** Starship to Attempt First Orbital Flight Next Week
-- <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: September 2026
-- <a href="https://spaceflightnow.com/2026/09/15/live-coverage-spacex-to-launch-national-security-payload-for-the-u-s-space-force-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch national security payload for the U.S. Space Force on Falcon 9 rocket from Vandenberg
-- <a href="https://europeanspaceflight.com/open-cosmos-raises-e300-million-as-investors-back-europes-space-push/" >🔗</a> **[European Spaceflight]** Open Cosmos Raises €300 Million as Investors Back Europe’s Space Push
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/" >🔗</a> **[NASA]** NASA Invites Media to International Observe the Moon Night
-- <a href="https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/" >🔗</a> **[Arstechnica]** SpaceX sets launch date for first Starship orbital flight
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260916T150232">2026-09-16 15:02:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260916T153247">2026-09-16 15:32:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
