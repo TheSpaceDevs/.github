@@ -19,33 +19,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Soyuz 2.1b | Progress MS-35 (96P)**. It is scheduled to be launched by *Russian Federal Space Agency (ROSCOSMOS)*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Baikonur_Cosmodrome_Site_31">31/6</a>, Baikonur Cosmodrome, Republic of Kazakhstan*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260916T133353">2026-09-16 13:33:53 UTC</a>.  Until
-then, this pad will have been used for 429
-out of 1564 launches from this location. The launch status is currently
+**Long March 12 | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Wenchang_Commercial_Space_Launch_Site">Commercial LC-2</a>, Wenchang Space Launch Site, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260917T002500">2026-09-17 00:25:00 UTC</a>.  Until
+then, this pad will have been used for 8
+out of 72 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Resupply* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Unknown* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  Progress resupply mission to the International Space Station.
+  Details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="http://en.wikipedia.org/wiki/Soyuz-2_(rocket)" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_12" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=45.996034,63.564003" >
+  <a href="https://www.google.com/maps?q=19.59755,110.936481" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260916T133353">2026-09-16 13:33:53 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | Progress MS-35 (96P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20260916T133353Z%2F20260916T133353Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b | Progress MS-35 (96P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260917T002500">2026-09-17 00:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 12 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260917T002500Z%2F20260917T005400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 12 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260917T010000">2026-09-17 01:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | USSF-259&location=Vandenberg SFB, CA, USA&dates=20260917T010000Z%2F20260917T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | USSF-259** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260917T023100">2026-09-17 02:31:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou 11 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20260917T023100Z%2F20260917T031200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kuaizhou 11 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -55,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260920T035400">2026-09-20 03:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kinetica 1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20260920T035400Z%2F20260920T041500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kinetica 1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260922T121500">2026-09-22 12:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 14&location=SpaceX Starbase, TX, USA&dates=20260922T121500Z%2F20260922T133000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 14** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260927T114200">2026-09-27 11:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | USSF-xxx (&quot;R-3&quot;)&location=Vandenberg SFB, CA, USA&dates=20260927T114200Z%2F20260927T152500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | USSF-xxx ("R-3")** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260930T000000">2026-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | LOXSAT 1&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260930T000000Z%2F20260930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | LOXSAT 1** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/avio-ceo-reports-influx-of-customers-turned-away-by-spacex/" >🔗</a> **[European Spaceflight]** Avio CEO Reports Influx of Customers Turned Away by SpaceX
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet" >🔗</a> **[ESA]** Purple swirls on the Red Planet
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/" >🔗</a> **[NASA]** APOD: 2026 September 16 – Webb’s View of M64
 - <a href="https://www.nasaspaceflight.com/2026/09/progress-ms-35-launch/" >🔗</a> **[NASASpaceflight]** Progress MS-35 poised to launch cargo to ISS from Kazakhstan
@@ -99,21 +100,16 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/open-cosmos-raises-e300-million-as-investors-back-europes-space-push/" >🔗</a> **[European Spaceflight]** Open Cosmos Raises €300 Million as Investors Back Europe’s Space Push
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/" >🔗</a> **[NASA]** NASA Invites Media to International Observe the Moon Night
 - <a href="https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/" >🔗</a> **[Arstechnica]** SpaceX sets launch date for first Starship orbital flight
-- <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/" >🔗</a> **[NASASpaceflight]** Launch Preview: Nine orbital launches scheduled from sites around the world
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2026/09/progress-ms-35-launch/" >🔗</a> **[NASASpaceflight]** Progress MS-35 poised to launch cargo to ISS from Kazakhstan
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/" >🔗</a> **[NASASpaceflight]** Launch Preview: Nine orbital launches scheduled from sites around the world
-- <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Soyuz, CZ-8A, and Falcon 9 to launch from sites around the world
-- <a href="https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/" >🔗</a> **[NASA]** NASA to Cover Progress 96 Spacecraft Launch, Docking
-- <a href="https://www.nasaspaceflight.com/2026/06/iss-roundup-061826/" >🔗</a> **[NASASpaceflight]** Canadarm2 repairs planned as CRS-34 departs ISS
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260916T130240">2026-09-16 13:02:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260916T133404">2026-09-16 13:34:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
