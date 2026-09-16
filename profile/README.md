@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/09/progress-ms-35-launch/" >🔗</a> **[NASASpaceflight]** Progress MS-35 poised to launch cargo to ISS from Kazakhstan
 - <a href="https://spacepolicyonline.com/news/starship-to-attempt-first-orbital-flight-next-week/" >🔗</a> **[SpacePolicyOnline.com]** Starship to Attempt First Orbital Flight Next Week
 - <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: September 2026
 - <a href="https://spaceflightnow.com/2026/09/15/live-coverage-spacex-to-launch-national-security-payload-for-the-u-s-space-force-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch national security payload for the U.S. Space Force on Falcon 9 rocket from Vandenberg
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/" >🔗</a> **[NASASpaceflight]** Launch Preview: Nine orbital launches scheduled from sites around the world
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/" >🔗</a> **[NASA]** Celebrate International Observe the Moon Night with NASA
 - <a href="https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/" >🔗</a> **[NASA]** Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building
-- <a href="https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/" >🔗</a> **[SpaceNews]** More satellites watch the battlefield, putting a premium on making sense of the data
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260916T020608">2026-09-16 02:06:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260916T023855">2026-09-16 02:38:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
