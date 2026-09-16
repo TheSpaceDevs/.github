@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/" >🔗</a> **[NASA]** NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar
+- <a href="https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/" >🔗</a> **[NASA]** NASA Watches Earth’s Weight, Finds Center of Mass
 - <a href="https://www.nasa.gov/image-article/indonesias-anak-krakatau/" >🔗</a> **[NASA]** Indonesia’s Anak Krakatau
 - <a href="https://science.nasa.gov/photojournal/curiosity-postcard-celebrates-rovers-5000th-day-on-mars/" >🔗</a> **[NASA]** Curiosity Postcard Celebrates Rover’s 5,000th Day on Mars
 - <a href="https://www.nasa.gov/image-article/nasa-visits-schools-strengthening-floridas-skilled-workforce/" >🔗</a> **[NASA]** NASA Visits Schools Strengthening Florida’s Skilled Workforce
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/universe/newfound-baby-planet-smashes-record-for-youngest-known-world/" >🔗</a> **[NASA]** Newfound ‘Baby’ Planet Smashes Record for Youngest Known World
 - <a href="https://science.nasa.gov/blog/1345718/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5002-5009: Tough Planning To Learn More About Wind-Blown Sediments
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5002-5009-tough-planning-to-learn-more-about-wind-blown-sediments/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5002-5009: Tough Planning To Learn More About Wind-Blown Sediments
-- <a href="https://europeanspaceflight.com/avio-ceo-reports-influx-of-customers-turned-away-by-spacex/" >🔗</a> **[European Spaceflight]** Avio CEO Reports Influx of Customers Turned Away by SpaceX
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet" >🔗</a> **[ESA]** Purple swirls on the Red Planet
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260916T160329">2026-09-16 16:03:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260916T163412">2026-09-16 16:34:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
