@@ -104,6 +104,8 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/09/progress-ms-35-launch/" >🔗</a> **[NASASpaceflight]** Progress MS-35 poised to launch cargo to ISS from Kazakhstan
+- <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/" >🔗</a> **[NASASpaceflight]** Launch Preview: Nine orbital launches scheduled from sites around the world
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Soyuz, CZ-8A, and Falcon 9 to launch from sites around the world
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/" >🔗</a> **[NASA]** NASA to Cover Progress 96 Spacecraft Launch, Docking
 - <a href="https://www.nasaspaceflight.com/2026/06/iss-roundup-061826/" >🔗</a> **[NASASpaceflight]** Canadarm2 repairs planned as CRS-34 departs ISS
@@ -111,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260916T070427">2026-09-16 07:04:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260916T073554">2026-09-16 07:35:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
