@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet" >🔗</a> **[ESA]** Purple swirls on the Red Planet
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/" >🔗</a> **[NASA]** APOD: 2026 September 16 – Webb’s View of M64
 - <a href="https://www.nasaspaceflight.com/2026/09/progress-ms-35-launch/" >🔗</a> **[NASASpaceflight]** Progress MS-35 poised to launch cargo to ISS from Kazakhstan
 - <a href="https://spacepolicyonline.com/news/starship-to-attempt-first-orbital-flight-next-week/" >🔗</a> **[SpacePolicyOnline.com]** Starship to Attempt First Orbital Flight Next Week
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/" >🔗</a> **[NASA]** NASA Invites Media to International Observe the Moon Night
 - <a href="https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/" >🔗</a> **[Arstechnica]** SpaceX sets launch date for first Starship orbital flight
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/" >🔗</a> **[NASASpaceflight]** Launch Preview: Nine orbital launches scheduled from sites around the world
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/" >🔗</a> **[NASA]** Celebrate International Observe the Moon Night with NASA
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260916T100238">2026-09-16 10:02:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260916T103407">2026-09-16 10:34:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
