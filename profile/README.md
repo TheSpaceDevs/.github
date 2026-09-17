@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/" >🔗</a> **[NASA]** NASA Unveils Enterprise, the First Space Shuttle
+- <a href="https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/" >🔗</a> **[SpaceNews]** Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation
 - <a href="https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/" >🔗</a> **[SpaceNews]** Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges
 - <a href="https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/" >🔗</a> **[Arstechnica]** NASA to order more Starliner missions and help certify a new rocket to keep it flying
 - <a href="https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/" >🔗</a> **[SpaceNews]** Inside Europe’s push for space autonomy with Josef Aschbacher
-- <a href="https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/" >🔗</a> **[SpaceNews]** Icarus Robotics tests Joy in Canada ahead of ISS flight
 - <a href="https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/" >🔗</a> **[SpaceNews]** Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A
+- <a href="https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/" >🔗</a> **[SpaceNews]** Icarus Robotics tests Joy in Canada ahead of ISS flight
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTG-I2_timelapse_from_arrival_at_Europe_s_Spaceport_to_launch" >🔗</a> **[ESA]** MTG-I2 timelapse : from arrival at Europe’s Spaceport to launch
 - <a href="https://europeanspaceflight.com/endurosat-raise-pushes-european-newspace-funding-above-e1-billion-for-september/" >🔗</a> **[European Spaceflight]** EnduroSat Raise Pushes European NewSpace Funding Above €1 Billion for September
-- <a href="https://www.esa.int/About_Us/Business_with_ESA/Three_space_companies_win_ESA_awards_for_excellence_and_innovation" >🔗</a> **[ESA]** Three space companies win ESA awards for excellence and innovation
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_in_spoofing_conditions" >🔗</a> **[ESA]** Galileo's first civil authenticated position fix in spoofing conditions
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_under_spoofing_conditions" >🔗</a> **[ESA]** Galileo's first civil authenticated position fix under spoofing conditions
+- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_starts_next_phase_of_IRIS2_evolution_through_Low-LEO_activities" >🔗</a> **[ESA]** ESA starts next phase of IRIS² evolution through Low-LEO activities
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260917T160307">2026-09-17 16:03:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260917T163440">2026-09-17 16:34:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
