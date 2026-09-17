@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/" >🔗</a> **[SpaceNews]** Icarus Robotics tests Joy in Canada ahead of ISS flight
+- <a href="https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/" >🔗</a> **[SpaceNews]** Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTG-I2_timelapse_from_arrival_at_Europe_s_Spaceport_to_launch" >🔗</a> **[ESA]** MTG-I2 timelapse : from arrival at Europe’s Spaceport to launch
 - <a href="https://europeanspaceflight.com/endurosat-raise-pushes-european-newspace-funding-above-e1-billion-for-september/" >🔗</a> **[European Spaceflight]** EnduroSat Raise Pushes European NewSpace Funding Above €1 Billion for September
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Three_space_companies_win_ESA_awards_for_excellence_and_innovation" >🔗</a> **[ESA]** Three space companies win ESA awards for excellence and innovation
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/" >🔗</a> **[NASA]** APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula
 - <a href="https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/" >🔗</a> **[NASA]** Summer Goes Out With a Heat Dome
 - <a href="https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/" >🔗</a> **[NASA]** Passion Meets Precision at NASA’s Flight Research Lab
-- <a href="https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/" >🔗</a> **[NASA]** NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater
-- <a href="https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/" >🔗</a> **[NASA]** NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260917T130249">2026-09-17 13:02:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260917T133353">2026-09-17 13:33:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
