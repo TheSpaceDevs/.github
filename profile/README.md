@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/" >🔗</a> **[NASA]** NASA Awards Launch Services for StarBurst Gamma-Ray Detector
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station
 - <a href="https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/" >🔗</a> **[NASA]** NASA Unveils Enterprise, the First Space Shuttle
 - <a href="https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/" >🔗</a> **[SpaceNews]** Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/" >🔗</a> **[SpaceNews]** Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A
 - <a href="https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/" >🔗</a> **[SpaceNews]** Icarus Robotics tests Joy in Canada ahead of ISS flight
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTG-I2_timelapse_from_arrival_at_Europe_s_Spaceport_to_launch" >🔗</a> **[ESA]** MTG-I2 timelapse : from arrival at Europe’s Spaceport to launch
-- <a href="https://europeanspaceflight.com/endurosat-raise-pushes-european-newspace-funding-above-e1-billion-for-september/" >🔗</a> **[European Spaceflight]** EnduroSat Raise Pushes European NewSpace Funding Above €1 Billion for September
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260917T210234">2026-09-17 21:02:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260917T213117">2026-09-17 21:31:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
