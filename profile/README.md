@@ -94,12 +94,12 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/endurosat-raise-pushes-european-newspace-funding-above-e1-billion-for-september/" >🔗</a> **[European Spaceflight]** EnduroSat Raise Pushes European NewSpace Funding Above €1 Billion for September
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Three_space_companies_win_ESA_awards_for_excellence_and_innovation" >🔗</a> **[ESA]** Three space companies win ESA awards for excellence and innovation
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_in_spoofing_conditions" >🔗</a> **[ESA]** Galileo's first civil authenticated position fix in spoofing conditions
+- <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_under_spoofing_conditions" >🔗</a> **[ESA]** Galileo's first civil authenticated position fix under spoofing conditions
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/" >🔗</a> **[NASA]** APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula
 - <a href="https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/" >🔗</a> **[NASA]** Summer Goes Out With a Heat Dome
 - <a href="https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/" >🔗</a> **[NASA]** Passion Meets Precision at NASA’s Flight Research Lab
 - <a href="https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/" >🔗</a> **[NASA]** NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater
 - <a href="https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/" >🔗</a> **[NASA]** NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar
-- <a href="https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/" >🔗</a> **[NASA]** NASA Watches Earth’s Weight, Finds Center of Mass
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260917T110239">2026-09-17 11:02:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260917T113216">2026-09-17 11:32:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
