@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/endurosat-raise-pushes-european-newspace-funding-above-e1-billion-for-september/" >🔗</a> **[European Spaceflight]** EnduroSat Raise Pushes European NewSpace Funding Above €1 Billion for September
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Three_space_companies_win_ESA_awards_for_excellence_and_innovation" >🔗</a> **[ESA]** Three space companies win ESA awards for excellence and innovation
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/" >🔗</a> **[NASA]** APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula
 - <a href="https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/" >🔗</a> **[NASA]** Summer Goes Out With a Heat Dome
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/" >🔗</a> **[NASA]** NASA Watches Earth’s Weight, Finds Center of Mass
 - <a href="https://www.nasa.gov/image-article/indonesias-anak-krakatau/" >🔗</a> **[NASA]** Indonesia’s Anak Krakatau
 - <a href="https://science.nasa.gov/photojournal/curiosity-postcard-celebrates-rovers-5000th-day-on-mars/" >🔗</a> **[NASA]** Curiosity Postcard Celebrates Rover’s 5,000th Day on Mars
-- <a href="https://www.nasa.gov/image-article/nasa-visits-schools-strengthening-floridas-skilled-workforce/" >🔗</a> **[NASA]** NASA Visits Schools Strengthening Florida’s Skilled Workforce
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260917T090303">2026-09-17 09:03:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260917T093602">2026-09-17 09:36:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
