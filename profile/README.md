@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/" >🔗</a> **[NASA]** APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula
+- <a href="https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/" >🔗</a> **[NASA]** Summer Goes Out With a Heat Dome
 - <a href="https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/" >🔗</a> **[NASA]** Passion Meets Precision at NASA’s Flight Research Lab
 - <a href="https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/" >🔗</a> **[NASA]** NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater
 - <a href="https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/" >🔗</a> **[NASA]** NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/photojournal/curiosity-postcard-celebrates-rovers-5000th-day-on-mars/" >🔗</a> **[NASA]** Curiosity Postcard Celebrates Rover’s 5,000th Day on Mars
 - <a href="https://www.nasa.gov/image-article/nasa-visits-schools-strengthening-floridas-skilled-workforce/" >🔗</a> **[NASA]** NASA Visits Schools Strengthening Florida’s Skilled Workforce
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-reid-wiseman-to-join-nfl-fans-in-baltimore/" >🔗</a> **[NASA]** NASA Astronaut Reid Wiseman to Join NFL Fans in Baltimore
-- <a href="https://www.nasa.gov/general/nasas-integrated-medical-model-imm/" >🔗</a> **[NASA]** NASA’s Integrated Medical Model (IMM)
-- <a href="https://science.nasa.gov/universe/newfound-baby-planet-smashes-record-for-youngest-known-world/" >🔗</a> **[NASA]** Newfound ‘Baby’ Planet Smashes Record for Youngest Known World
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260917T050258">2026-09-17 05:02:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260917T053426">2026-09-17 05:34:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
