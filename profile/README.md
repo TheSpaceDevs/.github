@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Paris_France" >🔗</a> **[ESA]** Paris, France
+- <a href="https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/" >🔗</a> **[NASA]** NASA Awards SpaceX Three Crew Flights to Space Station
+- <a href="https://www.nasa.gov/image-article/cosi-telescope-comes-together/" >🔗</a> **[NASA]** COSI Telescope Comes Together
 - <a href="https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/" >🔗</a> **[SpaceNews]** Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs
 - <a href="https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/" >🔗</a> **[NASA]** NASA’s Hubble Spots an Out-of-Sync Galaxy
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_14-18_Sep_2026" >🔗</a> **[ESA]** Week in images: 14-18 Sep 2026
 - <a href="https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/" >🔗</a> **[Arstechnica]** Rocket Report: ULA flies into uncertain future; Falcon 9 family hits 700 launches
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada" >🔗</a> **[ESA]** Earth from Space: Laguna Colorada
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync" >🔗</a> **[ESA]** A galaxy spinning out of sync
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada" >🔗</a> **[ESA]** Earth from Space: Laguna Colorada
 - <a href="https://europeanspaceflight.com/esa-awards-e20m-in-contracts-to-study-future-iris2-services/" >🔗</a> **[European Spaceflight]** ESA Awards €20M in Contracts to Study Future IRIS2 Services
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/" >🔗</a> **[NASA]** APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy
-- <a href="https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/" >🔗</a> **[NASASpaceflight]** Starship’s upcoming missions: Waiting on Orbit, Building toward the Cape
-- <a href="https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/" >🔗</a> **[NASA]** NASA Awards Launch Services for StarBurst Gamma-Ray Detector
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260918T160236">2026-09-18 16:02:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260918T163349">2026-09-18 16:33:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
