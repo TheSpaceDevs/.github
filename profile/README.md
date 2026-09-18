@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/" >🔗</a> **[NASA]** NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Paris_France" >🔗</a> **[ESA]** Paris, France
 - <a href="https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/" >🔗</a> **[NASA]** NASA Awards SpaceX Three Crew Flights to Space Station
 - <a href="https://www.nasa.gov/image-article/cosi-telescope-comes-together/" >🔗</a> **[NASA]** COSI Telescope Comes Together
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/" >🔗</a> **[Arstechnica]** Rocket Report: ULA flies into uncertain future; Falcon 9 family hits 700 launches
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync" >🔗</a> **[ESA]** A galaxy spinning out of sync
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada" >🔗</a> **[ESA]** Earth from Space: Laguna Colorada
-- <a href="https://europeanspaceflight.com/esa-awards-e20m-in-contracts-to-study-future-iris2-services/" >🔗</a> **[European Spaceflight]** ESA Awards €20M in Contracts to Study Future IRIS2 Services
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260918T190256">2026-09-18 19:02:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260918T193101">2026-09-18 19:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
