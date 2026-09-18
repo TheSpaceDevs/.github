@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada" >🔗</a> **[ESA]** Earth from Space: Laguna Colorada
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync" >🔗</a> **[ESA]** A galaxy spinning out of sync
+- <a href="https://europeanspaceflight.com/esa-awards-e20m-in-contracts-to-study-future-iris2-services/" >🔗</a> **[European Spaceflight]** ESA Awards €20M in Contracts to Study Future IRIS2 Services
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/" >🔗</a> **[NASA]** APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy
 - <a href="https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/" >🔗</a> **[NASASpaceflight]** Starship’s upcoming missions: Waiting on Orbit, Building toward the Cape
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/" >🔗</a> **[NASA]** NASA Awards Launch Services for StarBurst Gamma-Ray Detector
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/" >🔗</a> **[NASA]** NASA Unveils Enterprise, the First Space Shuttle
 - <a href="https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/" >🔗</a> **[SpaceNews]** Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation
 - <a href="https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/" >🔗</a> **[SpaceNews]** Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges
-- <a href="https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/" >🔗</a> **[Arstechnica]** NASA to order more Starliner missions and help certify a new rocket to keep it flying
-- <a href="https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/" >🔗</a> **[SpaceNews]** Inside Europe’s push for space autonomy with Josef Aschbacher
-- <a href="https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/" >🔗</a> **[SpaceNews]** Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260918T080349">2026-09-18 08:03:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260918T083820">2026-09-18 08:38:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
