@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Albania Artemis Accords Signing Ceremony
 - <a href="https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/" >🔗</a> **[NASA]** NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Paris_France" >🔗</a> **[ESA]** Paris, France
 - <a href="https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/" >🔗</a> **[NASA]** NASA Awards SpaceX Three Crew Flights to Space Station
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_14-18_Sep_2026" >🔗</a> **[ESA]** Week in images: 14-18 Sep 2026
 - <a href="https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/" >🔗</a> **[Arstechnica]** Rocket Report: ULA flies into uncertain future; Falcon 9 family hits 700 launches
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync" >🔗</a> **[ESA]** A galaxy spinning out of sync
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada" >🔗</a> **[ESA]** Earth from Space: Laguna Colorada
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260918T193101">2026-09-18 19:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260918T200244">2026-09-18 20:02:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
