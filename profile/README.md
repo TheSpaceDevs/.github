@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola" >🔗</a> **[ESA]** ESA x TPCI - Pikachu in the Cupola
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola" >🔗</a> **[ESA]** Pikachu in the Cupola
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_The_Pokemon_Company_International_reveal_Europe-wide_exhibition_and_astronaut_Pikachu_experience" >🔗</a> **[ESA]** ESA and The Pokémon Company International reveal Europe-wide exhibition and astronaut Pikachu experience
 - <a href="https://www.nasaspaceflight.com/2026/09/china-roundup-202609/" >🔗</a> **[NASASpaceflight]** China progresses plans for Mars sample return, asteroid flyby and more launch sites
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Albania Artemis Accords Signing Ceremony
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/" >🔗</a> **[NASA]** NASA Awards SpaceX Three Crew Flights to Space Station
 - <a href="https://www.nasa.gov/image-article/cosi-telescope-comes-together/" >🔗</a> **[NASA]** COSI Telescope Comes Together
 - <a href="https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/" >🔗</a> **[SpaceNews]** Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs
-- <a href="https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/" >🔗</a> **[NASA]** NASA’s Hubble Spots an Out-of-Sync Galaxy
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260918T233105">2026-09-18 23:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260919T000647">2026-09-19 00:06:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
