@@ -92,6 +92,7 @@ into *an Unknown
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola" >🔗</a> **[ESA]** ESA x TPCI - Pikachu in the Cupola
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola" >🔗</a> **[ESA]** Pikachu in the Cupola
+- <a href="https://www.nasaspaceflight.com/2026/09/lro-mcgetchin-crater/" >🔗</a> **[NASASpaceflight]** LRO discovers large new lunar crater, finds interesting thermal emission phenomenon
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-20-26-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 20-26, 2026
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/" >🔗</a> **[NASA]** APOD: 2026 September 20 – Analemma over the Callanish Stones
 - <a href="https://spaceflightnow.com/2026/09/19/russian-progress-cargo-ship-arrives-at-international-space-station/" >🔗</a> **[Spaceflight Now]** Russian Progress cargo ship arrives at International Space Station
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/dlrs-suborbital-mapheus-17-mission-to-launch-as-early-as-1-october/" >🔗</a> **[European Spaceflight]** DLR’s Suborbital MAPHEUS-17 Mission to Launch as Early as 1 October
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/" >🔗</a> **[NASA]** APOD: 2026 September 19 – A Zodiacal Night
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_The_Pokemon_Company_International_reveal_Europe-wide_exhibition_and_astronaut_Pikachu_experience" >🔗</a> **[ESA]** ESA and The Pokémon Company International reveal Europe-wide exhibition and astronaut Pikachu experience
-- <a href="https://www.nasaspaceflight.com/2026/09/china-roundup-202609/" >🔗</a> **[NASASpaceflight]** China progresses plans for Mars sample return, asteroid flyby and more launch sites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260920T213102">2026-09-20 21:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260920T220212">2026-09-20 22:02:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
