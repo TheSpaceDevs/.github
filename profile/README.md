@@ -90,8 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola" >🔗</a> **[ESA]** Pikachu in the Cupola
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola" >🔗</a> **[ESA]** ESA x TPCI - Pikachu in the Cupola
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola" >🔗</a> **[ESA]** Pikachu in the Cupola
+- <a href="https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/" >🔗</a> **[NASA]** APOD: 2026 September 20 – Analemma over the Callanish Stones
 - <a href="https://spaceflightnow.com/2026/09/19/russian-progress-cargo-ship-arrives-at-international-space-station/" >🔗</a> **[Spaceflight Now]** Russian Progress cargo ship arrives at International Space Station
 - <a href="https://spaceflightnow.com/2026/09/19/live-coverage-spacex-to-launch-27-starlink-v2-mini-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink V2 Mini satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://europeanspaceflight.com/dlrs-suborbital-mapheus-17-mission-to-launch-as-early-as-1-october/" >🔗</a> **[European Spaceflight]** DLR’s Suborbital MAPHEUS-17 Mission to Launch as Early as 1 October
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_The_Pokemon_Company_International_reveal_Europe-wide_exhibition_and_astronaut_Pikachu_experience" >🔗</a> **[ESA]** ESA and The Pokémon Company International reveal Europe-wide exhibition and astronaut Pikachu experience
 - <a href="https://www.nasaspaceflight.com/2026/09/china-roundup-202609/" >🔗</a> **[NASASpaceflight]** China progresses plans for Mars sample return, asteroid flyby and more launch sites
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Albania Artemis Accords Signing Ceremony
-- <a href="https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/" >🔗</a> **[NASA]** NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260920T050230">2026-09-20 05:02:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260920T053218">2026-09-20 05:32:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
