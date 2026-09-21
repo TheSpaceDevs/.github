@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/" >🔗</a> **[Spaceflight Now]** SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch
+- <a href="https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/" >🔗</a> **[NASASpaceflight]** Exolaunch, Space Cargo book Starship Starfall missions
+- <a href="https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/" >🔗</a> **[NASA]** NASA Discovery Reveals Complex Water Systems on Early Mars
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes Two New Members
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist" >🔗</a> **[ESA]** Juice to fly past Earth for third gravity assist
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola" >🔗</a> **[ESA]** ESA x TPCI - Pikachu in the Cupola
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival/" >🔗</a> **[NASA]** Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/ESA_brings_public_and_private_capital_together_to_accelerate_Europe_s_space_economy" >🔗</a> **[ESA]** ESA brings public and private capital together to accelerate Europe’s space economy
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_and_ISRO_extend_and_broaden_cooperation_agreement" >🔗</a> **[ESA]** ESA and ISRO extend and broaden cooperation agreement
-- <a href="https://europeanspaceflight.com/esa-acknowledges-ariane-6-delays-following-reports-of-turbopump-issue/" >🔗</a> **[European Spaceflight]** ESA Acknowledges Ariane 6 Delays Following Reports of Turbopump Issue
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/" >🔗</a> **[NASA]** APOD: 2026 September 21 – Cocoon Nebula Wide Field
-- <a href="https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/" >🔗</a> **[NASA]** Arctic Melt Season Length Levels Off
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260921T170209">2026-09-21 17:02:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260921T173115">2026-09-21 17:31:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
