@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes Two New Members
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist" >🔗</a> **[ESA]** Juice to fly past Earth for third gravity assist
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola" >🔗</a> **[ESA]** ESA x TPCI - Pikachu in the Cupola
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola" >🔗</a> **[ESA]** Pikachu in the Cupola
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival/" >🔗</a> **[NASA]** Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/esa-acknowledges-ariane-6-delays-following-reports-of-turbopump-issue/" >🔗</a> **[European Spaceflight]** ESA Acknowledges Ariane 6 Delays Following Reports of Turbopump Issue
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/" >🔗</a> **[NASA]** APOD: 2026 September 21 – Cocoon Nebula Wide Field
 - <a href="https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/" >🔗</a> **[NASA]** Arctic Melt Season Length Levels Off
-- <a href="https://www.nasaspaceflight.com/2026/09/lro-mcgetchin-crater/" >🔗</a> **[NASASpaceflight]** LRO discovers large new lunar crater, finds interesting thermal emission phenomenon
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-20-26-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 20-26, 2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260921T150247">2026-09-21 15:02:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260921T153246">2026-09-21 15:32:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
