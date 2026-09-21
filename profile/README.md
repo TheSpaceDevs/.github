@@ -52,9 +52,9 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T121500">2026-09-28 12:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Starlink Group 31-1 (Starship Flight 14)&location=SpaceX Starbase, TX, USA&dates=20260928T121500Z%2F20260928T133000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Starlink Group 31-1 (Starship Flight 14)** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260930T160000">2026-09-30 16:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-25&location=Vandenberg SFB, CA, USA&dates=20260930T160000Z%2F20260930T200000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-25** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T151006">2026-10-01 15:10:06 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-13&location=Cape Canaveral SFS, FL, USA&dates=20261001T151006Z%2F20261001T151006Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-13** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T180800">2026-10-01 18:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20261001T180800Z%2F20261001T200900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261005T000000">2026-10-05 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SR75 | Flight 2&location=SaxaVord Spaceport&dates=20261005T000000Z%2F20261005T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SR75 | Flight 2** from SaxaVord Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261007T000000">2026-10-07 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 64 Block 2 | Amazon Leo (LE-04)&location=Guiana Space Centre, French Guiana&dates=20261007T000000Z%2F20261007T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 64 Block 2 | Amazon Leo (LE-04)** from Guiana Space Centre, French Guiana.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261007T032300">2026-10-07 03:23:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | NeonSat-2 to 6&location=Naro Space Center, South Korea&dates=20261007T032300Z%2F20261007T042300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Nuri | NeonSat-2 to 6** from Naro Space Center, South Korea.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game/" >🔗</a> **[NASA]** NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game
 - <a href="https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/" >🔗</a> **[Spaceflight Now]** SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch
 - <a href="https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/" >🔗</a> **[NASASpaceflight]** Exolaunch, Space Cargo book Starship Starfall missions
 - <a href="https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/" >🔗</a> **[NASA]** NASA Discovery Reveals Complex Water Systems on Early Mars
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes Two New Members
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist" >🔗</a> **[ESA]** Juice to fly past Earth for third gravity assist
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola" >🔗</a> **[ESA]** ESA x TPCI - Pikachu in the Cupola
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist" >🔗</a> **[ESA]** Juice to fly past Earth for third gravity assist
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola" >🔗</a> **[ESA]** Pikachu in the Cupola
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival/" >🔗</a> **[NASA]** Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/ESA_brings_public_and_private_capital_together_to_accelerate_Europe_s_space_economy" >🔗</a> **[ESA]** ESA brings public and private capital together to accelerate Europe’s space economy
-- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_and_ISRO_extend_and_broaden_cooperation_agreement" >🔗</a> **[ESA]** ESA and ISRO extend and broaden cooperation agreement
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260921T190201">2026-09-21 19:02:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260921T193158">2026-09-21 19:31:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
