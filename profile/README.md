@@ -97,9 +97,9 @@ into *an Unknown
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_and_ISRO_extend_and_broaden_cooperation_agreement" >🔗</a> **[ESA]** ESA and ISRO extend and broaden cooperation agreement
 - <a href="https://europeanspaceflight.com/esa-acknowledges-ariane-6-delays-following-reports-of-turbopump-issue/" >🔗</a> **[European Spaceflight]** ESA Acknowledges Ariane 6 Delays Following Reports of Turbopump Issue
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/" >🔗</a> **[NASA]** APOD: 2026 September 21 – Cocoon Nebula Wide Field
+- <a href="https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/" >🔗</a> **[NASA]** Arctic Melt Season Length Levels Off
 - <a href="https://www.nasaspaceflight.com/2026/09/lro-mcgetchin-crater/" >🔗</a> **[NASASpaceflight]** LRO discovers large new lunar crater, finds interesting thermal emission phenomenon
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-20-26-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 20-26, 2026
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/" >🔗</a> **[NASA]** APOD: 2026 September 20 – Analemma over the Callanish Stones
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260921T140310">2026-09-21 14:03:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260921T143549">2026-09-21 14:35:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
