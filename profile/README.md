@@ -90,8 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola" >🔗</a> **[ESA]** Pikachu in the Cupola
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola" >🔗</a> **[ESA]** ESA x TPCI - Pikachu in the Cupola
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola" >🔗</a> **[ESA]** Pikachu in the Cupola
+- <a href="https://europeanspaceflight.com/esa-acknowledges-ariane-6-delays-following-reports-of-turbopump-issue/" >🔗</a> **[European Spaceflight]** ESA Acknowledges Ariane 6 Delays Following Reports of Turbopump Issue
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/" >🔗</a> **[NASA]** APOD: 2026 September 21 – Cocoon Nebula Wide Field
 - <a href="https://www.nasaspaceflight.com/2026/09/lro-mcgetchin-crater/" >🔗</a> **[NASASpaceflight]** LRO discovers large new lunar crater, finds interesting thermal emission phenomenon
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-20-26-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 20-26, 2026
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2026/09/19/russian-progress-cargo-ship-arrives-at-international-space-station/" >🔗</a> **[Spaceflight Now]** Russian Progress cargo ship arrives at International Space Station
 - <a href="https://spaceflightnow.com/2026/09/19/live-coverage-spacex-to-launch-27-starlink-v2-mini-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink V2 Mini satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://europeanspaceflight.com/dlrs-suborbital-mapheus-17-mission-to-launch-as-early-as-1-october/" >🔗</a> **[European Spaceflight]** DLR’s Suborbital MAPHEUS-17 Mission to Launch as Early as 1 October
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/" >🔗</a> **[NASA]** APOD: 2026 September 19 – A Zodiacal Night
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260921T080355">2026-09-21 08:03:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260921T084240">2026-09-21 08:42:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
