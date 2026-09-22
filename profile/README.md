@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/learning-resources/nasa-astronaut-to-answer-questions-from-new-hampshire-students/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from New Hampshire Students
 - <a href="https://europeanspaceflight.com/saxavord-scrapped-launch-rail-plans-forcing-hyimpulse-to-bring-its-own/" >🔗</a> **[European Spaceflight]** SaxaVord Scrapped Launch Rail Plans, Forcing HyImpulse to Bring Its Own
 - <a href="https://www.esa.int/About_Us/Corporate_news/A_call_to_boost_European_space_exploration" >🔗</a> **[ESA]** A call to boost European space exploration
 - <a href="https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/" >🔗</a> **[NASA]** An Epic View of the Seasons
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/" >🔗</a> **[NASA]** Perseverance’s View of ‘Turquoise Bay’
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game/" >🔗</a> **[NASA]** NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game
 - <a href="https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/" >🔗</a> **[Spaceflight Now]** SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch
-- <a href="https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/" >🔗</a> **[NASASpaceflight]** Exolaunch, Space Cargo book Starship Starfall missions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260922T140259">2026-09-22 14:02:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260922T143603">2026-09-22 14:36:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
