@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Corporate_news/A_call_to_boost_European_space_exploration" >🔗</a> **[ESA]** A call to boost European space exploration
 - <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Albania as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/learning-resources/nasa-kicks-off-nationwide-effort-to-prepare-tomorrows-space-workforce/" >🔗</a> **[NASA]** NASA Kicks Off Nationwide Effort to Prepare Tomorrow’s Space Workforce
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/" >🔗</a> **[NASASpaceflight]** Launch Preview: Electron, Falcon 9, and Starship set for launches
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/" >🔗</a> **[NASASpaceflight]** Exolaunch, Space Cargo book Starship Starfall missions
 - <a href="https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/" >🔗</a> **[NASA]** NASA Discovery Reveals Complex Water Systems on Early Mars
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes Two New Members
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist" >🔗</a> **[ESA]** Juice to fly past Earth for third gravity assist
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260922T120348">2026-09-22 12:03:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260922T124223">2026-09-22 12:42:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
