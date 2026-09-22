@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat/" >🔗</a> **[NASA]** NASA-Funded Research Finds Complex Life Defying Record Heat
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/" >🔗</a> **[NASA]** NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy
 - <a href="https://www.nasa.gov/learning-resources/nasa-astronaut-to-answer-questions-from-new-hampshire-students/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from New Hampshire Students
 - <a href="https://europeanspaceflight.com/saxavord-scrapped-launch-rail-plans-forcing-hyimpulse-to-bring-its-own/" >🔗</a> **[European Spaceflight]** SaxaVord Scrapped Launch Rail Plans, Forcing HyImpulse to Bring Its Own
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/learning-resources/nasa-kicks-off-nationwide-effort-to-prepare-tomorrows-space-workforce/" >🔗</a> **[NASA]** NASA Kicks Off Nationwide Effort to Prepare Tomorrow’s Space Workforce
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/" >🔗</a> **[NASASpaceflight]** Launch Preview: Electron, Falcon 9, and Starship set for launches
 - <a href="https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/" >🔗</a> **[NASA]** Perseverance’s View of ‘Turquoise Bay’
-- <a href="https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game/" >🔗</a> **[NASA]** NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260922T173126">2026-09-22 17:31:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260922T180322">2026-09-22 18:03:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
