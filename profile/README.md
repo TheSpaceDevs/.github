@@ -90,7 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/saxavord-scrapped-launch-rail-plans-forcing-hyimpulse-to-bring-its-own/" >🔗</a> **[European Spaceflight]** SaxaVord Scrapped Launch Rail Plans, Forcing HyImpulse to Bring Its Own
 - <a href="https://www.esa.int/About_Us/Corporate_news/A_call_to_boost_European_space_exploration" >🔗</a> **[ESA]** A call to boost European space exploration
+- <a href="https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/" >🔗</a> **[NASA]** An Epic View of the Seasons
 - <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Albania as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/learning-resources/nasa-kicks-off-nationwide-effort-to-prepare-tomorrows-space-workforce/" >🔗</a> **[NASA]** NASA Kicks Off Nationwide Effort to Prepare Tomorrow’s Space Workforce
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/" >🔗</a> **[NASASpaceflight]** Launch Preview: Electron, Falcon 9, and Starship set for launches
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game/" >🔗</a> **[NASA]** NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game
 - <a href="https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/" >🔗</a> **[Spaceflight Now]** SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch
 - <a href="https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/" >🔗</a> **[NASASpaceflight]** Exolaunch, Space Cargo book Starship Starfall missions
-- <a href="https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/" >🔗</a> **[NASA]** NASA Discovery Reveals Complex Water Systems on Early Mars
-- <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes Two New Members
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260922T130254">2026-09-22 13:02:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260922T133425">2026-09-22 13:34:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
