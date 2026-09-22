@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/" >🔗</a> **[NASA]** NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy
 - <a href="https://www.nasa.gov/learning-resources/nasa-astronaut-to-answer-questions-from-new-hampshire-students/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from New Hampshire Students
 - <a href="https://europeanspaceflight.com/saxavord-scrapped-launch-rail-plans-forcing-hyimpulse-to-bring-its-own/" >🔗</a> **[European Spaceflight]** SaxaVord Scrapped Launch Rail Plans, Forcing HyImpulse to Bring Its Own
 - <a href="https://www.esa.int/About_Us/Corporate_news/A_call_to_boost_European_space_exploration" >🔗</a> **[ESA]** A call to boost European space exploration
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/" >🔗</a> **[NASASpaceflight]** Launch Preview: Electron, Falcon 9, and Starship set for launches
 - <a href="https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/" >🔗</a> **[NASA]** Perseverance’s View of ‘Turquoise Bay’
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game/" >🔗</a> **[NASA]** NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game
-- <a href="https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/" >🔗</a> **[Spaceflight Now]** SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260922T160248">2026-09-22 16:02:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260922T163540">2026-09-22 16:35:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
