@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/" >🔗</a> **[NASA]** Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications
 - <a href="https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat/" >🔗</a> **[NASA]** NASA-Funded Research Finds Complex Life Defying Record Heat
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/" >🔗</a> **[NASA]** NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy
 - <a href="https://www.nasa.gov/learning-resources/nasa-astronaut-to-answer-questions-from-new-hampshire-students/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from New Hampshire Students
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Albania as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/learning-resources/nasa-kicks-off-nationwide-effort-to-prepare-tomorrows-space-workforce/" >🔗</a> **[NASA]** NASA Kicks Off Nationwide Effort to Prepare Tomorrow’s Space Workforce
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/" >🔗</a> **[NASASpaceflight]** Launch Preview: Electron, Falcon 9, and Starship set for launches
-- <a href="https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/" >🔗</a> **[NASA]** Perseverance’s View of ‘Turquoise Bay’
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260922T190211">2026-09-22 19:02:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260922T193108">2026-09-22 19:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
