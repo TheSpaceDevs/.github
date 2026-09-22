@@ -104,12 +104,13 @@ into *an Unknown
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/" >🔗</a> **[NASASpaceflight]** Launch Preview: Electron, Falcon 9, and Starship set for launches
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Soyuz, CZ-8A, and Falcon 9 to launch from sites around the world
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260922T060450">2026-09-22 06:04:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260922T064803">2026-09-22 06:48:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
