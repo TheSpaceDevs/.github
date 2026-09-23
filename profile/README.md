@@ -95,8 +95,8 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/09/ship-41-pad-2-two-tiles-ship-40/" >🔗</a> **[NASASpaceflight]** Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5010-5015: Checking out the Bands
 - <a href="https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/" >🔗</a> **[NASA]** Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications
-- <a href="https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/" >🔗</a> **[NASA]** NASA-Funded Research Finds Complex Life Defying Record Heat
 - <a href="https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat/" >🔗</a> **[NASA]** NASA-Funded Research Finds Complex Life Defying Record Heat
+- <a href="https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/" >🔗</a> **[NASA]** NASA-Funded Research Finds Complex Life Defying Record Heat
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/" >🔗</a> **[NASA]** NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy
 - <a href="https://www.nasa.gov/learning-resources/nasa-astronaut-to-answer-questions-from-new-hampshire-students/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from New Hampshire Students
 - <a href="https://europeanspaceflight.com/saxavord-scrapped-launch-rail-plans-forcing-hyimpulse-to-bring-its-own/" >🔗</a> **[European Spaceflight]** SaxaVord Scrapped Launch Rail Plans, Forcing HyImpulse to Bring Its Own
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260923T060444">2026-09-23 06:04:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260923T064836">2026-09-23 06:48:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
