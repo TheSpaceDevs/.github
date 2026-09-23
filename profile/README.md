@@ -90,7 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/" >🔗</a> **[NASA]** Shannon Lucid’s Record-Setting Mission Aboard Mir
 - <a href="https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/" >🔗</a> **[SpaceNews]** Ethereal Space Awarded NOAA SBEM Task Order 1
+- <a href="https://science.nasa.gov/earth/ffa-2026-hyperwall-schedule/" >🔗</a> **[NASA]** FFA 2026 Hyperwall Schedule
 - <a href="https://www.nasa.gov/general/risk-of-hydrazine-use-following-freeze-thaw-exposure/" >🔗</a> **[NASA]** Risk of Hydrazine Use Following Freeze–Thaw Exposure
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/" >🔗</a> **[NASA]** NASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Space_explorers_in_the_land_of_volcanoes" >🔗</a> **[ESA]** Space explorers in the land of volcanoes
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/" >🔗</a> **[Arstechnica]** There are now 17,000 satellites in orbit—and growing. Should we be concerned?
 - <a href="https://www.esa.int/Space_Safety/Hera/A_hitchhiker_s_guide_to_Hera_s_target_asteroids" >🔗</a> **[ESA]** A hitchhiker’s guide to Hera’s target asteroids
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Rocket_Factory_Augsburg_Boost!_extension_in_run-up_to_first_launch" >🔗</a> **[ESA]** Rocket Factory Augsburg ‘Boost!’ extension in run-up to first launch
-- <a href="https://europeanspaceflight.com/italy-to-spend-over-5-billion-to-send-two-astronauts-to-the-moon/" >🔗</a> **[European Spaceflight]** Italy to Spend Over $5 Billion to Send Two Astronauts to the Moon
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/" >🔗</a> **[NASA]** APOD: 2026 September 23 – A New Lunar Crater: McGetchin
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260923T160310">2026-09-23 16:03:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260923T163627">2026-09-23 16:36:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
