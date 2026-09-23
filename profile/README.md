@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/First_switch_on_for_ESA-JAXA_Ramses_asteroid_mission" >🔗</a> **[ESA]** First switch on for ESA-JAXA Ramses asteroid mission
+- <a href="https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/" >🔗</a> **[Arstechnica]** There are now 17,000 satellites in orbit—and growing. Should we be concerned?
 - <a href="https://www.esa.int/Space_Safety/Hera/A_hitchhiker_s_guide_to_Hera_s_target_asteroids" >🔗</a> **[ESA]** A hitchhiker’s guide to Hera’s target asteroids
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Rocket_Factory_Augsburg_Boost!_extension_in_run-up_to_first_launch" >🔗</a> **[ESA]** Rocket Factory Augsburg ‘Boost!’ extension in run-up to first launch
 - <a href="https://europeanspaceflight.com/italy-to-spend-over-5-billion-to-send-two-astronauts-to-the-moon/" >🔗</a> **[European Spaceflight]** Italy to Spend Over $5 Billion to Send Two Astronauts to the Moon
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/09/ship-41-pad-2-two-tiles-ship-40/" >🔗</a> **[NASASpaceflight]** Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5010-5015: Checking out the Bands
 - <a href="https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/" >🔗</a> **[NASA]** Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications
-- <a href="https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat/" >🔗</a> **[NASA]** NASA-Funded Research Finds Complex Life Defying Record Heat
-- <a href="https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/" >🔗</a> **[NASA]** NASA-Funded Research Finds Complex Life Defying Record Heat
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260923T110237">2026-09-23 11:02:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260923T113258">2026-09-23 11:32:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
