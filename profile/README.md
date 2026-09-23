@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/" >🔗</a> **[NASA]** NASA Selects Far-Infrared Telescope as First in New Mission Class
 - <a href="https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/" >🔗</a> **[NASA]** NASA Aircraft to Make Low-Altitude Research Flights Over Colorado
 - <a href="https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/" >🔗</a> **[NASA]** NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova
 - <a href="https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/" >🔗</a> **[NASA]** Arctic Sea Ice Reaches 2026 Annual Minimum Extent
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/earth/ffa-2026-hyperwall-schedule/" >🔗</a> **[NASA]** FFA 2026 Hyperwall Schedule
 - <a href="https://www.nasa.gov/general/risk-of-hydrazine-use-following-freeze-thaw-exposure/" >🔗</a> **[NASA]** Risk of Hydrazine Use Following Freeze–Thaw Exposure
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/" >🔗</a> **[NASA]** NASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Space_explorers_in_the_land_of_volcanoes" >🔗</a> **[ESA]** Space explorers in the land of volcanoes
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260923T200309">2026-09-23 20:03:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260923T203344">2026-09-23 20:33:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
