@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/" >🔗</a> **[NASA]** NASA Aircraft to Make Low-Altitude Research Flights Over Colorado
+- <a href="https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/" >🔗</a> **[NASA]** NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova
 - <a href="https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/" >🔗</a> **[NASA]** Arctic Sea Ice Reaches 2026 Annual Minimum Extent
 - <a href="https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/" >🔗</a> **[Arstechnica]** Former NASA chief sounds alarm on China's lunar "exploration" plans
 - <a href="https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/" >🔗</a> **[NASA]** Shannon Lucid’s Record-Setting Mission Aboard Mir
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/risk-of-hydrazine-use-following-freeze-thaw-exposure/" >🔗</a> **[NASA]** Risk of Hydrazine Use Following Freeze–Thaw Exposure
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/" >🔗</a> **[NASA]** NASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Space_explorers_in_the_land_of_volcanoes" >🔗</a> **[ESA]** Space explorers in the land of volcanoes
-- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/First_switch_on_for_ESA-JAXA_Ramses_asteroid_mission" >🔗</a> **[ESA]** First switch on for ESA-JAXA Ramses asteroid mission
-- <a href="https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/" >🔗</a> **[Arstechnica]** There are now 17,000 satellites in orbit—and growing. Should we be concerned?
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260923T190221">2026-09-23 19:02:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260923T193155">2026-09-23 19:31:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
