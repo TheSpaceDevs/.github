@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/" >🔗</a> **[NASASpaceflight]** Ship 41 and Booster 21 head into key pre-flight test
+- <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Croatia as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/" >🔗</a> **[NASA]** NASA Selects Far-Infrared Telescope as First in New Mission Class
 - <a href="https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/" >🔗</a> **[NASA]** NASA Aircraft to Make Low-Altitude Research Flights Over Colorado
 - <a href="https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/" >🔗</a> **[NASA]** NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/" >🔗</a> **[NASA]** Shannon Lucid’s Record-Setting Mission Aboard Mir
 - <a href="https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/" >🔗</a> **[SpaceNews]** Ethereal Space Awarded NOAA SBEM Task Order 1
 - <a href="https://science.nasa.gov/earth/ffa-2026-hyperwall-schedule/" >🔗</a> **[NASA]** FFA 2026 Hyperwall Schedule
-- <a href="https://www.nasa.gov/general/risk-of-hydrazine-use-following-freeze-thaw-exposure/" >🔗</a> **[NASA]** Risk of Hydrazine Use Following Freeze–Thaw Exposure
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/" >🔗</a> **[NASA]** NASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260923T210254">2026-09-23 21:02:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260923T213134">2026-09-23 21:31:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
