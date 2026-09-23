@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Space_Safety/Hera/A_hitchhiker_s_guide_to_Hera_s_target_asteroids" >🔗</a> **[ESA]** A hitchhiker’s guide to Hera’s target asteroids
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Rocket_Factory_Augsburg_Boost!_extension_in_run-up_to_first_launch" >🔗</a> **[ESA]** Rocket Factory Augsburg ‘Boost!’ extension in run-up to first launch
 - <a href="https://europeanspaceflight.com/italy-to-spend-over-5-billion-to-send-two-astronauts-to-the-moon/" >🔗</a> **[European Spaceflight]** Italy to Spend Over $5 Billion to Send Two Astronauts to the Moon
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/" >🔗</a> **[NASA]** APOD: 2026 September 23 – A New Lunar Crater: McGetchin
 - <a href="https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/" >🔗</a> **[NASA]** Boom Year for Desert Blooms
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/" >🔗</a> **[NASA]** Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications
 - <a href="https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat/" >🔗</a> **[NASA]** NASA-Funded Research Finds Complex Life Defying Record Heat
 - <a href="https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/" >🔗</a> **[NASA]** NASA-Funded Research Finds Complex Life Defying Record Heat
-- <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/" >🔗</a> **[NASA]** NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy
-- <a href="https://www.nasa.gov/learning-resources/nasa-astronaut-to-answer-questions-from-new-hampshire-students/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from New Hampshire Students
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260923T080339">2026-09-23 08:03:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260923T083934">2026-09-23 08:39:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
