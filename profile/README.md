@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/" >🔗</a> **[NASA]** APOD: 2026 September 23 – A New Lunar Crater: McGetchin
+- <a href="https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/" >🔗</a> **[NASA]** Boom Year for Desert Blooms
 - <a href="https://www.nasaspaceflight.com/2026/09/ship-41-pad-2-two-tiles-ship-40/" >🔗</a> **[NASASpaceflight]** Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5010-5015: Checking out the Bands
 - <a href="https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/" >🔗</a> **[NASA]** Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/" >🔗</a> **[NASA]** NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy
 - <a href="https://www.nasa.gov/learning-resources/nasa-astronaut-to-answer-questions-from-new-hampshire-students/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from New Hampshire Students
 - <a href="https://europeanspaceflight.com/saxavord-scrapped-launch-rail-plans-forcing-hyimpulse-to-bring-its-own/" >🔗</a> **[European Spaceflight]** SaxaVord Scrapped Launch Rail Plans, Forcing HyImpulse to Bring Its Own
-- <a href="https://www.esa.int/About_Us/Corporate_news/A_call_to_boost_European_space_exploration" >🔗</a> **[ESA]** A call to boost European space exploration
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-22-chance-triple-alignment-plane-space-station-sun/" >🔗</a> **[NASA]** APOD: 2026 September 22 – Chance Triple Alignment: Plane, Space Station, Sun
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260923T050252">2026-09-23 05:02:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260923T053437">2026-09-23 05:34:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
