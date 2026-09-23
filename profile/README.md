@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/" >🔗</a> **[NASA]** NASA Modernizes Commercial Airline Systems
 - <a href="https://spaceflightnow.com/2026/09/23/spacex-stack-starship-and-super-heavy-for-first-orbital-flight/" >🔗</a> **[Spaceflight Now]** SpaceX stack Starship and Super Heavy for first orbital flight
 - <a href="https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/" >🔗</a> **[NASASpaceflight]** Ship 41 and Booster 21 head into key pre-flight test
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Croatia as Newest Artemis Accords Signatory
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/" >🔗</a> **[NASA]** Arctic Sea Ice Reaches 2026 Annual Minimum Extent
 - <a href="https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/" >🔗</a> **[Arstechnica]** Former NASA chief sounds alarm on China's lunar "exploration" plans
 - <a href="https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/" >🔗</a> **[NASA]** Shannon Lucid’s Record-Setting Mission Aboard Mir
-- <a href="https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/" >🔗</a> **[SpaceNews]** Ethereal Space Awarded NOAA SBEM Task Order 1
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260923T223118">2026-09-23 22:31:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260923T230207">2026-09-23 23:02:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
