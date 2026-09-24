@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Business_with_ESA/Record_participation_in_ESA_s_Industry_Space_Days_2026" >🔗</a> **[ESA]** Record participation in ESA’s Industry Space Days 2026
 - <a href="https://europeanspaceflight.com/esa-awards-rfa-e2-7-million-in-new-funding-for-saxavord-operations/" >🔗</a> **[European Spaceflight]** ESA Awards RFA €2.7 Million in New Funding for SaxaVord Operations
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/" >🔗</a> **[NASA]** APOD: 2026 September 24 – The Ghosts of Five Supernovas
 - <a href="https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/" >🔗</a> **[NASA]** Cloudy Cloak Over the Northwest
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/" >🔗</a> **[NASASpaceflight]** Ship 41 and Booster 21 head into key pre-flight test
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Croatia as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/" >🔗</a> **[NASA]** NASA Selects Far-Infrared Telescope as First in New Mission Class
-- <a href="https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/" >🔗</a> **[NASA]** NASA Aircraft to Make Low-Altitude Research Flights Over Colorado
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260924T070534">2026-09-24 07:05:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260924T073646">2026-09-24 07:36:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
