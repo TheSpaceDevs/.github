@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory
+- <a href="https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares SpaceX Crew-14 Assignments for Space Station Mission
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/" >🔗</a> **[NASA]** NASA Unveils Winning Designs for Mars Space Food Systems Challenge
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/" >🔗</a> **[NASA]** NASA’s Machines for Mars Make Beer Bubbly
 - <a href="https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/" >🔗</a> **[NASA]** Practicing for Safe Landings on the Moon and Beyond
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/" >🔗</a> **[SpaceNews]** Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production
 - <a href="https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/" >🔗</a> **[Arstechnica]** NASA chief concerned China may deny access to parts of South Pole
 - <a href="https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/" >🔗</a> **[NASA]** NASA to Study Human Health, Performance During Crew-13 Mission
-- <a href="https://europeanspaceflight.com/european-lunar-rover-secures-spot-aboard-blue-origin-blue-moon-mission/" >🔗</a> **[European Spaceflight]** European Lunar Rover Secures Spot Aboard Blue Origin Blue Moon Mission
-- <a href="https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/" >🔗</a> **[NASASpaceflight]** Starfish Space’s first Otter servicing vehicle slated for Transporter-18
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260924T210300">2026-09-24 21:03:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260924T213125">2026-09-24 21:31:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
