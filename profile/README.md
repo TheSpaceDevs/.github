@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/" >🔗</a> **[NASA]** Practicing for Safe Landings on the Moon and Beyond
+- <a href="https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/" >🔗</a> **[SpaceNews]** True or false on space industry trends with Pacôme Révillon
+- <a href="https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/" >🔗</a> **[NASA]** US-India Satellite Captures Time-lapse Video of Volcanic Eruption
 - <a href="https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/" >🔗</a> **[SpaceNews]** Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production
 - <a href="https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/" >🔗</a> **[Arstechnica]** NASA chief concerned China may deny access to parts of South Pole
 - <a href="https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/" >🔗</a> **[NASA]** NASA to Study Human Health, Performance During Crew-13 Mission
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/" >🔗</a> **[NASASpaceflight]** Starfish Space’s first Otter servicing vehicle slated for Transporter-18
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury" >🔗</a> **[ESA]** Win a trip to ESA to witness BepiColombo arrive at Mercury
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/New_tests_for_rendezvous_and_docking_interoperability" >🔗</a> **[ESA]** New tests for rendezvous and docking interoperability
-- <a href="https://www.esa.int/About_Us/Business_with_ESA/Record_participation_in_ESA_s_Industry_Space_Days_2026" >🔗</a> **[ESA]** Record participation in ESA’s Industry Space Days 2026
-- <a href="https://europeanspaceflight.com/esa-awards-rfa-e2-7-million-in-new-funding-for-saxavord-operations/" >🔗</a> **[European Spaceflight]** ESA Awards RFA €2.7 Million in New Funding for SaxaVord Operations
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/" >🔗</a> **[NASA]** APOD: 2026 September 24 – The Ghosts of Five Supernovas
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260924T160256">2026-09-24 16:02:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260924T163544">2026-09-24 16:35:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
