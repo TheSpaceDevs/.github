@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/" >🔗</a> **[NASASpaceflight]** Starfish Space’s first Otter servicing vehicle slated for Transporter-18
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/New_tests_for_rendezvous_and_docking_interoperability" >🔗</a> **[ESA]** New tests for rendezvous and docking interoperability
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Record_participation_in_ESA_s_Industry_Space_Days_2026" >🔗</a> **[ESA]** Record participation in ESA’s Industry Space Days 2026
 - <a href="https://europeanspaceflight.com/esa-awards-rfa-e2-7-million-in-new-funding-for-saxavord-operations/" >🔗</a> **[European Spaceflight]** ESA Awards RFA €2.7 Million in New Funding for SaxaVord Operations
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/" >🔗</a> **[NASA]** APOD: 2026 September 24 – The Ghosts of Five Supernovas
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/" >🔗</a> **[NASA]** NASA Modernizes Commercial Airline Systems
 - <a href="https://spaceflightnow.com/2026/09/23/spacex-stack-starship-and-super-heavy-for-first-orbital-flight/" >🔗</a> **[Spaceflight Now]** SpaceX stack Starship and Super Heavy for first orbital flight
 - <a href="https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/" >🔗</a> **[NASASpaceflight]** Ship 41 and Booster 21 head into key pre-flight test
-- <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Croatia as Newest Artemis Accords Signatory
-- <a href="https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/" >🔗</a> **[NASA]** NASA Selects Far-Infrared Telescope as First in New Mission Class
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260924T130244">2026-09-24 13:02:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260924T133514">2026-09-24 13:35:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
