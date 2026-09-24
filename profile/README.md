@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/" >🔗</a> **[SpaceNews]** Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production
+- <a href="https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/" >🔗</a> **[Arstechnica]** NASA chief concerned China may deny access to parts of South Pole
 - <a href="https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/" >🔗</a> **[NASA]** NASA to Study Human Health, Performance During Crew-13 Mission
 - <a href="https://europeanspaceflight.com/european-lunar-rover-secures-spot-aboard-blue-origin-blue-moon-mission/" >🔗</a> **[European Spaceflight]** European Lunar Rover Secures Spot Aboard Blue Origin Blue Moon Mission
 - <a href="https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/" >🔗</a> **[NASASpaceflight]** Starfish Space’s first Otter servicing vehicle slated for Transporter-18
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/New_tests_for_rendezvous_and_docking_interoperability" >🔗</a> **[ESA]** New tests for rendezvous and docking interoperability
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury" >🔗</a> **[ESA]** Win a trip to ESA to witness BepiColombo arrive at Mercury
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/New_tests_for_rendezvous_and_docking_interoperability" >🔗</a> **[ESA]** New tests for rendezvous and docking interoperability
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Record_participation_in_ESA_s_Industry_Space_Days_2026" >🔗</a> **[ESA]** Record participation in ESA’s Industry Space Days 2026
 - <a href="https://europeanspaceflight.com/esa-awards-rfa-e2-7-million-in-new-funding-for-saxavord-operations/" >🔗</a> **[European Spaceflight]** ESA Awards RFA €2.7 Million in New Funding for SaxaVord Operations
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/" >🔗</a> **[NASA]** APOD: 2026 September 24 – The Ghosts of Five Supernovas
-- <a href="https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/" >🔗</a> **[NASA]** Cloudy Cloak Over the Northwest
-- <a href="https://spacepolicyonline.com/news/swift-rescue-mission-may-not-have-succeeded-but-no-regrets/" >🔗</a> **[SpacePolicyOnline.com]** Swift Rescue Mission May Not Have Succeeded, But No Regrets
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260924T150251">2026-09-24 15:02:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260924T153434">2026-09-24 15:34:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
