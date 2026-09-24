@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-awards-rfa-e2-7-million-in-new-funding-for-saxavord-operations/" >🔗</a> **[European Spaceflight]** ESA Awards RFA €2.7 Million in New Funding for SaxaVord Operations
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/" >🔗</a> **[NASA]** APOD: 2026 September 24 – The Ghosts of Five Supernovas
 - <a href="https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/" >🔗</a> **[NASA]** Cloudy Cloak Over the Northwest
 - <a href="https://spacepolicyonline.com/news/swift-rescue-mission-may-not-have-succeeded-but-no-regrets/" >🔗</a> **[SpacePolicyOnline.com]** Swift Rescue Mission May Not Have Succeeded, But No Regrets
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Croatia as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/" >🔗</a> **[NASA]** NASA Selects Far-Infrared Telescope as First in New Mission Class
 - <a href="https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/" >🔗</a> **[NASA]** NASA Aircraft to Make Low-Altitude Research Flights Over Colorado
-- <a href="https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/" >🔗</a> **[NASA]** NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260924T060438">2026-09-24 06:04:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260924T064841">2026-09-24 06:48:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
