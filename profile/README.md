@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/" >🔗</a> **[NASA]** APOD: 2026 September 24 – The Ghosts of Five Supernovas
+- <a href="https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/" >🔗</a> **[NASA]** Cloudy Cloak Over the Northwest
 - <a href="https://spacepolicyonline.com/news/swift-rescue-mission-may-not-have-succeeded-but-no-regrets/" >🔗</a> **[SpacePolicyOnline.com]** Swift Rescue Mission May Not Have Succeeded, But No Regrets
 - <a href="https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/" >🔗</a> **[NASA]** NASA Modernizes Commercial Airline Systems
 - <a href="https://spaceflightnow.com/2026/09/23/spacex-stack-starship-and-super-heavy-for-first-orbital-flight/" >🔗</a> **[Spaceflight Now]** SpaceX stack Starship and Super Heavy for first orbital flight
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/" >🔗</a> **[NASA]** NASA Selects Far-Infrared Telescope as First in New Mission Class
 - <a href="https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/" >🔗</a> **[NASA]** NASA Aircraft to Make Low-Altitude Research Flights Over Colorado
 - <a href="https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/" >🔗</a> **[NASA]** NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova
-- <a href="https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/" >🔗</a> **[NASA]** Arctic Sea Ice Reaches 2026 Annual Minimum Extent
-- <a href="https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/" >🔗</a> **[Arstechnica]** Former NASA chief sounds alarm on China's lunar "exploration" plans
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260924T050244">2026-09-24 05:02:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260924T053441">2026-09-24 05:34:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
