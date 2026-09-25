@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/09/24/nasa-announces-new-space-telescope-prima-to-launch-in-2033/" >🔗</a> **[Spaceflight Now]** NASA announces new space telescope ‘PRIMA’ to launch in 2033
 - <a href="https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/" >🔗</a> **[NASASpaceflight]** Expedition 75 astronauts continue science work as Crew-13 readies for launch
 - <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares SpaceX Crew-14 Assignments for Space Station Mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/" >🔗</a> **[SpaceNews]** True or false on space industry trends with Pacôme Révillon
 - <a href="https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/" >🔗</a> **[NASA]** US-India Satellite Captures Time-lapse Video of Volcanic Eruption
 - <a href="https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/" >🔗</a> **[SpaceNews]** Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production
-- <a href="https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/" >🔗</a> **[Arstechnica]** NASA chief concerned China may deny access to parts of South Pole
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260924T233115">2026-09-24 23:31:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260925T000732">2026-09-25 00:07:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
