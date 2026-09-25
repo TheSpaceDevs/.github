@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/" >🔗</a> **[NASA]** APOD: 2026 September 25 – Globular Star Cluster Omega Centauri
+- <a href="https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/" >🔗</a> **[NASA]** Explosive Intensification for Hurricane Polo
 - <a href="https://spaceflightnow.com/2026/09/24/nasa-announces-new-space-telescope-prima-to-launch-in-2033/" >🔗</a> **[Spaceflight Now]** NASA announces new space telescope ‘PRIMA’ to launch in 2033
 - <a href="https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/" >🔗</a> **[NASASpaceflight]** Expedition 75 astronauts continue science work as Crew-13 readies for launch
 - <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/" >🔗</a> **[NASA]** NASA’s Machines for Mars Make Beer Bubbly
 - <a href="https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/" >🔗</a> **[NASA]** Practicing for Safe Landings on the Moon and Beyond
 - <a href="https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/" >🔗</a> **[SpaceNews]** True or false on space industry trends with Pacôme Révillon
-- <a href="https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/" >🔗</a> **[NASA]** US-India Satellite Captures Time-lapse Video of Volcanic Eruption
-- <a href="https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/" >🔗</a> **[SpaceNews]** Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260925T050245">2026-09-25 05:02:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260925T053512">2026-09-25 05:35:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
