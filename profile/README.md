@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_Sep_2026" >🔗</a> **[ESA]** Week in images: 21-25 Sep 2026
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Three_Earth_Explorer_candidates_go_forward" >🔗</a> **[ESA]** Three Earth Explorer candidates go forward
 - <a href="https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/" >🔗</a> **[Arstechnica]** Rocket Report: Era of cheap launch is over? Astra sets early 2027. target for return
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition" >🔗</a> **[ESA]** ESA and the EU partner with Museo Galileo on new exhibition
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/" >🔗</a> **[NASA]** APOD: 2026 September 25 – Globular Star Cluster Omega Centauri
 - <a href="https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/" >🔗</a> **[NASA]** Explosive Intensification for Hurricane Polo
 - <a href="https://spaceflightnow.com/2026/09/24/nasa-announces-new-space-telescope-prima-to-launch-in-2033/" >🔗</a> **[Spaceflight Now]** NASA announces new space telescope ‘PRIMA’ to launch in 2033
-- <a href="https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/" >🔗</a> **[NASASpaceflight]** Expedition 75 astronauts continue science work as Crew-13 readies for launch
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260925T130302">2026-09-25 13:03:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260925T133429">2026-09-25 13:34:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
