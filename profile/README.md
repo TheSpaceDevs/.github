@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Venetian_Lagoon" >🔗</a> **[ESA]** Earth from Space: Venetian Lagoon
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/MIRROR_robot_reflects_future_of_in-orbit_assembly" >🔗</a> **[ESA]** MIRROR robot reflects future of in-orbit assembly
 - <a href="https://europeanspaceflight.com/callisto-reusable-rocket-demonstrator-takes-shape-ahead-of-2027-hop-test/" >🔗</a> **[European Spaceflight]** Callisto Reusable Rocket Demonstrator Takes Shape Ahead of 2027 Hop Test
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/" >🔗</a> **[NASA]** APOD: 2026 September 25 – Globular Star Cluster Omega Centauri
 - <a href="https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/" >🔗</a> **[NASA]** Explosive Intensification for Hurricane Polo
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares SpaceX Crew-14 Assignments for Space Station Mission
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/" >🔗</a> **[NASA]** NASA Unveils Winning Designs for Mars Space Food Systems Challenge
-- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/" >🔗</a> **[NASA]** NASA’s Machines for Mars Make Beer Bubbly
-- <a href="https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/" >🔗</a> **[NASA]** Practicing for Safe Landings on the Moon and Beyond
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260925T080348">2026-09-25 08:03:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260925T084037">2026-09-25 08:40:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
