@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/" >🔗</a> **[NASA]** TB 26-07 Aluminum Alloy 2219 Material Guidance
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_Sep_2026" >🔗</a> **[ESA]** Week in images: 21-25 Sep 2026
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Three_Earth_Explorer_candidates_go_forward" >🔗</a> **[ESA]** Three Earth Explorer candidates go forward
 - <a href="https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/" >🔗</a> **[Arstechnica]** Rocket Report: Era of cheap launch is over? Astra sets early 2027. target for return
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/callisto-reusable-rocket-demonstrator-takes-shape-ahead-of-2027-hop-test/" >🔗</a> **[European Spaceflight]** Callisto Reusable Rocket Demonstrator Takes Shape Ahead of 2027 Hop Test
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/" >🔗</a> **[NASA]** APOD: 2026 September 25 – Globular Star Cluster Omega Centauri
 - <a href="https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/" >🔗</a> **[NASA]** Explosive Intensification for Hurricane Polo
-- <a href="https://spaceflightnow.com/2026/09/24/nasa-announces-new-space-telescope-prima-to-launch-in-2033/" >🔗</a> **[Spaceflight Now]** NASA announces new space telescope ‘PRIMA’ to launch in 2033
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260925T150246">2026-09-25 15:02:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260925T153403">2026-09-25 15:34:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
