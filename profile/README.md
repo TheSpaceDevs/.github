@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/" >🔗</a> **[Arstechnica]** Rocket Report: Era of cheap launch is over? Astra sets early 2027. target for return
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition" >🔗</a> **[ESA]** ESA and the EU partner with Museo Galileo on new exhibition
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Venetian_Lagoon" >🔗</a> **[ESA]** Earth from Space: Venetian Lagoon
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/MIRROR_robot_reflects_future_of_in-orbit_assembly" >🔗</a> **[ESA]** MIRROR robot reflects future of in-orbit assembly
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/09/24/nasa-announces-new-space-telescope-prima-to-launch-in-2033/" >🔗</a> **[Spaceflight Now]** NASA announces new space telescope ‘PRIMA’ to launch in 2033
 - <a href="https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/" >🔗</a> **[NASASpaceflight]** Expedition 75 astronauts continue science work as Crew-13 readies for launch
 - <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory
-- <a href="https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares SpaceX Crew-14 Assignments for Space Station Mission
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260925T110229">2026-09-25 11:02:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260925T113336">2026-09-25 11:33:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
