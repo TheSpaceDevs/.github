@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition" >🔗</a> **[ESA]** ESA and the EU partner with Museo Galileo on new exhibition
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Venetian_Lagoon" >🔗</a> **[ESA]** Earth from Space: Venetian Lagoon
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/MIRROR_robot_reflects_future_of_in-orbit_assembly" >🔗</a> **[ESA]** MIRROR robot reflects future of in-orbit assembly
 - <a href="https://europeanspaceflight.com/callisto-reusable-rocket-demonstrator-takes-shape-ahead-of-2027-hop-test/" >🔗</a> **[European Spaceflight]** Callisto Reusable Rocket Demonstrator Takes Shape Ahead of 2027 Hop Test
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/" >🔗</a> **[NASASpaceflight]** Expedition 75 astronauts continue science work as Crew-13 readies for launch
 - <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares SpaceX Crew-14 Assignments for Space Station Mission
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/" >🔗</a> **[NASA]** NASA Unveils Winning Designs for Mars Space Food Systems Challenge
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260925T090306">2026-09-25 09:03:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260925T093603">2026-09-25 09:36:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
