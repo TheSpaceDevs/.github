@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/" >🔗</a> **[NASA]** NASA Welcomes San Marino Signing the Artemis Accords
+- <a href="https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/" >🔗</a> **[NASA]** NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch
 - <a href="https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/" >🔗</a> **[NASA]** 2026-2027 DWU: Middle School Design Challenge
 - <a href="https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/" >🔗</a> **[NASA]** 2026-2027 DWU: High School Engineering Challenge
 - <a href="https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/" >🔗</a> **[NASA]** Hubble Spots Chaotic Secret in Galaxy
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_Sep_2026" >🔗</a> **[ESA]** Week in images: 21-25 Sep 2026
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Three_Earth_Explorer_candidates_go_forward" >🔗</a> **[ESA]** Three Earth Explorer candidates go forward
 - <a href="https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/" >🔗</a> **[Arstechnica]** Rocket Report: Era of cheap launch is over? Astra sets early 2027. target for return
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition" >🔗</a> **[ESA]** ESA and the EU partner with Museo Galileo on new exhibition
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Venetian_Lagoon" >🔗</a> **[ESA]** Earth from Space: Venetian Lagoon
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260925T193106">2026-09-25 19:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260925T200223">2026-09-25 20:02:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
