@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/" >🔗</a> **[NASA]** 2026-2027 DWU: Middle School Design Challenge
+- <a href="https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/" >🔗</a> **[NASA]** 2026-2027 DWU: High School Engineering Challenge
 - <a href="https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/" >🔗</a> **[NASA]** Hubble Spots Chaotic Secret in Galaxy
 - <a href="https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/" >🔗</a> **[Arstechnica]** After seven years, a spacecraft company is releasing its Otters into the wild
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/" >🔗</a> **[NASA]** TB 26-07 Aluminum Alloy 2219 Material Guidance
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/" >🔗</a> **[Arstechnica]** Rocket Report: Era of cheap launch is over? Astra sets early 2027. target for return
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition" >🔗</a> **[ESA]** ESA and the EU partner with Museo Galileo on new exhibition
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Venetian_Lagoon" >🔗</a> **[ESA]** Earth from Space: Venetian Lagoon
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/MIRROR_robot_reflects_future_of_in-orbit_assembly" >🔗</a> **[ESA]** MIRROR robot reflects future of in-orbit assembly
-- <a href="https://europeanspaceflight.com/callisto-reusable-rocket-demonstrator-takes-shape-ahead-of-2027-hop-test/" >🔗</a> **[European Spaceflight]** Callisto Reusable Rocket Demonstrator Takes Shape Ahead of 2027 Hop Test
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260925T170205">2026-09-25 17:02:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260925T173246">2026-09-25 17:32:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
