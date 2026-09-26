@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/" >🔗</a> **[NASASpaceflight]** Flight 14 waits on approval as a near-term manifest sketches Starship’s next steps
 - <a href="https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/" >🔗</a> **[NASA]** NASA, Boeing to Provide Update on Starliner Development
 - <a href="https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast/" >🔗</a> **[Spaceflight Now]** SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast
 - <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/" >🔗</a> **[NASA]** NASA Welcomes San Marino Signing the Artemis Accords
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/" >🔗</a> **[NASA]** Hubble Spots Chaotic Secret in Galaxy
 - <a href="https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/" >🔗</a> **[Arstechnica]** After seven years, a spacecraft company is releasing its Otters into the wild
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/" >🔗</a> **[NASA]** TB 26-07 Aluminum Alloy 2219 Material Guidance
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_Sep_2026" >🔗</a> **[ESA]** Week in images: 21-25 Sep 2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260926T040305">2026-09-26 04:03:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260926T043619">2026-09-26 04:36:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
