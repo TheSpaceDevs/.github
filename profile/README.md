@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/" >🔗</a> **[NASA]** APOD: 2026 September 26 – Mirrored Meteor and Milky Way
 - <a href="https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/" >🔗</a> **[NASASpaceflight]** Flight 14 waits on approval as a near-term manifest sketches Starship’s next steps
 - <a href="https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/" >🔗</a> **[NASA]** NASA, Boeing to Provide Update on Starliner Development
 - <a href="https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast/" >🔗</a> **[Spaceflight Now]** SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/" >🔗</a> **[NASA]** 2026-2027 DWU: High School Engineering Challenge
 - <a href="https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/" >🔗</a> **[NASA]** Hubble Spots Chaotic Secret in Galaxy
 - <a href="https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/" >🔗</a> **[Arstechnica]** After seven years, a spacecraft company is releasing its Otters into the wild
-- <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/" >🔗</a> **[NASA]** TB 26-07 Aluminum Alloy 2219 Material Guidance
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260926T050223">2026-09-26 05:02:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260926T053338">2026-09-26 05:33:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
