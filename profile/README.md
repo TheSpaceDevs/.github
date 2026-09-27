@@ -96,6 +96,7 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the first time, whi
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/" >🔗</a> **[NASA]** APOD: 2026 September 27 – Andromeda Before and After Photoshop
 - <a href="https://spaceflightnow.com/2026/09/26/next-crew-bound-for-the-space-station-arrive-in-florida/" >🔗</a> **[Spaceflight Now]** Next crew bound for the space station arrive in Florida
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/" >🔗</a> **[NASA]** APOD: 2026 September 26 – Mirrored Meteor and Milky Way
 - <a href="https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/" >🔗</a> **[NASASpaceflight]** Flight 14 waits on approval as a near-term manifest sketches Starship’s next steps
@@ -105,7 +106,6 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the first time, whi
 - <a href="https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/" >🔗</a> **[NASA]** NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch
 - <a href="https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/" >🔗</a> **[NASA]** 2026-2027 DWU: Middle School Design Challenge
 - <a href="https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/" >🔗</a> **[NASA]** 2026-2027 DWU: High School Engineering Challenge
-- <a href="https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/" >🔗</a> **[NASA]** Hubble Spots Chaotic Secret in Galaxy
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the first time, whi
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260927T050235">2026-09-27 05:02:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260927T053520">2026-09-27 05:35:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
