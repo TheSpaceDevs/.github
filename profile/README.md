@@ -110,6 +110,8 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the first time, whi
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/" >🔗</a> **[NASASpaceflight]** Flight 14 waits on approval as a near-term manifest sketches Starship’s next steps
+- <a href="https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/" >🔗</a> **[Arstechnica]** Rocket Report: Era of cheap launch is over? Astra sets early 2027. target for return
 - <a href="https://spaceflightnow.com/2026/09/23/spacex-stack-starship-and-super-heavy-for-first-orbital-flight/" >🔗</a> **[Spaceflight Now]** SpaceX stack Starship and Super Heavy for first orbital flight
 - <a href="https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/" >🔗</a> **[NASASpaceflight]** Ship 41 and Booster 21 head into key pre-flight test
 - <a href="https://www.nasaspaceflight.com/2026/09/ship-41-pad-2-two-tiles-ship-40/" >🔗</a> **[NASASpaceflight]** Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40
@@ -118,13 +120,11 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the first time, whi
 - <a href="https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/" >🔗</a> **[Arstechnica]** Rocket Report: ULA flies into uncertain future; Falcon 9 family hits 700 launches
 - <a href="https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/" >🔗</a> **[NASASpaceflight]** Starship’s upcoming missions: Waiting on Orbit, Building toward the Cape
 - <a href="https://spacepolicyonline.com/news/starship-to-attempt-first-orbital-flight-next-week/" >🔗</a> **[SpacePolicyOnline.com]** Starship to Attempt First Orbital Flight Next Week
-- <a href="https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/" >🔗</a> **[Arstechnica]** SpaceX sets launch date for first Starship orbital flight
-- <a href="https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/" >🔗</a> **[NASASpaceflight]** Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260927T080319">2026-09-27 08:03:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260927T083752">2026-09-27 08:37:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
