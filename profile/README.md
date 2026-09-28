@@ -89,6 +89,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/space-station-view-of-earth-at-night/" >🔗</a> **[NASA]** Space Station View of Earth at Night
+- <a href="https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/" >🔗</a> **[SpaceNews]** Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-orbit-challenge-2027/" >🔗</a> **[NASA]** NASA ORBIT Challenge 2027
 - <a href="https://europeanspaceflight.com/uk-creates-space-effects-squadron-to-protect-its-satellites/" >🔗</a> **[European Spaceflight]** UK Creates Space Effects Squadron to Protect Its Satellites
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-kristie-foster/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Kristie Foster
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/One_geology_step_closer_to_the_Moon" >🔗</a> **[ESA]** One geology step closer to the Moon
@@ -96,9 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-28-cosmic-latte-the-average-color-of-the-universe/" >🔗</a> **[NASA]** APOD: 2026 September 28 – Cosmic Latte: The Average Color of the Universe
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/" >🔗</a> **[NASA]** Reliable Robots: Meet Johnson’s Dexterous Robotics Team
 - <a href="https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice/" >🔗</a> **[NASA]** Uncovering the Valleys Hidden Below Greenland’s Ice
-- <a href="https://spaceflightnow.com/2026/09/28/live-coverage-spacex-to-launch-first-starlink-v3-satellites-to-orbit-on-starship/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first Starlink V3 satellites to orbit on Starship
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-27-october-3-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 27-October 3, 2026
-- <a href="https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/" >🔗</a> **[NASASpaceflight]** Starship Flight 14: SpaceX Attempts Orbit
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T150252">2026-09-28 15:02:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T153631">2026-09-28 15:36:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
