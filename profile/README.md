@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/uk-creates-space-effects-squadron-to-protect-its-satellites/" >🔗</a> **[European Spaceflight]** UK Creates Space Effects Squadron to Protect Its Satellites
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-kristie-foster/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Kristie Foster
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/One_geology_step_closer_to_the_Moon" >🔗</a> **[ESA]** One geology step closer to the Moon
 - <a href="https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/" >🔗</a> **[SpaceNews]** Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/09/28/live-coverage-spacex-to-launch-first-starlink-v3-satellites-to-orbit-on-starship/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first Starlink V3 satellites to orbit on Starship
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-27-october-3-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 27-October 3, 2026
 - <a href="https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/" >🔗</a> **[NASASpaceflight]** Starship Flight 14: SpaceX Attempts Orbit
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/" >🔗</a> **[NASA]** APOD: 2026 September 27 – Andromeda Before and After Photoshop
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T140300">2026-09-28 14:03:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T143838">2026-09-28 14:38:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
