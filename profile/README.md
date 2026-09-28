@@ -103,21 +103,21 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2026/09/28/live-coverage-spacex-to-launch-first-starlink-v3-satellites-to-orbit-on-starship/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first Starlink V3 satellites to orbit on Starship
-- <a href="https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/" >🔗</a> **[NASASpaceflight]** Starship Flight 14: SpaceX Attempts Orbit
-- <a href="https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/" >🔗</a> **[NASASpaceflight]** Flight 14 waits on approval as a near-term manifest sketches Starship’s next steps
-- <a href="https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/" >🔗</a> **[Arstechnica]** Rocket Report: Era of cheap launch is over? Astra sets early 2027. target for return
-- <a href="https://spaceflightnow.com/2026/09/23/spacex-stack-starship-and-super-heavy-for-first-orbital-flight/" >🔗</a> **[Spaceflight Now]** SpaceX stack Starship and Super Heavy for first orbital flight
-- <a href="https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/" >🔗</a> **[NASASpaceflight]** Ship 41 and Booster 21 head into key pre-flight test
-- <a href="https://www.nasaspaceflight.com/2026/09/ship-41-pad-2-two-tiles-ship-40/" >🔗</a> **[NASASpaceflight]** Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40
-- <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/" >🔗</a> **[NASASpaceflight]** Launch Preview: Electron, Falcon 9, and Starship set for launches
-- <a href="https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/" >🔗</a> **[Spaceflight Now]** SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch
-- <a href="https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/" >🔗</a> **[Arstechnica]** Rocket Report: ULA flies into uncertain future; Falcon 9 family hits 700 launches
+- <a href="https://spaceflightnow.com/2026/09/26/next-crew-bound-for-the-space-station-arrive-in-florida/" >🔗</a> **[Spaceflight Now]** Next crew bound for the space station arrive in Florida
+- <a href="https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/" >🔗</a> **[NASASpaceflight]** Expedition 75 astronauts continue science work as Crew-13 readies for launch
+- <a href="https://www.nasaspaceflight.com/2026/08/crew-13-delaney-interview/" >🔗</a> **[NASASpaceflight]** Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS
+- <a href="https://spacepolicyonline.com/news/spacex-replacing-mraps-with-cybertrucks-beginning-with-crew-13/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Replacing MRAPs with Cybertrucks Beginning with Crew-13
+- <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/" >🔗</a> **[NASA]** NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/" >🔗</a> **[NASA]** NASA Invites Media to Roman Space Telescope, Crew-13 Launches
+- <a href="https://www.nasa.gov/news-release/nasa-shares-spacex-crew-13-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares SpaceX Crew-13 Assignments for Space Station Mission
+- <a href="https://arstechnica.com/science/2022/09/nasa-will-pay-boeing-more-than-twice-as-much-as-spacex-for-crew-seats/" >🔗</a> **[Arstechnica]** NASA will pay Boeing more than twice as much as SpaceX for crew seats
+- <a href="https://spacenews.com/nasa-and-spacex-finalize-extension-of-commercial-crew-contract/" >🔗</a> **[SpaceNews]** NASA and SpaceX finalize extension of commercial crew contract
+- <a href="https://www.teslarati.com/nasa-buys-five-more-spacex-dragon-astronaut-launches/" >🔗</a> **[Teslarati]** NASA awards SpaceX five more Dragon astronaut launch contracts
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T124918">2026-09-28 12:49:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T130523">2026-09-28 13:05:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
