@@ -110,6 +110,8 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the first time, whi
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2026/09/28/live-coverage-spacex-to-launch-first-starlink-v3-satellites-to-orbit-on-starship/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first Starlink V3 satellites to orbit on Starship
+- <a href="https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/" >🔗</a> **[NASASpaceflight]** Starship Flight 14: SpaceX Attempts Orbit
 - <a href="https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/" >🔗</a> **[NASASpaceflight]** Flight 14 waits on approval as a near-term manifest sketches Starship’s next steps
 - <a href="https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/" >🔗</a> **[Arstechnica]** Rocket Report: Era of cheap launch is over? Astra sets early 2027. target for return
 - <a href="https://spaceflightnow.com/2026/09/23/spacex-stack-starship-and-super-heavy-for-first-orbital-flight/" >🔗</a> **[Spaceflight Now]** SpaceX stack Starship and Super Heavy for first orbital flight
@@ -118,13 +120,11 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the first time, whi
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/" >🔗</a> **[NASASpaceflight]** Launch Preview: Electron, Falcon 9, and Starship set for launches
 - <a href="https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/" >🔗</a> **[Spaceflight Now]** SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch
 - <a href="https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/" >🔗</a> **[Arstechnica]** Rocket Report: ULA flies into uncertain future; Falcon 9 family hits 700 launches
-- <a href="https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/" >🔗</a> **[NASASpaceflight]** Starship’s upcoming missions: Waiting on Orbit, Building toward the Cape
-- <a href="https://spacepolicyonline.com/news/starship-to-attempt-first-orbital-flight-next-week/" >🔗</a> **[SpacePolicyOnline.com]** Starship to Attempt First Orbital Flight Next Week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T075349">2026-09-28 07:53:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T080941">2026-09-28 08:09:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
