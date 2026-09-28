@@ -93,12 +93,12 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/" >🔗</a> **[NASA]** Meet NASA’s Artemis II Crew During Houston Public Event
 - <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s SpaceX Crew-13 Mission
 - <a href="https://arstechnica.com/space/2026/09/the-large-robotic-arm-on-the-international-space-station-has-stopped-working/" >🔗</a> **[Arstechnica]** The large robotic arm on the International Space Station has stopped working
+- <a href="https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/" >🔗</a> **[Arstechnica]** NASA, for the time being, is unable to move the space station's large robotic arm
 - <a href="https://www.nasa.gov/image-article/space-station-view-of-earth-at-night/" >🔗</a> **[NASA]** Space Station View of Earth at Night
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter" >🔗</a> **[ESA]** Successful Earth flyby improves Juice’s course to Jupiter
 - <a href="https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/" >🔗</a> **[SpaceNews]** Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-orbit-challenge-2027/" >🔗</a> **[NASA]** NASA ORBIT Challenge 2027
 - <a href="https://europeanspaceflight.com/uk-creates-space-effects-squadron-to-protect-its-satellites/" >🔗</a> **[European Spaceflight]** UK Creates Space Effects Squadron to Protect Its Satellites
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-kristie-foster/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Kristie Foster
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T170235">2026-09-28 17:02:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T173429">2026-09-28 17:34:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
