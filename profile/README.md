@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/09/28/starship-returns-to-earth-rocket-splashes-down-north-of-hawaii-after-three-hour-flight/" >🔗</a> **[Spaceflight Now]** Starship returns to Earth; rocket splashes down north of Hawaii after three-hour flight
 - <a href="https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/" >🔗</a> **[NASA]** NASA, Boeing Share Update on Commercial Starliner Development Plans
 - <a href="https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/" >🔗</a> **[NASA]** NASA Armstrong Celebrates 80 Years of Flight Innovation
 - <a href="https://spacepolicyonline.com/news/starship-achieves-orbit-for-the-first-time/" >🔗</a> **[SpacePolicyOnline.com]** Starship Achieves Orbit for the First Time
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s SpaceX Crew-13 Mission
 - <a href="https://arstechnica.com/space/2026/09/the-large-robotic-arm-on-the-international-space-station-has-stopped-working/" >🔗</a> **[Arstechnica]** The large robotic arm on the International Space Station has stopped working
 - <a href="https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/" >🔗</a> **[Arstechnica]** NASA, for the time being, is unable to move the space station's large robotic arm
-- <a href="https://www.nasa.gov/image-article/space-station-view-of-earth-at-night/" >🔗</a> **[NASA]** Space Station View of Earth at Night
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T210241">2026-09-28 21:02:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T213300">2026-09-28 21:33:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
