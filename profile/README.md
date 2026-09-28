@@ -89,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/starship-achieves-orbit-for-the-first-time/" >🔗</a> **[SpacePolicyOnline.com]** Starship Achieves Orbit for the First Time
+- <a href="https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/" >🔗</a> **[NASA]** NASA Highlights Lessons Learned From Swift Boost Mission
 - <a href="https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/" >🔗</a> **[NASA]** NASA Celebrates as Artemis Accords Surpasses 75 Signatories
 - <a href="https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/" >🔗</a> **[NASA]** Meet NASA’s Artemis II Crew During Houston Public Event
 - <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s SpaceX Crew-13 Mission
@@ -97,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/space-station-view-of-earth-at-night/" >🔗</a> **[NASA]** Space Station View of Earth at Night
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter" >🔗</a> **[ESA]** Successful Earth flyby improves Juice’s course to Jupiter
 - <a href="https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/" >🔗</a> **[SpaceNews]** Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-orbit-challenge-2027/" >🔗</a> **[NASA]** NASA ORBIT Challenge 2027
-- <a href="https://europeanspaceflight.com/uk-creates-space-effects-squadron-to-protect-its-satellites/" >🔗</a> **[European Spaceflight]** UK Creates Space Effects Squadron to Protect Its Satellites
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T180339">2026-09-28 18:03:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T184049">2026-09-28 18:40:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
