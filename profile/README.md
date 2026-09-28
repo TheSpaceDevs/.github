@@ -89,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/" >🔗</a> **[NASA]** NASA, Boeing Share Update on Commercial Starliner Development Plans
+- <a href="https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/" >🔗</a> **[NASA]** NASA Armstrong Celebrates 80 Years of Flight Innovation
 - <a href="https://spacepolicyonline.com/news/starship-achieves-orbit-for-the-first-time/" >🔗</a> **[SpacePolicyOnline.com]** Starship Achieves Orbit for the First Time
 - <a href="https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/" >🔗</a> **[NASA]** NASA Highlights Lessons Learned From Swift Boost Mission
 - <a href="https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/" >🔗</a> **[NASA]** NASA Celebrates as Artemis Accords Surpasses 75 Signatories
@@ -97,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/09/the-large-robotic-arm-on-the-international-space-station-has-stopped-working/" >🔗</a> **[Arstechnica]** The large robotic arm on the International Space Station has stopped working
 - <a href="https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/" >🔗</a> **[Arstechnica]** NASA, for the time being, is unable to move the space station's large robotic arm
 - <a href="https://www.nasa.gov/image-article/space-station-view-of-earth-at-night/" >🔗</a> **[NASA]** Space Station View of Earth at Night
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter" >🔗</a> **[ESA]** Successful Earth flyby improves Juice’s course to Jupiter
-- <a href="https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/" >🔗</a> **[SpaceNews]** Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T190211">2026-09-28 19:02:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T193308">2026-09-28 19:33:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
