@@ -89,16 +89,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/" >🔗</a> **[NASA]** NASA Celebrates as Artemis Accords Surpasses 75 Signatories
+- <a href="https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/" >🔗</a> **[NASA]** Meet NASA’s Artemis II Crew During Houston Public Event
+- <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s SpaceX Crew-13 Mission
+- <a href="https://arstechnica.com/space/2026/09/the-large-robotic-arm-on-the-international-space-station-has-stopped-working/" >🔗</a> **[Arstechnica]** The large robotic arm on the International Space Station has stopped working
 - <a href="https://www.nasa.gov/image-article/space-station-view-of-earth-at-night/" >🔗</a> **[NASA]** Space Station View of Earth at Night
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter" >🔗</a> **[ESA]** Successful Earth flyby improves Juice’s course to Jupiter
 - <a href="https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/" >🔗</a> **[SpaceNews]** Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-orbit-challenge-2027/" >🔗</a> **[NASA]** NASA ORBIT Challenge 2027
 - <a href="https://europeanspaceflight.com/uk-creates-space-effects-squadron-to-protect-its-satellites/" >🔗</a> **[European Spaceflight]** UK Creates Space Effects Squadron to Protect Its Satellites
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-kristie-foster/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Kristie Foster
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/One_geology_step_closer_to_the_Moon" >🔗</a> **[ESA]** One geology step closer to the Moon
-- <a href="https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/" >🔗</a> **[SpaceNews]** Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-28-cosmic-latte-the-average-color-of-the-universe/" >🔗</a> **[NASA]** APOD: 2026 September 28 – Cosmic Latte: The Average Color of the Universe
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/" >🔗</a> **[NASA]** Reliable Robots: Meet Johnson’s Dexterous Robotics Team
-- <a href="https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice/" >🔗</a> **[NASA]** Uncovering the Valleys Hidden Below Greenland’s Ice
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T160307">2026-09-28 16:03:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T163717">2026-09-28 16:37:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
