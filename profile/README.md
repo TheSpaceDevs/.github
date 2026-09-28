@@ -19,39 +19,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Starship | Starlink Group 31-1 (Starship Flight 14)**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Crew-13**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/SpaceX_Starbase#Launch_site_(Orbital_Launch_Mount_(Pad_1_and_2))">Orbital Launch Pad 2</a>, SpaceX Starbase, TX, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T121500">2026-09-28 12:15:00 UTC</a>.  Until
-then, this pad will have been used for 2
-out of 22 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T151006">2026-10-01 15:10:06 UTC</a>.  Until
+then, this pad will have been used for 401
+out of 1129 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
+*Human Exploration* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites known as Starlink Group 31-1) into stable Low Earth Orbit.
-
-The ship is expected to fly at an altitude approximately 275 km above Earth and complete approximately 6 orbits around the planet for nearly 10 hours, with splashdown targeted in the Pacific Ocean west of Chile.
-
-The booster’s primary test objective on Flight 14 will be executing a successful launch, ascent, stage separation, boostback burn, and landing burn at an offshore landing point in the Gulf.
-
-Starship will deliver 26 Starlink V3 satellites to orbit for the first time, which aim to greatly expand the network's capacity and user speeds. Each Starlink V3 satellite will add 1 Tbps of capacity to the constellation.
+  SpaceX Crew-13 is the thirteenth crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/SpaceX_Starship#Block_3" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=25.996770,-97.157990" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T121500">2026-09-28 12:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Starlink Group 31-1 (Starship Flight 14)&location=SpaceX Starbase, TX, USA&dates=20260928T121500Z%2F20260928T133000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Starlink Group 31-1 (Starship Flight 14)** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T151006">2026-10-01 15:10:06 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-13&location=Cape Canaveral SFS, FL, USA&dates=20261001T151006Z%2F20261001T151006Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-13** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T181800">2026-10-01 18:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20261001T181800Z%2F20261001T191600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261002T035300">2026-10-02 03:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | NROL-97&location=Kennedy Space Center, FL, USA&dates=20261002T035300Z%2F20261002T044200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | NROL-97** from Kennedy Space Center, FL, USA.
@@ -96,6 +89,9 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the first time, whi
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/One_geology_step_closer_to_the_Moon" >🔗</a> **[ESA]** One geology step closer to the Moon
+- <a href="https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/" >🔗</a> **[SpaceNews]** Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth
+- <a href="https://science.nasa.gov/image-article/apod-2026-september-28-cosmic-latte-the-average-color-of-the-universe/" >🔗</a> **[NASA]** APOD: 2026 September 28 – Cosmic Latte: The Average Color of the Universe
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/" >🔗</a> **[NASA]** Reliable Robots: Meet Johnson’s Dexterous Robotics Team
 - <a href="https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice/" >🔗</a> **[NASA]** Uncovering the Valleys Hidden Below Greenland’s Ice
 - <a href="https://spaceflightnow.com/2026/09/28/live-coverage-spacex-to-launch-first-starlink-v3-satellites-to-orbit-on-starship/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first Starlink V3 satellites to orbit on Starship
@@ -103,9 +99,6 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the first time, whi
 - <a href="https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/" >🔗</a> **[NASASpaceflight]** Starship Flight 14: SpaceX Attempts Orbit
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/" >🔗</a> **[NASA]** APOD: 2026 September 27 – Andromeda Before and After Photoshop
 - <a href="https://spaceflightnow.com/2026/09/26/next-crew-bound-for-the-space-station-arrive-in-florida/" >🔗</a> **[Spaceflight Now]** Next crew bound for the space station arrive in Florida
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/" >🔗</a> **[NASA]** APOD: 2026 September 26 – Mirrored Meteor and Milky Way
-- <a href="https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/" >🔗</a> **[NASASpaceflight]** Flight 14 waits on approval as a near-term manifest sketches Starship’s next steps
-- <a href="https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/" >🔗</a> **[NASA]** NASA, Boeing to Provide Update on Starliner Development
 
 
 ### Launch-related News 🚀
@@ -124,7 +117,7 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the first time, whi
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T120435">2026-09-28 12:04:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T124918">2026-09-28 12:49:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
