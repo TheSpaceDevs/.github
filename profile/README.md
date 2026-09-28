@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-kristie-foster/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Kristie Foster
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/One_geology_step_closer_to_the_Moon" >🔗</a> **[ESA]** One geology step closer to the Moon
 - <a href="https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/" >🔗</a> **[SpaceNews]** Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-28-cosmic-latte-the-average-color-of-the-universe/" >🔗</a> **[NASA]** APOD: 2026 September 28 – Cosmic Latte: The Average Color of the Universe
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-27-october-3-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 27-October 3, 2026
 - <a href="https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/" >🔗</a> **[NASASpaceflight]** Starship Flight 14: SpaceX Attempts Orbit
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/" >🔗</a> **[NASA]** APOD: 2026 September 27 – Andromeda Before and After Photoshop
-- <a href="https://spaceflightnow.com/2026/09/26/next-crew-bound-for-the-space-station-arrive-in-florida/" >🔗</a> **[Spaceflight Now]** Next crew bound for the space station arrive in Florida
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T130523">2026-09-28 13:05:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T133825">2026-09-28 13:38:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
