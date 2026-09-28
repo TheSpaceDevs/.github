@@ -96,6 +96,7 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the first time, whi
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/09/28/live-coverage-spacex-to-launch-first-starlink-v3-satellites-to-orbit-on-starship/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first Starlink V3 satellites to orbit on Starship
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-27-october-3-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 27-October 3, 2026
 - <a href="https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/" >🔗</a> **[NASASpaceflight]** Starship Flight 14: SpaceX Attempts Orbit
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/" >🔗</a> **[NASA]** APOD: 2026 September 27 – Andromeda Before and After Photoshop
@@ -105,7 +106,6 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the first time, whi
 - <a href="https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/" >🔗</a> **[NASA]** NASA, Boeing to Provide Update on Starliner Development
 - <a href="https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast/" >🔗</a> **[Spaceflight Now]** SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast
 - <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/" >🔗</a> **[NASA]** NASA Welcomes San Marino Signing the Artemis Accords
-- <a href="https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/" >🔗</a> **[NASA]** NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the first time, whi
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T000848">2026-09-28 00:08:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T011401">2026-09-28 01:14:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
