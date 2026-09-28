@@ -96,6 +96,7 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the first time, whi
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/" >🔗</a> **[NASA]** Reliable Robots: Meet Johnson’s Dexterous Robotics Team
 - <a href="https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice/" >🔗</a> **[NASA]** Uncovering the Valleys Hidden Below Greenland’s Ice
 - <a href="https://spaceflightnow.com/2026/09/28/live-coverage-spacex-to-launch-first-starlink-v3-satellites-to-orbit-on-starship/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first Starlink V3 satellites to orbit on Starship
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-27-october-3-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 27-October 3, 2026
@@ -105,7 +106,6 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the first time, whi
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/" >🔗</a> **[NASA]** APOD: 2026 September 26 – Mirrored Meteor and Milky Way
 - <a href="https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/" >🔗</a> **[NASASpaceflight]** Flight 14 waits on approval as a near-term manifest sketches Starship’s next steps
 - <a href="https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/" >🔗</a> **[NASA]** NASA, Boeing to Provide Update on Starliner Development
-- <a href="https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast/" >🔗</a> **[Spaceflight Now]** SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the first time, whi
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T100359">2026-09-28 10:03:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T103639">2026-09-28 10:36:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
