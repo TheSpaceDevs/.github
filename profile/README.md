@@ -89,16 +89,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/" >🔗</a> **[NASA]** NASA Opens 2027 Human Lander Challenge for Lunar Communications
+- <a href="https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/" >🔗</a> **[NASA]** NASA Awards Orbital Safety Analysis Support Services Contract
+- <a href="https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/" >🔗</a> **[NASA]** NASA Features Exploration, Science at International Space Conference
+- <a href="https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/" >🔗</a> **[SpaceNews]** Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035
 - <a href="https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/" >🔗</a> **[NASA]** NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract
 - <a href="https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/" >🔗</a> **[NASA]** NASA Sets Crew-13 Launch, Docking Coverage
 - <a href="https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/" >🔗</a> **[Arstechnica]** NASA has a Dragon dilemma, and there appear to be no good answers
 - <a href="https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/" >🔗</a> **[SpaceNews]** Terran Orbital Names Jamin Brown Chief Operating Officer
 - <a href="https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/" >🔗</a> **[NASA]** Crew-13 Rocket and Spacecraft at Launch Pad
 - <a href="https://www.spacescout.info/2026/09/starship-orbits-earth-returns-early/" >🔗</a> **[Space Scout]** Starship Orbits Earth, Returns Early
-- <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/" >🔗</a> **[NASA]** NSTGRO 2026
-- <a href="https://europeanspaceflight.com/cnes-publishes-call-for-new-rocket-launch-tracking-turrets-for-french-guiana/" >🔗</a> **[European Spaceflight]** CNES Publishes Call for New Rocket Launch Tracking Turrets for French Guiana
-- <a href="https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/" >🔗</a> **[NASA]** Under the Microscope: NASA-Made Material for Moon Manufacturing
-- <a href="https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/" >🔗</a> **[SpaceNews]** If AI cannot be trusted in a classroom, why should it be trusted in orbit?
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260929T210241">2026-09-29 21:02:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260929T213406">2026-09-29 21:34:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
