@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/spooky-stargazing/" >🔗</a> **[NASA]** October’s Night Sky Notes: Spooky Stargazing
 - <a href="https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/" >🔗</a> **[Arstechnica]** Boeing "incredibly excited" to serve as nation's only astronaut transportation
 - <a href="https://www.nasaspaceflight.com/2026/09/nasa-boeing-starliners-return-iss-crew/" >🔗</a> **[NASASpaceflight]** NASA, Boeing outline Starliner’s return path to ISS crew rotations
 - <a href="https://spaceflightnow.com/2026/09/28/starship-returns-to-earth-rocket-splashes-down-north-of-hawaii-after-three-hour-flight/" >🔗</a> **[Spaceflight Now]** Starship returns to Earth; rocket splashes down north of Hawaii after three-hour flight
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/" >🔗</a> **[NASA]** NASA Highlights Lessons Learned From Swift Boost Mission
 - <a href="https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/" >🔗</a> **[NASA]** NASA Celebrates as Artemis Accords Surpasses 75 Signatories
 - <a href="https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/" >🔗</a> **[NASA]** Meet NASA’s Artemis II Crew During Houston Public Event
-- <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s SpaceX Crew-13 Mission
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260928T233343">2026-09-28 23:33:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260929T000816">2026-09-29 00:08:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
