@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors" >🔗</a> **[ESA]** Galaxies in a cosmic house of mirrors
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/" >🔗</a> **[NASA]** APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula
 - <a href="https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top/" >🔗</a> **[NASA]** Fire Cloud with a Pileus on Top
 - <a href="https://spacepolicyonline.com/news/next-crewed-boeing-starliner-flight-not-until-2028/" >🔗</a> **[SpacePolicyOnline.com]** Next Crewed Boeing Starliner Flight Not Until 2028
@@ -98,11 +99,11 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/" >🔗</a> **[Arstechnica]** Boeing "incredibly excited" to serve as nation's only astronaut transportation
 - <a href="https://www.nasaspaceflight.com/2026/09/nasa-boeing-starliners-return-iss-crew/" >🔗</a> **[NASASpaceflight]** NASA, Boeing outline Starliner’s return path to ISS crew rotations
 - <a href="https://spaceflightnow.com/2026/09/28/starship-returns-to-earth-rocket-splashes-down-north-of-hawaii-after-three-hour-flight/" >🔗</a> **[Spaceflight Now]** Starship returns to Earth; rocket splashes down north of Hawaii after three-hour flight
-- <a href="https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/" >🔗</a> **[NASA]** NASA, Boeing Share Update on Commercial Starliner Development Plans
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s SpaceX Crew-13 Mission
 - <a href="https://spaceflightnow.com/2026/09/26/next-crew-bound-for-the-space-station-arrive-in-florida/" >🔗</a> **[Spaceflight Now]** Next crew bound for the space station arrive in Florida
 - <a href="https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/" >🔗</a> **[NASASpaceflight]** Expedition 75 astronauts continue science work as Crew-13 readies for launch
 - <a href="https://www.nasaspaceflight.com/2026/08/crew-13-delaney-interview/" >🔗</a> **[NASASpaceflight]** Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS
@@ -112,12 +113,11 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-shares-spacex-crew-13-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares SpaceX Crew-13 Assignments for Space Station Mission
 - <a href="https://arstechnica.com/science/2022/09/nasa-will-pay-boeing-more-than-twice-as-much-as-spacex-for-crew-seats/" >🔗</a> **[Arstechnica]** NASA will pay Boeing more than twice as much as SpaceX for crew seats
 - <a href="https://spacenews.com/nasa-and-spacex-finalize-extension-of-commercial-crew-contract/" >🔗</a> **[SpaceNews]** NASA and SpaceX finalize extension of commercial crew contract
-- <a href="https://www.teslarati.com/nasa-buys-five-more-spacex-dragon-astronaut-launches/" >🔗</a> **[Teslarati]** NASA awards SpaceX five more Dragon astronaut launch contracts
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260929T080427">2026-09-29 08:04:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260929T084243">2026-09-29 08:42:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
