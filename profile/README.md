@@ -89,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/" >🔗</a> **[Arstechnica]** NASA has a Dragon dilemma, and there appear to be no good answers
+- <a href="https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/" >🔗</a> **[SpaceNews]** Terran Orbital Names Jamin Brown Chief Operating Officer
 - <a href="https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/" >🔗</a> **[NASA]** Crew-13 Rocket and Spacecraft at Launch Pad
 - <a href="https://www.spacescout.info/2026/09/starship-orbits-earth-returns-early/" >🔗</a> **[Space Scout]** Starship Orbits Earth, Returns Early
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/" >🔗</a> **[NASA]** NSTGRO 2026
@@ -97,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/" >🔗</a> **[SpaceNews]** If AI cannot be trusted in a classroom, why should it be trusted in orbit?
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_investigates_potential_future_European-led_orbital_outpost" >🔗</a> **[ESA]** ESA investigates potential future European-led orbital outpost
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors" >🔗</a> **[ESA]** Galaxies in a cosmic house of mirrors
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/" >🔗</a> **[NASA]** APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula
-- <a href="https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top/" >🔗</a> **[NASA]** Fire Cloud with a Pileus on Top
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260929T180333">2026-09-29 18:03:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260929T184052">2026-09-29 18:40:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
