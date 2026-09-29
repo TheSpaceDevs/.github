@@ -52,7 +52,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261005T080600">2026-10-05 08:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A&location=Vandenberg SFB, CA, USA&dates=20261005T080600Z%2F20261005T091100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261007T032300">2026-10-07 03:23:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | NeonSat-2 to 6&location=Naro Space Center, South Korea&dates=20261007T032300Z%2F20261007T042300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Nuri | NeonSat-2 to 6** from Naro Space Center, South Korea.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261010T160000">2026-10-10 16:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-25&location=Vandenberg SFB, CA, USA&dates=20261010T160000Z%2F20261010T200000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-25** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261015T000000">2026-10-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | IRNSS-1L (NVS-03)&location=Satish Dhawan Space Centre, India&dates=20261015T000000Z%2F20261015T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | IRNSS-1L (NVS-03)** from Satish Dhawan Space Centre, India.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261013T170000">2026-10-13 17:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | IRNSS-1L (NVS-03)&location=Satish Dhawan Space Centre, India&dates=20261013T170000Z%2F20261013T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | IRNSS-1L (NVS-03)** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261019T194103">2026-10-19 19:41:03 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-24 | Martian Moon eXplorer (MMX)&location=Tanegashima Space Center, Japan&dates=20261019T194103Z%2F20261019T194103Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-24 | Martian Moon eXplorer (MMX)** from Tanegashima Space Center, Japan.
 
 
@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/" >🔗</a> **[SpaceNews]** If AI cannot be trusted in a classroom, why should it be trusted in orbit?
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors" >🔗</a> **[ESA]** Galaxies in a cosmic house of mirrors
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/" >🔗</a> **[NASA]** APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula
 - <a href="https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top/" >🔗</a> **[NASA]** Fire Cloud with a Pileus on Top
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/spooky-stargazing/" >🔗</a> **[NASA]** October’s Night Sky Notes: Spooky Stargazing
 - <a href="https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/" >🔗</a> **[Arstechnica]** Boeing "incredibly excited" to serve as nation's only astronaut transportation
 - <a href="https://www.nasaspaceflight.com/2026/09/nasa-boeing-starliners-return-iss-crew/" >🔗</a> **[NASASpaceflight]** NASA, Boeing outline Starliner’s return path to ISS crew rotations
-- <a href="https://spaceflightnow.com/2026/09/28/starship-returns-to-earth-rocket-splashes-down-north-of-hawaii-after-three-hour-flight/" >🔗</a> **[Spaceflight Now]** Starship returns to Earth; rocket splashes down north of Hawaii after three-hour flight
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260929T110239">2026-09-29 11:02:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260929T113459">2026-09-29 11:34:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
