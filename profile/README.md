@@ -89,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/" >🔗</a> **[NASA]** APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula
+- <a href="https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top/" >🔗</a> **[NASA]** Fire Cloud with a Pileus on Top
 - <a href="https://spacepolicyonline.com/news/next-crewed-boeing-starliner-flight-not-until-2028/" >🔗</a> **[SpacePolicyOnline.com]** Next Crewed Boeing Starliner Flight Not Until 2028
 - <a href="https://science.nasa.gov/blog/mars-has-its-charmes/" >🔗</a> **[NASA]** Mars Has Its Charmes
 - <a href="https://spaceflightnow.com/2026/09/29/nasa-plans-unpiloted-starliner-test-flight-at-end-of-year/" >🔗</a> **[Spaceflight Now]** NASA plans unpiloted Starliner test flight at end of year
@@ -97,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/09/nasa-boeing-starliners-return-iss-crew/" >🔗</a> **[NASASpaceflight]** NASA, Boeing outline Starliner’s return path to ISS crew rotations
 - <a href="https://spaceflightnow.com/2026/09/28/starship-returns-to-earth-rocket-splashes-down-north-of-hawaii-after-three-hour-flight/" >🔗</a> **[Spaceflight Now]** Starship returns to Earth; rocket splashes down north of Hawaii after three-hour flight
 - <a href="https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/" >🔗</a> **[NASA]** NASA, Boeing Share Update on Commercial Starliner Development Plans
-- <a href="https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/" >🔗</a> **[NASA]** NASA Armstrong Celebrates 80 Years of Flight Innovation
-- <a href="https://spacepolicyonline.com/news/starship-achieves-orbit-for-the-first-time/" >🔗</a> **[SpacePolicyOnline.com]** Starship Achieves Orbit for the First Time
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260929T050251">2026-09-29 05:02:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260929T053637">2026-09-29 05:36:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
