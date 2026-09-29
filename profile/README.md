@@ -89,16 +89,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/" >🔗</a> **[NASA]** NSTGRO 2026
+- <a href="https://europeanspaceflight.com/cnes-publishes-call-for-new-rocket-launch-tracking-turrets-for-french-guiana/" >🔗</a> **[European Spaceflight]** CNES Publishes Call for New Rocket Launch Tracking Turrets for French Guiana
+- <a href="https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/" >🔗</a> **[NASA]** Under the Microscope: NASA-Made Material for Moon Manufacturing
 - <a href="https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/" >🔗</a> **[SpaceNews]** If AI cannot be trusted in a classroom, why should it be trusted in orbit?
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_investigates_potential_future_European-led_orbital_outpost" >🔗</a> **[ESA]** ESA investigates potential future European-led orbital outpost
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors" >🔗</a> **[ESA]** Galaxies in a cosmic house of mirrors
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/" >🔗</a> **[NASA]** APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula
 - <a href="https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top/" >🔗</a> **[NASA]** Fire Cloud with a Pileus on Top
 - <a href="https://spacepolicyonline.com/news/next-crewed-boeing-starliner-flight-not-until-2028/" >🔗</a> **[SpacePolicyOnline.com]** Next Crewed Boeing Starliner Flight Not Until 2028
 - <a href="https://science.nasa.gov/blog/mars-has-its-charmes/" >🔗</a> **[NASA]** Mars Has Its Charmes
-- <a href="https://spaceflightnow.com/2026/09/29/nasa-plans-unpiloted-starliner-test-flight-at-end-of-year/" >🔗</a> **[Spaceflight Now]** NASA plans unpiloted Starliner test flight at end of year
-- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/spooky-stargazing/" >🔗</a> **[NASA]** October’s Night Sky Notes: Spooky Stargazing
-- <a href="https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/" >🔗</a> **[Arstechnica]** Boeing "incredibly excited" to serve as nation's only astronaut transportation
-- <a href="https://www.nasaspaceflight.com/2026/09/nasa-boeing-starliners-return-iss-crew/" >🔗</a> **[NASASpaceflight]** NASA, Boeing outline Starliner’s return path to ISS crew rotations
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260929T140300">2026-09-29 14:03:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260929T143715">2026-09-29 14:37:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
