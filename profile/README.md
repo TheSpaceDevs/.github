@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/09/starship-orbits-earth-returns-early/" >🔗</a> **[Space Scout]** Starship Orbits Earth, Returns Early
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/" >🔗</a> **[NASA]** NSTGRO 2026
 - <a href="https://europeanspaceflight.com/cnes-publishes-call-for-new-rocket-launch-tracking-turrets-for-french-guiana/" >🔗</a> **[European Spaceflight]** CNES Publishes Call for New Rocket Launch Tracking Turrets for French Guiana
 - <a href="https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/" >🔗</a> **[NASA]** Under the Microscope: NASA-Made Material for Moon Manufacturing
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/" >🔗</a> **[NASA]** APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula
 - <a href="https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top/" >🔗</a> **[NASA]** Fire Cloud with a Pileus on Top
 - <a href="https://spacepolicyonline.com/news/next-crewed-boeing-starliner-flight-not-until-2028/" >🔗</a> **[SpacePolicyOnline.com]** Next Crewed Boeing Starliner Flight Not Until 2028
-- <a href="https://science.nasa.gov/blog/mars-has-its-charmes/" >🔗</a> **[NASA]** Mars Has Its Charmes
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260929T150320">2026-09-29 15:03:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260929T153628">2026-09-29 15:36:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
