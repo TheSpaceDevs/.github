@@ -89,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/mars-has-its-charmes/" >🔗</a> **[NASA]** Mars Has Its Charmes
+- <a href="https://spaceflightnow.com/2026/09/29/nasa-plans-unpiloted-starliner-test-flight-at-end-of-year/" >🔗</a> **[Spaceflight Now]** NASA plans unpiloted Starliner test flight at end of year
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/spooky-stargazing/" >🔗</a> **[NASA]** October’s Night Sky Notes: Spooky Stargazing
 - <a href="https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/" >🔗</a> **[Arstechnica]** Boeing "incredibly excited" to serve as nation's only astronaut transportation
 - <a href="https://www.nasaspaceflight.com/2026/09/nasa-boeing-starliners-return-iss-crew/" >🔗</a> **[NASASpaceflight]** NASA, Boeing outline Starliner’s return path to ISS crew rotations
@@ -97,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/" >🔗</a> **[NASA]** NASA Armstrong Celebrates 80 Years of Flight Innovation
 - <a href="https://spacepolicyonline.com/news/starship-achieves-orbit-for-the-first-time/" >🔗</a> **[SpacePolicyOnline.com]** Starship Achieves Orbit for the First Time
 - <a href="https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/" >🔗</a> **[NASA]** NASA Highlights Lessons Learned From Swift Boost Mission
-- <a href="https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/" >🔗</a> **[NASA]** NASA Celebrates as Artemis Accords Surpasses 75 Signatories
-- <a href="https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/" >🔗</a> **[NASA]** Meet NASA’s Artemis II Crew During Houston Public Event
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260929T011103">2026-09-29 01:11:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260929T014733">2026-09-29 01:47:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
