@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/" >🔗</a> **[NASA]** NASA, International Partners Advance Work on Space Crops
 - <a href="https://www.nasa.gov/image-article/star-trails/" >🔗</a> **[NASA]** Star Trails
 - <a href="https://arstechnica.com/space/2026/09/so-whats-happening-with-russias-new-long-delayed-crewed-spacecraft/" >🔗</a> **[Arstechnica]** So what's happening with Russia's new, long-delayed crewed spacecraft?
 - <a href="https://www.nasaspaceflight.com/2026/09/starship-14-orbit-flight-15/" >🔗</a> **[NASASpaceflight]** Starship makes orbit, Flight 15 preps in full swing
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/esa-selects-airbus-and-ohb-to-lead-european-space-station-studies/" >🔗</a> **[European Spaceflight]** ESA Selects Airbus and OHB to Lead European Space Station Studies
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile" >🔗</a> **[ESA]** Science begins for Smile
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/" >🔗</a> **[NASA]** APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries
-- <a href="https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/" >🔗</a> **[NASA]** Powerful Storms Continue to Prowl the Pacific
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260930T190300">2026-09-30 19:03:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260930T193326">2026-09-30 19:33:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
