@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Shaping_Europe_s_future_in_low_Earth_orbit" >🔗</a> **[ESA]** Shaping Europe’s future in low Earth orbit
 - <a href="https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/" >🔗</a> **[SpaceNews]** Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission
 - <a href="https://europeanspaceflight.com/esa-selects-airbus-and-ohb-to-lead-european-space-station-studies/" >🔗</a> **[European Spaceflight]** ESA Selects Airbus and OHB to Lead European Space Station Studies
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile" >🔗</a> **[ESA]** Science begins for Smile
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/" >🔗</a> **[NASA]** NASA Opens 2027 Human Lander Challenge for Lunar Communications
 - <a href="https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/" >🔗</a> **[NASA]** NASA Awards Orbital Safety Analysis Support Services Contract
 - <a href="https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/" >🔗</a> **[NASA]** NASA Features Exploration, Science at International Space Conference
-- <a href="https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/" >🔗</a> **[SpaceNews]** Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260930T140318">2026-09-30 14:03:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260930T143831">2026-09-30 14:38:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
