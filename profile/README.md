@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/" >🔗</a> **[NASA]** NASA Adds New Science Investigations for Moon Base
+- <a href="https://www.nasaspaceflight.com/2026/09/crew-13-launch/" >🔗</a> **[NASASpaceflight]** Crew-13 astronauts set for launch to ISS after weeks of delays
+- <a href="https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/" >🔗</a> **[NASA]** NASA Awards Contract to Develop 5G Communications for Moon
 - <a href="https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/" >🔗</a> **[NASA]** NASA, International Partners Advance Work on Space Crops
 - <a href="https://www.nasa.gov/image-article/star-trails/" >🔗</a> **[NASA]** Star Trails
 - <a href="https://arstechnica.com/space/2026/09/so-whats-happening-with-russias-new-long-delayed-crewed-spacecraft/" >🔗</a> **[Arstechnica]** So what's happening with Russia's new, long-delayed crewed spacecraft?
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/" >🔗</a> **[SpaceNews]** NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Shaping_Europe_s_future_in_low_Earth_orbit" >🔗</a> **[ESA]** Shaping Europe’s future in low Earth orbit
 - <a href="https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/" >🔗</a> **[SpaceNews]** Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission
-- <a href="https://europeanspaceflight.com/esa-selects-airbus-and-ohb-to-lead-european-space-station-studies/" >🔗</a> **[European Spaceflight]** ESA Selects Airbus and OHB to Lead European Space Station Studies
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile" >🔗</a> **[ESA]** Science begins for Smile
-- <a href="https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/" >🔗</a> **[NASA]** APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260930T210302">2026-09-30 21:03:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260930T213543">2026-09-30 21:35:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
