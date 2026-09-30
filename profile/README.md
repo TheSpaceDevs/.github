@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-selects-airbus-and-ohb-to-lead-european-space-station-studies/" >🔗</a> **[European Spaceflight]** ESA Selects Airbus and OHB to Lead European Space Station Studies
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile" >🔗</a> **[ESA]** Science begins for Smile
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/" >🔗</a> **[NASA]** APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries
 - <a href="https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/" >🔗</a> **[NASA]** Powerful Storms Continue to Prowl the Pacific
@@ -99,12 +100,12 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/" >🔗</a> **[NASA]** NASA Features Exploration, Science at International Space Conference
 - <a href="https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/" >🔗</a> **[SpaceNews]** Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035
 - <a href="https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/" >🔗</a> **[NASA]** NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract
-- <a href="https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/" >🔗</a> **[NASA]** NASA Sets Crew-13 Launch, Docking Coverage
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO
+- <a href="https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/" >🔗</a> **[NASA]** NASA Sets Crew-13 Launch, Docking Coverage
 - <a href="https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/" >🔗</a> **[NASA]** Crew-13 Rocket and Spacecraft at Launch Pad
 - <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s SpaceX Crew-13 Mission
 - <a href="https://spaceflightnow.com/2026/09/26/next-crew-bound-for-the-space-station-arrive-in-florida/" >🔗</a> **[Spaceflight Now]** Next crew bound for the space station arrive in Florida
@@ -113,12 +114,11 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/spacex-replacing-mraps-with-cybertrucks-beginning-with-crew-13/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Replacing MRAPs with Cybertrucks Beginning with Crew-13
 - <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/" >🔗</a> **[NASA]** NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/" >🔗</a> **[NASA]** NASA Invites Media to Roman Space Telescope, Crew-13 Launches
-- <a href="https://www.nasa.gov/news-release/nasa-shares-spacex-crew-13-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares SpaceX Crew-13 Assignments for Space Station Mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260930T100255">2026-09-30 10:02:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260930T103650">2026-09-30 10:36:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
