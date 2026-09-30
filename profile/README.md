@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/" >🔗</a> **[NASA]** Help Overlap Zoo Reveal Cosmic Dust
 - <a href="https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/" >🔗</a> **[NASA]** NASA Adds New Science Investigations for Moon Base
 - <a href="https://www.nasaspaceflight.com/2026/09/crew-13-launch/" >🔗</a> **[NASASpaceflight]** Crew-13 astronauts set for launch to ISS after weeks of delays
 - <a href="https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/" >🔗</a> **[NASA]** NASA Awards Contract to Develop 5G Communications for Moon
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/09/starship-14-orbit-flight-15/" >🔗</a> **[NASASpaceflight]** Starship makes orbit, Flight 15 preps in full swing
 - <a href="https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/" >🔗</a> **[SpaceNews]** NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Shaping_Europe_s_future_in_low_Earth_orbit" >🔗</a> **[ESA]** Shaping Europe’s future in low Earth orbit
-- <a href="https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/" >🔗</a> **[SpaceNews]** Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260930T220252">2026-09-30 22:02:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260930T223520">2026-09-30 22:35:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
