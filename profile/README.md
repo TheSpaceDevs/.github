@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/" >🔗</a> **[SpaceNews]** Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission
 - <a href="https://europeanspaceflight.com/esa-selects-airbus-and-ohb-to-lead-european-space-station-studies/" >🔗</a> **[European Spaceflight]** ESA Selects Airbus and OHB to Lead European Space Station Studies
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile" >🔗</a> **[ESA]** Science begins for Smile
 - <a href="https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/" >🔗</a> **[NASA]** APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/" >🔗</a> **[NASA]** NASA Awards Orbital Safety Analysis Support Services Contract
 - <a href="https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/" >🔗</a> **[NASA]** NASA Features Exploration, Science at International Space Conference
 - <a href="https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/" >🔗</a> **[SpaceNews]** Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035
-- <a href="https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/" >🔗</a> **[NASA]** NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260930T130749">2026-09-30 13:07:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260930T133650">2026-09-30 13:36:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
