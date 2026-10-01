@@ -104,6 +104,8 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2026/10/01/live-coverage-nasa-spacex-to-launch-next-crewed-mission-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch next crewed mission to the International Space Station
+- <a href="https://www.nasaspaceflight.com/2026/09/crew-13-launch/" >🔗</a> **[NASASpaceflight]** Crew-13 astronauts set for launch to ISS after weeks of delays
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO
 - <a href="https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/" >🔗</a> **[NASA]** NASA Sets Crew-13 Launch, Docking Coverage
 - <a href="https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/" >🔗</a> **[NASA]** Crew-13 Rocket and Spacecraft at Launch Pad
@@ -112,13 +114,11 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/" >🔗</a> **[NASASpaceflight]** Expedition 75 astronauts continue science work as Crew-13 readies for launch
 - <a href="https://www.nasaspaceflight.com/2026/08/crew-13-delaney-interview/" >🔗</a> **[NASASpaceflight]** Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS
 - <a href="https://spacepolicyonline.com/news/spacex-replacing-mraps-with-cybertrucks-beginning-with-crew-13/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Replacing MRAPs with Cybertrucks Beginning with Crew-13
-- <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/" >🔗</a> **[NASA]** NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/" >🔗</a> **[NASA]** NASA Invites Media to Roman Space Telescope, Crew-13 Launches
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T071825">2026-10-01 07:18:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T074335">2026-10-01 07:43:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
