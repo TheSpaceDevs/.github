@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/10/transporter-18/" >🔗</a> **[NASASpaceflight]** Starfish Otter, other payloads set to launch on Transporter 18
+- <a href="https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/" >🔗</a> **[SpaceNews]** China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_view_of_volcanic_plume_boosts_air_safety" >🔗</a> **[ESA]** EarthCARE’s view of volcanic plume boosts air safety
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/" >🔗</a> **[NASA]** APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna
 - <a href="https://science.nasa.gov/earth/earth-observatory/an-agricultural-island-in-the-saskatchewan-river-delta/" >🔗</a> **[NASA]** An Agricultural “Island” in the Saskatchewan River Delta
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/" >🔗</a> **[SpaceNews]** Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them
 - <a href="https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/" >🔗</a> **[NASA]** Help Overlap Zoo Reveal Cosmic Dust
-- <a href="https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/" >🔗</a> **[NASA]** NASA Adds New Science Investigations for Moon Base
-- <a href="https://www.nasaspaceflight.com/2026/09/crew-13-launch/" >🔗</a> **[NASASpaceflight]** Crew-13 astronauts set for launch to ISS after weeks of delays
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T130552">2026-10-01 13:05:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T133740">2026-10-01 13:37:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
