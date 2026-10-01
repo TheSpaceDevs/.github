@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/" >🔗</a> **[NASA]** APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna
+- <a href="https://science.nasa.gov/earth/earth-observatory/an-agricultural-island-in-the-saskatchewan-river-delta/" >🔗</a> **[NASA]** An Agricultural “Island” in the Saskatchewan River Delta
 - <a href="https://spaceflightnow.com/2026/10/01/live-coverage-nasa-spacex-to-launch-next-crewed-mission-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch next crewed mission to the International Space Station
 - <a href="https://spacepolicyonline.com/news/ltg-david-miller-nominated-as-next-leader-of-u-s-space-command/" >🔗</a> **[SpacePolicyOnline.com]** LTG David Miller Nominated as Next Leader of U.S. Space Command
 - <a href="https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/" >🔗</a> **[SpaceNews]** Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/" >🔗</a> **[NASA]** NASA Adds New Science Investigations for Moon Base
 - <a href="https://www.nasaspaceflight.com/2026/09/crew-13-launch/" >🔗</a> **[NASASpaceflight]** Crew-13 astronauts set for launch to ISS after weeks of delays
 - <a href="https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/" >🔗</a> **[NASA]** NASA Awards Contract to Develop 5G Communications for Moon
-- <a href="https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/" >🔗</a> **[NASA]** NASA, International Partners Advance Work on Space Crops
-- <a href="https://www.nasa.gov/image-article/star-trails/" >🔗</a> **[NASA]** Star Trails
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T043947">2026-10-01 04:39:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T050240">2026-10-01 05:02:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
