@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/" >🔗</a> **[Spaceflight Now]** Falcon Heavy to fly its first mission for U.S. spy satellite agency
 - <a href="https://spaceflightnow.com/2026/10/01/fresh-crew-takes-off-for-six-month-stay-aboard-space-station/" >🔗</a> **[Spaceflight Now]** Fresh crew takes off for six-month stay aboard space station
 - <a href="https://www.nasa.gov/news-release/nasa-awards-enterprise-logistics-support-services-agreements/" >🔗</a> **[NASA]** NASA Awards Enterprise Logistics Support Services Agreements
 - <a href="https://www.nasaspaceflight.com/2026/10/nrol97-launch/" >🔗</a> **[NASASpaceflight]** Falcon Heavy set to launch classified NROL-97 to high-energy orbit
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: October 2026 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-13 Launches to International Space Station
 - <a href="https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/" >🔗</a> **[Arstechnica]** As US relations fray, Canada gets serious about its own launch industry
-- <a href="https://www.nasaspaceflight.com/2026/10/canada-rocket-company-engine-test-site-ontario/" >🔗</a> **[NASASpaceflight]** Canada Rocket Company plans first large-scale engine test site in London, Ontario
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T230223">2026-10-01 23:02:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T233248">2026-10-01 23:32:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
