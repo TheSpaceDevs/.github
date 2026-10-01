@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/10/nrol97-launch/" >🔗</a> **[NASASpaceflight]** Falcon Heavy set to launch classified NROL-97 to high-energy orbit
 - <a href="https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-13 Launches
 - <a href="https://www.spacescout.info/2026/10/crew-13-spreads-its-wings/" >🔗</a> **[Space Scout]** Crew-13 Spreads its Wings
 - <a href="https://spaceflightnow.com/2026/10/01/live-coverage-ai-datacenter-prototypes-energy-redirection-demonstrators-and-more-launching-on-spacexs-transporter-18/" >🔗</a> **[Spaceflight Now]** Live coverage: AI datacenter prototypes, energy redirection demonstrators and more launching on SpaceX’s Transporter-18
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/10/canada-rocket-company-engine-test-site-ontario/" >🔗</a> **[NASASpaceflight]** Canada Rocket Company plans first large-scale engine test site in London, Ontario
 - <a href="https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/" >🔗</a> **[SpaceNews]** World Space Week 2026 Celebrates the “Rocket Revolution”
 - <a href="https://spacenews.com/rethinking-risk-with-electronics-for-space/" >🔗</a> **[SpaceNews]** Rethinking risk with electronics for space
-- <a href="https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/" >🔗</a> **[SpaceNews]** LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T190213">2026-10-01 19:02:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T193356">2026-10-01 19:33:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
