@@ -90,6 +90,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-13 Launches to International Space Station
+- <a href="https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/" >🔗</a> **[Arstechnica]** As US relations fray, Canada gets serious about its own launch industry
+- <a href="https://www.nasaspaceflight.com/2026/10/canada-rocket-company-engine-test-site-ontario/" >🔗</a> **[NASASpaceflight]** Canada Rocket Company plans first large-scale engine test site in London, Ontario
 - <a href="https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/" >🔗</a> **[SpaceNews]** World Space Week 2026 Celebrates the “Rocket Revolution”
 - <a href="https://spacenews.com/rethinking-risk-with-electronics-for-space/" >🔗</a> **[SpaceNews]** Rethinking risk with electronics for space
 - <a href="https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/" >🔗</a> **[SpaceNews]** LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia
@@ -97,9 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions/" >🔗</a> **[NASA]** NASA’s Webb Provides Crash Course on Planet-Shattering Collisions
 - <a href="https://www.nasaspaceflight.com/2026/10/transporter-18/" >🔗</a> **[NASASpaceflight]** Starfish Otter, other payloads set to launch on Transporter 18
 - <a href="https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/" >🔗</a> **[SpaceNews]** China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_September_2026" >🔗</a> **[ESA]** What happened this month at the European Space Agency? (September 2026)
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Tiny_thrusters_3D-printed_in_space" >🔗</a> **[ESA]** Tiny thrusters 3D-printed in space
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_view_of_volcanic_plume_boosts_air_safety" >🔗</a> **[ESA]** EarthCARE’s view of volcanic plume boosts air safety
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T160306">2026-10-01 16:03:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T163552">2026-10-01 16:35:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
