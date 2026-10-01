@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_view_of_volcanic_plume_boosts_air_safety" >🔗</a> **[ESA]** EarthCARE’s view of volcanic plume boosts air safety
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/" >🔗</a> **[NASA]** APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna
 - <a href="https://science.nasa.gov/earth/earth-observatory/an-agricultural-island-in-the-saskatchewan-river-delta/" >🔗</a> **[NASA]** An Agricultural “Island” in the Saskatchewan River Delta
 - <a href="https://spaceflightnow.com/2026/10/01/live-coverage-nasa-spacex-to-launch-next-crewed-mission-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch next crewed mission to the International Space Station
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/" >🔗</a> **[NASA]** Help Overlap Zoo Reveal Cosmic Dust
 - <a href="https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/" >🔗</a> **[NASA]** NASA Adds New Science Investigations for Moon Base
 - <a href="https://www.nasaspaceflight.com/2026/09/crew-13-launch/" >🔗</a> **[NASASpaceflight]** Crew-13 astronauts set for launch to ISS after weeks of delays
-- <a href="https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/" >🔗</a> **[NASA]** NASA Awards Contract to Develop 5G Communications for Moon
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T080410">2026-10-01 08:04:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T084414">2026-10-01 08:44:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
