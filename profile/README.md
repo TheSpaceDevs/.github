@@ -19,33 +19,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Crew-13**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T151006">2026-10-01 15:10:06 UTC</a>.  Until
-then, this pad will have been used for 401
-out of 1129 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T181800">2026-10-01 18:18:00 UTC</a>.  Until
+then, this pad will have been used for 299
+out of 915 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Human Exploration* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Dedicated Rideshare* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  SpaceX Crew-13 is the thirteenth crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.
+  Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T151006">2026-10-01 15:10:06 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-13&location=Cape Canaveral SFS, FL, USA&dates=20261001T151006Z%2F20261001T151006Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-13** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T181800">2026-10-01 18:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20261001T181800Z%2F20261001T191600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261002T035300">2026-10-02 03:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | NROL-97&location=Kennedy Space Center, FL, USA&dates=20261002T035300Z%2F20261002T044200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | NROL-97** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261005T081600">2026-10-05 08:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A&location=Vandenberg SFB, CA, USA&dates=20261005T081600Z%2F20261005T082800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A** from Vandenberg SFB, CA, USA.
@@ -55,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261013T170000">2026-10-13 17:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | IRNSS-1L (NVS-03)&location=Satish Dhawan Space Centre, India&dates=20261013T170000Z%2F20261013T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | IRNSS-1L (NVS-03)** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261019T194103">2026-10-19 19:41:03 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-24 | Martian Moon eXplorer (MMX)&location=Tanegashima Space Center, Japan&dates=20261019T194103Z%2F20261019T194103Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-24 | Martian Moon eXplorer (MMX)** from Tanegashima Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261031T000000">2026-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 64 Block 2 | Amazon Leo (LE-04)&location=Guiana Space Centre, French Guiana&dates=20261031T000000Z%2F20261031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 64 Block 2 | Amazon Leo (LE-04)** from Guiana Space Centre, French Guiana.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261031T000000">2026-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)&location=Cape Canaveral SFS, FL, USA&dates=20261031T000000Z%2F20261031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,35 +90,31 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/" >🔗</a> **[SpaceNews]** World Space Week 2026 Celebrates the “Rocket Revolution”
+- <a href="https://spacenews.com/rethinking-risk-with-electronics-for-space/" >🔗</a> **[SpaceNews]** Rethinking risk with electronics for space
+- <a href="https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/" >🔗</a> **[SpaceNews]** LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia
+- <a href="https://europeanspaceflight.com/norwegian-government-proposes-paying-for-second-andoya-launch-pad/" >🔗</a> **[European Spaceflight]** Norwegian Government Proposes Paying for Second Andøya Launch Pad
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions/" >🔗</a> **[NASA]** NASA’s Webb Provides Crash Course on Planet-Shattering Collisions
 - <a href="https://www.nasaspaceflight.com/2026/10/transporter-18/" >🔗</a> **[NASASpaceflight]** Starfish Otter, other payloads set to launch on Transporter 18
 - <a href="https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/" >🔗</a> **[SpaceNews]** China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_September_2026" >🔗</a> **[ESA]** What happened this month at the European Space Agency? (September 2026)
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Tiny_thrusters_3D-printed_in_space" >🔗</a> **[ESA]** Tiny thrusters 3D-printed in space
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_view_of_volcanic_plume_boosts_air_safety" >🔗</a> **[ESA]** EarthCARE’s view of volcanic plume boosts air safety
-- <a href="https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/" >🔗</a> **[NASA]** APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna
-- <a href="https://science.nasa.gov/earth/earth-observatory/an-agricultural-island-in-the-saskatchewan-river-delta/" >🔗</a> **[NASA]** An Agricultural “Island” in the Saskatchewan River Delta
-- <a href="https://spaceflightnow.com/2026/10/01/live-coverage-nasa-spacex-to-launch-next-crewed-mission-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch next crewed mission to the International Space Station
-- <a href="https://spacepolicyonline.com/news/ltg-david-miller-nominated-as-next-leader-of-u-s-space-command/" >🔗</a> **[SpacePolicyOnline.com]** LTG David Miller Nominated as Next Leader of U.S. Space Command
-- <a href="https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/" >🔗</a> **[SpaceNews]** Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2026/10/01/live-coverage-nasa-spacex-to-launch-next-crewed-mission-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch next crewed mission to the International Space Station
-- <a href="https://www.nasaspaceflight.com/2026/09/crew-13-launch/" >🔗</a> **[NASASpaceflight]** Crew-13 astronauts set for launch to ISS after weeks of delays
+- <a href="https://www.nasaspaceflight.com/2026/10/transporter-18/" >🔗</a> **[NASASpaceflight]** Starfish Otter, other payloads set to launch on Transporter 18
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO
-- <a href="https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/" >🔗</a> **[NASA]** NASA Sets Crew-13 Launch, Docking Coverage
-- <a href="https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/" >🔗</a> **[NASA]** Crew-13 Rocket and Spacecraft at Launch Pad
-- <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s SpaceX Crew-13 Mission
-- <a href="https://spaceflightnow.com/2026/09/26/next-crew-bound-for-the-space-station-arrive-in-florida/" >🔗</a> **[Spaceflight Now]** Next crew bound for the space station arrive in Florida
-- <a href="https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/" >🔗</a> **[NASASpaceflight]** Expedition 75 astronauts continue science work as Crew-13 readies for launch
-- <a href="https://www.nasaspaceflight.com/2026/08/crew-13-delaney-interview/" >🔗</a> **[NASASpaceflight]** Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS
-- <a href="https://spacepolicyonline.com/news/spacex-replacing-mraps-with-cybertrucks-beginning-with-crew-13/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Replacing MRAPs with Cybertrucks Beginning with Crew-13
+- <a href="https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/" >🔗</a> **[NASA]** NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch
+- <a href="https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/" >🔗</a> **[Arstechnica]** After seven years, a spacecraft company is releasing its Otters into the wild
+- <a href="https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/" >🔗</a> **[NASASpaceflight]** Starfish Space’s first Otter servicing vehicle slated for Transporter-18
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/CubeSat_for_safer_seas_and_cleaner_orbits_ready_to_launch" >🔗</a> **[ESA]** CubeSat for safer seas and cleaner orbits ready to launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T150249">2026-10-01 15:02:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261001T153626">2026-10-01 15:36:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
