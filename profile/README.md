@@ -94,6 +94,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/portugals-omnidea-acquires-orbex-assets-plans-primeneo-rocket/" >🔗</a> **[European Spaceflight]** Portugal’s Omnidea Acquires Orbex Assets, Plans PrimeNEO Rocket
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_28_Sep_-_2_Oct_2026" >🔗</a> **[ESA]** Week in images: 28 Sep - 2 Oct 2026
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/A_guide_to_blood_draws_in_orbit" >🔗</a> **[ESA]** A guide to blood draws in orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Beyond_the_airlock_-_Sophie_Adenot_s_three_spacewalks" >🔗</a> **[ESA]** Beyond the airlock - Sophie Adenot's three spacewalks
@@ -103,7 +104,6 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 - <a href="https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/" >🔗</a> **[NASA]** Rains Swamp the Gandak River
 - <a href="https://spacepolicyonline.com/news/crew-13-arrives-at-iss-as-crew-12-prepares-to-depart/" >🔗</a> **[SpacePolicyOnline.com]** Crew-13 Arrives at ISS as Crew-12 Prepares to Depart
 - <a href="https://science.nasa.gov/solar-system/10-things-movie-night/" >🔗</a> **[NASA]** 10 Things: Movie Night
-- <a href="https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/" >🔗</a> **[Spaceflight Now]** Falcon Heavy to fly its first mission for U.S. spy satellite agency
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261002T150243">2026-10-02 15:02:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261002T153639">2026-10-02 15:36:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
