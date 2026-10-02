@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/10-things-movie-night/" >🔗</a> **[NASA]** 10 Things: Movie Night
 - <a href="https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/" >🔗</a> **[Spaceflight Now]** Falcon Heavy to fly its first mission for U.S. spy satellite agency
 - <a href="https://spaceflightnow.com/2026/10/01/fresh-crew-takes-off-for-six-month-stay-aboard-space-station/" >🔗</a> **[Spaceflight Now]** Fresh crew takes off for six-month stay aboard space station
 - <a href="https://www.nasa.gov/news-release/nasa-awards-enterprise-logistics-support-services-agreements/" >🔗</a> **[NASA]** NASA Awards Enterprise Logistics Support Services Agreements
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2026/10/01/live-coverage-ai-datacenter-prototypes-energy-redirection-demonstrators-and-more-launching-on-spacexs-transporter-18/" >🔗</a> **[Spaceflight Now]** Live coverage: AI datacenter prototypes, energy redirection demonstrators and more launching on SpaceX’s Transporter-18
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: October 2026 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-13 Launches to International Space Station
-- <a href="https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/" >🔗</a> **[Arstechnica]** As US relations fray, Canada gets serious about its own launch industry
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261002T000755">2026-10-02 00:07:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261002T011004">2026-10-02 01:10:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
