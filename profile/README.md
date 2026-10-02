@@ -94,6 +94,8 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/" >🔗</a> **[NASA]** Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission
+- <a href="https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/" >🔗</a> **[NASA]** NASA’s DAVINCI Probe Can Stand the Heat
 - <a href="https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/" >🔗</a> **[Arstechnica]** US military ends long-running program to spot nuclear missile launches
 - <a href="https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/" >🔗</a> **[NASA]** La NASA abre solicitudes para próxima promoción de directores de vuelo
 - <a href="https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/" >🔗</a> **[NASA]** NASA Campaign Explores Clouds Spawned by Wildfires
@@ -102,8 +104,6 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 - <a href="https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/" >🔗</a> **[NASA]** NASA Opens Applications for Next Class of Flight Directors
 - <a href="https://europeanspaceflight.com/portugals-omnidea-acquires-orbex-assets-plans-primeneo-rocket/" >🔗</a> **[European Spaceflight]** Portugal’s Omnidea Acquires Orbex Assets, Plans PrimeNEO Rocket
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_28_Sep_-_2_Oct_2026" >🔗</a> **[ESA]** Week in images: 28 Sep - 2 Oct 2026
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/A_guide_to_blood_draws_in_orbit" >🔗</a> **[ESA]** A guide to blood draws in orbit
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Beyond_the_airlock_-_Sophie_Adenot_s_three_spacewalks" >🔗</a> **[ESA]** Beyond the airlock - Sophie Adenot's three spacewalks
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261002T190211">2026-10-02 19:02:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261002T193417">2026-10-02 19:34:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
