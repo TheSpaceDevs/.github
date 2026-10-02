@@ -94,6 +94,8 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/" >🔗</a> **[NASA]** APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas
+- <a href="https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/" >🔗</a> **[NASA]** Rains Swamp the Gandak River
 - <a href="https://spacepolicyonline.com/news/crew-13-arrives-at-iss-as-crew-12-prepares-to-depart/" >🔗</a> **[SpacePolicyOnline.com]** Crew-13 Arrives at ISS as Crew-12 Prepares to Depart
 - <a href="https://science.nasa.gov/solar-system/10-things-movie-night/" >🔗</a> **[NASA]** 10 Things: Movie Night
 - <a href="https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/" >🔗</a> **[Spaceflight Now]** Falcon Heavy to fly its first mission for U.S. spy satellite agency
@@ -102,8 +104,6 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 - <a href="https://www.nasaspaceflight.com/2026/10/nrol97-launch/" >🔗</a> **[NASASpaceflight]** Falcon Heavy set to launch classified NROL-97 to high-energy orbit
 - <a href="https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-13 Launches
 - <a href="https://www.spacescout.info/2026/10/crew-13-spreads-its-wings/" >🔗</a> **[Space Scout]** Crew-13 Spreads its Wings
-- <a href="https://spaceflightnow.com/2026/10/01/live-coverage-ai-datacenter-prototypes-energy-redirection-demonstrators-and-more-launching-on-spacexs-transporter-18/" >🔗</a> **[Spaceflight Now]** Live coverage: AI datacenter prototypes, energy redirection demonstrators and more launching on SpaceX’s Transporter-18
-- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: October 2026 Skywatching Tips from NASA
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261002T050249">2026-10-02 05:02:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261002T053626">2026-10-02 05:36:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
