@@ -94,6 +94,8 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Beyond_the_airlock_-_Sophie_Adenot_s_three_spacewalks" >🔗</a> **[ESA]** Beyond the airlock - Sophie Adenot's three spacewalks
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Typhoon_Surigae" >🔗</a> **[ESA]** Earth from Space: Typhoon Surigae
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Jammertest_pumps_up_the_jam_in_Norway" >🔗</a> **[ESA]** Jammertest pumps up the jam in Norway
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/" >🔗</a> **[NASA]** APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas
 - <a href="https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/" >🔗</a> **[NASA]** Rains Swamp the Gandak River
@@ -102,8 +104,6 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 - <a href="https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/" >🔗</a> **[Spaceflight Now]** Falcon Heavy to fly its first mission for U.S. spy satellite agency
 - <a href="https://spaceflightnow.com/2026/10/01/fresh-crew-takes-off-for-six-month-stay-aboard-space-station/" >🔗</a> **[Spaceflight Now]** Fresh crew takes off for six-month stay aboard space station
 - <a href="https://www.nasa.gov/news-release/nasa-awards-enterprise-logistics-support-services-agreements/" >🔗</a> **[NASA]** NASA Awards Enterprise Logistics Support Services Agreements
-- <a href="https://www.nasaspaceflight.com/2026/10/nrol97-launch/" >🔗</a> **[NASASpaceflight]** Falcon Heavy set to launch classified NROL-97 to high-energy orbit
-- <a href="https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-13 Launches
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261002T100252">2026-10-02 10:02:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261002T103558">2026-10-02 10:35:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
