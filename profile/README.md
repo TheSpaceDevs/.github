@@ -19,27 +19,31 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon Heavy | NROL-97**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261002T035300">2026-10-02 03:53:00 UTC</a>.  Until
-then, this pad will have been used for 223
-out of 282 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261005T081700">2026-10-05 08:17:00 UTC</a>.  Until
+then, this pad will have been used for 300
+out of 916 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Government/Top Secret* and the payload will be injected
-into *an Unknown
-(N/A)*.
+into *a Polar Orbit
+(PO)*.
 <br>
 <blockquote>
-  Classified payload for the US National Reconnaissance Office.
+  Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.
+
+The constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.
+
+This launch carries 21 satellites manufactured by Northrop Grumman.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_Heavy" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +58,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261031T000000">2026-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 64 Block 2 | Amazon Leo (LE-04)&location=Guiana Space Centre, French Guiana&dates=20261031T000000Z%2F20261031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 64 Block 2 | Amazon Leo (LE-04)** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261031T000000">2026-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)&location=Cape Canaveral SFS, FL, USA&dates=20261031T000000Z%2F20261031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261031T000000">2026-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | IRNSS-1L (NVS-03)&location=Satish Dhawan Space Centre, India&dates=20261031T000000Z%2F20261031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | IRNSS-1L (NVS-03)** from Satish Dhawan Space Centre, India.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261031T000000">2026-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 12A | Flight 2&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20261031T000000Z%2F20261031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 12A | Flight 2** from Jiuquan Satellite Launch Center, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -104,12 +109,13 @@ into *an Unknown
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO
-- <a href="https://spacenews.com/spacex-secures-majority-of-nssl-phase-3-fiscal-year-2025-missions/" >🔗</a> **[SpaceNews]** SpaceX secures majority of NSSL Phase 3 fiscal year 2025 missions
+- <a href="https://spaceflightnow.com/2022/06/10/u-s-space-force-orders-eight-launches-from-ula-and-spacex/" >🔗</a> **[Spaceflight Now]** U.S. Space Force orders eight launches from ULA and SpaceX
+- <a href="https://www.teslarati.com/spacex-ula-win-8-us-military-launch-contracts-2022/" >🔗</a> **[Teslarati]** SpaceX, ULA awarded eight more US military launch contracts
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261002T040308">2026-10-02 04:03:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261002T043925">2026-10-02 04:39:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
