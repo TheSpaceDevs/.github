@@ -99,11 +99,11 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 - <a href="https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/" >🔗</a> **[NASA]** Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission
 - <a href="https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/" >🔗</a> **[NASA]** NASA’s DAVINCI Probe Can Stand the Heat
 - <a href="https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/" >🔗</a> **[Arstechnica]** US military ends long-running program to spot nuclear missile launches
-- <a href="https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/" >🔗</a> **[NASA]** La NASA abre solicitudes para próxima promoción de directores de vuelo
 - <a href="https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/" >🔗</a> **[NASA]** NASA Campaign Explores Clouds Spawned by Wildfires
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/" >🔗</a> **[NASA]** NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests
 - <a href="https://www.spacescout.info/2026/10/despite-ambiguous-wording-moon-bases-perimeter-likely-complies-with-international-law/" >🔗</a> **[Space Scout]** Analysis: Despite Ambiguous Wording, Moon Base’s “Perimeter” Likely Complies With International Law
 - <a href="https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/" >🔗</a> **[NASA]** NASA Opens Applications for Next Class of Flight Directors
+- <a href="https://europeanspaceflight.com/portugals-omnidea-acquires-orbex-assets-plans-primeneo-rocket/" >🔗</a> **[European Spaceflight]** Portugal’s Omnidea Acquires Orbex Assets, Plans PrimeNEO Rocket
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261003T060713">2026-10-03 06:07:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261003T065651">2026-10-03 06:56:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
