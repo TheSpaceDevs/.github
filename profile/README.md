@@ -94,6 +94,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/" >🔗</a> **[NASA]** APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey
 - <a href="https://www.nasaspaceflight.com/2026/10/europe-update/" >🔗</a> **[NASASpaceflight]** ESA to pursue crew transport and space stations as European launchers come online
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/" >🔗</a> **[NASA]** APOD: 2026 October 3 – Selfie at Vera Rubin Ridge
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/" >🔗</a> **[NASA]** NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia
@@ -103,7 +104,6 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 - <a href="https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/" >🔗</a> **[NASA]** NASA Campaign Explores Clouds Spawned by Wildfires
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/" >🔗</a> **[NASA]** NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests
 - <a href="https://www.spacescout.info/2026/10/despite-ambiguous-wording-moon-bases-perimeter-likely-complies-with-international-law/" >🔗</a> **[Space Scout]** Analysis: Despite Ambiguous Wording, Moon Base’s “Perimeter” Likely Complies With International Law
-- <a href="https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/" >🔗</a> **[NASA]** NASA Opens Applications for Next Class of Flight Directors
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261004T032106">2026-10-04 03:21:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261004T045801">2026-10-04 04:58:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
