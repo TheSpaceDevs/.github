@@ -94,6 +94,8 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 data transport satellites for the Space Development Agency
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-4-10-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 4-10, 2026
 - <a href="https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/" >🔗</a> **[NASA]** Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/" >🔗</a> **[NASA]** APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey
 - <a href="https://www.nasaspaceflight.com/2026/10/europe-update/" >🔗</a> **[NASASpaceflight]** ESA to pursue crew transport and space stations as European launchers come online
@@ -102,8 +104,6 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 - <a href="https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/" >🔗</a> **[NASA]** Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission
 - <a href="https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/" >🔗</a> **[NASA]** NASA’s DAVINCI Probe Can Stand the Heat
 - <a href="https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/" >🔗</a> **[Arstechnica]** US military ends long-running program to spot nuclear missile launches
-- <a href="https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/" >🔗</a> **[NASA]** NASA Campaign Explores Clouds Spawned by Wildfires
-- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/" >🔗</a> **[NASA]** NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261004T193649">2026-10-04 19:36:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261004T204032">2026-10-04 20:40:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
