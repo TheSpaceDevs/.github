@@ -94,6 +94,8 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/" >🔗</a> **[SpaceNews]** Resource competition intensifies with surge in megaconstellations
+- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_1" >🔗</a> **[ESA]** ESA at IAC 2026 – Day 1
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-christina-koch-at-eagles-vs-rams/" >🔗</a> **[NASA]** NASA Astronaut Christina Koch at Eagles vs. Rams
 - <a href="https://www.nasa.gov/image-article/nasa-testing-aims-at-supercooled-large-droplet-aviation-safety/" >🔗</a> **[NASA]** NASA Testing Aims at Supercooled Large Droplet Aviation Safety
 - <a href="https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/" >🔗</a> **[NASA]** Suspected Second-generation Planet Solves NASA Hubble Cold Case
@@ -102,8 +104,6 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 - <a href="https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/" >🔗</a> **[SpaceNews]** Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth
 - <a href="https://isd.esa.int/home/programme/" >🔗</a> **[ESA]** Presentations at Industry Space Days
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Vacuuming_the_ventilation_grids_in_Columbus" >🔗</a> **[ESA]** Vacuuming the ventilation grids in Columbus
-- <a href="https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/" >🔗</a> **[NASA]** APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams
-- <a href="https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/" >🔗</a> **[NASA]** Moon-Like Madagascar
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261005T190440">2026-10-05 19:04:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261005T194606">2026-10-05 19:46:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
