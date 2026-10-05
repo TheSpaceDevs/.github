@@ -94,6 +94,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/" >🔗</a> **[NASA]** NASA to Stream SpaceX Crew-12 Return, Splashdown Live
 - <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/" >🔗</a> **[NASASpaceflight]** Launch Preview: Flights from South Korea, China, USA planned for this week
 - <a href="https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/" >🔗</a> **[SpaceNews]** Resource competition intensifies with surge in megaconstellations
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_1" >🔗</a> **[ESA]** ESA at IAC 2026 – Day 1
@@ -103,7 +104,6 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/contacting-nasas-langley-research-center/" >🔗</a> **[NASA]** Contacting NASA’s Langley Research Center
 - <a href="https://europeanspaceflight.com/second-hyimpulse-suborbital-sr75-flight-slips-to-2027/" >🔗</a> **[European Spaceflight]** Second HyImpulse Suborbital SR75 Flight Slips to 2027
 - <a href="https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/" >🔗</a> **[SpaceNews]** Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth
-- <a href="https://isd.esa.int/home/programme/" >🔗</a> **[ESA]** Presentations at Industry Space Days
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261005T220235">2026-10-05 22:02:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261005T223414">2026-10-05 22:34:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
