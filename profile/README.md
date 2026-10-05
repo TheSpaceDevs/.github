@@ -94,16 +94,16 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/second-hyimpulse-suborbital-sr75-flight-slips-to-2027/" >🔗</a> **[European Spaceflight]** Second HyImpulse Suborbital SR75 Flight Slips to 2027
 - <a href="https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/" >🔗</a> **[SpaceNews]** Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth
 - <a href="https://isd.esa.int/home/programme/" >🔗</a> **[ESA]** Presentations at Industry Space Days
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Vacuuming_the_ventilation_grids_in_Columbus" >🔗</a> **[ESA]** Vacuuming the ventilation grids in Columbus
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/" >🔗</a> **[NASA]** APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams
 - <a href="https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/" >🔗</a> **[NASA]** Moon-Like Madagascar
 - <a href="https://www.nasaspaceflight.com/2026/10/smile-uvi-sxi-commissioning/" >🔗</a> **[NASASpaceflight]** ESA, CAS release first images from SMILE; officially begin science operations
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek
 - <a href="https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 data transport satellites for the Space Development Agency
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-4-10-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 4-10, 2026
-- <a href="https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/" >🔗</a> **[NASA]** Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino
-- <a href="https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/" >🔗</a> **[NASA]** APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261005T140422">2026-10-05 14:04:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261005T144017">2026-10-05 14:40:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
