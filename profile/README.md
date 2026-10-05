@@ -94,6 +94,8 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/" >🔗</a> **[NASA]** APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams
+- <a href="https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/" >🔗</a> **[NASA]** Moon-Like Madagascar
 - <a href="https://www.nasaspaceflight.com/2026/10/smile-uvi-sxi-commissioning/" >🔗</a> **[NASASpaceflight]** ESA, CAS release first images from SMILE; officially begin science operations
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek
 - <a href="https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 data transport satellites for the Space Development Agency
@@ -102,8 +104,6 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/" >🔗</a> **[NASA]** APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey
 - <a href="https://www.nasaspaceflight.com/2026/10/europe-update/" >🔗</a> **[NASASpaceflight]** ESA to pursue crew transport and space stations as European launchers come online
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/" >🔗</a> **[NASA]** APOD: 2026 October 3 – Selfie at Vera Rubin Ridge
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/" >🔗</a> **[NASA]** NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia
-- <a href="https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/" >🔗</a> **[NASA]** Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261005T040837">2026-10-05 04:08:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261005T050232">2026-10-05 05:02:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
