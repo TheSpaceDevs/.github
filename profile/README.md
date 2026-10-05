@@ -94,6 +94,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasa-astronaut-christina-koch-at-eagles-vs-rams/" >🔗</a> **[NASA]** NASA Astronaut Christina Koch at Eagles vs. Rams
 - <a href="https://www.nasa.gov/image-article/nasa-testing-aims-at-supercooled-large-droplet-aviation-safety/" >🔗</a> **[NASA]** NASA Testing Aims at Supercooled Large Droplet Aviation Safety
 - <a href="https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/" >🔗</a> **[NASA]** Suspected Second-generation Planet Solves NASA Hubble Cold Case
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/contacting-nasas-langley-research-center/" >🔗</a> **[NASA]** Contacting NASA’s Langley Research Center
@@ -103,7 +104,6 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Vacuuming_the_ventilation_grids_in_Columbus" >🔗</a> **[ESA]** Vacuuming the ventilation grids in Columbus
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/" >🔗</a> **[NASA]** APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams
 - <a href="https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/" >🔗</a> **[NASA]** Moon-Like Madagascar
-- <a href="https://www.nasaspaceflight.com/2026/10/smile-uvi-sxi-commissioning/" >🔗</a> **[NASASpaceflight]** ESA, CAS release first images from SMILE; officially begin science operations
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261005T180342">2026-10-05 18:03:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261005T184254">2026-10-05 18:42:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
