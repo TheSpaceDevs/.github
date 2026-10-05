@@ -23,7 +23,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T081700">2026-10-06 08:17:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T081744">2026-10-06 08:17:44 UTC</a>.  Until
 then, this pad will have been used for 300
 out of 916 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -49,7 +49,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T081700">2026-10-06 08:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A&location=Vandenberg SFB, CA, USA&dates=20261006T081700Z%2F20261006T081700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T081744">2026-10-06 08:17:44 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A&location=Vandenberg SFB, CA, USA&dates=20261006T081744Z%2F20261006T081744Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261007T032300">2026-10-07 03:23:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | NeonSat-2 to 6&location=Naro Space Center, South Korea&dates=20261007T032300Z%2F20261007T042300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Nuri | NeonSat-2 to 6** from Naro Space Center, South Korea.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261009T192000">2026-10-09 19:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 12 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20261009T192000Z%2F20261009T194900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 12 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261010T230000">2026-10-10 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-25&location=Vandenberg SFB, CA, USA&dates=20261010T230000Z%2F20261011T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-25** from Vandenberg SFB, CA, USA.
@@ -94,6 +94,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/" >🔗</a> **[NASASpaceflight]** Launch Preview: Flights from South Korea, China, USA planned for this week
 - <a href="https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/" >🔗</a> **[SpaceNews]** Resource competition intensifies with surge in megaconstellations
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_1" >🔗</a> **[ESA]** ESA at IAC 2026 – Day 1
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-christina-koch-at-eagles-vs-rams/" >🔗</a> **[NASA]** NASA Astronaut Christina Koch at Eagles vs. Rams
@@ -103,7 +104,6 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 - <a href="https://europeanspaceflight.com/second-hyimpulse-suborbital-sr75-flight-slips-to-2027/" >🔗</a> **[European Spaceflight]** Second HyImpulse Suborbital SR75 Flight Slips to 2027
 - <a href="https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/" >🔗</a> **[SpaceNews]** Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth
 - <a href="https://isd.esa.int/home/programme/" >🔗</a> **[ESA]** Presentations at Industry Space Days
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Vacuuming_the_ventilation_grids_in_Columbus" >🔗</a> **[ESA]** Vacuuming the ventilation grids in Columbus
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261005T194606">2026-10-05 19:46:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261005T210304">2026-10-05 21:03:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
