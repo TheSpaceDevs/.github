@@ -94,6 +94,8 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/" >🔗</a> **[SpaceNews]** Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth
+- <a href="https://isd.esa.int/home/programme/" >🔗</a> **[ESA]** Presentations at Industry Space Days
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/" >🔗</a> **[NASA]** APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams
 - <a href="https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/" >🔗</a> **[NASA]** Moon-Like Madagascar
 - <a href="https://www.nasaspaceflight.com/2026/10/smile-uvi-sxi-commissioning/" >🔗</a> **[NASASpaceflight]** ESA, CAS release first images from SMILE; officially begin science operations
@@ -102,8 +104,6 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-4-10-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 4-10, 2026
 - <a href="https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/" >🔗</a> **[NASA]** Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/" >🔗</a> **[NASA]** APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey
-- <a href="https://www.nasaspaceflight.com/2026/10/europe-update/" >🔗</a> **[NASASpaceflight]** ESA to pursue crew transport and space stations as European launchers come online
-- <a href="https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/" >🔗</a> **[NASA]** APOD: 2026 October 3 – Selfie at Vera Rubin Ridge
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261005T124935">2026-10-05 12:49:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261005T130820">2026-10-05 13:08:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
