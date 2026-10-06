@@ -33,6 +33,18 @@ into *a Sun-Synchronous Orbit
 <br>
 <blockquote>
   NeonSat-2 to 6 are part of the South Korean government's Earth observation micro-satellite constellation NeonSat (New-space Earth Observation Satellite). The NeonSat constellation is the first satellite system developed by the government using a mass-production approach for precise monitoring of the Korean Peninsula.
+
+10 ride-sharing small satellites from various Korean institutes and organizations will also fly on this launch:
+* SLEDGE
+* GBSAT
+* PERSAT02
+* UEL-Y-Sys
+* SD-1 SAT
+* E3_TESTER-KARI-2
+* DaejonSat-1
+* BEE-1012
+* JACK-007
+* CPSat
 </blockquote>
 
 <p float="left" align="center">
@@ -90,6 +102,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2026/10/it-looks-like-the-atlantic-storm-season-may-finally-produce-a-hurricane/" >🔗</a> **[Arstechnica]** It looks like the Atlantic storm season may finally produce a hurricane
 - <a href="https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/" >🔗</a> **[SpaceNews]** Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/" >🔗</a> **[NASA]** NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure
 - <a href="https://science.nasa.gov/earth/earth-observatory/october-2026-satellite-puzzler/" >🔗</a> **[NASA]** October 2026 Satellite Puzzler
@@ -99,7 +112,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://arstechnica.com/space/2026/10/why-is-nasa-bringing-7500-contractors-back-to-work-as-civil-servants/" >🔗</a> **[Arstechnica]** Why is NASA bringing 7,500 contractors back to work as civil servants?
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-catches-stunning-martian-dawn/" >🔗</a> **[NASA]** NASA’s Curiosity Rover Catches Stunning Martian Dawn
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_2" >🔗</a> **[ESA]** ESA at IAC 2026 – Day 2
-- <a href="https://europeanspaceflight.com/the-eu-extends-salto-deadline-again-as-themis-hop-test-slips/" >🔗</a> **[European Spaceflight]** The EU Extends SALTO Deadline Again as Themis Hop Test Slips
 
 
 ### Launch-related News 🚀
@@ -109,7 +121,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T200257">2026-10-06 20:02:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T203734">2026-10-06 20:37:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
