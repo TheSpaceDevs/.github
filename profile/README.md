@@ -90,7 +90,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/the-eu-extends-salto-deadline-again-as-themis-hop-test-slips/" >🔗</a> **[European Spaceflight]** The EU Extends SALTO Deadline Again as Themis Hop Test Slips
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets" >🔗</a> **[ESA]** Webb captures commotion from nebula’s stellar jets
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/" >🔗</a> **[NASA]** NASA’s Webb Captures Commotion From Nebula’s Stellar Jets
 - <a href="https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/" >🔗</a> **[NASASpaceflight]** NASA progress with SLS vehicles for upcoming Artemis missions
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/How_to_record_rocket_emissions" >🔗</a> **[ESA]** How to record rocket emissions
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_rover_trains_for_Mars_in_the_desert" >🔗</a> **[ESA]** European rover trains for Mars in the desert
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/" >🔗</a> **[NASA]** The Beaver Brown Waters of Rupert Bay
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5029-5035: Back in the Lab
 - <a href="https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/" >🔗</a> **[NASA]** A Journey to the Depths of Ancient Mars?
-- <a href="https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/" >🔗</a> **[NASA]** NASA to Stream SpaceX Crew-12 Return, Splashdown Live
-- <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/" >🔗</a> **[NASASpaceflight]** Launch Preview: Flights from South Korea, China, USA planned for this week
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T140307">2026-10-06 14:03:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T143602">2026-10-06 14:36:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
