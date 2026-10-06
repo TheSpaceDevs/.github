@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5029-5035: Back in the Lab
+- <a href="https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/" >🔗</a> **[NASA]** A Journey to the Depths of Ancient Mars?
 - <a href="https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/" >🔗</a> **[NASA]** NASA to Stream SpaceX Crew-12 Return, Splashdown Live
 - <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/" >🔗</a> **[NASASpaceflight]** Launch Preview: Flights from South Korea, China, USA planned for this week
 - <a href="https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/" >🔗</a> **[SpaceNews]** Resource competition intensifies with surge in megaconstellations
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-testing-aims-at-supercooled-large-droplet-aviation-safety/" >🔗</a> **[NASA]** NASA Testing Aims at Supercooled Large Droplet Aviation Safety
 - <a href="https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/" >🔗</a> **[NASA]** Suspected Second-generation Planet Solves NASA Hubble Cold Case
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/contacting-nasas-langley-research-center/" >🔗</a> **[NASA]** Contacting NASA’s Langley Research Center
-- <a href="https://europeanspaceflight.com/second-hyimpulse-suborbital-sr75-flight-slips-to-2027/" >🔗</a> **[European Spaceflight]** Second HyImpulse Suborbital SR75 Flight Slips to 2027
-- <a href="https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/" >🔗</a> **[SpaceNews]** Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T011010">2026-10-06 01:10:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T014700">2026-10-06 01:47:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
