@@ -90,7 +90,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets" >🔗</a> **[ESA]** Webb captures commotion from nebula’s stellar jets
 - <a href="https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/" >🔗</a> **[NASASpaceflight]** NASA progress with SLS vehicles for upcoming Artemis missions
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/How_to_record_rocket_emissions" >🔗</a> **[ESA]** How to record rocket emissions
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_rover_trains_for_Mars_in_the_desert" >🔗</a> **[ESA]** European rover trains for Mars in the desert
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/" >🔗</a> **[NASA]** APOD: 2026 October 6 – A Complete Auroral Oval from SMILE
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/" >🔗</a> **[NASA]** The Beaver Brown Waters of Rupert Bay
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/" >🔗</a> **[NASA]** A Journey to the Depths of Ancient Mars?
 - <a href="https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/" >🔗</a> **[NASA]** NASA to Stream SpaceX Crew-12 Return, Splashdown Live
 - <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/" >🔗</a> **[NASASpaceflight]** Launch Preview: Flights from South Korea, China, USA planned for this week
-- <a href="https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/" >🔗</a> **[SpaceNews]** Resource competition intensifies with surge in megaconstellations
-- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_1" >🔗</a> **[ESA]** ESA at IAC 2026 – Day 1
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T130444">2026-10-06 13:04:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T133635">2026-10-06 13:36:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
