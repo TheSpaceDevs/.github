@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/" >🔗</a> **[NASASpaceflight]** NASA progress with SLS vehicles for upcoming Artemis missions
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_rover_trains_for_Mars_in_the_desert" >🔗</a> **[ESA]** European rover trains for Mars in the desert
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/" >🔗</a> **[NASA]** APOD: 2026 October 6 – A Complete Auroral Oval from SMILE
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/" >🔗</a> **[NASA]** The Beaver Brown Waters of Rupert Bay
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/" >🔗</a> **[NASASpaceflight]** Launch Preview: Flights from South Korea, China, USA planned for this week
 - <a href="https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/" >🔗</a> **[SpaceNews]** Resource competition intensifies with surge in megaconstellations
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_1" >🔗</a> **[ESA]** ESA at IAC 2026 – Day 1
-- <a href="https://www.nasa.gov/image-article/nasa-astronaut-christina-koch-at-eagles-vs-rams/" >🔗</a> **[NASA]** NASA Astronaut Christina Koch at Eagles vs. Rams
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T120418">2026-10-06 12:04:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T124608">2026-10-06 12:46:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
