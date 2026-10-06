@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/" >🔗</a> **[NASA]** APOD: 2026 October 6 – A Complete Auroral Oval from SMILE
+- <a href="https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/" >🔗</a> **[NASA]** The Beaver Brown Waters of Rupert Bay
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5029-5035: Back in the Lab
 - <a href="https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/" >🔗</a> **[NASA]** A Journey to the Depths of Ancient Mars?
 - <a href="https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/" >🔗</a> **[NASA]** NASA to Stream SpaceX Crew-12 Return, Splashdown Live
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_1" >🔗</a> **[ESA]** ESA at IAC 2026 – Day 1
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-christina-koch-at-eagles-vs-rams/" >🔗</a> **[NASA]** NASA Astronaut Christina Koch at Eagles vs. Rams
 - <a href="https://www.nasa.gov/image-article/nasa-testing-aims-at-supercooled-large-droplet-aviation-safety/" >🔗</a> **[NASA]** NASA Testing Aims at Supercooled Large Droplet Aviation Safety
-- <a href="https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/" >🔗</a> **[NASA]** Suspected Second-generation Planet Solves NASA Hubble Cold Case
-- <a href="https://www.nasa.gov/centers-and-facilities/langley/contacting-nasas-langley-research-center/" >🔗</a> **[NASA]** Contacting NASA’s Langley Research Center
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T050244">2026-10-06 05:02:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T053656">2026-10-06 05:36:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
