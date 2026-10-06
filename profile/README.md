@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/" >🔗</a> **[SpaceNews]** Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/" >🔗</a> **[NASA]** NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure
 - <a href="https://science.nasa.gov/earth/earth-observatory/october-2026-satellite-puzzler/" >🔗</a> **[NASA]** October 2026 Satellite Puzzler
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/lunar-grounding-challenge/" >🔗</a> **[NASA]** Lunar Grounding Challenge
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-catches-stunning-martian-dawn/" >🔗</a> **[NASA]** NASA’s Curiosity Rover Catches Stunning Martian Dawn
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_2" >🔗</a> **[ESA]** ESA at IAC 2026 – Day 2
 - <a href="https://europeanspaceflight.com/the-eu-extends-salto-deadline-again-as-themis-hop-test-slips/" >🔗</a> **[European Spaceflight]** The EU Extends SALTO Deadline Again as Themis Hop Test Slips
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/" >🔗</a> **[NASA]** NASA’s Webb Captures Commotion From Nebula’s Stellar Jets
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T190200">2026-10-06 19:02:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T193408">2026-10-06 19:34:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
