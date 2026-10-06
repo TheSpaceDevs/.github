@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/" >🔗</a> **[NASA]** Astronomers Solve Cosmic Cold Case with NASA Hubble Data
+- <a href="https://arstechnica.com/space/2026/10/why-is-nasa-bringing-7500-contractors-back-to-work-as-civil-servants/" >🔗</a> **[Arstechnica]** Why is NASA bringing 7,500 contractors back to work as civil servants?
+- <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-catches-stunning-martian-dawn/" >🔗</a> **[NASA]** NASA’s Curiosity Rover Catches Stunning Martian Dawn
+- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_2" >🔗</a> **[ESA]** ESA at IAC 2026 – Day 2
 - <a href="https://europeanspaceflight.com/the-eu-extends-salto-deadline-again-as-themis-hop-test-slips/" >🔗</a> **[European Spaceflight]** The EU Extends SALTO Deadline Again as Themis Hop Test Slips
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets" >🔗</a> **[ESA]** Webb captures commotion from nebula’s stellar jets
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/" >🔗</a> **[NASA]** NASA’s Webb Captures Commotion From Nebula’s Stellar Jets
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets" >🔗</a> **[ESA]** Webb captures commotion from nebula’s stellar jets
 - <a href="https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/" >🔗</a> **[NASASpaceflight]** NASA progress with SLS vehicles for upcoming Artemis missions
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/How_to_record_rocket_emissions" >🔗</a> **[ESA]** How to record rocket emissions
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_rover_trains_for_Mars_in_the_desert" >🔗</a> **[ESA]** European rover trains for Mars in the desert
-- <a href="https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/" >🔗</a> **[NASA]** APOD: 2026 October 6 – A Complete Auroral Oval from SMILE
-- <a href="https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/" >🔗</a> **[NASA]** The Beaver Brown Waters of Rupert Bay
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5029-5035: Back in the Lab
-- <a href="https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/" >🔗</a> **[NASA]** A Journey to the Depths of Ancient Mars?
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Watch_Sophie_Adenot_return_to_Earth" >🔗</a> **[ESA]** Watch Sophie Adenot return to Earth
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T160329">2026-10-06 16:03:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261006T163830">2026-10-06 16:38:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
