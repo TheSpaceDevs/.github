@@ -94,6 +94,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/" >🔗</a> **[NASA]** Artemis II Crew Moon Photo Annotations
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought" >🔗</a> **[ESA]** Mars’s oddest cloud may be even odder than we thought
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_3" >🔗</a> **[ESA]** ESA at IAC 2026 – Day 3
 - <a href="https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/" >🔗</a> **[SpaceNews]** Announcing the finalists for the 2026 SpaceNews Icon Awards
@@ -103,7 +104,6 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 - <a href="https://www.esa.int/Space_Safety/Hera/Finding_Hera_s_way_ESA_s_Flight_Dynamics_team_into_action" >🔗</a> **[ESA]** Finding Hera’s way: ESA’s Flight Dynamics team into action
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/When_the_Sun_turns_black" >🔗</a> **[ESA]** When the Sun turns black
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/" >🔗</a> **[NASA]** APOD: 2026 October 7 – Supernova Remnant Pa 30
-- <a href="https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/" >🔗</a> **[NASA]** Arctic Sea Ice Shrinks to Its 2026 Minimum
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261007T160335">2026-10-07 16:03:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261007T163853">2026-10-07 16:38:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
