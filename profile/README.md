@@ -94,6 +94,8 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/" >🔗</a> **[NASA]** NASA’s Curiosity Looks Back After Reaching Elevation Milestone
+- <a href="https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/" >🔗</a> **[NASA]** NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs
 - <a href="https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/" >🔗</a> **[NASA]** Artemis II Crew Moon Photo Annotations
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought" >🔗</a> **[ESA]** Mars’s oddest cloud may be even odder than we thought
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_3" >🔗</a> **[ESA]** ESA at IAC 2026 – Day 3
@@ -102,8 +104,6 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/The_Incredible_Adventures_of_the_Hera_mission_The_space_detectives_arrive" >🔗</a> **[ESA]** The Incredible Adventures of the Hera mission – The space detectives arrive
 - <a href="https://europeanspaceflight.com/arianegroup-completes-second-themis-wet-dress-rehearsal/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Second Themis Wet Dress Rehearsal
 - <a href="https://www.esa.int/Space_Safety/Hera/Finding_Hera_s_way_ESA_s_Flight_Dynamics_team_into_action" >🔗</a> **[ESA]** Finding Hera’s way: ESA’s Flight Dynamics team into action
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/When_the_Sun_turns_black" >🔗</a> **[ESA]** When the Sun turns black
-- <a href="https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/" >🔗</a> **[NASA]** APOD: 2026 October 7 – Supernova Remnant Pa 30
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261007T173633">2026-10-07 17:36:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261007T180329">2026-10-07 18:03:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
