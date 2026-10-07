@@ -94,6 +94,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/" >🔗</a> **[NASA]** Arctic Sea Ice Shrinks to Its 2026 Minimum
 - <a href="https://www.nasaspaceflight.com/2026/10/crew-12-return/" >🔗</a> **[NASASpaceflight]** Crew-12 set to depart the ISS after eighth months in orbit
 - <a href="https://arstechnica.com/science/2026/10/it-looks-like-the-atlantic-storm-season-may-finally-produce-a-hurricane/" >🔗</a> **[Arstechnica]** It looks like the Atlantic storm season may finally produce a hurricane
 - <a href="https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/" >🔗</a> **[SpaceNews]** Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format
@@ -103,7 +104,6 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 - <a href="https://www.nasa.gov/news-release/nasa-glenn-invites-phase-1-proposals-for-aerospace-power-systems-laboratory/" >🔗</a> **[NASA]** NASA Glenn Invites Phase 1 Proposals for Aerospace Power Systems Laboratory
 - <a href="https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/" >🔗</a> **[NASA]** Astronomers Solve Cosmic Cold Case with NASA Hubble Data
 - <a href="https://arstechnica.com/space/2026/10/why-is-nasa-bringing-7500-contractors-back-to-work-as-civil-servants/" >🔗</a> **[Arstechnica]** Why is NASA bringing 7,500 contractors back to work as civil servants?
-- <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-catches-stunning-martian-dawn/" >🔗</a> **[NASA]** NASA’s Curiosity Rover Catches Stunning Martian Dawn
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261007T040401">2026-10-07 04:04:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261007T044056">2026-10-07 04:40:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
