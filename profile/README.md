@@ -94,6 +94,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/" >🔗</a> **[SpaceNews]** Announcing the finalists for the 2026 SpaceNews Icon Awards
 - <a href="https://www.esa.int/Space_Safety/Hera/Brake!_Time_for_ESA_s_Hera_asteroid_mission_to_go_slow" >🔗</a> **[ESA]** Brake! Time for ESA’s Hera asteroid mission to go slow
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/The_Incredible_Adventures_of_the_Hera_mission_The_space_detectives_arrive" >🔗</a> **[ESA]** The Incredible Adventures of the Hera mission – The space detectives arrive
 - <a href="https://europeanspaceflight.com/arianegroup-completes-second-themis-wet-dress-rehearsal/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Second Themis Wet Dress Rehearsal
@@ -103,7 +104,6 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 - <a href="https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/" >🔗</a> **[NASA]** Arctic Sea Ice Shrinks to Its 2026 Minimum
 - <a href="https://www.nasaspaceflight.com/2026/10/crew-12-return/" >🔗</a> **[NASASpaceflight]** Crew-12 set to depart the ISS after eighth months in orbit
 - <a href="https://arstechnica.com/science/2026/10/it-looks-like-the-atlantic-storm-season-may-finally-produce-a-hurricane/" >🔗</a> **[Arstechnica]** It looks like the Atlantic storm season may finally produce a hurricane
-- <a href="https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/" >🔗</a> **[SpaceNews]** Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ This launch carries 21 satellites manufactured by Northrop Grumman.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261007T140219">2026-10-07 14:02:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261007T143706">2026-10-07 14:37:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
