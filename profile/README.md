@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/Sentinel-3C_returns_its_first_views_of_Earth" >🔗</a> **[ESA]** Sentinel-3C returns its first views of Earth
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks" >🔗</a> **[ESA]** Solar Orbiter tracks origin of mysterious magnetic switchbacks
-- <a href="https://www.esa.int/Space_Safety/Clean_Space/Keeping_the_sky_dark_and_quiet" >🔗</a> **[ESA]** Keeping the sky dark and quiet
 - <a href="https://www.esa.int/Applications/Satellite_navigation/The_director_s_take_telling_Galileo_s_story_through_film" >🔗</a> **[ESA]** The director’s take: telling Galileo’s story through film
+- <a href="https://www.esa.int/Space_Safety/Clean_Space/Keeping_the_sky_dark_and_quiet" >🔗</a> **[ESA]** Keeping the sky dark and quiet
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/" >🔗</a> **[NASA]** APOD: 2026 October 8 – The Saturn System Smörgåsbord
 - <a href="https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/" >🔗</a> **[NASA]** Fighting Drought in Texas Cotton Country
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/" >🔗</a> **[NASA]** NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival
 - <a href="https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/" >🔗</a> **[NASA]** NASA’s SpaceX 35th Commercial Resupply Mission Overview
 - <a href="https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/" >🔗</a> **[NASA]** NASA’s PRIMA Spacecraft (Artist’s Concept)
 - <a href="https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/" >🔗</a> **[NASA]** NASA’s Curiosity Looks Back After Reaching Elevation Milestone
-- <a href="https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/" >🔗</a> **[NASA]** NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261008T130833">2026-10-08 13:08:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261008T133914">2026-10-08 13:39:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
