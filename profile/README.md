@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/the-exploration-company-to-test-lunar-hopper-demonstrator-in-2027/" >🔗</a> **[European Spaceflight]** The Exploration Company to Test Lunar Hopper Demonstrator in 2027
 - <a href="https://spacenews.com/what-will-it-take-to-build-a-moon-base/" >🔗</a> **[SpaceNews]** What will it take to build a moon base?
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/Sentinel-3C_returns_its_first_views_of_Earth" >🔗</a> **[ESA]** Sentinel-3C returns its first views of Earth
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks" >🔗</a> **[ESA]** Solar Orbiter tracks origin of mysterious magnetic switchbacks
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/" >🔗</a> **[NASA]** Fighting Drought in Texas Cotton Country
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/" >🔗</a> **[NASA]** NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival
 - <a href="https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/" >🔗</a> **[NASA]** NASA’s SpaceX 35th Commercial Resupply Mission Overview
-- <a href="https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/" >🔗</a> **[NASA]** NASA’s PRIMA Spacecraft (Artist’s Concept)
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261008T150256">2026-10-08 15:02:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261008T153801">2026-10-08 15:38:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
