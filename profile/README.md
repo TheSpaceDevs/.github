@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/crew-12-back-on-earth-as-iss-keeps-busy/" >🔗</a> **[SpacePolicyOnline.com]** Crew-12 Back on Earth as ISS Keeps Busy
 - <a href="https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/" >🔗</a> **[NASA]** NASA Briefing to Highlight Contributions to Martian Moons Mission
 - <a href="https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/" >🔗</a> **[NASA]** NASA Announces Bold Science Initiatives for America’s Golden Age Summit
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/" >🔗</a> **[NASA]** NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Splashdown_confirmed_for_Sophie_Adenot" >🔗</a> **[ESA]** Splashdown confirmed for Sophie Adenot
 - <a href="https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/" >🔗</a> **[NASA]** NASA, Energy Department Advance New Era of Nuclear-Powered Exploration
-- <a href="https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/" >🔗</a> **[NASA]** NASA Advances LISA Mission Contributions With New Test Telescope
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261008T230250">2026-10-08 23:02:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261008T233536">2026-10-08 23:35:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
