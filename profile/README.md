@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks" >🔗</a> **[ESA]** Solar Orbiter tracks origin of mysterious magnetic switchbacks
 - <a href="https://www.esa.int/Space_Safety/Clean_Space/Keeping_the_sky_dark_and_quiet" >🔗</a> **[ESA]** Keeping the sky dark and quiet
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/" >🔗</a> **[NASA]** APOD: 2026 October 8 – The Saturn System Smörgåsbord
 - <a href="https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/" >🔗</a> **[NASA]** Fighting Drought in Texas Cotton Country
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/" >🔗</a> **[NASA]** NASA’s Curiosity Looks Back After Reaching Elevation Milestone
 - <a href="https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/" >🔗</a> **[NASA]** NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs
 - <a href="https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/" >🔗</a> **[NASA]** Artemis II Crew Moon Photo Annotations
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought" >🔗</a> **[ESA]** Mars’s oddest cloud may be even odder than we thought
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261008T090555">2026-10-08 09:05:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261008T094018">2026-10-08 09:40:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
