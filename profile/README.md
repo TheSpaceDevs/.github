@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/" >🔗</a> **[NASA]** APOD: 2026 October 8 – The Saturn System Smörgåsbord
 - <a href="https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/" >🔗</a> **[NASA]** Fighting Drought in Texas Cotton Country
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/" >🔗</a> **[NASA]** NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival
 - <a href="https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/" >🔗</a> **[NASA]** NASA’s SpaceX 35th Commercial Resupply Mission Overview
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/" >🔗</a> **[NASA]** Artemis II Crew Moon Photo Annotations
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought" >🔗</a> **[ESA]** Mars’s oddest cloud may be even odder than we thought
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_3" >🔗</a> **[ESA]** ESA at IAC 2026 – Day 3
-- <a href="https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/" >🔗</a> **[SpaceNews]** Announcing the finalists for the 2026 SpaceNews Icon Awards
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261008T050348">2026-10-08 05:03:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261008T053742">2026-10-08 05:37:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
