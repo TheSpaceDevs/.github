@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/" >🔗</a> **[NASA]** NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies
+- <a href="https://www.nasa.gov/image-article/crew-12-returns-to-earth/" >🔗</a> **[NASA]** Crew-12 Returns to Earth
 - <a href="https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/" >🔗</a> **[NASA]** NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs
+- <a href="https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/" >🔗</a> **[NASA]** Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Splashdown_confirmed_for_Sophie_Adenot" >🔗</a> **[ESA]** Splashdown confirmed for Sophie Adenot
 - <a href="https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/" >🔗</a> **[NASA]** NASA, Energy Department Advance New Era of Nuclear-Powered Exploration
 - <a href="https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/" >🔗</a> **[NASA]** NASA Advances LISA Mission Contributions With New Test Telescope
 - <a href="https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/" >🔗</a> **[Arstechnica]** Amazon builds 1,000th satellite, is weeks away from space Internet rollout
 - <a href="https://europeanspaceflight.com/the-exploration-company-to-test-lunar-hopper-demonstrator-in-2027/" >🔗</a> **[European Spaceflight]** The Exploration Company to Test Lunar Hopper Demonstrator in 2027
-- <a href="https://spacenews.com/what-will-it-take-to-build-a-moon-base/" >🔗</a> **[SpaceNews]** What will it take to build a moon base?
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/Sentinel-3C_returns_its_first_views_of_Earth" >🔗</a> **[ESA]** Sentinel-3C returns its first views of Earth
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks" >🔗</a> **[ESA]** Solar Orbiter tracks origin of mysterious magnetic switchbacks
-- <a href="https://www.esa.int/Space_Safety/Clean_Space/Keeping_the_sky_dark_and_quiet" >🔗</a> **[ESA]** Keeping the sky dark and quiet
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261008T190325">2026-10-08 19:03:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261008T193555">2026-10-08 19:35:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
