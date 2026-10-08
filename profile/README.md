@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission
 - <a href="https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/" >🔗</a> **[NASA]** NASA, Energy Department Advance New Era of Nuclear-Powered Exploration
 - <a href="https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/" >🔗</a> **[NASA]** NASA Advances LISA Mission Contributions With New Test Telescope
 - <a href="https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/" >🔗</a> **[Arstechnica]** Amazon builds 1,000th satellite, is weeks away from space Internet rollout
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks" >🔗</a> **[ESA]** Solar Orbiter tracks origin of mysterious magnetic switchbacks
 - <a href="https://www.esa.int/Space_Safety/Clean_Space/Keeping_the_sky_dark_and_quiet" >🔗</a> **[ESA]** Keeping the sky dark and quiet
 - <a href="https://www.esa.int/Applications/Satellite_navigation/The_director_s_take_telling_Galileo_s_story_through_film" >🔗</a> **[ESA]** The director’s take: telling Galileo’s story through film
-- <a href="https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/" >🔗</a> **[NASA]** APOD: 2026 October 8 – The Saturn System Smörgåsbord
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261008T170247">2026-10-08 17:02:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261008T173555">2026-10-08 17:35:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
