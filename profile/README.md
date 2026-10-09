@@ -46,7 +46,7 @@ into *an Unknown
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261009T192000">2026-10-09 19:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 12 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20261009T192000Z%2F20261009T194900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 12 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261010T072900">2026-10-10 07:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A&location=Vandenberg SFB, CA, USA&dates=20261010T072900Z%2F20261010T072900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261010T073900">2026-10-10 07:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A&location=Vandenberg SFB, CA, USA&dates=20261010T073900Z%2F20261010T073900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261012T230000">2026-10-12 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-25&location=Vandenberg SFB, CA, USA&dates=20261012T230000Z%2F20261013T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-25** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261013T103344">2026-10-13 10:33:44 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-35&location=Cape Canaveral SFS, FL, USA&dates=20261013T103344Z%2F20261013T103344Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-35** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261015T234400">2026-10-15 23:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | USSF-481&location=Vandenberg SFB, CA, USA&dates=20261015T234400Z%2F20261016T034400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | USSF-481** from Vandenberg SFB, CA, USA.
@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/" >🔗</a> **[NASASpaceflight]** Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing
 - <a href="https://www.nasa.gov/image-article/cosmic-house-of-mirrors/" >🔗</a> **[NASA]** Cosmic House of Mirrors
 - <a href="https://europeanspaceflight.com/italy-explores-building-an-artificial-gravity-research-platform-in-orbit/" >🔗</a> **[European Spaceflight]** Italy Explores Building an Artificial Gravity Research Platform in Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_October_2026" >🔗</a> **[ESA]** Week in images: 05-09 October 2026
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/" >🔗</a> **[NASA]** APOD: 2026 October 9 – Stickney Crater
 - <a href="https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/" >🔗</a> **[NASA]** Floodwaters Overwhelm Thailand
 - <a href="https://spacepolicyonline.com/news/crew-12-back-on-earth-as-iss-keeps-busy/" >🔗</a> **[SpacePolicyOnline.com]** Crew-12 Back on Earth as ISS Keeps Busy
-- <a href="https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/" >🔗</a> **[NASA]** NASA Briefing to Highlight Contributions to Martian Moons Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261009T150243">2026-10-09 15:02:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261009T153632">2026-10-09 15:36:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
