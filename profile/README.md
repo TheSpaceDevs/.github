@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/" >🔗</a> **[NASA]** NASA Demonstrates Next-Generation Heat Shield Technologies
 - <a href="https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/" >🔗</a> **[NASASpaceflight]** Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing
 - <a href="https://www.nasa.gov/image-article/cosmic-house-of-mirrors/" >🔗</a> **[NASA]** Cosmic House of Mirrors
 - <a href="https://europeanspaceflight.com/italy-explores-building-an-artificial-gravity-research-platform-in-orbit/" >🔗</a> **[European Spaceflight]** Italy Explores Building an Artificial Gravity Research Platform in Orbit
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan" >🔗</a> **[ESA]** Earth from Space: Namibia’s biggest salt pan
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/" >🔗</a> **[NASA]** APOD: 2026 October 9 – Stickney Crater
 - <a href="https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/" >🔗</a> **[NASA]** Floodwaters Overwhelm Thailand
-- <a href="https://spacepolicyonline.com/news/crew-12-back-on-earth-as-iss-keeps-busy/" >🔗</a> **[SpacePolicyOnline.com]** Crew-12 Back on Earth as ISS Keeps Busy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261009T170223">2026-10-09 17:02:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261009T173434">2026-10-09 17:34:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
