@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/cosmic-house-of-mirrors/" >🔗</a> **[NASA]** Cosmic House of Mirrors
+- <a href="https://europeanspaceflight.com/italy-explores-building-an-artificial-gravity-research-platform-in-orbit/" >🔗</a> **[European Spaceflight]** Italy Explores Building an Artificial Gravity Research Platform in Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_October_2026" >🔗</a> **[ESA]** Week in images: 05-09 October 2026
 - <a href="https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/" >🔗</a> **[Arstechnica]** Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Farewell_to_the_Fluid_Science_Laboratory_after_18_years_in_orbit" >🔗</a> **[ESA]** Farewell to the Fluid Science Laboratory after 18 years in orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan" >🔗</a> **[ESA]** Earth from Space: Namibia’s biggest salt pan
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/" >🔗</a> **[NASA]** APOD: 2026 October 9 – Stickney Crater
 - <a href="https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/" >🔗</a> **[NASA]** Floodwaters Overwhelm Thailand
 - <a href="https://spacepolicyonline.com/news/crew-12-back-on-earth-as-iss-keeps-busy/" >🔗</a> **[SpacePolicyOnline.com]** Crew-12 Back on Earth as ISS Keeps Busy
 - <a href="https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/" >🔗</a> **[NASA]** NASA Briefing to Highlight Contributions to Martian Moons Mission
-- <a href="https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/" >🔗</a> **[NASA]** NASA Announces Bold Science Initiatives for America’s Golden Age Summit
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/" >🔗</a> **[NASA]** NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies
-- <a href="https://www.nasa.gov/image-article/crew-12-returns-to-earth/" >🔗</a> **[NASA]** Crew-12 Returns to Earth
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261009T140333">2026-10-09 14:03:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261009T144022">2026-10-09 14:40:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
