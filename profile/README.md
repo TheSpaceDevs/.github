@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan" >🔗</a> **[ESA]** Earth from Space: Namibia’s biggest salt pan
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/" >🔗</a> **[NASA]** APOD: 2026 October 9 – Stickney Crater
 - <a href="https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/" >🔗</a> **[NASA]** Floodwaters Overwhelm Thailand
 - <a href="https://spacepolicyonline.com/news/crew-12-back-on-earth-as-iss-keeps-busy/" >🔗</a> **[SpacePolicyOnline.com]** Crew-12 Back on Earth as ISS Keeps Busy
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/crew-12-returns-to-earth/" >🔗</a> **[NASA]** Crew-12 Returns to Earth
 - <a href="https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/" >🔗</a> **[NASA]** NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs
 - <a href="https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/" >🔗</a> **[NASA]** Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin
-- <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261009T080536">2026-10-09 08:05:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261009T084530">2026-10-09 08:45:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
