@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/" >🔗</a> **[NASA]** NASA Seeks US Industry Plans for Commercial Space Stations
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/" >🔗</a> **[NASA]** NASA Demonstrates Next-Generation Heat Shield Technologies
 - <a href="https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/" >🔗</a> **[NASASpaceflight]** Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing
 - <a href="https://www.nasa.gov/image-article/cosmic-house-of-mirrors/" >🔗</a> **[NASA]** Cosmic House of Mirrors
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Farewell_to_the_Fluid_Science_Laboratory_after_18_years_in_orbit" >🔗</a> **[ESA]** Farewell to the Fluid Science Laboratory after 18 years in orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan" >🔗</a> **[ESA]** Earth from Space: Namibia’s biggest salt pan
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/" >🔗</a> **[NASA]** APOD: 2026 October 9 – Stickney Crater
-- <a href="https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/" >🔗</a> **[NASA]** Floodwaters Overwhelm Thailand
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261009T180313">2026-10-09 18:03:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261009T184047">2026-10-09 18:40:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
