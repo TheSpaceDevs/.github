@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/" >🔗</a> **[NASA]** APOD: 2026 October 9 – Stickney Crater
+- <a href="https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/" >🔗</a> **[NASA]** Floodwaters Overwhelm Thailand
 - <a href="https://spacepolicyonline.com/news/crew-12-back-on-earth-as-iss-keeps-busy/" >🔗</a> **[SpacePolicyOnline.com]** Crew-12 Back on Earth as ISS Keeps Busy
 - <a href="https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/" >🔗</a> **[NASA]** NASA Briefing to Highlight Contributions to Martian Moons Mission
 - <a href="https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/" >🔗</a> **[NASA]** NASA Announces Bold Science Initiatives for America’s Golden Age Summit
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/" >🔗</a> **[NASA]** NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs
 - <a href="https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/" >🔗</a> **[NASA]** Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Splashdown_confirmed_for_Sophie_Adenot" >🔗</a> **[ESA]** Splashdown confirmed for Sophie Adenot
-- <a href="https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/" >🔗</a> **[NASA]** NASA, Energy Department Advance New Era of Nuclear-Powered Exploration
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261009T050358">2026-10-09 05:03:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261009T053843">2026-10-09 05:38:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
