@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_October_2026" >🔗</a> **[ESA]** Week in images: 05-09 October 2026
 - <a href="https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/" >🔗</a> **[Arstechnica]** Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan" >🔗</a> **[ESA]** Earth from Space: Namibia’s biggest salt pan
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/" >🔗</a> **[NASA]** APOD: 2026 October 9 – Stickney Crater
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/" >🔗</a> **[NASA]** NASA Announces Bold Science Initiatives for America’s Golden Age Summit
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/" >🔗</a> **[NASA]** NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies
 - <a href="https://www.nasa.gov/image-article/crew-12-returns-to-earth/" >🔗</a> **[NASA]** Crew-12 Returns to Earth
-- <a href="https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/" >🔗</a> **[NASA]** NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261009T130621">2026-10-09 13:06:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261009T133838">2026-10-09 13:38:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
