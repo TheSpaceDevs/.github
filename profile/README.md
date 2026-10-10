@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/" >🔗</a> **[NASA]** NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station" >🔗</a> **[ESA]** ESA astronaut Sophie Adenot returns from her first mission to the International Space Station
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/" >🔗</a> **[NASA]** APOD: 2026 October 10 – Lunar Farside
 - <a href="https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/" >🔗</a> **[Spaceflight Now]** SpaceX to make another attempt to launch 21 data satellites for Space Development Agency
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/" >🔗</a> **[NASASpaceflight]** Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing
 - <a href="https://www.nasa.gov/image-article/cosmic-house-of-mirrors/" >🔗</a> **[NASA]** Cosmic House of Mirrors
 - <a href="https://europeanspaceflight.com/italy-explores-building-an-artificial-gravity-research-platform-in-orbit/" >🔗</a> **[European Spaceflight]** Italy Explores Building an Artificial Gravity Research Platform in Orbit
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_October_2026" >🔗</a> **[ESA]** Week in images: 05-09 October 2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261010T140236">2026-10-10 14:02:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261010T143518">2026-10-10 14:35:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
