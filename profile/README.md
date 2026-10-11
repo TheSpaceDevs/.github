@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/" >🔗</a> **[NASASpaceflight]** Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-11-17-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 11-17, 2026
 - <a href="https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/" >🔗</a> **[NASASpaceflight]** Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/" >🔗</a> **[NASA]** APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/" >🔗</a> **[Spaceflight Now]** SpaceX to make another attempt to launch 21 data satellites for Space Development Agency
 - <a href="https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/" >🔗</a> **[Arstechnica]** NASA issues long-awaited call to industry for private space stations
 - <a href="https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/" >🔗</a> **[NASA]** NASA Seeks US Industry Plans for Commercial Space Stations
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/" >🔗</a> **[NASA]** NASA Demonstrates Next-Generation Heat Shield Technologies
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261011T220248">2026-10-11 22:02:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261011T223549">2026-10-11 22:35:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
