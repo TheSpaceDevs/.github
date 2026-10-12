@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/" >🔗</a> **[SpaceNews]** Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_twin_rehearses_first_drive" >🔗</a> **[ESA]** ExoMars rover twin rehearses first drive
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Rolling_onto_Mars_-_testing_a_rover_s_lander" >🔗</a> **[ESA]** Rolling onto Mars - testing a rover’s lander
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Preparing_for_a_first_drive_on_Mars" >🔗</a> **[ESA]** Preparing for a first drive on Mars
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Rolling_onto_Mars_-_testing_a_rover_s_lander" >🔗</a> **[ESA]** Rolling onto Mars - testing a rover’s lander
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/NovaMoon_mission_patch" >🔗</a> **[ESA]** NovaMoon mission patch
+- <a href="https://www.esa.int/Applications/Satellite_navigation/Introducing_NovaMoon" >🔗</a> **[ESA]** Introducing NovaMoon
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/" >🔗</a> **[NASA]** APOD: 2026 October 12 – Jupiter and the Moons
 - <a href="https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/" >🔗</a> **[NASA]** Antarctic Sea Ice Grows to Its 2026 Maximum
 - <a href="https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/" >🔗</a> **[NASASpaceflight]** Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-11-17-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 11-17, 2026
-- <a href="https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/" >🔗</a> **[NASASpaceflight]** Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight
-- <a href="https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/" >🔗</a> **[NASA]** APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos
-- <a href="https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/" >🔗</a> **[NASA]** NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261012T120649">2026-10-12 12:06:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261012T130729">2026-10-12 13:07:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
