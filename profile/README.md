@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/10/crs-35-launch/" >🔗</a> **[NASASpaceflight]** CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items
 - <a href="https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/" >🔗</a> **[NASA]** NASA’s SpaceX CRS-35 Mission to Launch Health Research
-- <a href="https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/" >🔗</a> **[SpaceNews]** Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Welcome_home_Sophie_Adenot" >🔗</a> **[ESA]** Welcome home, Sophie Adenot
+- <a href="https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/" >🔗</a> **[SpaceNews]** Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_twin_rehearses_first_drive" >🔗</a> **[ESA]** ExoMars rover twin rehearses first drive
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Preparing_for_a_first_drive_on_Mars" >🔗</a> **[ESA]** Preparing for a first drive on Mars
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Rolling_onto_Mars_-_testing_a_rover_s_lander" >🔗</a> **[ESA]** Rolling onto Mars - testing a rover’s lander
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/NovaMoon_mission_patch" >🔗</a> **[ESA]** NovaMoon mission patch
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Introducing_NovaMoon" >🔗</a> **[ESA]** Introducing NovaMoon
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/" >🔗</a> **[NASA]** APOD: 2026 October 12 – Jupiter and the Moons
-- <a href="https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/" >🔗</a> **[NASA]** Antarctic Sea Ice Grows to Its 2026 Maximum
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261012T210220">2026-10-12 21:02:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261012T213451">2026-10-12 21:34:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
