@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Rolling_onto_Mars_-_testing_a_rover_s_lander" >🔗</a> **[ESA]** Rolling onto Mars - testing a rover’s lander
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Preparing_for_a_first_drive_on_Mars" >🔗</a> **[ESA]** Preparing for a first drive on Mars
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/" >🔗</a> **[NASA]** APOD: 2026 October 12 – Jupiter and the Moons
 - <a href="https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/" >🔗</a> **[NASA]** Antarctic Sea Ice Grows to Its 2026 Maximum
 - <a href="https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/" >🔗</a> **[NASASpaceflight]** Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/" >🔗</a> **[NASA]** APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos
 - <a href="https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/" >🔗</a> **[NASA]** NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station" >🔗</a> **[ESA]** ESA astronaut Sophie Adenot returns from her first mission to the International Space Station
-- <a href="https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/" >🔗</a> **[NASA]** APOD: 2026 October 10 – Lunar Farside
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261012T100907">2026-10-12 10:09:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261012T104148">2026-10-12 10:41:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
