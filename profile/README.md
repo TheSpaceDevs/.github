@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Welcome_home_Sophie_Adenot" >🔗</a> **[ESA]** Welcome home, Sophie Adenot
 - <a href="https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/" >🔗</a> **[SpaceNews]** Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_twin_rehearses_first_drive" >🔗</a> **[ESA]** ExoMars rover twin rehearses first drive
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Preparing_for_a_first_drive_on_Mars" >🔗</a> **[ESA]** Preparing for a first drive on Mars
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/" >🔗</a> **[NASA]** APOD: 2026 October 12 – Jupiter and the Moons
 - <a href="https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/" >🔗</a> **[NASA]** Antarctic Sea Ice Grows to Its 2026 Maximum
 - <a href="https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/" >🔗</a> **[NASASpaceflight]** Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-11-17-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 11-17, 2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261012T144538">2026-10-12 14:45:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261012T150622">2026-10-12 15:06:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
