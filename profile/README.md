@@ -106,6 +106,9 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station
+- <a href="https://www.nasaspaceflight.com/2026/10/crs-35-launch/" >🔗</a> **[NASASpaceflight]** CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items
+- <a href="https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/" >🔗</a> **[NASA]** NASA’s SpaceX CRS-35 Mission to Launch Health Research
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/" >🔗</a> **[NASA]** NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival
 - <a href="https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/" >🔗</a> **[NASA]** NASA’s SpaceX 35th Commercial Resupply Mission Overview
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station
@@ -114,7 +117,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261013T090758">2026-10-13 09:07:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261013T094211">2026-10-13 09:42:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
