@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/" >🔗</a> **[NASA]** NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October" >🔗</a> **[ESA]** Mars moon lander set to launch on 19 October
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Press_conference_ESA_astronaut_Sophie_Adenot_returns_to_Europe" >🔗</a> **[ESA]** Press conference: ESA astronaut Sophie Adenot returns to Europe
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station
 - <a href="https://spaceflightnow.com/2026/10/12/spacex-falcon-9-rocket-to-launch-27-starlink-satellites-into-orbit-from-california/" >🔗</a> **[Spaceflight Now]** SpaceX Falcon 9 rocket to launch 27 Starlink satellites into orbit from California
 - <a href="https://www.nasaspaceflight.com/2026/10/crs-35-launch/" >🔗</a> **[NASASpaceflight]** CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items
-- <a href="https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/" >🔗</a> **[NASA]** NASA’s SpaceX CRS-35 Mission to Launch Health Research
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261013T131107">2026-10-13 13:11:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261013T134433">2026-10-13 13:44:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
