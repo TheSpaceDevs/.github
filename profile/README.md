@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Press_conference_ESA_astronaut_Sophie_Adenot_returns_to_Europe" >🔗</a> **[ESA]** Press conference: ESA astronaut Sophie Adenot returns to Europe
 - <a href="https://europeanspaceflight.com/norway-details-funding-allocation-for-second-andoya-launch-pad/" >🔗</a> **[European Spaceflight]** Norway Details Funding Allocation for Second Andøya Launch Pad
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/" >🔗</a> **[NASA]** APOD: 2026 October 13 – Desert Stairway to Heaven
 - <a href="https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/" >🔗</a> **[NASA]** An Impact Structure With Legs
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/10/crs-35-launch/" >🔗</a> **[NASASpaceflight]** CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items
 - <a href="https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/" >🔗</a> **[NASA]** NASA’s SpaceX CRS-35 Mission to Launch Health Research
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Welcome_home_Sophie_Adenot" >🔗</a> **[ESA]** Welcome home, Sophie Adenot
-- <a href="https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/" >🔗</a> **[SpaceNews]** Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_twin_rehearses_first_drive" >🔗</a> **[ESA]** ExoMars rover twin rehearses first drive
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261013T110338">2026-10-13 11:03:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261013T113713">2026-10-13 11:37:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
