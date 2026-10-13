@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-101326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/" >🔗</a> **[NASA]** TB 26-08 Complex Modes in Lightly Damped Structural Systems:A Two-Mode Interaction Perspective
 - <a href="https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX launches NASA science and cargo to the International Space Station
 - <a href="https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/" >🔗</a> **[NASA]** NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/norway-details-funding-allocation-for-second-andoya-launch-pad/" >🔗</a> **[European Spaceflight]** Norway Details Funding Allocation for Second Andøya Launch Pad
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/" >🔗</a> **[NASA]** APOD: 2026 October 13 – Desert Stairway to Heaven
 - <a href="https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/" >🔗</a> **[NASA]** An Impact Structure With Legs
-- <a href="https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261013T220223">2026-10-13 22:02:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261013T223250">2026-10-13 22:32:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
