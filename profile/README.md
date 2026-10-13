@@ -92,6 +92,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/norway-details-funding-allocation-for-second-andoya-launch-pad/" >🔗</a> **[European Spaceflight]** Norway Details Funding Allocation for Second Andøya Launch Pad
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/" >🔗</a> **[NASA]** APOD: 2026 October 13 – Desert Stairway to Heaven
 - <a href="https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/" >🔗</a> **[NASA]** An Impact Structure With Legs
 - <a href="https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station
@@ -101,7 +102,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Welcome_home_Sophie_Adenot" >🔗</a> **[ESA]** Welcome home, Sophie Adenot
 - <a href="https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/" >🔗</a> **[SpaceNews]** Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_twin_rehearses_first_drive" >🔗</a> **[ESA]** ExoMars rover twin rehearses first drive
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Preparing_for_a_first_drive_on_Mars" >🔗</a> **[ESA]** Preparing for a first drive on Mars
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261013T060644">2026-10-13 06:06:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261013T065819">2026-10-13 06:58:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
