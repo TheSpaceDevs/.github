@@ -90,6 +90,7 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Florida Students
 - <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/" >🔗</a> **[NASA]** NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision
 - <a href="https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/" >🔗</a> **[NASA]** NASA’s Space X CRS-35 Launch Jellyfish
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/" >🔗</a> **[NASA]** NASA Develops Batteries to Power Humanity’s Return to Moon
@@ -99,7 +100,6 @@ into *a Polar Orbit
 - <a href="https://www.spacescout.info/2026/10/new-science-supplies-head-to-iss-on-crs-35/" >🔗</a> **[Space Scout]** New Science, Supplies Head to ISS on CRS-35
 - <a href="https://www.esa.int/Enabling_Support/Operations/Earth_today_Jupiter_tomorrow_An_insight_into_Juice_s_recent_Earth_flyby" >🔗</a> **[ESA]** Earth today, Jupiter tomorrow: An insight into Juice’s recent Earth flyby
 - <a href="https://www.esa.int/Enabling_Support/Operations/Earth_Today_Jupiter_Tomorrow_An_insight_into_Juice_s_recent_Earth_flyby" >🔗</a> **[ESA]** Earth Today, Jupiter Tomorrow: An insight into Juice’s recent Earth flyby
-- <a href="https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/" >🔗</a> **[NASA]** APOD: 2026 October 14 – Mars and the Beehive Under an Aurora
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261014T190158">2026-10-14 19:01:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261014T193337">2026-10-14 19:33:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
