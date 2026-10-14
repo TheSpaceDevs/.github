@@ -90,16 +90,16 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/spain-approves-early-release-of-e65-8-million-in-paz-2-spy-satellite-funding/" >🔗</a> **[European Spaceflight]** Spain Approves Early Release of €65.8 Million in PAZ 2 Spy Satellite Funding
+- <a href="https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/" >🔗</a> **[SpaceNews]** How mini-constellations could more quickly bring new tech to Europe, and to orbit
 - <a href="https://www.spacescout.info/2026/10/new-science-supplies-head-to-iss-on-crs-35/" >🔗</a> **[Space Scout]** New Science, Supplies Head to ISS on CRS-35
+- <a href="https://www.esa.int/Enabling_Support/Operations/Earth_today_Jupiter_tomorrow_An_insight_into_Juice_s_recent_Earth_flyby" >🔗</a> **[ESA]** Earth today, Jupiter tomorrow: An insight into Juice’s recent Earth flyby
+- <a href="https://www.esa.int/Enabling_Support/Operations/Earth_Today_Jupiter_Tomorrow_An_insight_into_Juice_s_recent_Earth_flyby" >🔗</a> **[ESA]** Earth Today, Jupiter Tomorrow: An insight into Juice’s recent Earth flyby
 - <a href="https://spacepolicyonline.com/news/ship-40-back-at-starbase-after-surprise-reentry-survival/" >🔗</a> **[SpacePolicyOnline.com]** Ship 40 Back At Starbase After Surprise Reentry Survival
 - <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-101326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/" >🔗</a> **[NASA]** TB 26-08 Complex Modes in Lightly Damped Structural Systems:A Two-Mode Interaction Perspective
 - <a href="https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX launches NASA science and cargo to the International Space Station
 - <a href="https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/" >🔗</a> **[NASA]** NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October" >🔗</a> **[ESA]** Mars moon lander set to launch on 19 October
-- <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Press_conference_ESA_astronaut_Sophie_Adenot_returns_to_Europe" >🔗</a> **[ESA]** Press conference: ESA astronaut Sophie Adenot returns to Europe
-- <a href="https://europeanspaceflight.com/norway-details-funding-allocation-for-second-andoya-launch-pad/" >🔗</a> **[European Spaceflight]** Norway Details Funding Allocation for Second Andøya Launch Pad
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261014T130230">2026-10-14 13:02:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261014T133519">2026-10-14 13:35:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
