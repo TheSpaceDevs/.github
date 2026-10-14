@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/ship-40-back-at-starbase-after-surprise-reentry-survival/" >🔗</a> **[SpacePolicyOnline.com]** Ship 40 Back At Starbase After Surprise Reentry Survival
 - <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-101326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/" >🔗</a> **[NASA]** TB 26-08 Complex Modes in Lightly Damped Structural Systems:A Two-Mode Interaction Perspective
 - <a href="https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX launches NASA science and cargo to the International Space Station
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Press_conference_ESA_astronaut_Sophie_Adenot_returns_to_Europe" >🔗</a> **[ESA]** Press conference: ESA astronaut Sophie Adenot returns to Europe
 - <a href="https://europeanspaceflight.com/norway-details-funding-allocation-for-second-andoya-launch-pad/" >🔗</a> **[European Spaceflight]** Norway Details Funding Allocation for Second Andøya Launch Pad
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/" >🔗</a> **[NASA]** APOD: 2026 October 13 – Desert Stairway to Heaven
-- <a href="https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/" >🔗</a> **[NASA]** An Impact Structure With Legs
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261014T000646">2026-10-14 00:06:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261014T010222">2026-10-14 01:02:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
