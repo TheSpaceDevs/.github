@@ -90,16 +90,16 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/" >🔗</a> **[NASA]** NASA’s Space X CRS-35 Launch Jellyfish
+- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/" >🔗</a> **[NASA]** NASA Develops Batteries to Power Humanity’s Return to Moon
+- <a href="https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/" >🔗</a> **[NASA]** NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions
 - <a href="https://europeanspaceflight.com/spain-approves-early-release-of-e65-8-million-in-paz-2-spy-satellite-funding/" >🔗</a> **[European Spaceflight]** Spain Approves Early Release of €65.8 Million in PAZ 2 Spy Satellite Funding
 - <a href="https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/" >🔗</a> **[SpaceNews]** How mini-constellations could more quickly bring new tech to Europe, and to orbit
 - <a href="https://www.spacescout.info/2026/10/new-science-supplies-head-to-iss-on-crs-35/" >🔗</a> **[Space Scout]** New Science, Supplies Head to ISS on CRS-35
 - <a href="https://www.esa.int/Enabling_Support/Operations/Earth_today_Jupiter_tomorrow_An_insight_into_Juice_s_recent_Earth_flyby" >🔗</a> **[ESA]** Earth today, Jupiter tomorrow: An insight into Juice’s recent Earth flyby
 - <a href="https://www.esa.int/Enabling_Support/Operations/Earth_Today_Jupiter_Tomorrow_An_insight_into_Juice_s_recent_Earth_flyby" >🔗</a> **[ESA]** Earth Today, Jupiter Tomorrow: An insight into Juice’s recent Earth flyby
-- <a href="https://spacepolicyonline.com/news/ship-40-back-at-starbase-after-surprise-reentry-survival/" >🔗</a> **[SpacePolicyOnline.com]** Ship 40 Back At Starbase After Surprise Reentry Survival
-- <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-101326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week
-- <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/" >🔗</a> **[NASA]** TB 26-08 Complex Modes in Lightly Damped Structural Systems:A Two-Mode Interaction Perspective
-- <a href="https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX launches NASA science and cargo to the International Space Station
-- <a href="https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/" >🔗</a> **[NASA]** NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission
+- <a href="https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/" >🔗</a> **[NASA]** APOD: 2026 October 14 – Mars and the Beehive Under an Aurora
+- <a href="https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/" >🔗</a> **[NASA]** Hurricane Simon Lurks Off the Mexican Coast
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261014T150258">2026-10-14 15:02:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261014T153703">2026-10-14 15:37:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
