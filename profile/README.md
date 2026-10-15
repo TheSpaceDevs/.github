@@ -90,16 +90,16 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/" >🔗</a> **[NASA]** Chandra Finds Possible Origin of ‘Treble Clef’ Waves
 - <a href="https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/" >🔗</a> **[SpaceNews]** Agile Space Industries Expands to Seattle Area with New Bellevue Office
 - <a href="https://europeanspaceflight.com/arianespace-targets-23-nov-ariane-6-return-following-reported-turbopump-fix/" >🔗</a> **[European Spaceflight]** Arianespace Targets 23 Nov Ariane 6 Return Following Reported Turbopump Fix
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Trace_Gas_Orbiter_Facts_and_figures" >🔗</a> **[ESA]** Trace Gas Orbiter — Facts and figures
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Drilling_down_for_the_Moon" >🔗</a> **[ESA]** Drilling down for the Moon
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Act_for_more_sustainable_space" >🔗</a> **[ESA]** Act for more sustainable space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Swarming_robots_to_tackle_space_debris" >🔗</a> **[ESA]** Swarming robots to tackle space debris
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/" >🔗</a> **[NASA]** APOD: 2026 October 15 – The Milky Way over Manhattan
 - <a href="https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/" >🔗</a> **[NASA]** Fires Arrive in the Amazon Rainforest
 - <a href="https://www.nasaspaceflight.com/2026/10/artemis-iii-teams-prepare-short-stack-tanking-test/" >🔗</a> **[NASASpaceflight]** Artemis III SLS teams prepare short stack for pad tanking test
-- <a href="https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/" >🔗</a> **[NASA]** NASA to Host News Conference Previewing US Spacewalks 100, 101
-- <a href="https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Florida Students
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261015T140258">2026-10-15 14:02:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261015T143542">2026-10-15 14:35:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
