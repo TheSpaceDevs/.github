@@ -90,6 +90,8 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/" >🔗</a> **[NASA]** NASA to Conduct Low-Altitude Flights Over Texas Farmland
+- <a href="https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/" >🔗</a> **[NASA]** NASA Welcomes All Ages, Experience Levels for Space Apps Challenge
 - <a href="https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/" >🔗</a> **[NASA]** NASA Awards Enable Research, Technology to Build Future Workforce
 - <a href="https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/" >🔗</a> **[SpaceNews]** How NASA is thinking about a moon base
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/" >🔗</a> **[NASA]** Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance
@@ -98,8 +100,6 @@ into *a Polar Orbit
 - <a href="https://europeanspaceflight.com/arianespace-targets-23-nov-ariane-6-return-following-reported-turbopump-fix/" >🔗</a> **[European Spaceflight]** Arianespace Targets 23 Nov Ariane 6 Return Following Reported Turbopump Fix
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Trace_Gas_Orbiter_Facts_and_figures" >🔗</a> **[ESA]** Trace Gas Orbiter — Facts and figures
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Drilling_down_for_the_Moon" >🔗</a> **[ESA]** Drilling down for the Moon
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Act_for_more_sustainable_space" >🔗</a> **[ESA]** Act for more sustainable space
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Swarming_robots_to_tackle_space_debris" >🔗</a> **[ESA]** Swarming robots to tackle space debris
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261015T170208">2026-10-15 17:02:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261015T173401">2026-10-15 17:34:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
