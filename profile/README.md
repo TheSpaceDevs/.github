@@ -90,6 +90,7 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/" >🔗</a> **[NASA]** NASA Awards Enable Research, Technology to Build Future Workforce
 - <a href="https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/" >🔗</a> **[SpaceNews]** How NASA is thinking about a moon base
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/" >🔗</a> **[NASA]** Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance
 - <a href="https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/" >🔗</a> **[NASA]** Chandra Finds Possible Origin of ‘Treble Clef’ Waves
@@ -99,7 +100,6 @@ into *a Polar Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Drilling_down_for_the_Moon" >🔗</a> **[ESA]** Drilling down for the Moon
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Act_for_more_sustainable_space" >🔗</a> **[ESA]** Act for more sustainable space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Swarming_robots_to_tackle_space_debris" >🔗</a> **[ESA]** Swarming robots to tackle space debris
-- <a href="https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/" >🔗</a> **[NASA]** APOD: 2026 October 15 – The Milky Way over Manhattan
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261015T160239">2026-10-15 16:02:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261015T163700">2026-10-15 16:37:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
