@@ -90,6 +90,7 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Swarming_robots_to_tackle_space_debris" >🔗</a> **[ESA]** Swarming robots to tackle space debris
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/" >🔗</a> **[NASA]** APOD: 2026 October 15 – The Milky Way over Manhattan
 - <a href="https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/" >🔗</a> **[NASA]** Fires Arrive in the Amazon Rainforest
 - <a href="https://www.nasaspaceflight.com/2026/10/artemis-iii-teams-prepare-short-stack-tanking-test/" >🔗</a> **[NASASpaceflight]** Artemis III SLS teams prepare short stack for pad tanking test
@@ -99,7 +100,6 @@ into *a Polar Orbit
 - <a href="https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/" >🔗</a> **[NASA]** NASA’s Space X CRS-35 Launch Jellyfish
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/" >🔗</a> **[NASA]** NASA Develops Batteries to Power Humanity’s Return to Moon
 - <a href="https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/" >🔗</a> **[NASA]** NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions
-- <a href="https://europeanspaceflight.com/spain-approves-early-release-of-e65-8-million-in-paz-2-spy-satellite-funding/" >🔗</a> **[European Spaceflight]** Spain Approves Early Release of €65.8 Million in PAZ 2 Spy Satellite Funding
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261015T080337">2026-10-15 08:03:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261015T084108">2026-10-15 08:41:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
