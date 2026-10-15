@@ -90,6 +90,8 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/" >🔗</a> **[NASA]** NASA Satellites Observe Historic 2026 El Niño
+- <a href="https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/" >🔗</a> **[NASA]** Power Up: Roll Out Solar Arrays Boost Space Station Power Supply
 - <a href="https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/" >🔗</a> **[NASA]** NASA to Conduct Low-Altitude Flights Over Texas Farmland
 - <a href="https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/" >🔗</a> **[NASA]** NASA Welcomes All Ages, Experience Levels for Space Apps Challenge
 - <a href="https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/" >🔗</a> **[NASA]** NASA Awards Enable Research, Technology to Build Future Workforce
@@ -98,8 +100,6 @@ into *a Polar Orbit
 - <a href="https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/" >🔗</a> **[NASA]** Chandra Finds Possible Origin of ‘Treble Clef’ Waves
 - <a href="https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/" >🔗</a> **[SpaceNews]** Agile Space Industries Expands to Seattle Area with New Bellevue Office
 - <a href="https://europeanspaceflight.com/arianespace-targets-23-nov-ariane-6-return-following-reported-turbopump-fix/" >🔗</a> **[European Spaceflight]** Arianespace Targets 23 Nov Ariane 6 Return Following Reported Turbopump Fix
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Trace_Gas_Orbiter_Facts_and_figures" >🔗</a> **[ESA]** Trace Gas Orbiter — Facts and figures
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Drilling_down_for_the_Moon" >🔗</a> **[ESA]** Drilling down for the Moon
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261015T184013">2026-10-15 18:40:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261015T190157">2026-10-15 19:01:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
