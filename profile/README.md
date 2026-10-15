@@ -90,6 +90,8 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Trace_Gas_Orbiter_Facts_and_figures" >🔗</a> **[ESA]** Trace Gas Orbiter — Facts and figures
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Drilling_down_for_the_Moon" >🔗</a> **[ESA]** Drilling down for the Moon
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Swarming_robots_to_tackle_space_debris" >🔗</a> **[ESA]** Swarming robots to tackle space debris
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/" >🔗</a> **[NASA]** APOD: 2026 October 15 – The Milky Way over Manhattan
 - <a href="https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/" >🔗</a> **[NASA]** Fires Arrive in the Amazon Rainforest
@@ -98,8 +100,6 @@ into *a Polar Orbit
 - <a href="https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Florida Students
 - <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/" >🔗</a> **[NASA]** NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision
 - <a href="https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/" >🔗</a> **[NASA]** NASA’s Space X CRS-35 Launch Jellyfish
-- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/" >🔗</a> **[NASA]** NASA Develops Batteries to Power Humanity’s Return to Moon
-- <a href="https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/" >🔗</a> **[NASA]** NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261015T100232">2026-10-15 10:02:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261015T103621">2026-10-15 10:36:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
