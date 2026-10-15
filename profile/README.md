@@ -90,6 +90,8 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/" >🔗</a> **[NASA]** APOD: 2026 October 15 – The Milky Way over Manhattan
+- <a href="https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/" >🔗</a> **[NASA]** Fires Arrive in the Amazon Rainforest
 - <a href="https://www.nasaspaceflight.com/2026/10/artemis-iii-teams-prepare-short-stack-tanking-test/" >🔗</a> **[NASASpaceflight]** Artemis III SLS teams prepare short stack for pad tanking test
 - <a href="https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/" >🔗</a> **[NASA]** NASA to Host News Conference Previewing US Spacewalks 100, 101
 - <a href="https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Florida Students
@@ -98,8 +100,6 @@ into *a Polar Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/" >🔗</a> **[NASA]** NASA Develops Batteries to Power Humanity’s Return to Moon
 - <a href="https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/" >🔗</a> **[NASA]** NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions
 - <a href="https://europeanspaceflight.com/spain-approves-early-release-of-e65-8-million-in-paz-2-spy-satellite-funding/" >🔗</a> **[European Spaceflight]** Spain Approves Early Release of €65.8 Million in PAZ 2 Spy Satellite Funding
-- <a href="https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/" >🔗</a> **[SpaceNews]** How mini-constellations could more quickly bring new tech to Europe, and to orbit
-- <a href="https://www.spacescout.info/2026/10/new-science-supplies-head-to-iss-on-crs-35/" >🔗</a> **[Space Scout]** New Science, Supplies Head to ISS on CRS-35
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261015T050237">2026-10-15 05:02:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261015T053602">2026-10-15 05:36:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
