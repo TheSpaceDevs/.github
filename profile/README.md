@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/" >🔗</a> **[NASA]** I Am Artemis: Allison Mjoen
 - <a href="https://spaceflightnow.com/2026/10/16/blue-origin-to-add-new-florida-launch-pads-seeks-aggressive-increase-in-new-glenn-flight-rate/" >🔗</a> **[Spaceflight Now]** Blue Origin to add new Florida launch pads, seeks aggressive increase in New Glenn flight rate
 - <a href="https://europeanspaceflight.com/uk-to-award-25m-space-surveillance-radar-contract-in-july-2027/" >🔗</a> **[European Spaceflight]** UK to Award £25M Space Surveillance Radar Contract in July 2027
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/" >🔗</a> **[NASA]** NASA’s Hubble Spies Spiral’s Edge
 - <a href="https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/" >🔗</a> **[Arstechnica]** Blue Origin is going all in on the New Glenn rocket
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_West_Antarctica" >🔗</a> **[ESA]** Earth from Space: West Antarctica
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/" >🔗</a> **[NASA]** APOD: 2026 October 16 – Chasing the International Space Station
 - <a href="https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/" >🔗</a> **[NASA]** Isaias Dims the Gulf Coast
 - <a href="https://www.nasaspaceflight.com/2026/10/carbon-fibre-force-rocket-lab-delay-neutron-debut/" >🔗</a> **[NASASpaceflight]** Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027
 - <a href="https://spacepolicyonline.com/news/jaxas-mmx-mars-mission-readies-for-launch-with-two-nasa-instruments/" >🔗</a> **[SpacePolicyOnline.com]** JAXA’S MMX Mars Mission Readies for Launch with Two NASA Instruments
-- <a href="https://spacenews.com/applying-ai-to-the-geoint-mission-event/" >🔗</a> **[SpaceNews]** Oct. 29: Applying AI to the GEOINT Mission
-- <a href="https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/" >🔗</a> **[NASA]** NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261016T140232">2026-10-16 14:02:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261016T143629">2026-10-16 14:36:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
