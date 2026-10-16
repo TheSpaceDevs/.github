@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_West_Antarctica" >🔗</a> **[ESA]** Earth from Space: West Antarctica
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/" >🔗</a> **[NASA]** APOD: 2026 October 16 – Chasing the International Space Station
 - <a href="https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/" >🔗</a> **[NASA]** Isaias Dims the Gulf Coast
 - <a href="https://www.nasaspaceflight.com/2026/10/carbon-fibre-force-rocket-lab-delay-neutron-debut/" >🔗</a> **[NASASpaceflight]** Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch classified payload for U.S. Space Force
 - <a href="https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/" >🔗</a> **[NASA]** NASA Satellites Observe Historic 2026 El Niño
 - <a href="https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/" >🔗</a> **[NASA]** Power Up: Roll Out Solar Arrays Boost Space Station Power Supply
-- <a href="https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/" >🔗</a> **[NASA]** NASA to Conduct Low-Altitude Flights Over Texas Farmland
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261016T080336">2026-10-16 08:03:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261016T083952">2026-10-16 08:39:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
