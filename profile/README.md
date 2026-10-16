@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/jaxas-mmx-mars-mission-readies-for-launch-with-two-nasa-instruments/" >🔗</a> **[SpacePolicyOnline.com]** JAXA’S MMX Mars Mission Readies for Launch with Two NASA Instruments
 - <a href="https://spacenews.com/applying-ai-to-the-geoint-mission-event/" >🔗</a> **[SpaceNews]** Oct. 29: Applying AI to the GEOINT Mission
 - <a href="https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/" >🔗</a> **[NASA]** NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission
 - <a href="https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch classified payload for U.S. Space Force
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/" >🔗</a> **[NASA]** NASA Welcomes All Ages, Experience Levels for Space Apps Challenge
 - <a href="https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/" >🔗</a> **[NASA]** NASA Awards Enable Research, Technology to Build Future Workforce
 - <a href="https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/" >🔗</a> **[SpaceNews]** How NASA is thinking about a moon base
-- <a href="https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/" >🔗</a> **[NASA]** Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261016T010033">2026-10-16 01:00:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261016T013918">2026-10-16 01:39:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
