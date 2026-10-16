@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/" >🔗</a> **[NASA]** APOD: 2026 October 16 – Chasing the International Space Station
+- <a href="https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/" >🔗</a> **[NASA]** Isaias Dims the Gulf Coast
 - <a href="https://www.nasaspaceflight.com/2026/10/carbon-fibre-force-rocket-lab-delay-neutron-debut/" >🔗</a> **[NASASpaceflight]** Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027
 - <a href="https://spacepolicyonline.com/news/jaxas-mmx-mars-mission-readies-for-launch-with-two-nasa-instruments/" >🔗</a> **[SpacePolicyOnline.com]** JAXA’S MMX Mars Mission Readies for Launch with Two NASA Instruments
 - <a href="https://spacenews.com/applying-ai-to-the-geoint-mission-event/" >🔗</a> **[SpaceNews]** Oct. 29: Applying AI to the GEOINT Mission
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/" >🔗</a> **[NASA]** NASA Satellites Observe Historic 2026 El Niño
 - <a href="https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/" >🔗</a> **[NASA]** Power Up: Roll Out Solar Arrays Boost Space Station Power Supply
 - <a href="https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/" >🔗</a> **[NASA]** NASA to Conduct Low-Altitude Flights Over Texas Farmland
-- <a href="https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/" >🔗</a> **[NASA]** NASA Welcomes All Ages, Experience Levels for Space Apps Challenge
-- <a href="https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/" >🔗</a> **[NASA]** NASA Awards Enable Research, Technology to Build Future Workforce
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261016T050231">2026-10-16 05:02:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261016T053548">2026-10-16 05:35:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
