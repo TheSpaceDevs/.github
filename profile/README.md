@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/" >🔗</a> **[NASA]** APOD: 2026 October 17 – 3D 67P
 - <a href="https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/" >🔗</a> **[NASA]** NASA Names Stephen Cash Marshall Space Flight Center Director
 - <a href="https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/" >🔗</a> **[NASA]** Artemis II Heat Shield After Splashdown
 - <a href="https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/" >🔗</a> **[NASA]** I Am Artemis: Allison Mjoen
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/" >🔗</a> **[Arstechnica]** Blue Origin is going all in on the New Glenn rocket
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_West_Antarctica" >🔗</a> **[ESA]** Earth from Space: West Antarctica
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/" >🔗</a> **[NASA]** APOD: 2026 October 16 – Chasing the International Space Station
-- <a href="https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/" >🔗</a> **[NASA]** Isaias Dims the Gulf Coast
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261017T050225">2026-10-17 05:02:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261017T053358">2026-10-17 05:33:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
