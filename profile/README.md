@@ -94,6 +94,8 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission
+- <a href="https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/" >🔗</a> **[NASASpaceflight]** SpaceX working through Starship Flight 15 and 16 milestones
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/" >🔗</a> **[NASA]** APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/" >🔗</a> **[NASA]** APOD: 2026 October 17 – 3D 67P
 - <a href="https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/" >🔗</a> **[NASA]** NASA Names Stephen Cash Marshall Space Flight Center Director
@@ -102,8 +104,6 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 - <a href="https://spaceflightnow.com/2026/10/16/blue-origin-to-add-new-florida-launch-pads-seeks-aggressive-increase-in-new-glenn-flight-rate/" >🔗</a> **[Spaceflight Now]** Blue Origin to add new Florida launch pads, seeks aggressive increase in New Glenn flight rate
 - <a href="https://europeanspaceflight.com/uk-to-award-25m-space-surveillance-radar-contract-in-july-2027/" >🔗</a> **[European Spaceflight]** UK to Award £25M Space Surveillance Radar Contract in July 2027
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/" >🔗</a> **[NASA]** NASA’s Hubble Spies Spiral’s Edge
-- <a href="https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/" >🔗</a> **[Arstechnica]** Blue Origin is going all in on the New Glenn rocket
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_West_Antarctica" >🔗</a> **[ESA]** Earth from Space: West Antarctica
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261018T170149">2026-10-18 17:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261018T173110">2026-10-18 17:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
