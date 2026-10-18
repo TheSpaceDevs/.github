@@ -94,6 +94,7 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/10/bandwagon-5/" >🔗</a> **[NASASpaceflight]** Falcon 9 set to launch Bandwagon-5 rideshare mission from Florida
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-18-24-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 18-24, 2026
 - <a href="https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission
 - <a href="https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/" >🔗</a> **[NASASpaceflight]** SpaceX working through Starship Flight 15 and 16 milestones
@@ -103,7 +104,6 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 - <a href="https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/" >🔗</a> **[NASA]** Artemis II Heat Shield After Splashdown
 - <a href="https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/" >🔗</a> **[NASA]** I Am Artemis: Allison Mjoen
 - <a href="https://spaceflightnow.com/2026/10/16/blue-origin-to-add-new-florida-launch-pads-seeks-aggressive-increase-in-new-glenn-flight-rate/" >🔗</a> **[Spaceflight Now]** Blue Origin to add new Florida launch pads, seeks aggressive increase in New Glenn flight rate
-- <a href="https://europeanspaceflight.com/uk-to-award-25m-space-surveillance-radar-contract-in-july-2027/" >🔗</a> **[European Spaceflight]** UK to Award £25M Space Surveillance Radar Contract in July 2027
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261018T223148">2026-10-18 22:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261018T230155">2026-10-18 23:01:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
