@@ -93,6 +93,7 @@ The mission includes a small French/German rover to explore the surface of Phobo
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Space_in_Member_States/United_Kingdom/Space_materials_lab_marks_10_years_of_innovation" >🔗</a> **[ESA]** Space materials lab marks 10 years of innovation
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Science_and_technology_for_the_Moon" >🔗</a> **[ESA]** Science and technology for the Moon
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/" >🔗</a> **[NASA]** APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source
 - <a href="https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/" >🔗</a> **[NASA]** Autumn Paints Poland’s Bieszczady Mountains
 - <a href="https://www.nasaspaceflight.com/2026/10/bandwagon-5/" >🔗</a> **[NASASpaceflight]** Falcon 9 set to launch Bandwagon-5 rideshare mission from Florida
@@ -101,7 +102,6 @@ The mission includes a small French/German rover to explore the surface of Phobo
 - <a href="https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/" >🔗</a> **[NASASpaceflight]** SpaceX working through Starship Flight 15 and 16 milestones
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/" >🔗</a> **[NASA]** APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/" >🔗</a> **[NASA]** APOD: 2026 October 17 – 3D 67P
-- <a href="https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/" >🔗</a> **[NASA]** NASA Names Stephen Cash Marshall Space Flight Center Director
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ The mission includes a small French/German rover to explore the surface of Phobo
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261019T110225">2026-10-19 11:02:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261019T113544">2026-10-19 11:35:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
