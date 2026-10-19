@@ -92,16 +92,16 @@ The mission includes a small French/German rover to explore the surface of Phobo
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet" >🔗</a> **[ESA]** Euclid discovers new comet
-- <a href="https://www.esa.int/Space_in_Member_States/United_Kingdom/Space_materials_lab_marks_10_years_of_innovation" >🔗</a> **[ESA]** Space materials lab marks 10 years of innovation
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Science_and_technology_for_the_Moon" >🔗</a> **[ESA]** Science and technology for the Moon
-- <a href="https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/" >🔗</a> **[NASA]** APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source
-- <a href="https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/" >🔗</a> **[NASA]** Autumn Paints Poland’s Bieszczady Mountains
-- <a href="https://www.nasaspaceflight.com/2026/10/bandwagon-5/" >🔗</a> **[NASASpaceflight]** Falcon 9 set to launch Bandwagon-5 rideshare mission from Florida
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-18-24-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 18-24, 2026
-- <a href="https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission
-- <a href="https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/" >🔗</a> **[NASASpaceflight]** SpaceX working through Starship Flight 15 and 16 milestones
-- <a href="https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/" >🔗</a> **[NASA]** APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars
+- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/" >🔗</a> **[NASA]** NASA Improves Shock, Vibration Analysis
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/" >🔗</a> **[NASA]** Software
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/" >🔗</a> **[NASA]** Experimental Facilities
+- <a href="https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/" >🔗</a> **[NASA]** NASA’s Simulated Mars Crew Marks One Year Inside Habitat
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/instrumentation-2/" >🔗</a> **[NASA]** Instrumentation
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/" >🔗</a> **[NASA]** Instrumentation
+- <a href="https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/" >🔗</a> **[SpaceNews]** UARX Space troubleshoots anomalies on maiden OTV Flight
+- <a href="https://www.nasa.gov/image-article/martian-dawn/" >🔗</a> **[NASA]** Martian Dawn
+- <a href="https://www.nasaspaceflight.com/2026/10/mmx-launch/" >🔗</a> **[NASASpaceflight]** Japanese MMX mission set for launch to study Martian moons
+- <a href="https://europeanspaceflight.com/us-political-uncertainty-complicates-long-term-artemis-commitments-polish-minister-says/" >🔗</a> **[European Spaceflight]** US political uncertainty complicates long-term Artemis commitments, Polish minister says
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ The mission includes a small French/German rover to explore the surface of Phobo
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261019T190301">2026-10-19 19:03:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261019T193240">2026-10-19 19:32:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
