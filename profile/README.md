@@ -49,7 +49,6 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261020T103000">2026-10-20 10:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)&location=Cape Canaveral SFS, FL, USA&dates=20261020T103000Z%2F20261020T113000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261020T221400">2026-10-20 22:14:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-15&location=Vandenberg SFB, CA, USA&dates=20261020T221400Z%2F20261021T021400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-15** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261021T032900">2026-10-21 03:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1S | Unknown Payload&location=Haiyang Oriental Spaceport&dates=20261021T032900Z%2F20261021T035000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1S | Unknown Payload** from Haiyang Oriental Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261021T070000">2026-10-21 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | We&#x27;re Not Hawking Around (3x HawkEye 360)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20261021T070000Z%2F20261021T084500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | We're Not Hawking Around (3x HawkEye 360)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
@@ -94,6 +93,7 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/french-mps-propose-symbolic-e1-budget-line-for-vortex-spaceplane/" >🔗</a> **[European Spaceflight]** French MPs propose symbolic €1 budget line for VORTEX spaceplane
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/New_brain_for_Galileo" >🔗</a> **[ESA]** New brain for Galileo
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos" >🔗</a> **[ESA]** MMX lifts off to Mars’s moon Phobos
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/" >🔗</a> **[NASA]** APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan
@@ -103,7 +103,6 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/" >🔗</a> **[NASA]** NASA Improves Shock, Vibration Analysis
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/" >🔗</a> **[NASA]** Software
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/" >🔗</a> **[NASA]** Experimental Facilities
-- <a href="https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/" >🔗</a> **[NASA]** NASA’s Simulated Mars Crew Marks One Year Inside Habitat
 
 
 ### Launch-related News 🚀
@@ -115,7 +114,7 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261020T100220">2026-10-20 10:02:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261020T103512">2026-10-20 10:35:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
