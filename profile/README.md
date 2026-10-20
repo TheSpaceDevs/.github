@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/" >🔗</a> **[Arstechnica]** Does anyone actually want to win the medium-lift race in the United States?
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/" >🔗</a> **[NASA]** NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module
 - <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/" >🔗</a> **[NASASpaceflight]** Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week
 - <a href="https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/" >🔗</a> **[NASA]** NASA Experimental Mars Helicopter Blade Designs Target Longer Flights
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory
 - <a href="https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/" >🔗</a> **[SpaceNews]** AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Lunar_Link_complete_and_ready_for_a_new_adventure" >🔗</a> **[ESA]** Lunar Link complete and ready for a new adventure
-- <a href="https://europeanspaceflight.com/french-mps-propose-symbolic-e1-budget-line-for-vortex-spaceplane/" >🔗</a> **[European Spaceflight]** French MPs propose symbolic €1 budget line for VORTEX spaceplane
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261020T190225">2026-10-20 19:02:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261020T193345">2026-10-20 19:33:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
