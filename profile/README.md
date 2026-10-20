@@ -94,6 +94,8 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By
+- <a href="https://spacepolicyonline.com/news/jaxas-mmx-enroute-to-mars-to-return-samples-of-phobos/" >🔗</a> **[SpacePolicyOnline.com]** JAXA’s MMX Enroute to Mars To Return Samples of Phobos
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/" >🔗</a> **[NASA]** NASA Improves Shock, Vibration Analysis
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/" >🔗</a> **[NASA]** Software
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/" >🔗</a> **[NASA]** Experimental Facilities
@@ -102,8 +104,6 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/" >🔗</a> **[NASA]** Instrumentation
 - <a href="https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/" >🔗</a> **[SpaceNews]** UARX Space troubleshoots anomalies on maiden OTV Flight
 - <a href="https://www.nasa.gov/image-article/martian-dawn/" >🔗</a> **[NASA]** Martian Dawn
-- <a href="https://www.nasaspaceflight.com/2026/10/mmx-launch/" >🔗</a> **[NASASpaceflight]** Japanese MMX mission set for launch to study Martian moons
-- <a href="https://europeanspaceflight.com/us-political-uncertainty-complicates-long-term-artemis-commitments-polish-minister-says/" >🔗</a> **[European Spaceflight]** US political uncertainty complicates long-term Artemis commitments, Polish minister says
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261020T014321">2026-10-20 01:43:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261020T020519">2026-10-20 02:05:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
