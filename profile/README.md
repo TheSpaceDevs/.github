@@ -94,6 +94,7 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos" >🔗</a> **[ESA]** MMX lifts off to Mars’s moon Phobos
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/" >🔗</a> **[NASA]** APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/" >🔗</a> **[NASA]** The Human Fingerprint on Earth’s Water Cycle
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By
@@ -102,7 +103,6 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/" >🔗</a> **[NASA]** Software
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/" >🔗</a> **[NASA]** Experimental Facilities
 - <a href="https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/" >🔗</a> **[NASA]** NASA’s Simulated Mars Crew Marks One Year Inside Habitat
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/instrumentation-2/" >🔗</a> **[NASA]** Instrumentation
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/" >🔗</a> **[NASA]** Instrumentation
 
 
@@ -115,7 +115,7 @@ Starfall is a cylindrical shaped capsule approximately 0.75 meters tall with a d
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261020T080320">2026-10-20 08:03:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261020T084140">2026-10-20 08:41:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
