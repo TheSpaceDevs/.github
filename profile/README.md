@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/" >🔗</a> **[NASA]** NASA Provides Progress Update on Moon Base Rovers
+- <a href="https://europeanspaceflight.com/space-rider-test-model-lost-following-failed-drop-test/" >🔗</a> **[European Spaceflight]** Space Rider test model lost following failed drop test
+- <a href="https://www.nasa.gov/image-article/webb-captures-stellar-jets/" >🔗</a> **[NASA]** Webb Captures Stellar Jets
+- <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory
+- <a href="https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/" >🔗</a> **[SpaceNews]** AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Lunar_Link_complete_and_ready_for_a_new_adventure" >🔗</a> **[ESA]** Lunar Link complete and ready for a new adventure
 - <a href="https://europeanspaceflight.com/french-mps-propose-symbolic-e1-budget-line-for-vortex-spaceplane/" >🔗</a> **[European Spaceflight]** French MPs propose symbolic €1 budget line for VORTEX spaceplane
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/New_brain_for_Galileo" >🔗</a> **[ESA]** New brain for Galileo
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos" >🔗</a> **[ESA]** MMX lifts off to Mars’s moon Phobos
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/" >🔗</a> **[NASA]** APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan
-- <a href="https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/" >🔗</a> **[NASA]** The Human Fingerprint on Earth’s Water Cycle
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By
-- <a href="https://spacepolicyonline.com/news/jaxas-mmx-enroute-to-mars-to-return-samples-of-phobos/" >🔗</a> **[SpacePolicyOnline.com]** JAXA’s MMX Enroute to Mars To Return Samples of Phobos
-- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/" >🔗</a> **[NASA]** NASA Improves Shock, Vibration Analysis
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/" >🔗</a> **[NASA]** Software
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/" >🔗</a> **[NASA]** Experimental Facilities
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261020T143630">2026-10-20 14:36:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261020T150315">2026-10-20 15:03:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
