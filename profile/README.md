@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/" >🔗</a> **[NASASpaceflight]** Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week
 - <a href="https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/" >🔗</a> **[NASA]** NASA Experimental Mars Helicopter Blade Designs Target Longer Flights
 - <a href="https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/" >🔗</a> **[NASA]** NASA Provides Progress Update on Moon Base Rovers
 - <a href="https://europeanspaceflight.com/space-rider-test-model-lost-following-failed-drop-test/" >🔗</a> **[European Spaceflight]** Space Rider test model lost following failed drop test
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Lunar_Link_complete_and_ready_for_a_new_adventure" >🔗</a> **[ESA]** Lunar Link complete and ready for a new adventure
 - <a href="https://europeanspaceflight.com/french-mps-propose-symbolic-e1-budget-line-for-vortex-spaceplane/" >🔗</a> **[European Spaceflight]** French MPs propose symbolic €1 budget line for VORTEX spaceplane
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/New_brain_for_Galileo" >🔗</a> **[ESA]** New brain for Galileo
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos" >🔗</a> **[ESA]** MMX lifts off to Mars’s moon Phobos
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261020T170227">2026-10-20 17:02:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261020T173411">2026-10-20 17:34:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
