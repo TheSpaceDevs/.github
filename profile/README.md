@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/" >🔗</a> **[NASA]** NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module
 - <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/" >🔗</a> **[NASASpaceflight]** Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week
 - <a href="https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/" >🔗</a> **[NASA]** NASA Experimental Mars Helicopter Blade Designs Target Longer Flights
 - <a href="https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/" >🔗</a> **[NASA]** NASA Provides Progress Update on Moon Base Rovers
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/" >🔗</a> **[SpaceNews]** AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Lunar_Link_complete_and_ready_for_a_new_adventure" >🔗</a> **[ESA]** Lunar Link complete and ready for a new adventure
 - <a href="https://europeanspaceflight.com/french-mps-propose-symbolic-e1-budget-line-for-vortex-spaceplane/" >🔗</a> **[European Spaceflight]** French MPs propose symbolic €1 budget line for VORTEX spaceplane
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/New_brain_for_Galileo" >🔗</a> **[ESA]** New brain for Galileo
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261020T180330">2026-10-20 18:03:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261020T183857">2026-10-20 18:38:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
