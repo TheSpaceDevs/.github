@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/" >🔗</a> **[SpaceNews]** Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/" >🔗</a> **[NASA]** NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface
 - <a href="https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/" >🔗</a> **[SpaceNews]** Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration
 - <a href="https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/" >🔗</a> **[SpaceNews]** Summer of Quantum: Building momentum for space-based QKD
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/" >🔗</a> **[NASA]** APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia
 - <a href="https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/" >🔗</a> **[NASA]** Extratropical Cyclone Whips Past Iceland
 - <a href="https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/" >🔗</a> **[Arstechnica]** Making SpaceX and Tesla a single company has "a lot of merit," Musk says
-- <a href="https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261021T140243">2026-10-21 14:02:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261021T143612">2026-10-21 14:36:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
