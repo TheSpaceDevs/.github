@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_2_-_The_people_behind_the_signal" >🔗</a> **[ESA]** Finding Our Way: Inside the Galileo Project: 2 - The people behind the signal
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_3_-_A_symphony_of_precision" >🔗</a> **[ESA]** Finding Our Way: Inside the Galileo Project: 3 - A symphony of precision
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_1_A_European_vision" >🔗</a> **[ESA]** Finding Our Way: Inside the Galileo Project: 1 – A European vision
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/" >🔗</a> **[NASA]** APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia
 - <a href="https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/" >🔗</a> **[NASA]** Extratropical Cyclone Whips Past Iceland
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/" >🔗</a> **[Arstechnica]** Does anyone actually want to win the medium-lift race in the United States?
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/" >🔗</a> **[NASA]** NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module
 - <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/" >🔗</a> **[NASASpaceflight]** Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week
-- <a href="https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/" >🔗</a> **[NASA]** NASA Experimental Mars Helicopter Blade Designs Target Longer Flights
-- <a href="https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/" >🔗</a> **[NASA]** NASA Provides Progress Update on Moon Base Rovers
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261021T090323">2026-10-21 09:03:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261021T093706">2026-10-21 09:37:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
