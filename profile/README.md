@@ -19,33 +19,36 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 15-15**. It is scheduled to be launched by *SpaceX*
+**Electron | We're Not Hawking Around (3x HawkEye 360)**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261021T215900">2026-10-21 21:59:00 UTC</a>.  Until
-then, this pad will have been used for 303
-out of 919 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1A</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261022T070000">2026-10-22 07:00:00 UTC</a>.  Until
+then, this pad will have been used for 43
+out of 84 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Earth Science* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.
+
+The constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO).
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261022T070000">2026-10-22 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | We&#x27;re Not Hawking Around (3x HawkEye 360)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20261022T070000Z%2F20261022T070000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | We're Not Hawking Around (3x HawkEye 360)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261022T214500">2026-10-22 21:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-15&location=Vandenberg SFB, CA, USA&dates=20261022T214500Z%2F20261023T014500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-15** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261023T100700">2026-10-23 10:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20261023T100700Z%2F20261023T102800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261023T191700">2026-10-23 19:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4B | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20261023T191700Z%2F20261023T193900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4B | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261025T014200">2026-10-25 01:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20261025T014200Z%2F20261025T023200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
@@ -103,13 +106,13 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/" >🔗</a> **[NASASpaceflight]** Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week
+- <a href="https://spacenews.com/rocket-lab-to-launch-hawkeye-360-satellites-on-first-wallops-electron-mission/" >🔗</a> **[SpaceNews]** Rocket Lab to launch HawkEye 360 satellites on first Wallops Electron mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261021T230202">2026-10-21 23:02:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261021T233342">2026-10-21 23:33:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
