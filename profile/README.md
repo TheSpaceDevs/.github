@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_1_A_European_vision" >🔗</a> **[ESA]** Finding Our Way: Inside the Galileo Project: 1 – A European vision
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/" >🔗</a> **[NASA]** APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia
 - <a href="https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/" >🔗</a> **[NASA]** Extratropical Cyclone Whips Past Iceland
 - <a href="https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/" >🔗</a> **[Arstechnica]** Making SpaceX and Tesla a single company has "a lot of merit," Musk says
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/" >🔗</a> **[NASASpaceflight]** Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week
 - <a href="https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/" >🔗</a> **[NASA]** NASA Experimental Mars Helicopter Blade Designs Target Longer Flights
 - <a href="https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/" >🔗</a> **[NASA]** NASA Provides Progress Update on Moon Base Rovers
-- <a href="https://europeanspaceflight.com/space-rider-test-model-lost-following-failed-drop-test/" >🔗</a> **[European Spaceflight]** Space Rider test model lost following failed drop test
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261021T080334">2026-10-21 08:03:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261021T084107">2026-10-21 08:41:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
