@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/" >🔗</a> **[SpaceNews]** TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner
+- <a href="https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/" >🔗</a> **[NASA]** Science on the Space Station with NASA Astronaut Jessica Watkins
+- <a href="https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/" >🔗</a> **[SpaceNews]** Global Satcom Services Revenues to Reach $145 Billion by 2035
+- <a href="https://europeanspaceflight.com/airbus-ships-first-lightweight-vulcain-aft-bay-for-ariane-6-block-2/" >🔗</a> **[European Spaceflight]** Airbus Ships First Lightweight Vulcain Aft Bay for Ariane 6 Block 2
 - <a href="https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/" >🔗</a> **[SpaceNews]** Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/" >🔗</a> **[NASA]** NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface
 - <a href="https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/" >🔗</a> **[SpaceNews]** Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration
 - <a href="https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/" >🔗</a> **[SpaceNews]** Summer of Quantum: Building momentum for space-based QKD
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_2_-_The_people_behind_the_signal" >🔗</a> **[ESA]** Finding Our Way: Inside the Galileo Project: 2 - The people behind the signal
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_1_A_European_vision" >🔗</a> **[ESA]** Finding Our Way: Inside the Galileo Project: 1 – A European vision
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_3_-_A_symphony_of_precision" >🔗</a> **[ESA]** Finding Our Way: Inside the Galileo Project: 3 - A symphony of precision
-- <a href="https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/" >🔗</a> **[NASA]** APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia
-- <a href="https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/" >🔗</a> **[NASA]** Extratropical Cyclone Whips Past Iceland
-- <a href="https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/" >🔗</a> **[Arstechnica]** Making SpaceX and Tesla a single company has "a lot of merit," Musk says
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261021T150231">2026-10-21 15:02:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261021T153718">2026-10-21 15:37:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
