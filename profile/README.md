@@ -94,8 +94,8 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/" >🔗</a> **[SpaceNews]** Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration
 - <a href="https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/" >🔗</a> **[SpaceNews]** Summer of Quantum: Building momentum for space-based QKD
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_2_-_The_people_behind_the_signal" >🔗</a> **[ESA]** Finding Our Way: Inside the Galileo Project: 2 - The people behind the signal
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_3_-_A_symphony_of_precision" >🔗</a> **[ESA]** Finding Our Way: Inside the Galileo Project: 3 - A symphony of precision
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_1_A_European_vision" >🔗</a> **[ESA]** Finding Our Way: Inside the Galileo Project: 1 – A European vision
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_3_-_A_symphony_of_precision" >🔗</a> **[ESA]** Finding Our Way: Inside the Galileo Project: 3 - A symphony of precision
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/" >🔗</a> **[NASA]** APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia
 - <a href="https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/" >🔗</a> **[NASA]** Extratropical Cyclone Whips Past Iceland
 - <a href="https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/" >🔗</a> **[Arstechnica]** Making SpaceX and Tesla a single company has "a lot of merit," Musk says
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261021T130509">2026-10-21 13:05:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261021T133509">2026-10-21 13:35:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
