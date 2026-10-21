@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/" >🔗</a> **[NASA]** NASA JPL Looks to Next 90 Years of Innovation, Exploration
 - <a href="https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/" >🔗</a> **[Arstechnica]** SpaceX will attempt to reach weekly Starship launches by early 2027
 - <a href="https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/" >🔗</a> **[NASA]** NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama
 - <a href="https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/" >🔗</a> **[NASA]** Tracks Along the Longest Drive on Another World
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/airbus-ships-first-lightweight-vulcain-aft-bay-for-ariane-6-block-2/" >🔗</a> **[European Spaceflight]** Airbus Ships First Lightweight Vulcain Aft Bay for Ariane 6 Block 2
 - <a href="https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/" >🔗</a> **[SpaceNews]** Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/" >🔗</a> **[NASA]** NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface
-- <a href="https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/" >🔗</a> **[SpaceNews]** Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261021T190201">2026-10-21 19:02:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261021T193232">2026-10-21 19:32:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
