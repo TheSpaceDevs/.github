@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/moons-south-pole-not-the-only-compelling-location-for-human-exploration/" >🔗</a> **[SpacePolicyOnline.com]** Moon’s South Pole Not the Only Compelling Location for Human Exploration
 - <a href="https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/" >🔗</a> **[SpaceNews]** Rethinking networks in space with Aalyria’s Brian Barritt
 - <a href="https://europeanspaceflight.com/esa-provides-new-details-on-failed-space-rider-drop-test/" >🔗</a> **[European Spaceflight]** ESA Provides New Details on Failed Space Rider Drop Test
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/350th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 350th ESA Council: Media information session
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026" >🔗</a> **[ESA]** ESA Open Days 2026
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_Council_approves_appointment_of_two_new_directors" >🔗</a> **[ESA]** ESA Council approves appointment of two new directors
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron" >🔗</a> **[ESA]** Stars brewing in a nebulous cauldron
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Moon_crane_to_take_a_load_off_lunar_landers" >🔗</a> **[ESA]** Moon crane to take a load off lunar landers
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261022T210218">2026-10-22 21:02:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261022T213314">2026-10-22 21:33:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
