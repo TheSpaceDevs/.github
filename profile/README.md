@@ -92,6 +92,7 @@ The constellation of small satellites (named Hawk ) will collect information on 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/" >🔗</a> **[NASA]** Faster to Science: A Letter to the Science Community
 - <a href="https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/" >🔗</a> **[NASA]** NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions
 - <a href="https://www.nasaspaceflight.com/2026/10/china-roundup-102026/" >🔗</a> **[NASASpaceflight]** China readies first commercial resupply craft, first booster reflight, and next landing attempt
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/" >🔗</a> **[NASA]** NASA JPL Looks to Next 90 Years of Innovation, Exploration
@@ -101,7 +102,6 @@ The constellation of small satellites (named Hawk ) will collect information on 
 - <a href="https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/" >🔗</a> **[SpaceNews]** TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner
 - <a href="https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/" >🔗</a> **[NASA]** Science on the Space Station with NASA Astronaut Jessica Watkins
 - <a href="https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/" >🔗</a> **[SpaceNews]** Global Satcom Services Revenues to Reach $145 Billion by 2035
-- <a href="https://europeanspaceflight.com/airbus-ships-first-lightweight-vulcain-aft-bay-for-ariane-6-block-2/" >🔗</a> **[European Spaceflight]** Airbus Ships First Lightweight Vulcain Aft Bay for Ariane 6 Block 2
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The constellation of small satellites (named Hawk ) will collect information on 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261022T000631">2026-10-22 00:06:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261022T010150">2026-10-22 01:01:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
