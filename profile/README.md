@@ -45,7 +45,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261023T070000">2026-10-23 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | We&#x27;re Not Hawking Around (3x HawkEye 360)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20261023T070000Z%2F20261023T084500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | We're Not Hawking Around (3x HawkEye 360)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261023T070000">2026-10-23 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | We&#x27;re Not Hawking Around (3x HawkEye 360)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20261023T070000Z%2F20261023T084500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | We're Not Hawking Around (3x HawkEye 360)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261023T100700">2026-10-23 10:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20261023T100700Z%2F20261023T102800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261023T191700">2026-10-23 19:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4B | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20261023T191700Z%2F20261023T193900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4B | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261025T014200">2026-10-25 01:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20261025T014200Z%2F20261025T023200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
@@ -89,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/" >🔗</a> **[NASASpaceflight]** ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13
+- <a href="https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/" >🔗</a> **[Arstechnica]** Latest estimate for Starship launches required to support a Moon landing? 22.
 - <a href="https://spacepolicyonline.com/news/moons-south-pole-not-the-only-compelling-location-for-human-exploration/" >🔗</a> **[SpacePolicyOnline.com]** Moon’s South Pole Not the Only Compelling Location for Human Exploration
 - <a href="https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/" >🔗</a> **[SpaceNews]** Rethinking networks in space with Aalyria’s Brian Barritt
 - <a href="https://europeanspaceflight.com/esa-provides-new-details-on-failed-space-rider-drop-test/" >🔗</a> **[European Spaceflight]** ESA Provides New Details on Failed Space Rider Drop Test
@@ -97,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2026/10/mmx-lifts-off-on-mission-to-explore-moons-of-mars/" >🔗</a> **[Space Scout]** MMX Lifts Off on Mission to Explore Moons of Mars
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Help_a_lost_lunar_rover_find_its_way_in_new_ESA_competition" >🔗</a> **[ESA]** Help a lost lunar rover find its way in new ESA competition
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026" >🔗</a> **[ESA]** ESA Open Days 2026
-- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_Council_approves_appointment_of_two_new_directors" >🔗</a> **[ESA]** ESA Council approves appointment of two new directors
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron" >🔗</a> **[ESA]** Stars brewing in a nebulous cauldron
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261022T220221">2026-10-22 22:02:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261022T223249">2026-10-22 22:32:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
