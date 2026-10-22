@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Help_a_lost_lunar_rover_find_its_way_in_new_ESA_competition" >🔗</a> **[ESA]** Help a lost lunar rover find its way in new ESA competition
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026" >🔗</a> **[ESA]** ESA Open Days 2026
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron" >🔗</a> **[ESA]** Stars brewing in a nebulous cauldron
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Moon_crane_to_take_a_load_off_lunar_landers" >🔗</a> **[ESA]** Moon crane to take a load off lunar landers
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/" >🔗</a> **[NASA]** NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions
 - <a href="https://www.nasaspaceflight.com/2026/10/china-roundup-102026/" >🔗</a> **[NASASpaceflight]** China readies first commercial resupply craft, first booster reflight, and next landing attempt
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/" >🔗</a> **[NASA]** NASA JPL Looks to Next 90 Years of Innovation, Exploration
-- <a href="https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/" >🔗</a> **[Arstechnica]** SpaceX will attempt to reach weekly Starship launches by early 2027
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261022T110225">2026-10-22 11:02:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261022T113535">2026-10-22 11:35:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
