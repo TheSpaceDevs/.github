@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/" >🔗</a> **[NASA]** APOD: 2026 October 22 – The First Green Star, WD J1330+6435
+- <a href="https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/" >🔗</a> **[NASA]** Fires Char New Guinea
 - <a href="https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/" >🔗</a> **[NASA]** Faster to Science: A Letter to the Science Community
 - <a href="https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/" >🔗</a> **[NASA]** NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions
 - <a href="https://www.nasaspaceflight.com/2026/10/china-roundup-102026/" >🔗</a> **[NASASpaceflight]** China readies first commercial resupply craft, first booster reflight, and next landing attempt
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/" >🔗</a> **[NASA]** NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama
 - <a href="https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/" >🔗</a> **[NASA]** Tracks Along the Longest Drive on Another World
 - <a href="https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/" >🔗</a> **[SpaceNews]** TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner
-- <a href="https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/" >🔗</a> **[NASA]** Science on the Space Station with NASA Astronaut Jessica Watkins
-- <a href="https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/" >🔗</a> **[SpaceNews]** Global Satcom Services Revenues to Reach $145 Billion by 2035
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261022T050231">2026-10-22 05:02:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261022T053659">2026-10-22 05:36:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
