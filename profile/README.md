@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/10/mmx-lifts-off-on-mission-to-explore-moons-of-mars/" >🔗</a> **[Space Scout]** MMX Lifts Off on Mission to Explore Moons of Mars
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Help_a_lost_lunar_rover_find_its_way_in_new_ESA_competition" >🔗</a> **[ESA]** Help a lost lunar rover find its way in new ESA competition
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026" >🔗</a> **[ESA]** ESA Open Days 2026
+- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_Council_approves_appointment_of_two_new_directors" >🔗</a> **[ESA]** ESA Council approves appointment of two new directors
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron" >🔗</a> **[ESA]** Stars brewing in a nebulous cauldron
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Moon_crane_to_take_a_load_off_lunar_landers" >🔗</a> **[ESA]** Moon crane to take a load off lunar landers
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/" >🔗</a> **[NASA]** APOD: 2026 October 22 – The First Green Star, WD J1330+6435
 - <a href="https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/" >🔗</a> **[NASA]** Fires Char New Guinea
 - <a href="https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/" >🔗</a> **[NASA]** Faster to Science: A Letter to the Science Community
 - <a href="https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/" >🔗</a> **[NASA]** NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions
-- <a href="https://www.nasaspaceflight.com/2026/10/china-roundup-102026/" >🔗</a> **[NASASpaceflight]** China readies first commercial resupply craft, first booster reflight, and next landing attempt
-- <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/" >🔗</a> **[NASA]** NASA JPL Looks to Next 90 Years of Innovation, Exploration
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261022T120402">2026-10-22 12:04:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261022T124608">2026-10-22 12:46:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
