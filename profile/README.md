@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron" >🔗</a> **[ESA]** Stars brewing in a nebulous cauldron
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Moon_crane_to_take_a_load_off_lunar_landers" >🔗</a> **[ESA]** Moon crane to take a load off lunar landers
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/" >🔗</a> **[NASA]** APOD: 2026 October 22 – The First Green Star, WD J1330+6435
 - <a href="https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/" >🔗</a> **[NASA]** Fires Char New Guinea
 - <a href="https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/" >🔗</a> **[NASA]** Faster to Science: A Letter to the Science Community
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/" >🔗</a> **[NASA]** NASA JPL Looks to Next 90 Years of Innovation, Exploration
 - <a href="https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/" >🔗</a> **[Arstechnica]** SpaceX will attempt to reach weekly Starship launches by early 2027
 - <a href="https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/" >🔗</a> **[NASA]** NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama
-- <a href="https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/" >🔗</a> **[NASA]** Tracks Along the Longest Drive on Another World
-- <a href="https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/" >🔗</a> **[SpaceNews]** TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261022T080348">2026-10-22 08:03:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261022T084204">2026-10-22 08:42:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
