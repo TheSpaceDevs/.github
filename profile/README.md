@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://europeanspaceflight.com/esa-provides-new-details-on-failed-space-rider-drop-test/" >🔗</a> **[European Spaceflight]** ESA Provides New Details on Failed Space Rider Drop Test
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/350th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 350th ESA Council: Media information session
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Resilience_takes_centre_stage_at_the_NAVISP_Industry_Days" >🔗</a> **[ESA]** Resilience takes centre stage at the NAVISP Industry Days
 - <a href="https://www.spacescout.info/2026/10/mmx-lifts-off-on-mission-to-explore-moons-of-mars/" >🔗</a> **[Space Scout]** MMX Lifts Off on Mission to Explore Moons of Mars
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Help_a_lost_lunar_rover_find_its_way_in_new_ESA_competition" >🔗</a> **[ESA]** Help a lost lunar rover find its way in new ESA competition
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron" >🔗</a> **[ESA]** Stars brewing in a nebulous cauldron
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Moon_crane_to_take_a_load_off_lunar_landers" >🔗</a> **[ESA]** Moon crane to take a load off lunar landers
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/" >🔗</a> **[NASA]** APOD: 2026 October 22 – The First Green Star, WD J1330+6435
-- <a href="https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/" >🔗</a> **[NASA]** Fires Char New Guinea
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261022T170220">2026-10-22 17:02:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261022T173440">2026-10-22 17:34:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
