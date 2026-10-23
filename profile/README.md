@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-director-not-sure-themis-will-make-its-first-flight-in-2026/" >🔗</a> **[European Spaceflight]** ESA Director “Not Sure” Themis Will Make Its First Flight in 2026
+- <a href="https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_The_pink_city" >🔗</a> **[ESA]** Earth from Space: The pink city
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Spot_the_craters" >🔗</a> **[ESA]** Spot the craters
 - <a href="https://spacepolicyonline.com/news/nasa-safety-panel-concerned-about-artemis-iv-future-access-to-leo/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Concerned About Artemis IV, Future Access to LEO
 - <a href="https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/" >🔗</a> **[NASASpaceflight]** ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13
 - <a href="https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/" >🔗</a> **[Arstechnica]** Latest estimate for Starship launches required to support a Moon landing? 22.
 - <a href="https://spacepolicyonline.com/news/moons-south-pole-not-the-only-compelling-location-for-human-exploration/" >🔗</a> **[SpacePolicyOnline.com]** Moon’s South Pole Not the Only Compelling Location for Human Exploration
 - <a href="https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/" >🔗</a> **[SpaceNews]** Rethinking networks in space with Aalyria’s Brian Barritt
 - <a href="https://europeanspaceflight.com/esa-provides-new-details-on-failed-space-rider-drop-test/" >🔗</a> **[European Spaceflight]** ESA Provides New Details on Failed Space Rider Drop Test
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/350th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 350th ESA Council: Media information session
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Resilience_takes_centre_stage_at_the_NAVISP_Industry_Days" >🔗</a> **[ESA]** Resilience takes centre stage at the NAVISP Industry Days
-- <a href="https://www.spacescout.info/2026/10/mmx-lifts-off-on-mission-to-explore-moons-of-mars/" >🔗</a> **[Space Scout]** MMX Lifts Off on Mission to Explore Moons of Mars
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261023T110229">2026-10-23 11:02:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261023T113550">2026-10-23 11:35:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
