@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satellite-mission-management-at-the-edge-event/" >🔗</a> **[SpaceNews]** Nov. 5: Satellite Mission Management at the Edge
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_October_2026" >🔗</a> **[ESA]** Week in images: 19-23 October 2026
 - <a href="https://europeanspaceflight.com/esa-director-not-sure-themis-will-make-its-first-flight-in-2026/" >🔗</a> **[European Spaceflight]** ESA Director “Not Sure” Themis Will Make Its First Flight in 2026
 - <a href="https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/" >🔗</a> **[NASASpaceflight]** ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13
 - <a href="https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/" >🔗</a> **[Arstechnica]** Latest estimate for Starship launches required to support a Moon landing? 22.
 - <a href="https://spacepolicyonline.com/news/moons-south-pole-not-the-only-compelling-location-for-human-exploration/" >🔗</a> **[SpacePolicyOnline.com]** Moon’s South Pole Not the Only Compelling Location for Human Exploration
-- <a href="https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/" >🔗</a> **[SpaceNews]** Rethinking networks in space with Aalyria’s Brian Barritt
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261023T200237">2026-10-23 20:02:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261023T203608">2026-10-23 20:36:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
