@@ -92,6 +92,7 @@ The constellation of small satellites (named Hawk ) will collect information on 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-safety-panel-concerned-about-artemis-iv-future-access-to-leo/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Concerned About Artemis IV, Future Access to LEO
 - <a href="https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/" >🔗</a> **[NASASpaceflight]** ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13
 - <a href="https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/" >🔗</a> **[Arstechnica]** Latest estimate for Starship launches required to support a Moon landing? 22.
 - <a href="https://spacepolicyonline.com/news/moons-south-pole-not-the-only-compelling-location-for-human-exploration/" >🔗</a> **[SpacePolicyOnline.com]** Moon’s South Pole Not the Only Compelling Location for Human Exploration
@@ -101,7 +102,6 @@ The constellation of small satellites (named Hawk ) will collect information on 
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Resilience_takes_centre_stage_at_the_NAVISP_Industry_Days" >🔗</a> **[ESA]** Resilience takes centre stage at the NAVISP Industry Days
 - <a href="https://www.spacescout.info/2026/10/mmx-lifts-off-on-mission-to-explore-moons-of-mars/" >🔗</a> **[Space Scout]** MMX Lifts Off on Mission to Explore Moons of Mars
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Help_a_lost_lunar_rover_find_its_way_in_new_ESA_competition" >🔗</a> **[ESA]** Help a lost lunar rover find its way in new ESA competition
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026" >🔗</a> **[ESA]** ESA Open Days 2026
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The constellation of small satellites (named Hawk ) will collect information on 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261023T030312">2026-10-23 03:03:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261023T033940">2026-10-23 03:39:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
