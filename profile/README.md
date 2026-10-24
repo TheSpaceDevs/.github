@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/" >🔗</a> **[NASASpaceflight]** NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths
 - <a href="https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/" >🔗</a> **[Arstechnica]** NASA updates lander plans for Moon landings, finally solves long-festering Orion issue
 - <a href="https://spacepolicyonline.com/news/nasa-is-full-steam-ahead-on-artemis-iii-iv-and-v/" >🔗</a> **[SpacePolicyOnline.com]** NASA is Full Steam Ahead on Artemis III, IV and V
 - <a href="https://spacenews.com/satellite-mission-management-at-the-edge-event/" >🔗</a> **[SpaceNews]** Nov. 5: Satellite Mission Management at the Edge
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_The_pink_city" >🔗</a> **[ESA]** Earth from Space: The pink city
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Spot_the_craters" >🔗</a> **[ESA]** Spot the craters
 - <a href="https://spacepolicyonline.com/news/nasa-safety-panel-concerned-about-artemis-iv-future-access-to-leo/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Concerned About Artemis IV, Future Access to LEO
-- <a href="https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/" >🔗</a> **[NASASpaceflight]** ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261024T030244">2026-10-24 03:02:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261024T033815">2026-10-24 03:38:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
