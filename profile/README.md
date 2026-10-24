@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/" >🔗</a> **[NASA]** APOD: 2026 October 24 – Rosetta’s Selfie
 - <a href="https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/" >🔗</a> **[NASASpaceflight]** NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths
 - <a href="https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/" >🔗</a> **[Arstechnica]** NASA updates lander plans for Moon landings, finally solves long-festering Orion issue
 - <a href="https://spacepolicyonline.com/news/nasa-is-full-steam-ahead-on-artemis-iii-iv-and-v/" >🔗</a> **[SpacePolicyOnline.com]** NASA is Full Steam Ahead on Artemis III, IV and V
+- <a href="https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/" >🔗</a> **[NASA]** NASA, Partners Accelerate Lander Development for 2028 Moon Missions
+- <a href="https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/" >🔗</a> **[NASA]** NASA’s Artemis III Mission to Test Future Moon Lander Operations
+- <a href="https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/" >🔗</a> **[NASA]** NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza
 - <a href="https://spacenews.com/satellite-mission-management-at-the-edge-event/" >🔗</a> **[SpaceNews]** Nov. 5: Satellite Mission Management at the Edge
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_October_2026" >🔗</a> **[ESA]** Week in images: 19-23 October 2026
-- <a href="https://europeanspaceflight.com/esa-director-not-sure-themis-will-make-its-first-flight-in-2026/" >🔗</a> **[European Spaceflight]** ESA Director “Not Sure” Themis Will Make Its First Flight in 2026
-- <a href="https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_The_pink_city" >🔗</a> **[ESA]** Earth from Space: The pink city
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Spot_the_craters" >🔗</a> **[ESA]** Spot the craters
-- <a href="https://spacepolicyonline.com/news/nasa-safety-panel-concerned-about-artemis-iv-future-access-to-leo/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Concerned About Artemis IV, Future Access to LEO
+- <a href="https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/" >🔗</a> **[NASA]** RS-25 Engine Tests at NASA Stennis
+- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/" >🔗</a> **[NASA]** NASA, Virginia Launch Power Partnership for Energy Security
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261024T050202">2026-10-24 05:02:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261024T053516">2026-10-24 05:35:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
