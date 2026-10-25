@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/" >🔗</a> **[NASASpaceflight]** Possible Roberts Road Expansion as SpaceX pushes for Flight 16
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/" >🔗</a> **[NASA]** APOD: 2026 October 25 – Dark Matter in a Simulated Universe
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/" >🔗</a> **[NASA]** APOD: 2026 October 24 – Rosetta’s Selfie
 - <a href="https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/" >🔗</a> **[NASASpaceflight]** NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/" >🔗</a> **[NASA]** NASA’s Artemis III Mission to Test Future Moon Lander Operations
 - <a href="https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/" >🔗</a> **[NASA]** NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza
 - <a href="https://spacenews.com/satellite-mission-management-at-the-edge-event/" >🔗</a> **[SpaceNews]** Nov. 5: Satellite Mission Management at the Edge
-- <a href="https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/" >🔗</a> **[NASA]** RS-25 Engine Tests at NASA Stennis
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261025T180241">2026-10-25 18:02:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261025T183726">2026-10-25 18:37:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
