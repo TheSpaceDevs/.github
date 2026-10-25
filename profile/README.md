@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/" >🔗</a> **[NASA]** APOD: 2026 October 25 – Dark Matter in a Simulated Universe
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/" >🔗</a> **[NASA]** APOD: 2026 October 24 – Rosetta’s Selfie
 - <a href="https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/" >🔗</a> **[NASASpaceflight]** NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths
 - <a href="https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/" >🔗</a> **[Arstechnica]** NASA updates lander plans for Moon landings, finally solves long-festering Orion issue
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/" >🔗</a> **[NASA]** NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza
 - <a href="https://spacenews.com/satellite-mission-management-at-the-edge-event/" >🔗</a> **[SpaceNews]** Nov. 5: Satellite Mission Management at the Edge
 - <a href="https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/" >🔗</a> **[NASA]** RS-25 Engine Tests at NASA Stennis
-- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/" >🔗</a> **[NASA]** NASA, Virginia Launch Power Partnership for Energy Security
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261025T090222">2026-10-25 09:02:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261025T093458">2026-10-25 09:34:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
