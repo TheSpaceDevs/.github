@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 and GSLV rockets scheduled to launch
+- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/" >🔗</a> **[NASA]** NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust
 - <a href="https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/" >🔗</a> **[SpaceNews]** Flexell Space Establishes French Subsidiary to Strengthen European Presence
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/" >🔗</a> **[NASA]** NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/" >🔗</a> **[NASA]** NASA Invites Media to Moon Landing Simulation Experience in California
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/" >🔗</a> **[SpaceNews]** Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites
 - <a href="https://www.spacescout.info/2026/10/a-new-era-for-space-launch-the-coming-falcon-9-retirement/" >🔗</a> **[Space Scout]** A New Era for Space Launch? The Coming Falcon 9 Retirement
 - <a href="https://europeanspaceflight.com/australia-counters-esas-offer-for-mission-to-iss-for-bennell-pegg/" >🔗</a> **[European Spaceflight]** Australia Counters ESA’s Offer for Mission to ISS for Bennell-Pegg
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings" >🔗</a> **[ESA]** Ice mission CRISTAL opens its wings
-- <a href="https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/" >🔗</a> **[NASA]** 2026 October 26 – M42: The Great Nebula in Orion
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261026T210200">2026-10-26 21:02:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261026T213554">2026-10-26 21:35:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
