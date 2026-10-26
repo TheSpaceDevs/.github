@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/australia-counters-esas-offer-for-mission-to-iss-for-bennell-pegg/" >🔗</a> **[European Spaceflight]** Australia Counters ESA’s Offer for Mission to ISS for Bennell-Pegg
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings" >🔗</a> **[ESA]** Ice mission CRISTAL opens its wings
 - <a href="https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/" >🔗</a> **[NASA]** 2026 October 26 – M42: The Great Nebula in Orion
 - <a href="https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/" >🔗</a> **[NASA]** Hunting Red Leaves with Satellites
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-25-november-1-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 25-November 1, 2026
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/" >🔗</a> **[NASA]** APOD: 2026 October 24 – Rosetta’s Selfie
 - <a href="https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/" >🔗</a> **[NASASpaceflight]** NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths
 - <a href="https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/" >🔗</a> **[Arstechnica]** NASA updates lander plans for Moon landings, finally solves long-festering Orion issue
-- <a href="https://spacepolicyonline.com/news/nasa-is-full-steam-ahead-on-artemis-iii-iv-and-v/" >🔗</a> **[SpacePolicyOnline.com]** NASA is Full Steam Ahead on Artemis III, IV and V
-- <a href="https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/" >🔗</a> **[NASA]** NASA, Partners Accelerate Lander Development for 2028 Moon Missions
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261026T110313">2026-10-26 11:03:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261026T113944">2026-10-26 11:39:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
