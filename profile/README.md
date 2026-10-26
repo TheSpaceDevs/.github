@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/" >🔗</a> **[NASA]** Hunting Red Leaves with Satellites
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-25-november-1-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 25-November 1, 2026
 - <a href="https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/" >🔗</a> **[NASASpaceflight]** Possible Roberts Road Expansion as SpaceX pushes for Flight 16
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/" >🔗</a> **[NASA]** APOD: 2026 October 25 – Dark Matter in a Simulated Universe
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-is-full-steam-ahead-on-artemis-iii-iv-and-v/" >🔗</a> **[SpacePolicyOnline.com]** NASA is Full Steam Ahead on Artemis III, IV and V
 - <a href="https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/" >🔗</a> **[NASA]** NASA, Partners Accelerate Lander Development for 2028 Moon Missions
 - <a href="https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/" >🔗</a> **[NASA]** NASA’s Artemis III Mission to Test Future Moon Lander Operations
-- <a href="https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/" >🔗</a> **[NASA]** NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261026T040348">2026-10-26 04:03:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261026T044247">2026-10-26 04:42:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
