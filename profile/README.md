@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/" >🔗</a> **[NASA]** NASA, USDA Sign Agreement Advancing Earth Science, Agriculture
 - <a href="https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/" >🔗</a> **[SpaceNews]** Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites
 - <a href="https://www.spacescout.info/2026/10/a-new-era-for-space-launch-the-coming-falcon-9-retirement/" >🔗</a> **[Space Scout]** A New Era for Space Launch? The Coming Falcon 9 Retirement
 - <a href="https://europeanspaceflight.com/australia-counters-esas-offer-for-mission-to-iss-for-bennell-pegg/" >🔗</a> **[European Spaceflight]** Australia Counters ESA’s Offer for Mission to ISS for Bennell-Pegg
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/" >🔗</a> **[NASA]** Hunting Red Leaves with Satellites
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-25-november-1-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 25-November 1, 2026
 - <a href="https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/" >🔗</a> **[NASASpaceflight]** Possible Roberts Road Expansion as SpaceX pushes for Flight 16
-- <a href="https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/" >🔗</a> **[NASA]** APOD: 2026 October 25 – Dark Matter in a Simulated Universe
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261026T131035">2026-10-26 13:10:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261026T144820">2026-10-26 14:48:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
