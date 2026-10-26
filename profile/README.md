@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/" >🔗</a> **[SpaceNews]** Flexell Space Establishes French Subsidiary to Strengthen European Presence
+- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/" >🔗</a> **[NASA]** NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/" >🔗</a> **[NASA]** NASA Invites Media to Moon Landing Simulation Experience in California
 - <a href="https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/" >🔗</a> **[NASA]** NASA’s X-59 Aircraft and Test Pilot
 - <a href="https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/" >🔗</a> **[NASA]** NASA, USDA Sign Agreement Advancing Earth Science, Agriculture
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/australia-counters-esas-offer-for-mission-to-iss-for-bennell-pegg/" >🔗</a> **[European Spaceflight]** Australia Counters ESA’s Offer for Mission to ISS for Bennell-Pegg
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings" >🔗</a> **[ESA]** Ice mission CRISTAL opens its wings
 - <a href="https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/" >🔗</a> **[NASA]** 2026 October 26 – M42: The Great Nebula in Orion
-- <a href="https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/" >🔗</a> **[NASA]** 2026 October 26 – M42: The Great Nebula in Orion
-- <a href="https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/" >🔗</a> **[NASA]** Hunting Red Leaves with Satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261026T200226">2026-10-26 20:02:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261026T203726">2026-10-26 20:37:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
