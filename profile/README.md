@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/" >🔗</a> **[NASA]** 2026 October 26 – M42: The Great Nebula in Orion
 - <a href="https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/" >🔗</a> **[NASA]** Hunting Red Leaves with Satellites
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-25-november-1-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 25-November 1, 2026
 - <a href="https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/" >🔗</a> **[NASASpaceflight]** Possible Roberts Road Expansion as SpaceX pushes for Flight 16
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/" >🔗</a> **[Arstechnica]** NASA updates lander plans for Moon landings, finally solves long-festering Orion issue
 - <a href="https://spacepolicyonline.com/news/nasa-is-full-steam-ahead-on-artemis-iii-iv-and-v/" >🔗</a> **[SpacePolicyOnline.com]** NASA is Full Steam Ahead on Artemis III, IV and V
 - <a href="https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/" >🔗</a> **[NASA]** NASA, Partners Accelerate Lander Development for 2028 Moon Missions
-- <a href="https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/" >🔗</a> **[NASA]** NASA’s Artemis III Mission to Test Future Moon Lander Operations
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261026T050349">2026-10-26 05:03:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261026T053846">2026-10-26 05:38:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
