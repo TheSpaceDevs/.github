@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/" >🔗</a> **[NASA]** NASA Invites Media to Moon Landing Simulation Experience in California
 - <a href="https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/" >🔗</a> **[NASA]** NASA’s X-59 Aircraft and Test Pilot
 - <a href="https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/" >🔗</a> **[NASA]** NASA, USDA Sign Agreement Advancing Earth Science, Agriculture
 - <a href="https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/" >🔗</a> **[SpaceNews]** Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/" >🔗</a> **[NASA]** 2026 October 26 – M42: The Great Nebula in Orion
 - <a href="https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/" >🔗</a> **[NASA]** 2026 October 26 – M42: The Great Nebula in Orion
 - <a href="https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/" >🔗</a> **[NASA]** Hunting Red Leaves with Satellites
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-25-november-1-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 25-November 1, 2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261026T170224">2026-10-26 17:02:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261026T173507">2026-10-26 17:35:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
