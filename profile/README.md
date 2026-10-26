@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/tingas-tale/" >🔗</a> **[NASA]** Tinga’s Tale
 - <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 and GSLV rockets scheduled to launch
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/" >🔗</a> **[NASA]** NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust
+- <a href="https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/" >🔗</a> **[NASA]** NEO Surveyor’s Sunshade Gets Inspected
+- <a href="https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/" >🔗</a> **[NASA]** Solar Cells Inspected on NASA’s NEO Surveyor
 - <a href="https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/" >🔗</a> **[SpaceNews]** Flexell Space Establishes French Subsidiary to Strengthen European Presence
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/" >🔗</a> **[NASA]** NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/" >🔗</a> **[NASA]** NASA Invites Media to Moon Landing Simulation Experience in California
 - <a href="https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/" >🔗</a> **[NASA]** NASA’s X-59 Aircraft and Test Pilot
 - <a href="https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/" >🔗</a> **[NASA]** NASA, USDA Sign Agreement Advancing Earth Science, Agriculture
-- <a href="https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/" >🔗</a> **[SpaceNews]** Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites
-- <a href="https://www.spacescout.info/2026/10/a-new-era-for-space-launch-the-coming-falcon-9-retirement/" >🔗</a> **[Space Scout]** A New Era for Space Launch? The Coming Falcon 9 Retirement
-- <a href="https://europeanspaceflight.com/australia-counters-esas-offer-for-mission-to-iss-for-bennell-pegg/" >🔗</a> **[European Spaceflight]** Australia Counters ESA’s Offer for Mission to ISS for Bennell-Pegg
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261026T220246">2026-10-26 22:02:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261026T223644">2026-10-26 22:36:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
