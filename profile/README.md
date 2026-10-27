@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/10/russian-military-satellite-flies-within-kilometer-of-american-satellite-supporting-ukrainian-military/" >🔗</a> **[Space Scout]** Russian Military Satellite Flies Within Kilometer of American Satellite Supporting Ukrainian Military
+- <a href="https://www.spacescout.info/2026/10/starliner-to-return-to-flight-by-january-fly-crew-in-2028/" >🔗</a> **[Space Scout]** Starliner to Return to Flight by January, Fly Crew in 2028
+- <a href="https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/" >🔗</a> **[SpaceNews]** Craft Prospect kicks off PERSEUS project to advance optical communications for space
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites" >🔗</a> **[ESA]** ESA procures four new Galileo Second Generation satellites
 - <a href="https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/" >🔗</a> **[NASA]** How a Johnson Mentor Shapes the Next Generation of NASA Talent
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/" >🔗</a> **[NASA]** APOD: 2026 October 27 – Noctilucent Clouds over Sweden
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/" >🔗</a> **[Spaceflight Now]** West Coast Falcon 9 rocket to launch 27 Starlink satellites
 - <a href="https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/" >🔗</a> **[NASA]** NASA’s Perseverance Views Dust at Neretva Vallis
 - <a href="https://science.nasa.gov/blog/tingas-tale/" >🔗</a> **[NASA]** Tinga’s Tale
-- <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 and GSLV rockets scheduled to launch
-- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/" >🔗</a> **[NASA]** NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust
-- <a href="https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/" >🔗</a> **[NASA]** NEO Surveyor’s Sunshade Gets Inspected
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261027T120414">2026-10-27 12:04:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261027T124735">2026-10-27 12:47:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
