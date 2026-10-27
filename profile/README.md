@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/" >🔗</a> **[NASA]** NASA’s Perseverance Views Dust at Neretva Vallis
 - <a href="https://science.nasa.gov/blog/tingas-tale/" >🔗</a> **[NASA]** Tinga’s Tale
 - <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 and GSLV rockets scheduled to launch
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/" >🔗</a> **[NASA]** NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/" >🔗</a> **[NASA]** NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/" >🔗</a> **[NASA]** NASA Invites Media to Moon Landing Simulation Experience in California
 - <a href="https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/" >🔗</a> **[NASA]** NASA’s X-59 Aircraft and Test Pilot
-- <a href="https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/" >🔗</a> **[NASA]** NASA, USDA Sign Agreement Advancing Earth Science, Agriculture
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261026T233320">2026-10-26 23:33:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261027T000631">2026-10-27 00:06:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
