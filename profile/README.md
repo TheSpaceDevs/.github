@@ -89,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/" >🔗</a> **[NASA]** APOD: 2026 October 27 – Noctilucent Clouds over Sweden
+- <a href="https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/" >🔗</a> **[NASA]** A-81 Reaches South Georgia
 - <a href="https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/" >🔗</a> **[Spaceflight Now]** West Coast Falcon 9 rocket to launch 27 Starlink satellites
 - <a href="https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/" >🔗</a> **[NASA]** NASA’s Perseverance Views Dust at Neretva Vallis
 - <a href="https://science.nasa.gov/blog/tingas-tale/" >🔗</a> **[NASA]** Tinga’s Tale
@@ -97,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/" >🔗</a> **[NASA]** NEO Surveyor’s Sunshade Gets Inspected
 - <a href="https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/" >🔗</a> **[NASA]** Solar Cells Inspected on NASA’s NEO Surveyor
 - <a href="https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/" >🔗</a> **[SpaceNews]** Flexell Space Establishes French Subsidiary to Strengthen European Presence
-- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/" >🔗</a> **[NASA]** NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/" >🔗</a> **[NASA]** NASA Invites Media to Moon Landing Simulation Experience in California
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261027T050232">2026-10-27 05:02:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261027T053749">2026-10-27 05:37:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
