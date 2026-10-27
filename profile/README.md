@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/" >🔗</a> **[NASA]** NASA’s Neo Surveyor Sunshade
 - <a href="https://spacedaily.com/a-small-star-is-eating-a-brown-dwarf-so-slowly-that-the-meal-could-last-billions-of-years-and-the-two-orbit-each-other-every-87-minutes-inside-a-space-that-would-fit-within-the-sun/" >🔗</a> **[SpaceDaily]** A small star is eating a brown dwarf so slowly that the meal could last billions of years, and the two orbit each other every 87 minutes inside a space that would fit within the Sun
 - <a href="https://europeanspaceflight.com/esas-invictus-hypersonic-programme-clears-first-major-review/" >🔗</a> **[European Spaceflight]** ESA’s INVICTUS Hypersonic Programme Clears First Major Review
 - <a href="https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one" >🔗</a> **[ESA]** First light: Hera resolves two asteroids instead of one
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites" >🔗</a> **[ESA]** ESA procures four new Galileo Second Generation satellites
 - <a href="https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/" >🔗</a> **[NASA]** How a Johnson Mentor Shapes the Next Generation of NASA Talent
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/" >🔗</a> **[NASA]** APOD: 2026 October 27 – Noctilucent Clouds over Sweden
-- <a href="https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/" >🔗</a> **[NASA]** A-81 Reaches South Georgia
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261027T173105">2026-10-27 17:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261027T180315">2026-10-27 18:03:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
