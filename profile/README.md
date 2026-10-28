@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/" >🔗</a> **[SpaceNews]** Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells
 - <a href="https://www.esa.int/Applications/Satellite_navigation/New_contracts_to_modernise_Galileo_ground_segment_for_next_generation" >🔗</a> **[ESA]** New contracts to modernise Galileo ground segment for next generation
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/" >🔗</a> **[NASA]** APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/" >🔗</a> **[NASA]** NASA’s Neo Surveyor Sunshade
 - <a href="https://spacedaily.com/a-small-star-is-eating-a-brown-dwarf-so-slowly-that-the-meal-could-last-billions-of-years-and-the-two-orbit-each-other-every-87-minutes-inside-a-space-that-would-fit-within-the-sun/" >🔗</a> **[SpaceDaily]** A small star is eating a brown dwarf so slowly that the meal could last billions of years, and the two orbit each other every 87 minutes inside a space that would fit within the Sun
 - <a href="https://europeanspaceflight.com/esas-invictus-hypersonic-programme-clears-first-major-review/" >🔗</a> **[European Spaceflight]** ESA’s INVICTUS Hypersonic Programme Clears First Major Review
-- <a href="https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one" >🔗</a> **[ESA]** First light: Hera resolves two asteroids instead of one
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261028T143101">2026-10-28 14:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261028T150206">2026-10-28 15:02:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
