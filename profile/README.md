@@ -52,9 +52,9 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261105T023500">2026-11-05 02:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-21&location=Vandenberg SFB, CA, USA&dates=20261105T023500Z%2F20261105T063500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-21** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261105T200000">2026-11-05 20:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 12 | SatNet LEO Group TBD?&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20261105T200000Z%2F20261105T230000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 12 | SatNet LEO Group TBD?** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261110T000000">2026-11-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Mountain God Rises (iQPS Launch 10)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20261110T000000Z%2F20261110T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Mountain God Rises (iQPS Launch 10)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T000000">2026-11-13 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vulcan VC6L | Amazon Leo (LV-01)&location=Cape Canaveral SFS, FL, USA&dates=20261113T000000Z%2F20261113T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vulcan VC6L | Amazon Leo (LV-01)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261123T000000">2026-11-23 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 64 Block 2 | Amazon Leo (LE-04)&location=Guiana Space Centre, French Guiana&dates=20261123T000000Z%2F20261123T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 64 Block 2 | Amazon Leo (LE-04)** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261124T050300">2026-11-24 05:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | Progress MS-36 (97P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20261124T050300Z%2F20261124T050300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b | Progress MS-36 (97P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261125T000000">2026-11-25 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 24&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20261125T000000Z%2F20261125T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 24** from Jiuquan Satellite Launch Center, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/" >🔗</a> **[NASA]** Webb Sees Turbulent Star Nursery
 - <a href="https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/" >🔗</a> **[SpaceNews]** Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells
 - <a href="https://www.esa.int/Applications/Satellite_navigation/New_contracts_to_modernise_Galileo_ground_segment_for_next_generation" >🔗</a> **[ESA]** New contracts to modernise Galileo ground segment for next generation
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/" >🔗</a> **[NASA]** NASA Invites Media to Crew Completion of Yearlong Mars Simulation
 - <a href="https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/" >🔗</a> **[NASA]** NASA’s Neo Surveyor Sunshade
 - <a href="https://spacedaily.com/a-small-star-is-eating-a-brown-dwarf-so-slowly-that-the-meal-could-last-billions-of-years-and-the-two-orbit-each-other-every-87-minutes-inside-a-space-that-would-fit-within-the-sun/" >🔗</a> **[SpaceDaily]** A small star is eating a brown dwarf so slowly that the meal could last billions of years, and the two orbit each other every 87 minutes inside a space that would fit within the Sun
-- <a href="https://europeanspaceflight.com/esas-invictus-hypersonic-programme-clears-first-major-review/" >🔗</a> **[European Spaceflight]** ESA’s INVICTUS Hypersonic Programme Clears First Major Review
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261028T153056">2026-10-28 15:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261028T160226">2026-10-28 16:02:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
