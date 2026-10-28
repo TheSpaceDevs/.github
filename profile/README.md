@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/" >🔗</a> **[NASA]** NASA University Challenge Ignites Trajectory of Drone Entrepreneur
 - <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/" >🔗</a> **[NASA]** NASA Selects 19 New Citizen Science Proposals in 2026
 - <a href="https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/" >🔗</a> **[NASA]** Webb Sees Turbulent Star Nursery
 - <a href="https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/" >🔗</a> **[SpaceNews]** Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/" >🔗</a> **[NASA]** The Land of the Standing-Up Rocks
 - <a href="https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/" >🔗</a> **[SpaceNews]** Ukrainian startup, GomSpace test satellite for future communications network
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/" >🔗</a> **[NASA]** NASA Invites Media to Crew Completion of Yearlong Mars Simulation
-- <a href="https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/" >🔗</a> **[NASA]** NASA’s Neo Surveyor Sunshade
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261028T180226">2026-10-28 18:02:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261028T183259">2026-10-28 18:32:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
