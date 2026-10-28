@@ -90,6 +90,9 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Vietnam as Newest Artemis Accords Signatory
+- <a href="https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/" >🔗</a> **[NASASpaceflight]** Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana
+- <a href="https://spaceflightnow.com/2026/10/28/nasa-nears-end-of-space-station-solar-array-upgrade-with-oct-29-and-nov-5-spacewalks/" >🔗</a> **[Spaceflight Now]** NASA nears end of space station solar array upgrade with Oct. 29 and Nov. 5 spacewalks
 - <a href="https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/" >🔗</a> **[Arstechnica]** The last, best hope for space tourism just rolled onto a runway in Arizona
 - <a href="https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/" >🔗</a> **[NASA]** Artemis III SLS Core Stage Joins Boosters at Kennedy
 - <a href="https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/" >🔗</a> **[NASA]** NASA University Challenge Ignites Trajectory of Drone Entrepreneur
@@ -97,9 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/" >🔗</a> **[NASA]** Webb Sees Turbulent Star Nursery
 - <a href="https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/" >🔗</a> **[SpaceNews]** Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells
 - <a href="https://www.esa.int/Applications/Satellite_navigation/New_contracts_to_modernise_Galileo_ground_segment_for_next_generation" >🔗</a> **[ESA]** New contracts to modernise Galileo ground segment for next generation
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’
-- <a href="https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/" >🔗</a> **[NASA]** APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io
-- <a href="https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/" >🔗</a> **[NASA]** The Land of the Standing-Up Rocks
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261028T213049">2026-10-28 21:30:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261028T220151">2026-10-28 22:01:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
