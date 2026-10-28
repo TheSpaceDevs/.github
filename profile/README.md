@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/" >🔗</a> **[NASA]** APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io
+- <a href="https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/" >🔗</a> **[NASA]** The Land of the Standing-Up Rocks
 - <a href="https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/" >🔗</a> **[SpaceNews]** Ukrainian startup, GomSpace test satellite for future communications network
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/" >🔗</a> **[NASA]** NASA Invites Media to Crew Completion of Yearlong Mars Simulation
 - <a href="https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/" >🔗</a> **[NASA]** NASA’s Neo Surveyor Sunshade
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one" >🔗</a> **[ESA]** First light: Hera resolves two asteroids instead of one
 - <a href="https://www.spacescout.info/2026/10/russian-military-satellite-flies-within-kilometer-of-american-satellite-supporting-ukrainian-military/" >🔗</a> **[Space Scout]** Russian Military Satellite Flies Within Kilometer of American Satellite Supporting Ukrainian Military
 - <a href="https://www.spacescout.info/2026/10/starliner-to-return-to-flight-by-january-fly-crew-in-2028/" >🔗</a> **[Space Scout]** Starliner to Return to Flight by January, Fly Crew in 2028
-- <a href="https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/" >🔗</a> **[SpaceNews]** Craft Prospect kicks off PERSEUS project to advance optical communications for space
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites" >🔗</a> **[ESA]** ESA procures four new Galileo Second Generation satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261028T043158">2026-10-28 04:31:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261028T050204">2026-10-28 05:02:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
