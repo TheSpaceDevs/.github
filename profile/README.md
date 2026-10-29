@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/" >🔗</a> **[NASA]** NIH–NASA QuSAFE Challenge
 - <a href="https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/" >🔗</a> **[NASA]** Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA
 - <a href="https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/" >🔗</a> **[NASA]** Send Your Name to Titan Aboard NASA’s Dragonfly Mission
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/" >🔗</a> **[NASA]** NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb" >🔗</a> **[ESA]** Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Jared Spiers
 - <a href="https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/" >🔗</a> **[Arstechnica]** SpaceX no longer needs NASA, and that's a problem for America's space agency
-- <a href="https://europeanspaceflight.com/uk-mod-awards-15-million-orbital-warfare-project-to-astroscale/" >🔗</a> **[European Spaceflight]** UK MOD Awards £15 Million Orbital Warfare Project to Astroscale
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261029T173053">2026-10-29 17:30:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261029T180233">2026-10-29 18:02:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
