@@ -90,6 +90,9 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope/" >🔗</a> **[NASA]** NASA’s Hubble Marks Way for Roman Space Telescope
+- <a href="https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/" >🔗</a> **[NASA]** Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb" >🔗</a> **[ESA]** Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Jared Spiers
 - <a href="https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/" >🔗</a> **[Arstechnica]** SpaceX no longer needs NASA, and that's a problem for America's space agency
 - <a href="https://europeanspaceflight.com/uk-mod-awards-15-million-orbital-warfare-project-to-astroscale/" >🔗</a> **[European Spaceflight]** UK MOD Awards £15 Million Orbital Warfare Project to Astroscale
@@ -97,9 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/" >🔗</a> **[NASA]** Arnab Strikes India
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/" >🔗</a> **[NASA]** Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy
 - <a href="https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/" >🔗</a> **[Spaceflight Now]** United Launch Alliance announces mid-November return to flight for Vulcan rocket
-- <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Vietnam as Newest Artemis Accords Signatory
-- <a href="https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/" >🔗</a> **[NASASpaceflight]** Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana
-- <a href="https://spaceflightnow.com/2026/10/28/nasa-nears-end-of-space-station-solar-array-upgrade-with-oct-29-and-nov-5-spacewalks/" >🔗</a> **[Spaceflight Now]** NASA nears end of space station solar array upgrade with Oct. 29 and Nov. 5 spacewalks
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261029T143102">2026-10-29 14:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261029T150218">2026-10-29 15:02:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
