@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/" >🔗</a> **[NASA]** Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy
 - <a href="https://spaceflightnow.com/2026/10/28/untied-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/" >🔗</a> **[Spaceflight Now]** Untied Launch Alliance announces mid-November return to flight for Vulcan rocket
 - <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Vietnam as Newest Artemis Accords Signatory
 - <a href="https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/" >🔗</a> **[NASASpaceflight]** Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/" >🔗</a> **[NASA]** NASA University Challenge Ignites Trajectory of Drone Entrepreneur
 - <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/" >🔗</a> **[NASA]** NASA Selects 19 New Citizen Science Proposals in 2026
 - <a href="https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/" >🔗</a> **[NASA]** Webb Sees Turbulent Star Nursery
-- <a href="https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/" >🔗</a> **[SpaceNews]** Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261029T030227">2026-10-29 03:02:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261029T033232">2026-10-29 03:32:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
