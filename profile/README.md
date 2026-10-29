@@ -90,6 +90,9 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/" >🔗</a> **[Spaceflight Now]** Spacewalking astronauts unfurl upgraded solar array to boost space station power
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/" >🔗</a> **[NASA]** Halloween Aboard the International Space Station
+- <a href="https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/" >🔗</a> **[NASASpaceflight]** Blue Origin attempts end of year return and eyes Artemis IV selection
 - <a href="https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/" >🔗</a> **[NASA]** NASA-funded Study Details One of Oldest Mars Meteorites Ever Found
 - <a href="https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/" >🔗</a> **[NASA]** NASA Names Troy Asher Armstrong Flight Research Center Director
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/" >🔗</a> **[NASA]** NIH–NASA QuSAFE Challenge
@@ -97,9 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/" >🔗</a> **[NASA]** Send Your Name to Titan Aboard NASA’s Dragonfly Mission
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/" >🔗</a> **[NASA]** NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing
 - <a href="https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/" >🔗</a> **[SpaceNews]** Advice for optimizing the space industry with Laura Crabtree
-- <a href="https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope/" >🔗</a> **[NASA]** NASA’s Hubble Marks Way for Roman Space Telescope
-- <a href="https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/" >🔗</a> **[NASA]** Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb" >🔗</a> **[ESA]** Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261029T213105">2026-10-29 21:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261029T220214">2026-10-29 22:02:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
