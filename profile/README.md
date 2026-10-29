@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Jared Spiers
 - <a href="https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/" >🔗</a> **[Arstechnica]** SpaceX no longer needs NASA, and that's a problem for America's space agency
 - <a href="https://europeanspaceflight.com/uk-mod-awards-15-million-orbital-warfare-project-to-astroscale/" >🔗</a> **[European Spaceflight]** UK MOD Awards £15 Million Orbital Warfare Project to Astroscale
 - <a href="https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/" >🔗</a> **[NASA]** APOD: 29 October 2026 – The Horns of Venus
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Vietnam as Newest Artemis Accords Signatory
 - <a href="https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/" >🔗</a> **[NASASpaceflight]** Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana
 - <a href="https://spaceflightnow.com/2026/10/28/nasa-nears-end-of-space-station-solar-array-upgrade-with-oct-29-and-nov-5-spacewalks/" >🔗</a> **[Spaceflight Now]** NASA nears end of space station solar array upgrade with Oct. 29 and Nov. 5 spacewalks
-- <a href="https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/" >🔗</a> **[Arstechnica]** The last, best hope for space tourism just rolled onto a runway in Arizona
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261029T130210">2026-10-29 13:02:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261029T133053">2026-10-29 13:30:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
