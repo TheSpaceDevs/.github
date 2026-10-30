@@ -45,7 +45,6 @@ into *a Geostationary Transfer Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T170000">2026-10-30 17:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | IRNSS-1L (NVS-03)&location=Satish Dhawan Space Centre, India&dates=20261030T170000Z%2F20261030T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | IRNSS-1L (NVS-03)** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261031T034800">2026-10-31 03:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-18&location=Vandenberg SFB, CA, USA&dates=20261031T034800Z%2F20261031T074800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-18** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261102T160000">2026-11-02 16:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Sea God Surveys (iQPS Launch 9)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20261102T160000Z%2F20261102T182000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Sea God Surveys (iQPS Launch 9)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261103T000500">2026-11-03 00:05:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kinetica 2 | SpaceSail Polar Group TBD?&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20261103T000500Z%2F20261103T003300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kinetica 2 | SpaceSail Polar Group TBD?** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -90,6 +89,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/" >🔗</a> **[Arstechnica]** Analysts find looming launch crisis is "more severe" than anticipated
 - <a href="https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/" >🔗</a> **[NASA]** NASA’s James Webb Space Telescope Captures Eerie Cat’s Head
 - <a href="https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/" >🔗</a> **[Spaceflight Now]** Turkey aims for first Moon-orbiting mission in 2027
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026" >🔗</a> **[ESA]** What happened this month at the European Space Agency? (October 2026)
@@ -99,7 +99,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/" >🔗</a> **[NASA]** November’s Night Sky Notes: Light-Day Away
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye" >🔗</a> **[ESA]** Earth from Space: Champi’s eerie eye
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/" >🔗</a> **[NASA]** APOD: 2026 October 30 – Haunting the Cepheus Flare
-- <a href="https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/" >🔗</a> **[NASA]** Vega Island Frozen in Fright
 
 
 ### Launch-related News 🚀
@@ -109,7 +108,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T163049">2026-10-30 16:30:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T170117">2026-10-30 17:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
