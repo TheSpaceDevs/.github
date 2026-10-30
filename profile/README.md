@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/" >🔗</a> **[NASASpaceflight]** SpaceX Completes Three Static Fires in Three Days for Flight 15
 - <a href="https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/" >🔗</a> **[NASA]** NASA Releases MAX POWER Key Events for Media, Participants
 - <a href="https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/" >🔗</a> **[SpaceNews]** ESI supplying solar array components to missile defense programs
 - <a href="https://spacepolicyonline.com/news/government-spending-on-civil-space-topped-42-billion-in-fy2026/" >🔗</a> **[SpacePolicyOnline.com]** Government Spending on Civil Space Topped $42 Billion in FY2026
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026" >🔗</a> **[ESA]** What happened this month at the European Space Agency? (October 2026)
 - <a href="https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/" >🔗</a> **[NASA]** NASA Explores Potential Commercial Servicing for Hubble Telescope
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_October_2026" >🔗</a> **[ESA]** Week in images: 26-30 October 2026
-- <a href="https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/" >🔗</a> **[European Spaceflight]** Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T213047">2026-10-30 21:30:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T220107">2026-10-30 22:01:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
