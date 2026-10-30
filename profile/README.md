@@ -90,6 +90,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/" >🔗</a> **[NASA]** APOD: 2026 October 30 – Haunting the Cepheus Flare
+- <a href="https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/" >🔗</a> **[NASA]** Vega Island Frozen in Fright
 - <a href="https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/" >🔗</a> **[NASA]** Map Showing Potential Origins of Martian Meteorite Teghaza 001
 - <a href="https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/" >🔗</a> **[Spaceflight Now]** As it happened: spacewalkers install new solar array
 - <a href="https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/" >🔗</a> **[NASA]** Slice of Martian Meteorite Teghaza 001
@@ -98,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/" >🔗</a> **[NASASpaceflight]** Blue Origin attempts end of year return and eyes Artemis IV selection
 - <a href="https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/" >🔗</a> **[NASA]** NASA-funded Study Details One of Oldest Mars Meteorites Ever Found
 - <a href="https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/" >🔗</a> **[NASA]** NASA Names Troy Asher Armstrong Flight Research Center Director
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/" >🔗</a> **[NASA]** NIH–NASA QuSAFE Challenge
-- <a href="https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/" >🔗</a> **[NASA]** Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T043138">2026-10-30 04:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T050206">2026-10-30 05:02:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
