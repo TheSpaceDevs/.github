@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/" >🔗</a> **[NASA]** Map Showing Potential Origins of Martian Meteorite Teghaza 001
 - <a href="https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/" >🔗</a> **[Spaceflight Now]** As it happened: spacewalkers install new solar array
 - <a href="https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/" >🔗</a> **[NASA]** Slice of Martian Meteorite Teghaza 001
 - <a href="https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/" >🔗</a> **[Spaceflight Now]** Spacewalking astronauts unfurl upgraded solar array to boost space station power
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/" >🔗</a> **[NASA]** NASA Names Troy Asher Armstrong Flight Research Center Director
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/" >🔗</a> **[NASA]** NIH–NASA QuSAFE Challenge
 - <a href="https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/" >🔗</a> **[NASA]** Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA
-- <a href="https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/" >🔗</a> **[NASA]** Send Your Name to Titan Aboard NASA’s Dragonfly Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T000513">2026-10-30 00:05:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T005123">2026-10-30 00:51:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
