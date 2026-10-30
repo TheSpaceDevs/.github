@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_October_2026" >🔗</a> **[ESA]** Week in images: 26-30 October 2026
 - <a href="https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/" >🔗</a> **[European Spaceflight]** Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/" >🔗</a> **[NASA]** November’s Night Sky Notes: Light-Day Away
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye" >🔗</a> **[ESA]** Earth from Space: Champi’s eerie eye
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/" >🔗</a> **[Spaceflight Now]** As it happened: spacewalkers install new solar array
 - <a href="https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/" >🔗</a> **[NASA]** Slice of Martian Meteorite Teghaza 001
 - <a href="https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/" >🔗</a> **[Spaceflight Now]** Spacewalking astronauts unfurl upgraded solar array to boost space station power
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/" >🔗</a> **[NASA]** Halloween Aboard the International Space Station
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T143109">2026-10-30 14:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T150131">2026-10-30 15:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
