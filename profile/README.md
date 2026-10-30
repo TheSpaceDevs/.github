@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye" >🔗</a> **[ESA]** Earth from Space: Champi’s eerie eye
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/" >🔗</a> **[NASA]** APOD: 2026 October 30 – Haunting the Cepheus Flare
 - <a href="https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/" >🔗</a> **[NASA]** Vega Island Frozen in Fright
 - <a href="https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/" >🔗</a> **[NASA]** Map Showing Potential Origins of Martian Meteorite Teghaza 001
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/" >🔗</a> **[NASA]** Halloween Aboard the International Space Station
 - <a href="https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/" >🔗</a> **[NASASpaceflight]** Blue Origin attempts end of year return and eyes Artemis IV selection
 - <a href="https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/" >🔗</a> **[NASA]** NASA-funded Study Details One of Oldest Mars Meteorites Ever Found
-- <a href="https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/" >🔗</a> **[NASA]** NASA Names Troy Asher Armstrong Flight Research Center Director
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T090221">2026-10-30 09:02:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T093110">2026-10-30 09:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
