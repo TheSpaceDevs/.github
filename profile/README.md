@@ -90,6 +90,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/" >🔗</a> **[Spaceflight Now]** As it happened: spacewalkers install new solar array
+- <a href="https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/" >🔗</a> **[NASA]** Slice of Martian Meteorite Teghaza 001
 - <a href="https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/" >🔗</a> **[Spaceflight Now]** Spacewalking astronauts unfurl upgraded solar array to boost space station power
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/" >🔗</a> **[NASA]** Halloween Aboard the International Space Station
 - <a href="https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/" >🔗</a> **[NASASpaceflight]** Blue Origin attempts end of year return and eyes Artemis IV selection
@@ -98,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/" >🔗</a> **[NASA]** NIH–NASA QuSAFE Challenge
 - <a href="https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/" >🔗</a> **[NASA]** Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA
 - <a href="https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/" >🔗</a> **[NASA]** Send Your Name to Titan Aboard NASA’s Dragonfly Mission
-- <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/" >🔗</a> **[NASA]** NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing
-- <a href="https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/" >🔗</a> **[SpaceNews]** Advice for optimizing the space industry with Laura Crabtree
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261029T233110">2026-10-29 23:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T000513">2026-10-30 00:05:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
