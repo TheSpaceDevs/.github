@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/" >🔗</a> **[NASA]** NASA Releases MAX POWER Key Events for Media, Participants
 - <a href="https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/" >🔗</a> **[SpaceNews]** ESI supplying solar array components to missile defense programs
 - <a href="https://spacepolicyonline.com/news/government-spending-on-civil-space-topped-42-billion-in-fy2026/" >🔗</a> **[SpacePolicyOnline.com]** Government Spending on Civil Space Topped $42 Billion in FY2026
 - <a href="https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/" >🔗</a> **[Arstechnica]** Analysts find looming launch crisis is "more severe" than anticipated
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/" >🔗</a> **[NASA]** NASA Explores Potential Commercial Servicing for Hubble Telescope
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_October_2026" >🔗</a> **[ESA]** Week in images: 26-30 October 2026
 - <a href="https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/" >🔗</a> **[European Spaceflight]** Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator
-- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/" >🔗</a> **[NASA]** November’s Night Sky Notes: Light-Day Away
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T193050">2026-10-30 19:30:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T200107">2026-10-30 20:01:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
