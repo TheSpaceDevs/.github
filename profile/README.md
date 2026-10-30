@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/" >🔗</a> **[NASA]** November’s Night Sky Notes: Light-Day Away
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye" >🔗</a> **[ESA]** Earth from Space: Champi’s eerie eye
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/" >🔗</a> **[NASA]** APOD: 2026 October 30 – Haunting the Cepheus Flare
 - <a href="https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/" >🔗</a> **[NASA]** Vega Island Frozen in Fright
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/" >🔗</a> **[Spaceflight Now]** Spacewalking astronauts unfurl upgraded solar array to boost space station power
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/" >🔗</a> **[NASA]** Halloween Aboard the International Space Station
 - <a href="https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/" >🔗</a> **[NASASpaceflight]** Blue Origin attempts end of year return and eyes Artemis IV selection
-- <a href="https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/" >🔗</a> **[NASA]** NASA-funded Study Details One of Oldest Mars Meteorites Ever Found
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T103050">2026-10-30 10:30:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T110123">2026-10-30 11:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
