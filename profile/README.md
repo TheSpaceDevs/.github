@@ -90,16 +90,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/" >🔗</a> **[NASA]** NASA’s James Webb Space Telescope Captures Eerie Cat’s Head
+- <a href="https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/" >🔗</a> **[Spaceflight Now]** Turkey aims for first Moon-orbiting mission in 2027
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026" >🔗</a> **[ESA]** What happened this month at the European Space Agency? (October 2026)
+- <a href="https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/" >🔗</a> **[NASA]** NASA Explores Potential Commercial Servicing for Hubble Telescope
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_October_2026" >🔗</a> **[ESA]** Week in images: 26-30 October 2026
 - <a href="https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/" >🔗</a> **[European Spaceflight]** Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/" >🔗</a> **[NASA]** November’s Night Sky Notes: Light-Day Away
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye" >🔗</a> **[ESA]** Earth from Space: Champi’s eerie eye
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/" >🔗</a> **[NASA]** APOD: 2026 October 30 – Haunting the Cepheus Flare
 - <a href="https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/" >🔗</a> **[NASA]** Vega Island Frozen in Fright
-- <a href="https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/" >🔗</a> **[NASA]** Map Showing Potential Origins of Martian Meteorite Teghaza 001
-- <a href="https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/" >🔗</a> **[Spaceflight Now]** As it happened: spacewalkers install new solar array
-- <a href="https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/" >🔗</a> **[NASA]** Slice of Martian Meteorite Teghaza 001
-- <a href="https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/" >🔗</a> **[Spaceflight Now]** Spacewalking astronauts unfurl upgraded solar array to boost space station power
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T153102">2026-10-30 15:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261030T160214">2026-10-30 16:02:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
