@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 15-18**. It is scheduled to be launched by *SpaceX*
+**Electron | The Sea God Surveys (iQPS Launch 9)**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261031T034800">2026-10-31 03:48:00 UTC</a>.  Until
-then, this pad will have been used for 305
-out of 921 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
+from *<a href="None">Unknown Pad</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261102T160000">2026-11-02 16:00:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 85 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Earth Science* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="None" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261105T211000">2026-11-05 21:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 12 | SatNet LEO Group TBD?&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20261105T211000Z%2F20261105T213900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 12 | SatNet LEO Group TBD?** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261106T022100">2026-11-06 02:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-21&location=Vandenberg SFB, CA, USA&dates=20261106T022100Z%2F20261106T062100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-21** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261110T000000">2026-11-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Mountain God Rises (iQPS Launch 10)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20261110T000000Z%2F20261110T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Mountain God Rises (iQPS Launch 10)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261110T030300">2026-11-10 03:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | USSF-xxx (&quot;R-5&quot;)&location=Vandenberg SFB, CA, USA&dates=20261110T030300Z%2F20261110T070300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | USSF-xxx ("R-5")** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/" >🔗</a> **[NASA]** APOD: 2026 October 31 – Night on a Spooky Planet
 - <a href="https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch
 - <a href="https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/" >🔗</a> **[NASASpaceflight]** SpaceX Completes Three Static Fires in Three Days for Flight 15
 - <a href="https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/" >🔗</a> **[NASA]** NASA Releases MAX POWER Key Events for Media, Participants
@@ -98,17 +100,15 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/" >🔗</a> **[NASA]** NASA’s James Webb Space Telescope Captures Eerie Cat’s Head
 - <a href="https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/" >🔗</a> **[Spaceflight Now]** Turkey aims for first Moon-orbiting mission in 2027
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026" >🔗</a> **[ESA]** What happened this month at the European Space Agency? (October 2026)
-- <a href="https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/" >🔗</a> **[NASA]** NASA Explores Potential Commercial Servicing for Hubble Telescope
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 and GSLV rockets scheduled to launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261031T043048">2026-10-31 04:30:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261031T050156">2026-10-31 05:01:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
