@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement/" >🔗</a> **[European Spaceflight]** Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/" >🔗</a> **[NASA]** APOD: 2026 November 1 – Colors of the Moon
 - <a href="https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/" >🔗</a> **[NASASpaceflight]** Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/" >🔗</a> **[NASA]** APOD: 2026 October 31 – Night on a Spooky Planet
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/" >🔗</a> **[SpaceNews]** ESI supplying solar array components to missile defense programs
 - <a href="https://spacepolicyonline.com/news/government-spending-on-civil-space-topped-42-billion-in-fy2026/" >🔗</a> **[SpacePolicyOnline.com]** Government Spending on Civil Space Topped $42 Billion in FY2026
 - <a href="https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/" >🔗</a> **[Arstechnica]** Analysts find looming launch crisis is "more severe" than anticipated
-- <a href="https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/" >🔗</a> **[NASA]** NASA’s James Webb Space Telescope Captures Eerie Cat’s Head
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261101T083057">2026-11-01 08:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261101T090122">2026-11-01 09:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
