@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/" >🔗</a> **[NASASpaceflight]** Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/" >🔗</a> **[NASA]** APOD: 2026 October 31 – Night on a Spooky Planet
 - <a href="https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch
 - <a href="https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/" >🔗</a> **[NASASpaceflight]** SpaceX Completes Three Static Fires in Three Days for Flight 15
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/" >🔗</a> **[Arstechnica]** Analysts find looming launch crisis is "more severe" than anticipated
 - <a href="https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/" >🔗</a> **[NASA]** NASA’s James Webb Space Telescope Captures Eerie Cat’s Head
 - <a href="https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/" >🔗</a> **[Spaceflight Now]** Turkey aims for first Moon-orbiting mission in 2027
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026" >🔗</a> **[ESA]** What happened this month at the European Space Agency? (October 2026)
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261101T033054">2026-11-01 03:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261101T040125">2026-11-01 04:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
