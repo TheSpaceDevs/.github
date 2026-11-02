@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/" >🔗</a> **[NASA]** NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies
 - <a href="https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/" >🔗</a> **[European Spaceflight]** ESA to Support Industry-Led Reusable Booster Flight Demonstrations
 - <a href="https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/" >🔗</a> **[SpaceNews]** How to Expand Reliable, Flexible Access to Space
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground" >🔗</a> **[ESA]** CubeSat achieves challenging laser link to ground
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement/" >🔗</a> **[European Spaceflight]** Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/" >🔗</a> **[NASA]** APOD: 2026 November 1 – Colors of the Moon
 - <a href="https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/" >🔗</a> **[NASASpaceflight]** Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority
-- <a href="https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/" >🔗</a> **[NASA]** APOD: 2026 October 31 – Night on a Spooky Planet
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261102T153102">2026-11-02 15:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261102T160128">2026-11-02 16:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
