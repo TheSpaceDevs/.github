@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground" >🔗</a> **[ESA]** CubeSat achieves challenging laser link to ground
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/" >🔗</a> **[NASA]** APOD: 2026 November 2 – A Long Cloud on Mars
 - <a href="https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/" >🔗</a> **[NASA]** Pennsylvania’s Grand Canyon
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-1-8-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 1-8, 2026
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/" >🔗</a> **[NASA]** APOD: 2026 October 31 – Night on a Spooky Planet
 - <a href="https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch
 - <a href="https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/" >🔗</a> **[NASASpaceflight]** SpaceX Completes Three Static Fires in Three Days for Flight 15
-- <a href="https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/" >🔗</a> **[NASA]** NASA Releases MAX POWER Key Events for Media, Participants
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261102T123207">2026-11-02 12:32:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261102T130140">2026-11-02 13:01:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
