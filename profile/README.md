@@ -92,6 +92,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/" >🔗</a> **[NASA]** Happy 65 Years: NASA’s Johnson Space Center Then and Now
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/" >🔗</a> **[NASA]** TB 26-09 Measured Hammer-Tap Inputs
 - <a href="https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/" >🔗</a> **[NASA]** NASA’s CHAPEA Crew “Returns” to Earth
@@ -101,7 +102,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/" >🔗</a> **[NASA]** NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies
 - <a href="https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/" >🔗</a> **[European Spaceflight]** ESA to Support Industry-Led Reusable Booster Flight Demonstrations
 - <a href="https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/" >🔗</a> **[SpaceNews]** How to Expand Reliable, Flexible Access to Space
-- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground" >🔗</a> **[ESA]** CubeSat achieves challenging laser link to ground
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261102T223046">2026-11-02 22:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261102T230215">2026-11-02 23:02:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
