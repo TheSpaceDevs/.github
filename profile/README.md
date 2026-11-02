@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/" >🔗</a> **[European Spaceflight]** ESA to Support Industry-Led Reusable Booster Flight Demonstrations
+- <a href="https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/" >🔗</a> **[SpaceNews]** How to Expand Reliable, Flexible Access to Space
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground" >🔗</a> **[ESA]** CubeSat achieves challenging laser link to ground
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/" >🔗</a> **[NASA]** APOD: 2026 November 2 – A Long Cloud on Mars
 - <a href="https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/" >🔗</a> **[NASA]** Pennsylvania’s Grand Canyon
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/" >🔗</a> **[NASA]** APOD: 2026 November 1 – Colors of the Moon
 - <a href="https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/" >🔗</a> **[NASASpaceflight]** Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority
 - <a href="https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/" >🔗</a> **[NASA]** APOD: 2026 October 31 – Night on a Spooky Planet
-- <a href="https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch
-- <a href="https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/" >🔗</a> **[NASASpaceflight]** SpaceX Completes Three Static Fires in Three Days for Flight 15
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261102T143052">2026-11-02 14:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261102T150119">2026-11-02 15:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
