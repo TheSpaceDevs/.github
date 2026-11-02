@@ -92,6 +92,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/" >🔗</a> **[NASA]** TB 26-09 Measured Hammer-Tap Inputs
 - <a href="https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/" >🔗</a> **[NASA]** NASA’s CHAPEA Crew “Returns” to Earth
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: November 2026 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/" >🔗</a> **[NASA]** NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch
@@ -101,7 +102,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/" >🔗</a> **[SpaceNews]** How to Expand Reliable, Flexible Access to Space
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground" >🔗</a> **[ESA]** CubeSat achieves challenging laser link to ground
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/" >🔗</a> **[NASA]** APOD: 2026 November 2 – A Long Cloud on Mars
-- <a href="https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/" >🔗</a> **[NASA]** Pennsylvania’s Grand Canyon
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261102T210104">2026-11-02 21:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261102T213101">2026-11-02 21:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
