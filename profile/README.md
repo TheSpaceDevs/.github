@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/" >🔗</a> **[NASA]** APOD: 2026 November 2 – A Long Cloud on Mars
+- <a href="https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/" >🔗</a> **[NASA]** Pennsylvania’s Grand Canyon
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-1-8-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 1-8, 2026
 - <a href="https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement/" >🔗</a> **[European Spaceflight]** Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/" >🔗</a> **[NASA]** APOD: 2026 November 1 – Colors of the Moon
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch
 - <a href="https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/" >🔗</a> **[NASASpaceflight]** SpaceX Completes Three Static Fires in Three Days for Flight 15
 - <a href="https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/" >🔗</a> **[NASA]** NASA Releases MAX POWER Key Events for Media, Participants
-- <a href="https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/" >🔗</a> **[SpaceNews]** ESI supplying solar array components to missile defense programs
-- <a href="https://spacepolicyonline.com/news/government-spending-on-civil-space-topped-42-billion-in-fy2026/" >🔗</a> **[SpacePolicyOnline.com]** Government Spending on Civil Space Topped $42 Billion in FY2026
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261102T053051">2026-11-02 05:30:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261102T060328">2026-11-02 06:03:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
