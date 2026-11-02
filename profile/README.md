@@ -92,6 +92,8 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/" >🔗</a> **[NASA]** NASA’s CHAPEA Crew “Returns” to Earth
+- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: November 2026 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/" >🔗</a> **[NASA]** NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch
 - <a href="https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/" >🔗</a> **[Arstechnica]** China releases timeline for lunar landing on the Moon, targeting "before 2030"
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/" >🔗</a> **[NASA]** NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies
@@ -100,8 +102,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground" >🔗</a> **[ESA]** CubeSat achieves challenging laser link to ground
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/" >🔗</a> **[NASA]** APOD: 2026 November 2 – A Long Cloud on Mars
 - <a href="https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/" >🔗</a> **[NASA]** Pennsylvania’s Grand Canyon
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-1-8-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 1-8, 2026
-- <a href="https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement/" >🔗</a> **[European Spaceflight]** Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261102T183048">2026-11-02 18:30:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261102T190206">2026-11-02 19:02:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
