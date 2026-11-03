@@ -92,6 +92,8 @@ First orbital full version launch of the South Korean military small satellite l
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/" >🔗</a> **[NASA]** APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor
+- <a href="https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/" >🔗</a> **[NASA]** The Pacific’s Busy Storm Season
 - <a href="https://spacepolicyonline.com/news/china-plans-two-launches-lunar-orbit-rendezvous-to-land-taikonauts-on-moon/" >🔗</a> **[SpacePolicyOnline.com]** China Plans “Two Launches, Lunar Orbit Rendezvous” to Land Taikonauts on Moon
 - <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/" >🔗</a> **[NASA]** Happy 65 Years: NASA’s Johnson Space Center Then and Now
@@ -100,8 +102,6 @@ First orbital full version launch of the South Korean military small satellite l
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: November 2026 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/" >🔗</a> **[NASA]** NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch
 - <a href="https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/" >🔗</a> **[Arstechnica]** China releases timeline for lunar landing on the Moon, targeting "before 2030"
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/" >🔗</a> **[NASA]** NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies
-- <a href="https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/" >🔗</a> **[European Spaceflight]** ESA to Support Industry-Led Reusable Booster Flight Demonstrations
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ First orbital full version launch of the South Korean military small satellite l
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261103T053057">2026-11-03 05:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261103T060244">2026-11-03 06:02:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
