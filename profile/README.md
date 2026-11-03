@@ -92,6 +92,7 @@ First orbital full version launch of the South Korean military small satellite l
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/china-plans-two-launches-lunar-orbit-rendezvous-to-land-taikonauts-on-moon/" >🔗</a> **[SpacePolicyOnline.com]** China Plans “Two Launches, Lunar Orbit Rendezvous” to Land Taikonauts on Moon
 - <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/" >🔗</a> **[NASA]** Happy 65 Years: NASA’s Johnson Space Center Then and Now
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/" >🔗</a> **[NASA]** TB 26-09 Measured Hammer-Tap Inputs
@@ -101,7 +102,6 @@ First orbital full version launch of the South Korean military small satellite l
 - <a href="https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/" >🔗</a> **[Arstechnica]** China releases timeline for lunar landing on the Moon, targeting "before 2030"
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/" >🔗</a> **[NASA]** NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies
 - <a href="https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/" >🔗</a> **[European Spaceflight]** ESA to Support Industry-Led Reusable Booster Flight Demonstrations
-- <a href="https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/" >🔗</a> **[SpaceNews]** How to Expand Reliable, Flexible Access to Space
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ First orbital full version launch of the South Korean military small satellite l
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261103T043053">2026-11-03 04:30:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261103T050118">2026-11-03 05:01:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
