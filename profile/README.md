@@ -92,6 +92,9 @@ First orbital full version launch of the South Korean military small satellite l
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/" >🔗</a> **[SpaceNews]** Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution
+- <a href="https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/" >🔗</a> **[Arstechnica]** This space company is betting its future on a propellant available everywhere
+- <a href="https://www.nasa.gov/image-article/astronaut-and-earth/" >🔗</a> **[NASA]** Astronaut and Earth
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/" >🔗</a> **[NASA]** TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking
 - <a href="https://europeanspaceflight.com/swiss-startup-plans-lunar-lander-powered-by-rotating-detonation-engine/" >🔗</a> **[European Spaceflight]** Swiss Startup Plans Lunar Lander Powered by Rotating Detonation Engine
 - <a href="https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/" >🔗</a> **[NASA]** NASA Astronaut, STEM Creator Connect with Students for STEM Day
@@ -99,9 +102,6 @@ First orbital full version launch of the South Korean military small satellite l
 - <a href="https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/" >🔗</a> **[SpaceNews]** DETUMBLER: Airbus’ Passive Spin Stabilization Solution
 - <a href="https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/" >🔗</a> **[NASASpaceflight]** Avoiding an uncontrolled reentry; boost Hubble and keep the science – Isaacman
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/10_asteroid_mysteries_that_Hera_will_explore" >🔗</a> **[ESA]** 10 asteroid mysteries that Hera will explore
-- <a href="https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/" >🔗</a> **[NASA]** APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor
-- <a href="https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/" >🔗</a> **[NASA]** The Pacific’s Busy Storm Season
-- <a href="https://spacepolicyonline.com/news/china-plans-two-launches-lunar-orbit-rendezvous-to-land-taikonauts-on-moon/" >🔗</a> **[SpacePolicyOnline.com]** China Plans “Two Launches, Lunar Orbit Rendezvous” to Land Taikonauts on Moon
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ First orbital full version launch of the South Korean military small satellite l
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261103T163102">2026-11-03 16:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261103T170247">2026-11-03 17:02:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
