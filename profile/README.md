@@ -92,6 +92,9 @@ First orbital full version launch of the South Korean military small satellite l
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/" >🔗</a> **[NASA]** TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking
+- <a href="https://europeanspaceflight.com/swiss-startup-plans-lunar-lander-powered-by-rotating-detonation-engine/" >🔗</a> **[European Spaceflight]** Swiss Startup Plans Lunar Lander Powered by Rotating Detonation Engine
+- <a href="https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/" >🔗</a> **[NASA]** NASA Astronaut, STEM Creator Connect with Students for STEM Day
 - <a href="https://spaceflightnow.com/2026/11/03/nasas-neil-gehrels-swift-observatory-to-burn-up-this-week-after-two-decades-in-space/" >🔗</a> **[Spaceflight Now]** NASA’s Neil Gehrels Swift Observatory to burn up this week after more than two decades in space
 - <a href="https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/" >🔗</a> **[SpaceNews]** DETUMBLER: Airbus’ Passive Spin Stabilization Solution
 - <a href="https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/" >🔗</a> **[NASASpaceflight]** Avoiding an uncontrolled reentry; boost Hubble and keep the science – Isaacman
@@ -99,9 +102,6 @@ First orbital full version launch of the South Korean military small satellite l
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/" >🔗</a> **[NASA]** APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/" >🔗</a> **[NASA]** The Pacific’s Busy Storm Season
 - <a href="https://spacepolicyonline.com/news/china-plans-two-launches-lunar-orbit-rendezvous-to-land-taikonauts-on-moon/" >🔗</a> **[SpacePolicyOnline.com]** China Plans “Two Launches, Lunar Orbit Rendezvous” to Land Taikonauts on Moon
-- <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/" >🔗</a> **[NASA]** Happy 65 Years: NASA’s Johnson Space Center Then and Now
-- <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/" >🔗</a> **[NASA]** TB 26-09 Measured Hammer-Tap Inputs
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ First orbital full version launch of the South Korean military small satellite l
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261103T153103">2026-11-03 15:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261103T160118">2026-11-03 16:01:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
