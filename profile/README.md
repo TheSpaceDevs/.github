@@ -106,11 +106,13 @@ First orbital full version launch of the South Korean military small satellite l
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/06/launch-preview-063026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Swift rescue mission, final Atlas satellite launch
+- <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-042026/" >🔗</a> **[NASASpaceflight]** Launch Preview: GPS, Progress, and Starlink missions to launch during busy week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261103T010209">2026-11-03 01:02:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261103T013108">2026-11-03 01:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
