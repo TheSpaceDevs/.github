@@ -91,6 +91,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/" >🔗</a> **[European Spaceflight]** PLD Space Completes MIURA 5 Flight Termination System Test
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite" >🔗</a> **[ESA]** Time to wake up MetOp-SG-B1 weather satellite
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/" >🔗</a> **[NASA]** APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342
 - <a href="https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/" >🔗</a> **[NASA]** Before the Dawn in America’s Heartland
 - <a href="https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/" >🔗</a> **[SpaceNews]** Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/" >🔗</a> **[NASA]** TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking
 - <a href="https://europeanspaceflight.com/swiss-startup-plans-lunar-lander-powered-by-rotating-detonation-engine/" >🔗</a> **[European Spaceflight]** Swiss Startup Plans Lunar Lander Powered by Rotating Detonation Engine
 - <a href="https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/" >🔗</a> **[NASA]** NASA Astronaut, STEM Creator Connect with Students for STEM Day
-- <a href="https://spaceflightnow.com/2026/11/03/nasas-neil-gehrels-swift-observatory-to-burn-up-this-week-after-two-decades-in-space/" >🔗</a> **[Spaceflight Now]** NASA’s Neil Gehrels Swift Observatory to burn up this week after more than two decades in space
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261104T113048">2026-11-04 11:30:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261104T120237">2026-11-04 12:02:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
