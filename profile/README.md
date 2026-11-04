@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/trump-issues-american-declaration-of-freedom-in-space/" >🔗</a> **[SpacePolicyOnline.com]** Trump Issues “American Declaration of Freedom in Space”
 - <a href="https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/" >🔗</a> **[Arstechnica]** Elon Musk moved SpaceX to red Texas. Now it's blue. What happens next?
 - <a href="https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/" >🔗</a> **[NASA]** NASA Shares Plans to Accelerate Artemis, Return to Moon
 - <a href="https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/" >🔗</a> **[Spaceflight Now]** NASA’s Neil Gehrels Swift Observatory reenters over Western Indonesia
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/" >🔗</a> **[NASA]** NASA Navigation Experiment Shows Promise for Planetary Landings
 - <a href="https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year/" >🔗</a> **[SpacePolicyOnline.com]** “Blue Tsunami” Puts Democrats in Control of House and Senate Next Year
 - <a href="https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/" >🔗</a> **[NASA]** NASA Space Grant Students Fuel Agency’s Inspiration Tour
-- <a href="https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/" >🔗</a> **[NASA]** Hubble Reveals Cosmic Mystery
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261104T223059">2026-11-04 22:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261104T230116">2026-11-04 23:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
