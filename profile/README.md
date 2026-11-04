@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/" >🔗</a> **[NASA]** NASA Announces Ka-Band Satellite Relay Awards for Space Communications
+- <a href="https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year-2/" >🔗</a> **[SpacePolicyOnline.com]** “Blue Tsunami” Puts Democrats in Control of House and Senate Next Year
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/" >🔗</a> **[NASA]** NASA Navigation Experiment Shows Promise for Planetary Landings
 - <a href="https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year/" >🔗</a> **[SpacePolicyOnline.com]** “Blue Tsunami” Puts Democrats in Control of House and Senate Next Year
 - <a href="https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/" >🔗</a> **[NASA]** NASA Space Grant Students Fuel Agency’s Inspiration Tour
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/" >🔗</a> **[European Spaceflight]** PLD Space Completes MIURA 5 Flight Termination System Test
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite" >🔗</a> **[ESA]** Time to wake up MetOp-SG-B1 weather satellite
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/" >🔗</a> **[NASA]** APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342
-- <a href="https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/" >🔗</a> **[NASA]** Before the Dawn in America’s Heartland
-- <a href="https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/" >🔗</a> **[SpaceNews]** Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261104T173046">2026-11-04 17:30:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261104T180117">2026-11-04 18:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
