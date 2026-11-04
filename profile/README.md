@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/" >🔗</a> **[Arstechnica]** Elon Musk moved SpaceX to red Texas. Now it's blue. What happens next?
+- <a href="https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/" >🔗</a> **[NASA]** NASA Shares Plans to Accelerate Artemis, Return to Moon
+- <a href="https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/" >🔗</a> **[Spaceflight Now]** NASA’s Neil Gehrels Swift Observatory reenters over Western Indonesia
 - <a href="https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/" >🔗</a> **[NASASpaceflight]** Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations
 - <a href="https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/" >🔗</a> **[NASA]** NASA Announces Ka-Band Satellite Relay Awards for Space Communications
 - <a href="https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year-2/" >🔗</a> **[SpacePolicyOnline.com]** “Blue Tsunami” Puts Democrats in Control of House and Senate Next Year
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year/" >🔗</a> **[SpacePolicyOnline.com]** “Blue Tsunami” Puts Democrats in Control of House and Senate Next Year
 - <a href="https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/" >🔗</a> **[NASA]** NASA Space Grant Students Fuel Agency’s Inspiration Tour
 - <a href="https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/" >🔗</a> **[NASA]** Hubble Reveals Cosmic Mystery
-- <a href="https://science.nasa.gov/earth/2026-ozone-hole/" >🔗</a> **[NASA]** NASA, NOAA Track 2026 Antarctic Ozone Hole
-- <a href="https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/" >🔗</a> **[European Spaceflight]** PLD Space Completes MIURA 5 Flight Termination System Test
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite" >🔗</a> **[ESA]** Time to wake up MetOp-SG-B1 weather satellite
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261104T203101">2026-11-04 20:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261104T210157">2026-11-04 21:01:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
