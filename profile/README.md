@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/" >🔗</a> **[NASA]** APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342
+- <a href="https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/" >🔗</a> **[NASA]** Before the Dawn in America’s Heartland
 - <a href="https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/" >🔗</a> **[SpaceNews]** Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution
 - <a href="https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/" >🔗</a> **[Arstechnica]** This space company is betting its future on a propellant available everywhere
 - <a href="https://www.nasa.gov/image-article/astronaut-and-earth/" >🔗</a> **[NASA]** Astronaut and Earth
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/" >🔗</a> **[NASA]** NASA Astronaut, STEM Creator Connect with Students for STEM Day
 - <a href="https://spaceflightnow.com/2026/11/03/nasas-neil-gehrels-swift-observatory-to-burn-up-this-week-after-two-decades-in-space/" >🔗</a> **[Spaceflight Now]** NASA’s Neil Gehrels Swift Observatory to burn up this week after more than two decades in space
 - <a href="https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/" >🔗</a> **[SpaceNews]** DETUMBLER: Airbus’ Passive Spin Stabilization Solution
-- <a href="https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/" >🔗</a> **[NASASpaceflight]** Avoiding an uncontrolled reentry; boost Hubble and keep the science – Isaacman
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/10_asteroid_mysteries_that_Hera_will_explore" >🔗</a> **[ESA]** 10 asteroid mysteries that Hera will explore
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261104T053051">2026-11-04 05:30:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261104T060255">2026-11-04 06:02:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
