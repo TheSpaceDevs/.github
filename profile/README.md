@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/" >🔗</a> **[NASA]** Hubble Reveals Cosmic Mystery
+- <a href="https://science.nasa.gov/earth/2026-ozone-hole/" >🔗</a> **[NASA]** NASA, NOAA Track 2026 Antarctic Ozone Hole
 - <a href="https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/" >🔗</a> **[European Spaceflight]** PLD Space Completes MIURA 5 Flight Termination System Test
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite" >🔗</a> **[ESA]** Time to wake up MetOp-SG-B1 weather satellite
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/" >🔗</a> **[NASA]** APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/" >🔗</a> **[Arstechnica]** This space company is betting its future on a propellant available everywhere
 - <a href="https://www.nasa.gov/image-article/astronaut-and-earth/" >🔗</a> **[NASA]** Astronaut and Earth
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/" >🔗</a> **[NASA]** TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking
-- <a href="https://europeanspaceflight.com/swiss-startup-plans-lunar-lander-powered-by-rotating-detonation-engine/" >🔗</a> **[European Spaceflight]** Swiss Startup Plans Lunar Lander Powered by Rotating Detonation Engine
-- <a href="https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/" >🔗</a> **[NASA]** NASA Astronaut, STEM Creator Connect with Students for STEM Day
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261104T153058">2026-11-04 15:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261104T160115">2026-11-04 16:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
