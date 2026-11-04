@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/" >🔗</a> **[NASASpaceflight]** Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations
 - <a href="https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/" >🔗</a> **[NASA]** NASA Announces Ka-Band Satellite Relay Awards for Space Communications
 - <a href="https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year-2/" >🔗</a> **[SpacePolicyOnline.com]** “Blue Tsunami” Puts Democrats in Control of House and Senate Next Year
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/" >🔗</a> **[NASA]** NASA Navigation Experiment Shows Promise for Planetary Landings
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/earth/2026-ozone-hole/" >🔗</a> **[NASA]** NASA, NOAA Track 2026 Antarctic Ozone Hole
 - <a href="https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/" >🔗</a> **[European Spaceflight]** PLD Space Completes MIURA 5 Flight Termination System Test
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite" >🔗</a> **[ESA]** Time to wake up MetOp-SG-B1 weather satellite
-- <a href="https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/" >🔗</a> **[NASA]** APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261104T193052">2026-11-04 19:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261104T200112">2026-11-04 20:01:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
