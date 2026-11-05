@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/" >🔗</a> **[NASASpaceflight]** Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine
 - <a href="https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/" >🔗</a> **[SpaceNews]** Cork Takes the Heat So DRACO’s Data Can Survive
 - <a href="https://www.nasa.gov/image-article/midwestern-city-lights/" >🔗</a> **[NASA]** Midwestern City Lights
 - <a href="https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Florida Students
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/" >🔗</a> **[NASA]** APOD: 2026 November 5 – Enceladus in Silhouette
 - <a href="https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/" >🔗</a> **[NASA]** Cyprus: Island of Snakes, Cats, and Ophiolites
 - <a href="https://spacepolicyonline.com/news/former-nasa-chief-economist-is-new-head-of-canadian-space-agency/" >🔗</a> **[SpacePolicyOnline.com]** Former NASA Chief Economist is New Head of Canadian Space Agency
-- <a href="https://spacedaily.com/two-giant-black-holes-at-the-heart-of-one-galaxy-may-circle-each-other-every-121-to-146-days-and-could-merge-in-as-little-as-100-years/" >🔗</a> **[SpaceDaily]** Two giant black holes at the heart of one galaxy may circle each other every 121 to 146 days and could merge in as little as 100 years
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261105T210049">2026-11-05 21:00:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261105T213109">2026-11-05 21:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
