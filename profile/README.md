@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/" >🔗</a> **[NASA]** APOD: 2026 November 5 – Enceladus in Silhouette
+- <a href="https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/" >🔗</a> **[NASA]** Cyprus: Island of Snakes, Cats, and Ophiolites
 - <a href="https://spacepolicyonline.com/news/former-nasa-chief-economist-is-new-head-of-canadian-space-agency/" >🔗</a> **[SpacePolicyOnline.com]** Former NASA Chief Economist is New Head of Canadian Space Agency
 - <a href="https://spacedaily.com/two-giant-black-holes-at-the-heart-of-one-galaxy-may-circle-each-other-every-121-to-146-days-and-could-merge-in-as-little-as-100-years/" >🔗</a> **[SpaceDaily]** Two giant black holes at the heart of one galaxy may circle each other every 121 to 146 days and could merge in as little as 100 years
 - <a href="https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/" >🔗</a> **[NASA]** NASA Announces X-70 Experimental Aircraft to Advance Flight Research
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/" >🔗</a> **[Arstechnica]** Elon Musk moved SpaceX to red Texas. Now it's blue. What happens next?
 - <a href="https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/" >🔗</a> **[NASA]** NASA Shares Plans to Accelerate Artemis, Return to Moon
 - <a href="https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/" >🔗</a> **[Spaceflight Now]** NASA’s Neil Gehrels Swift Observatory reenters over Western Indonesia
-- <a href="https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/" >🔗</a> **[NASASpaceflight]** Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations
-- <a href="https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/" >🔗</a> **[NASA]** NASA Announces Ka-Band Satellite Relay Awards for Space Communications
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261105T053106">2026-11-05 05:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261105T060245">2026-11-05 06:02:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
