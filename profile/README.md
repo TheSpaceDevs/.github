@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/former-nasa-chief-economist-is-new-head-of-canadian-space-agency/" >🔗</a> **[SpacePolicyOnline.com]** Former NASA Chief Economist is New Head of Canadian Space Agency
+- <a href="https://spacedaily.com/two-giant-black-holes-at-the-heart-of-one-galaxy-may-circle-each-other-every-121-to-146-days-and-could-merge-in-as-little-as-100-years/" >🔗</a> **[SpaceDaily]** Two giant black holes at the heart of one galaxy may circle each other every 121 to 146 days and could merge in as little as 100 years
 - <a href="https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/" >🔗</a> **[NASA]** NASA Announces X-70 Experimental Aircraft to Advance Flight Research
 - <a href="https://spacepolicyonline.com/news/farewell-swift/" >🔗</a> **[SpacePolicyOnline.com]** Farewell Swift
 - <a href="https://spacepolicyonline.com/news/trump-issues-american-declaration-of-freedom-in-space/" >🔗</a> **[SpacePolicyOnline.com]** Trump Issues “American Declaration of Freedom in Space”
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/" >🔗</a> **[Spaceflight Now]** NASA’s Neil Gehrels Swift Observatory reenters over Western Indonesia
 - <a href="https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/" >🔗</a> **[NASASpaceflight]** Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations
 - <a href="https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/" >🔗</a> **[NASA]** NASA Announces Ka-Band Satellite Relay Awards for Space Communications
-- <a href="https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year-2/" >🔗</a> **[SpacePolicyOnline.com]** “Blue Tsunami” Puts Democrats in Control of House and Senate Next Year
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/" >🔗</a> **[NASA]** NASA Navigation Experiment Shows Promise for Planetary Landings
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261105T030319">2026-11-05 03:03:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261105T033100">2026-11-05 03:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
