@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/" >🔗</a> **[SpaceNews]** Cork Takes the Heat So DRACO’s Data Can Survive
 - <a href="https://www.nasa.gov/image-article/midwestern-city-lights/" >🔗</a> **[NASA]** Midwestern City Lights
 - <a href="https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Florida Students
 - <a href="https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/" >🔗</a> **[SpaceNews]** Building a ‘highway to the moon and back’ with Winnie Lai
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/" >🔗</a> **[NASA]** Cyprus: Island of Snakes, Cats, and Ophiolites
 - <a href="https://spacepolicyonline.com/news/former-nasa-chief-economist-is-new-head-of-canadian-space-agency/" >🔗</a> **[SpacePolicyOnline.com]** Former NASA Chief Economist is New Head of Canadian Space Agency
 - <a href="https://spacedaily.com/two-giant-black-holes-at-the-heart-of-one-galaxy-may-circle-each-other-every-121-to-146-days-and-could-merge-in-as-little-as-100-years/" >🔗</a> **[SpaceDaily]** Two giant black holes at the heart of one galaxy may circle each other every 121 to 146 days and could merge in as little as 100 years
-- <a href="https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/" >🔗</a> **[NASA]** NASA Announces X-70 Experimental Aircraft to Advance Flight Research
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261105T173050">2026-11-05 17:30:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261105T180218">2026-11-05 18:02:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
