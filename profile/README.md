@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/" >🔗</a> **[SpaceNews]** Building a ‘highway to the moon and back’ with Winnie Lai
 - <a href="https://europeanspaceflight.com/ohb-awarded-e554-million-contract-for-next-gen-sentinel-3-satellite/" >🔗</a> **[European Spaceflight]** OHB Awarded €554 Million Contract for Next-Gen Sentinel-3 Satellite
 - <a href="https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/" >🔗</a> **[NASA]** Hubble Learns Galactic History From Stars
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/" >🔗</a> **[NASA]** APOD: 2026 November 5 – Enceladus in Silhouette
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/" >🔗</a> **[NASA]** NASA Announces X-70 Experimental Aircraft to Advance Flight Research
 - <a href="https://spacepolicyonline.com/news/farewell-swift/" >🔗</a> **[SpacePolicyOnline.com]** Farewell Swift
 - <a href="https://spacepolicyonline.com/news/trump-issues-american-declaration-of-freedom-in-space/" >🔗</a> **[SpacePolicyOnline.com]** Trump Issues “American Declaration of Freedom in Space”
-- <a href="https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/" >🔗</a> **[Arstechnica]** Elon Musk moved SpaceX to red Texas. Now it's blue. What happens next?
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261105T143054">2026-11-05 14:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261105T150113">2026-11-05 15:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
