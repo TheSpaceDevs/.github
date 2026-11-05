@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/" >🔗</a> **[Spaceflight Now]** Blue Origin reveals new kick stage, engines for its New Glenn rockets
+- <a href="https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/" >🔗</a> **[Spaceflight Now]** As it happened: spacewalkers install space station’s eighth and final upgraded solar array
+- <a href="https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/" >🔗</a> **[Spaceflight Now]** Spacewalkers complete five-year effort to upgrade space station power supply
 - <a href="https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/" >🔗</a> **[SpaceNews]** CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission
 - <a href="https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/" >🔗</a> **[NASASpaceflight]** Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine
 - <a href="https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/" >🔗</a> **[SpaceNews]** Cork Takes the Heat So DRACO’s Data Can Survive
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Florida Students
 - <a href="https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/" >🔗</a> **[SpaceNews]** Building a ‘highway to the moon and back’ with Winnie Lai
 - <a href="https://europeanspaceflight.com/ohb-awarded-e554-million-contract-for-next-gen-sentinel-3-satellite/" >🔗</a> **[European Spaceflight]** OHB Awarded €554 Million Contract for Next-Gen Sentinel-3 Satellite
-- <a href="https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/" >🔗</a> **[NASA]** Hubble Learns Galactic History From Stars
-- <a href="https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/" >🔗</a> **[NASA]** APOD: 2026 November 5 – Enceladus in Silhouette
-- <a href="https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/" >🔗</a> **[NASA]** Cyprus: Island of Snakes, Cats, and Ophiolites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261105T230058">2026-11-05 23:00:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261105T233105">2026-11-05 23:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
