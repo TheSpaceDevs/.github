@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/" >🔗</a> **[NASASpaceflight]** ISS astronauts install final iROSA solar panel to augment aging ISS power systems
 - <a href="https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/" >🔗</a> **[Arstechnica]** Blue Origin announces rocket upgrades aimed at lower costs, more performance
 - <a href="https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/" >🔗</a> **[Spaceflight Now]** Blue Origin reveals new kick stage, engines for its New Glenn rockets
 - <a href="https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/" >🔗</a> **[Spaceflight Now]** As it happened: spacewalkers install space station’s eighth and final upgraded solar array
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/" >🔗</a> **[SpaceNews]** Cork Takes the Heat So DRACO’s Data Can Survive
 - <a href="https://www.nasa.gov/image-article/midwestern-city-lights/" >🔗</a> **[NASA]** Midwestern City Lights
 - <a href="https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Florida Students
-- <a href="https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/" >🔗</a> **[SpaceNews]** Building a ‘highway to the moon and back’ with Winnie Lai
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261106T010116">2026-11-06 01:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261106T013124">2026-11-06 01:31:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
