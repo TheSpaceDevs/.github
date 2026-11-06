@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/" >🔗</a> **[Arstechnica]** AST SpaceMobile is so desperate for launch they're building their own rocket
 - <a href="https://www.nasa.gov/image-article/m30s-sparkling-stars/" >🔗</a> **[NASA]** M30’s Sparkling Stars
 - <a href="https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/" >🔗</a> **[NASA]** Supercomputing Tech Demo Schedule
 - <a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/" >🔗</a> **[NASASpaceflight]** Starship Flight 15, a dual catch attempt, awaits FAA green light
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/" >🔗</a> **[NASASpaceflight]** ISS astronauts install final iROSA solar panel to augment aging ISS power systems
 - <a href="https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/" >🔗</a> **[Arstechnica]** Blue Origin announces rocket upgrades aimed at lower costs, more performance
 - <a href="https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/" >🔗</a> **[Spaceflight Now]** Blue Origin reveals new kick stage, engines for its New Glenn rockets
-- <a href="https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/" >🔗</a> **[Spaceflight Now]** As it happened: spacewalkers install space station’s eighth and final upgraded solar array
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261106T183049">2026-11-06 18:30:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261106T190059">2026-11-06 19:00:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
