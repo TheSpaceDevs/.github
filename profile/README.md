@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/avio-scales-back-demonstrator-programme-amid-technical-challenges/" >🔗</a> **[European Spaceflight]** Avio Scales Back Demonstrator Programme Amid Technical Challenges
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/" >🔗</a> **[NASA]** APOD: 2026 November 6 – A Farewell to Swift
 - <a href="https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/" >🔗</a> **[NASA]** Taking a Gander at Utah’s Goosenecks
 - <a href="https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/" >🔗</a> **[NASASpaceflight]** ISS astronauts install final iROSA solar panel to augment aging ISS power systems
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/" >🔗</a> **[Spaceflight Now]** Spacewalkers complete five-year effort to upgrade space station power supply
 - <a href="https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/" >🔗</a> **[SpaceNews]** CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission
 - <a href="https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/" >🔗</a> **[NASASpaceflight]** Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine
-- <a href="https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/" >🔗</a> **[SpaceNews]** Cork Takes the Heat So DRACO’s Data Can Survive
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261106T073056">2026-11-06 07:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261106T080226">2026-11-06 08:02:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
