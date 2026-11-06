@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/m30s-sparkling-stars/" >🔗</a> **[NASA]** M30’s Sparkling Stars
+- <a href="https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/" >🔗</a> **[NASA]** Supercomputing Tech Demo Schedule
 - <a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/" >🔗</a> **[NASASpaceflight]** Starship Flight 15, a dual catch attempt, awaits FAA green light
 - <a href="https://europeanspaceflight.com/avio-scales-back-demonstrator-programme-amid-technical-challenges/" >🔗</a> **[European Spaceflight]** Avio Scales Back Demonstrator Programme Amid Technical Challenges
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/" >🔗</a> **[NASA]** APOD: 2026 November 6 – A Farewell to Swift
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/" >🔗</a> **[Arstechnica]** Blue Origin announces rocket upgrades aimed at lower costs, more performance
 - <a href="https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/" >🔗</a> **[Spaceflight Now]** Blue Origin reveals new kick stage, engines for its New Glenn rockets
 - <a href="https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/" >🔗</a> **[Spaceflight Now]** As it happened: spacewalkers install space station’s eighth and final upgraded solar array
-- <a href="https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/" >🔗</a> **[Spaceflight Now]** Spacewalkers complete five-year effort to upgrade space station power supply
-- <a href="https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/" >🔗</a> **[SpaceNews]** CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261106T163055">2026-11-06 16:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261106T170116">2026-11-06 17:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
