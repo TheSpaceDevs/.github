@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/" >🔗</a> **[NASA]** APOD: 2026 November 6 – A Farewell to Swift
+- <a href="https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/" >🔗</a> **[NASA]** Taking a Gander at Utah’s Goosenecks
 - <a href="https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/" >🔗</a> **[NASASpaceflight]** ISS astronauts install final iROSA solar panel to augment aging ISS power systems
 - <a href="https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/" >🔗</a> **[Arstechnica]** Blue Origin announces rocket upgrades aimed at lower costs, more performance
 - <a href="https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/" >🔗</a> **[Spaceflight Now]** Blue Origin reveals new kick stage, engines for its New Glenn rockets
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/" >🔗</a> **[SpaceNews]** CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission
 - <a href="https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/" >🔗</a> **[NASASpaceflight]** Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine
 - <a href="https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/" >🔗</a> **[SpaceNews]** Cork Takes the Heat So DRACO’s Data Can Survive
-- <a href="https://www.nasa.gov/image-article/midwestern-city-lights/" >🔗</a> **[NASA]** Midwestern City Lights
-- <a href="https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Florida Students
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261106T053049">2026-11-06 05:30:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261106T060300">2026-11-06 06:03:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
