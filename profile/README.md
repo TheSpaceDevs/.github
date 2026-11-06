@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/" >🔗</a> **[NASASpaceflight]** Stoke Space evaluating expansion of Cape site for second Nova pad
 - <a href="https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/" >🔗</a> **[Arstechnica]** AST SpaceMobile is so desperate for launch they're building their own rocket
 - <a href="https://www.nasa.gov/image-article/m30s-sparkling-stars/" >🔗</a> **[NASA]** M30’s Sparkling Stars
 - <a href="https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/" >🔗</a> **[NASA]** Supercomputing Tech Demo Schedule
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/" >🔗</a> **[NASA]** Taking a Gander at Utah’s Goosenecks
 - <a href="https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/" >🔗</a> **[NASASpaceflight]** ISS astronauts install final iROSA solar panel to augment aging ISS power systems
 - <a href="https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/" >🔗</a> **[Arstechnica]** Blue Origin announces rocket upgrades aimed at lower costs, more performance
-- <a href="https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/" >🔗</a> **[Spaceflight Now]** Blue Origin reveals new kick stage, engines for its New Glenn rockets
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261106T213052">2026-11-06 21:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261106T220143">2026-11-06 22:01:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
