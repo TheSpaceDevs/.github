@@ -92,6 +92,7 @@ The constellation will eventually consists of 13000 satellites.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/" >🔗</a> **[NASA]** NASA Awards Moon Base Transportation, Technology, Science Projects
 - <a href="https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/" >🔗</a> **[NASA]** NASA Seeks Next Generation of Explorers to Join Astronaut Corps
 - <a href="https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/" >🔗</a> **[NASASpaceflight]** NASA announces search for new astronauts
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/" >🔗</a> **[NASA]** APOD: 2026 November 7 – De Gerlache-Kocher Massif
@@ -101,7 +102,6 @@ The constellation will eventually consists of 13000 satellites.
 - <a href="https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/" >🔗</a> **[Arstechnica]** AST SpaceMobile is so desperate for launch they're building their own rocket
 - <a href="https://www.nasa.gov/image-article/m30s-sparkling-stars/" >🔗</a> **[NASA]** M30’s Sparkling Stars
 - <a href="https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/" >🔗</a> **[NASA]** Supercomputing Tech Demo Schedule
-- <a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/" >🔗</a> **[NASASpaceflight]** Starship Flight 15, a dual catch attempt, awaits FAA green light
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The constellation will eventually consists of 13000 satellites.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261107T223048">2026-11-07 22:30:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261107T230058">2026-11-07 23:00:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
