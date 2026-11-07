@@ -92,6 +92,7 @@ The constellation will eventually consists of 13000 satellites.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/" >🔗</a> **[Spaceflight Now]** AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket
 - <a href="https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/" >🔗</a> **[Spaceflight Now]** Falcon 9 to launch from California on classified mission for U.S. Space Force
 - <a href="https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/" >🔗</a> **[NASASpaceflight]** Stoke Space evaluating expansion of Cape site for second Nova pad
 - <a href="https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/" >🔗</a> **[Arstechnica]** AST SpaceMobile is so desperate for launch they're building their own rocket
@@ -101,7 +102,6 @@ The constellation will eventually consists of 13000 satellites.
 - <a href="https://europeanspaceflight.com/avio-scales-back-demonstrator-programme-amid-technical-challenges/" >🔗</a> **[European Spaceflight]** Avio Scales Back Demonstrator Programme Amid Technical Challenges
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/" >🔗</a> **[NASA]** APOD: 2026 November 6 – A Farewell to Swift
 - <a href="https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/" >🔗</a> **[NASA]** Taking a Gander at Utah’s Goosenecks
-- <a href="https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/" >🔗</a> **[NASASpaceflight]** ISS astronauts install final iROSA solar panel to augment aging ISS power systems
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The constellation will eventually consists of 13000 satellites.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261107T023059">2026-11-07 02:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261107T030118">2026-11-07 03:01:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
