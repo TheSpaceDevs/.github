@@ -92,6 +92,8 @@ The constellation will eventually consists of 13000 satellites.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/" >🔗</a> **[NASA]** NASA Seeks Next Generation of Explorers to Join Astronaut Corps
+- <a href="https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/" >🔗</a> **[NASASpaceflight]** NASA announces search for new astronauts
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/" >🔗</a> **[NASA]** APOD: 2026 November 7 – De Gerlache-Kocher Massif
 - <a href="https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/" >🔗</a> **[Spaceflight Now]** AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket
 - <a href="https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/" >🔗</a> **[Spaceflight Now]** Falcon 9 to launch from California on classified mission for U.S. Space Force
@@ -100,8 +102,6 @@ The constellation will eventually consists of 13000 satellites.
 - <a href="https://www.nasa.gov/image-article/m30s-sparkling-stars/" >🔗</a> **[NASA]** M30’s Sparkling Stars
 - <a href="https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/" >🔗</a> **[NASA]** Supercomputing Tech Demo Schedule
 - <a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/" >🔗</a> **[NASASpaceflight]** Starship Flight 15, a dual catch attempt, awaits FAA green light
-- <a href="https://europeanspaceflight.com/avio-scales-back-demonstrator-programme-amid-technical-challenges/" >🔗</a> **[European Spaceflight]** Avio Scales Back Demonstrator Programme Amid Technical Challenges
-- <a href="https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/" >🔗</a> **[NASA]** APOD: 2026 November 6 – A Farewell to Swift
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The constellation will eventually consists of 13000 satellites.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261107T183051">2026-11-07 18:30:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261107T190111">2026-11-07 19:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
