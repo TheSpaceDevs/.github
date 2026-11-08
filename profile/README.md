@@ -92,6 +92,7 @@ The constellation will eventually consists of 13000 satellites.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/" >🔗</a> **[NASA]** NASA Announces $1 Million to Students for Moon Base Challenge
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/" >🔗</a> **[NASA]** APOD: 2026 November 8 – Major Fireball Meteor
 - <a href="https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/" >🔗</a> **[NASASpaceflight]** NASA’s Moon Base plan gains a PROMISE
 - <a href="https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/" >🔗</a> **[NASA]** NASA Awards Moon Base Transportation, Technology, Science Projects
@@ -101,7 +102,6 @@ The constellation will eventually consists of 13000 satellites.
 - <a href="https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/" >🔗</a> **[Spaceflight Now]** AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket
 - <a href="https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/" >🔗</a> **[Spaceflight Now]** Falcon 9 to launch from California on classified mission for U.S. Space Force
 - <a href="https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/" >🔗</a> **[NASASpaceflight]** Stoke Space evaluating expansion of Cape site for second Nova pad
-- <a href="https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/" >🔗</a> **[Arstechnica]** AST SpaceMobile is so desperate for launch they're building their own rocket
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The constellation will eventually consists of 13000 satellites.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261108T153052">2026-11-08 15:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261108T160113">2026-11-08 16:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
