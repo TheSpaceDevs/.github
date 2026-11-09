@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/" >🔗</a> **[NASA]** NASA Advanced Mid-Power Electric Rocket Challenge
+- <a href="https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/" >🔗</a> **[NASA]** La NASA destina un millón de dólares al reto estudiantil Base Lunar
 - <a href="https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/" >🔗</a> **[NASA]** Astronauts Across Generations Share the Stage
 - <a href="https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/" >🔗</a> **[NASA]** MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/" >🔗</a> **[NASA]** NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/" >🔗</a> **[SpaceNews]** CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/" >🔗</a> **[NASA]** CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars
 - <a href="https://europeanspaceflight.com/rfa-confirms-inaugural-rfa-one-launch-has-slipped-to-2027/" >🔗</a> **[European Spaceflight]** RFA Confirms Inaugural RFA ONE Launch Has Slipped to 2027
-- <a href="https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/" >🔗</a> **[NASA]** APOD: 2026 November 9 – Rigel and the Witch Head Nebula
-- <a href="https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/" >🔗</a> **[NASA]** Ozone Hole Reaches Its 2026 Maximum
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261109T173051">2026-11-09 17:30:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261109T180200">2026-11-09 18:02:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
