@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/" >🔗</a> **[NASA]** CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars
 - <a href="https://europeanspaceflight.com/rfa-confirms-inaugural-rfa-one-launch-has-slipped-to-2027/" >🔗</a> **[European Spaceflight]** RFA Confirms Inaugural RFA ONE Launch Has Slipped to 2027
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/" >🔗</a> **[NASA]** APOD: 2026 November 9 – Rigel and the Witch Head Nebula
 - <a href="https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/" >🔗</a> **[NASA]** Ozone Hole Reaches Its 2026 Maximum
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/" >🔗</a> **[NASASpaceflight]** NASA’s Moon Base plan gains a PROMISE
 - <a href="https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/" >🔗</a> **[NASA]** NASA Awards Moon Base Transportation, Technology, Science Projects
 - <a href="https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/" >🔗</a> **[NASA]** NASA Seeks Next Generation of Explorers to Join Astronaut Corps
-- <a href="https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/" >🔗</a> **[NASASpaceflight]** NASA announces search for new astronauts
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261109T103050">2026-11-09 10:30:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261109T110127">2026-11-09 11:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
