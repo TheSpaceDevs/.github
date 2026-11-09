@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/" >🔗</a> **[NASA]** La NASA busca a la próxima generación de astronautas
+- <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/" >🔗</a> **[NASA]** NASA’s Chandra Finds Source of Star’s Mysterious Outbursts
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/" >🔗</a> **[NASA]** NASA Advanced Mid-Power Electric Rocket Challenge
 - <a href="https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/" >🔗</a> **[NASA]** La NASA destina un millón de dólares al reto estudiantil Base Lunar
 - <a href="https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/" >🔗</a> **[NASA]** Astronauts Across Generations Share the Stage
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/" >🔗</a> **[Arstechnica]** SpaceX now fundamentally an "infrastructure company," senior official says
 - <a href="https://europeanspaceflight.com/uk-government-investment-secures-more-than-25-stake-in-saxavord/" >🔗</a> **[European Spaceflight]** UK Government Investment Secures More Than 25% Stake in SaxaVord
 - <a href="https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/" >🔗</a> **[SpaceNews]** CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/" >🔗</a> **[NASA]** CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars
-- <a href="https://europeanspaceflight.com/rfa-confirms-inaugural-rfa-one-launch-has-slipped-to-2027/" >🔗</a> **[European Spaceflight]** RFA Confirms Inaugural RFA ONE Launch Has Slipped to 2027
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261109T193104">2026-11-09 19:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261109T200119">2026-11-09 20:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
