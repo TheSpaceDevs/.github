@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/" >🔗</a> **[NASA]** APOD: 2026 November 9 – Rigel and the Witch Head Nebula
+- <a href="https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/" >🔗</a> **[NASA]** Ozone Hole Reaches Its 2026 Maximum
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-8-14-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 8-14, 2026
 - <a href="https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/" >🔗</a> **[NASA]** NASA Announces $1 Million to Students for Moon Base Challenge
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/" >🔗</a> **[NASA]** APOD: 2026 November 8 – Major Fireball Meteor
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/" >🔗</a> **[NASA]** NASA Seeks Next Generation of Explorers to Join Astronaut Corps
 - <a href="https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/" >🔗</a> **[NASASpaceflight]** NASA announces search for new astronauts
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/" >🔗</a> **[NASA]** APOD: 2026 November 7 – De Gerlache-Kocher Massif
-- <a href="https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/" >🔗</a> **[Spaceflight Now]** AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket
-- <a href="https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/" >🔗</a> **[Spaceflight Now]** Falcon 9 to launch from California on classified mission for U.S. Space Force
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261109T053053">2026-11-09 05:30:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261109T060316">2026-11-09 06:03:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
