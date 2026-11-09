@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week
+- <a href="https://science.nasa.gov/blog/rubies-on-mars/" >🔗</a> **[NASA]** Rubies on Mars?
+- <a href="https://science.nasa.gov/blog/newest-sample-oldest-rock/" >🔗</a> **[NASA]** Newest Sample, Oldest Rock?
 - <a href="https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/" >🔗</a> **[NASA]** La NASA busca a la próxima generación de astronautas
 - <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/" >🔗</a> **[NASA]** NASA’s Chandra Finds Source of Star’s Mysterious Outbursts
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/" >🔗</a> **[NASA]** NASA Advanced Mid-Power Electric Rocket Challenge
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/" >🔗</a> **[NASA]** Astronauts Across Generations Share the Stage
 - <a href="https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/" >🔗</a> **[NASA]** MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/" >🔗</a> **[NASA]** NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars
-- <a href="https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/" >🔗</a> **[Arstechnica]** SpaceX now fundamentally an "infrastructure company," senior official says
-- <a href="https://europeanspaceflight.com/uk-government-investment-secures-more-than-25-stake-in-saxavord/" >🔗</a> **[European Spaceflight]** UK Government Investment Secures More Than 25% Stake in SaxaVord
-- <a href="https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/" >🔗</a> **[SpaceNews]** CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261109T230111">2026-11-09 23:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261109T233051">2026-11-09 23:30:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
