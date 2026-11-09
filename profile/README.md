@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/" >🔗</a> **[NASA]** Astronauts Across Generations Share the Stage
+- <a href="https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/" >🔗</a> **[NASA]** MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/" >🔗</a> **[NASA]** NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars
 - <a href="https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/" >🔗</a> **[Arstechnica]** SpaceX now fundamentally an "infrastructure company," senior official says
 - <a href="https://europeanspaceflight.com/uk-government-investment-secures-more-than-25-stake-in-saxavord/" >🔗</a> **[European Spaceflight]** UK Government Investment Secures More Than 25% Stake in SaxaVord
 - <a href="https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/" >🔗</a> **[SpaceNews]** CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/rfa-confirms-inaugural-rfa-one-launch-has-slipped-to-2027/" >🔗</a> **[European Spaceflight]** RFA Confirms Inaugural RFA ONE Launch Has Slipped to 2027
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/" >🔗</a> **[NASA]** APOD: 2026 November 9 – Rigel and the Witch Head Nebula
 - <a href="https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/" >🔗</a> **[NASA]** Ozone Hole Reaches Its 2026 Maximum
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-8-14-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 8-14, 2026
-- <a href="https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/" >🔗</a> **[NASA]** NASA Announces $1 Million to Students for Moon Base Challenge
-- <a href="https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/" >🔗</a> **[NASA]** APOD: 2026 November 8 – Major Fireball Meteor
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261109T163058">2026-11-09 16:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261109T170131">2026-11-09 17:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
