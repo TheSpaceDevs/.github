@@ -46,9 +46,9 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261111T024900">2026-11-11 02:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | USSF-627&location=Vandenberg SFB, CA, USA&dates=20261111T024900Z%2F20261111T064900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | USSF-627** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261111T050000">2026-11-11 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Mir | Demo Flight&location=Sea Launch&dates=20261111T050000Z%2F20261111T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Mir | Demo Flight** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261111T113200">2026-11-11 11:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20261111T113200Z%2F20261111T120500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261112T194400">2026-11-12 19:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou 11 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20261112T194400Z%2F20261112T202900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kuaizhou 11 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T050000">2026-11-13 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Mir | Demo Flight&location=Sea Launch&dates=20261113T050000Z%2F20261113T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Mir | Demo Flight** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T175400">2026-11-13 17:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vulcan VC6L | Amazon Leo (LV-01)&location=Cape Canaveral SFS, FL, USA&dates=20261113T175400Z%2F20261113T182400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vulcan VC6L | Amazon Leo (LV-01)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T224500">2026-11-13 22:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Starlink Group 31-2 (Starship Flight 15)&location=SpaceX Starbase, TX, USA&dates=20261113T224500Z%2F20261114T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Starlink Group 31-2 (Starship Flight 15)** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261114T040900">2026-11-14 04:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | USSF-317&location=Vandenberg SFB, CA, USA&dates=20261114T040900Z%2F20261114T080900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | USSF-317** from Vandenberg SFB, CA, USA.
@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/" >🔗</a> **[NASA]** CHAPEA Crew Leaves a Mark
+- <a href="https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/" >🔗</a> **[SpaceNews]** Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions
 - <a href="https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/" >🔗</a> **[SpaceNews]** ESCAPADE on its way to Mars after Earth flybys
 - <a href="https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/" >🔗</a> **[European Spaceflight]** Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/" >🔗</a> **[NASA]** APOD: 2026 November 10 – Saturn Behind the Moon
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5056-5062: Charging Back Up!
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole
 - <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week
-- <a href="https://science.nasa.gov/blog/rubies-on-mars/" >🔗</a> **[NASA]** Rubies on Mars?
-- <a href="https://science.nasa.gov/blog/newest-sample-oldest-rock/" >🔗</a> **[NASA]** Newest Sample, Oldest Rock?
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261110T143054">2026-11-10 14:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261110T150117">2026-11-10 15:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
