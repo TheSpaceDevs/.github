@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/" >🔗</a> **[SpacePolicyOnline.com]** NASA Shares Moon Base Progress, Contract Awards
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5056-5062: Charging Back Up!
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole
 - <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/" >🔗</a> **[NASA]** NASA’s Chandra Finds Source of Star’s Mysterious Outbursts
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/" >🔗</a> **[NASA]** NASA Advanced Mid-Power Electric Rocket Challenge
 - <a href="https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/" >🔗</a> **[NASA]** La NASA destina un millón de dólares al reto estudiantil Base Lunar
-- <a href="https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/" >🔗</a> **[NASA]** Astronauts Across Generations Share the Stage
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261110T043056">2026-11-10 04:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261110T050118">2026-11-10 05:01:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
