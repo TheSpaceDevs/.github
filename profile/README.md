@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/" >🔗</a> **[NASA]** NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston
 - <a href="https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/" >🔗</a> **[Arstechnica]** One space station company sues another for copying its work
 - <a href="https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/" >🔗</a> **[NASA]** NASA Scientists Show How Gravitational Waves Can Reveal New Worlds
 - <a href="https://europeanspaceflight.com/dlr-to-purchase-80-red-kite-sounding-rocket-motors/" >🔗</a> **[European Spaceflight]** DLR to Purchase 80 Red Kite Sounding Rocket Motors
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/" >🔗</a> **[European Spaceflight]** Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/" >🔗</a> **[NASA]** APOD: 2026 November 10 – Saturn Behind the Moon
 - <a href="https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/" >🔗</a> **[NASA]** Autumn Mornings Bring Valley Fog
-- <a href="https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/" >🔗</a> **[SpacePolicyOnline.com]** NASA Shares Moon Base Progress, Contract Awards
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261110T183048">2026-11-10 18:30:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261110T190115">2026-11-10 19:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
