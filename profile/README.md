@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/" >🔗</a> **[NASA]** APOD: 2026 November 10 – Saturn Behind the Moon
+- <a href="https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/" >🔗</a> **[NASA]** Autumn Mornings Bring Valley Fog
 - <a href="https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/" >🔗</a> **[SpacePolicyOnline.com]** NASA Shares Moon Base Progress, Contract Awards
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5056-5062: Charging Back Up!
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/newest-sample-oldest-rock/" >🔗</a> **[NASA]** Newest Sample, Oldest Rock?
 - <a href="https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/" >🔗</a> **[NASA]** La NASA busca a la próxima generación de astronautas
 - <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/" >🔗</a> **[NASA]** NASA’s Chandra Finds Source of Star’s Mysterious Outbursts
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/" >🔗</a> **[NASA]** NASA Advanced Mid-Power Electric Rocket Challenge
-- <a href="https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/" >🔗</a> **[NASA]** La NASA destina un millón de dólares al reto estudiantil Base Lunar
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261110T053051">2026-11-10 05:30:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261110T060244">2026-11-10 06:02:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
