@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/dlr-to-purchase-80-red-kite-sounding-rocket-motors/" >🔗</a> **[European Spaceflight]** DLR to Purchase 80 Red Kite Sounding Rocket Motors
 - <a href="https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/" >🔗</a> **[NASA]** CHAPEA Crew Leaves a Mark
 - <a href="https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/" >🔗</a> **[SpaceNews]** Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions
 - <a href="https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/" >🔗</a> **[SpaceNews]** ESCAPADE on its way to Mars after Earth flybys
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/" >🔗</a> **[SpacePolicyOnline.com]** NASA Shares Moon Base Progress, Contract Awards
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5056-5062: Charging Back Up!
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole
-- <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261110T153103">2026-11-10 15:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261110T160219">2026-11-10 16:02:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
