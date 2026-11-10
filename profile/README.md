@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/" >🔗</a> **[Arstechnica]** One space station company sues another for copying its work
+- <a href="https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/" >🔗</a> **[NASA]** NASA Scientists Show How Gravitational Waves Can Reveal New Worlds
 - <a href="https://europeanspaceflight.com/dlr-to-purchase-80-red-kite-sounding-rocket-motors/" >🔗</a> **[European Spaceflight]** DLR to Purchase 80 Red Kite Sounding Rocket Motors
 - <a href="https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/" >🔗</a> **[NASA]** CHAPEA Crew Leaves a Mark
 - <a href="https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/" >🔗</a> **[SpaceNews]** Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions
@@ -98,19 +100,16 @@ into *an Unknown
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/" >🔗</a> **[NASA]** APOD: 2026 November 10 – Saturn Behind the Moon
 - <a href="https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/" >🔗</a> **[NASA]** Autumn Mornings Bring Valley Fog
 - <a href="https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/" >🔗</a> **[SpacePolicyOnline.com]** NASA Shares Moon Base Progress, Contract Awards
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5056-5062: Charging Back Up!
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week
-- <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261110T163058">2026-11-10 16:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261110T170110">2026-11-10 17:01:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
