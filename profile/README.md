@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/" >🔗</a> **[SpaceNews]** ESCAPADE on its way to Mars after Earth flybys
 - <a href="https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/" >🔗</a> **[European Spaceflight]** Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/" >🔗</a> **[NASA]** APOD: 2026 November 10 – Saturn Behind the Moon
 - <a href="https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/" >🔗</a> **[NASA]** Autumn Mornings Bring Valley Fog
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week
 - <a href="https://science.nasa.gov/blog/rubies-on-mars/" >🔗</a> **[NASA]** Rubies on Mars?
 - <a href="https://science.nasa.gov/blog/newest-sample-oldest-rock/" >🔗</a> **[NASA]** Newest Sample, Oldest Rock?
-- <a href="https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/" >🔗</a> **[NASA]** La NASA busca a la próxima generación de astronautas
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261110T083053">2026-11-10 08:30:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261110T090124">2026-11-10 09:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
