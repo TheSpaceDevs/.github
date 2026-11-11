@@ -19,33 +19,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 2D | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 94 (SLS-2 / 603)</a>, Jiuquan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261111T113200">2026-11-11 11:32:00 UTC</a>.  Until
-then, this pad will have been used for 139
-out of 302 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | USSF-627**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261112T023500">2026-11-12 02:35:00 UTC</a>.  Until
+then, this pad will have been used for 307
+out of 923 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Government/Top Secret* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Details TBD.
+  A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=40.960482,100.298059" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261111T113200">2026-11-11 11:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20261111T113200Z%2F20261111T120500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261112T023500">2026-11-12 02:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | USSF-627&location=Vandenberg SFB, CA, USA&dates=20261112T023500Z%2F20261112T063500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | USSF-627** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261112T194400">2026-11-12 19:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou 11 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20261112T194400Z%2F20261112T202900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kuaizhou 11 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T050000">2026-11-13 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Mir | Demo Flight&location=Sea Launch&dates=20261113T050000Z%2F20261113T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Mir | Demo Flight** from Sea Launch.
@@ -55,6 +54,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261115T035500">2026-11-15 03:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | USSF-317&location=Vandenberg SFB, CA, USA&dates=20261115T035500Z%2F20261115T075500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | USSF-317** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261118T164900">2026-11-18 16:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | USSF-266&location=Vandenberg SFB, CA, USA&dates=20261118T164900Z%2F20261118T204900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | USSF-266** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261120T110000">2026-11-20 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | SatNet LEO Group TBD?&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20261120T110000Z%2F20261120T140000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | SatNet LEO Group TBD?** from Wenchang Space Launch Site, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261123T000000">2026-11-23 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 64 Block 2 | Amazon Leo (LE-04)&location=Guiana Space Centre, French Guiana&dates=20261123T000000Z%2F20261123T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 64 Block 2 | Amazon Leo (LE-04)** from Guiana Space Centre, French Guiana.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -105,11 +105,12 @@ into *an Unknown
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week
+- <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261111T113049">2026-11-11 11:30:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261111T120244">2026-11-11 12:02:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
