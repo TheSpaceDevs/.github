@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/" >🔗</a> **[SpaceNews]** Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare
 - <a href="https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/" >🔗</a> **[SpaceNews]** Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push
 - <a href="https://europeanspaceflight.com/fire-damage-delays-installation-of-simulated-lunar-greenhouse-in-germany/" >🔗</a> **[European Spaceflight]** Fire Damage Delays Installation of Simulated Lunar Greenhouse in Germany
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/" >🔗</a> **[NASA]** APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/" >🔗</a> **[NASA]** NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston
 - <a href="https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/" >🔗</a> **[Arstechnica]** One space station company sues another for copying its work
 - <a href="https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/" >🔗</a> **[NASA]** NASA Scientists Show How Gravitational Waves Can Reveal New Worlds
-- <a href="https://europeanspaceflight.com/dlr-to-purchase-80-red-kite-sounding-rocket-motors/" >🔗</a> **[European Spaceflight]** DLR to Purchase 80 Red Kite Sounding Rocket Motors
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261111T153050">2026-11-11 15:30:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261111T160113">2026-11-11 16:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
