@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/fire-damage-delays-installation-of-simulated-lunar-greenhouse-in-germany/" >🔗</a> **[European Spaceflight]** Fire Damage Delays Installation of Simulated Lunar Greenhouse in Germany
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/" >🔗</a> **[NASA]** APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact
 - <a href="https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/" >🔗</a> **[NASA]** Water Surges Into Navajo Reservoir
 - <a href="https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/" >🔗</a> **[NASASpaceflight]** Isaacman lays out SLS path to the 2030s
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/" >🔗</a> **[NASA]** NASA Scientists Show How Gravitational Waves Can Reveal New Worlds
 - <a href="https://europeanspaceflight.com/dlr-to-purchase-80-red-kite-sounding-rocket-motors/" >🔗</a> **[European Spaceflight]** DLR to Purchase 80 Red Kite Sounding Rocket Motors
 - <a href="https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/" >🔗</a> **[NASA]** CHAPEA Crew Leaves a Mark
-- <a href="https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/" >🔗</a> **[SpaceNews]** Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261111T070120">2026-11-11 07:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261111T073156">2026-11-11 07:31:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
