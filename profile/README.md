@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/" >🔗</a> **[NASASpaceflight]** Isaacman lays out SLS path to the 2030s
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/" >🔗</a> **[NASA]** NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities
 - <a href="https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/" >🔗</a> **[NASA]** NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston
 - <a href="https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/" >🔗</a> **[Arstechnica]** One space station company sues another for copying its work
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/" >🔗</a> **[SpaceNews]** Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions
 - <a href="https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/" >🔗</a> **[SpaceNews]** ESCAPADE on its way to Mars after Earth flybys
 - <a href="https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/" >🔗</a> **[European Spaceflight]** Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November
-- <a href="https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/" >🔗</a> **[NASA]** APOD: 2026 November 10 – Saturn Behind the Moon
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261111T043056">2026-11-11 04:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261111T050135">2026-11-11 05:01:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
