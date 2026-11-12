@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/" >🔗</a> **[Arstechnica]** Building a rocket is hard. AST SpaceMobile thinks it's "simple."
 - <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: November 2026
 - <a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/" >🔗</a> **[NASASpaceflight]** ULA’s Vulcan set to return to flight with first Amazon Leo payload
 - <a href="https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/how-esa-astronauts-return-from-space" >🔗</a> **[ESA]** How ESA astronauts return from space
@@ -101,7 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/esa-explains-delay-in-signing-maiaspace-launcher-challenge-contract/" >🔗</a> **[European Spaceflight]** ESA Explains Delay in Signing MaiaSpace Launcher Challenge Contract
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/" >🔗</a> **[NASA]** APOD: 2026 November 12 – Moon, Venus and Spica Meet
 - <a href="https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/" >🔗</a> **[NASA]** Scotland’s Flow Country
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5063-5069 Rocks and Chips
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261112T183051">2026-11-12 18:30:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261112T190124">2026-11-12 19:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
