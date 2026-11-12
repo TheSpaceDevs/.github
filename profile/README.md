@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/" >🔗</a> **[NASA]** I Am Artemis Katie Spicer
+- <a href="https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/" >🔗</a> **[SpaceNews]** UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology
 - <a href="https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/" >🔗</a> **[SpaceNews]** What role does industry play in Europe’s space sovereignty push?
 - <a href="https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/" >🔗</a> **[NASA]** Heart in the Sky at NASA Kennedy
 - <a href="https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/" >🔗</a> **[Arstechnica]** Building a rocket is hard. AST SpaceMobile thinks it's "simple."
@@ -100,8 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/how-esa-astronauts-return-from-space" >🔗</a> **[ESA]** How ESA astronauts return from space
 - <a href="https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/esa-astronaut-reserve-celebrates-completion-of-training" >🔗</a> **[ESA]** ESA astronaut reserve celebrates completion of training
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/" >🔗</a> **[NASA]** NASA’s Hubble Offers Cosmic Sampler of Targets for Roman
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/" >🔗</a> **[NASA]** Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA
-- <a href="https://europeanspaceflight.com/esa-explains-delay-in-signing-maiaspace-launcher-challenge-contract/" >🔗</a> **[European Spaceflight]** ESA Explains Delay in Signing MaiaSpace Launcher Challenge Contract
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261112T203058">2026-11-12 20:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261112T210115">2026-11-12 21:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
