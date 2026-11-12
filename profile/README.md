@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5063-5069 Rocks and Chips
 - <a href="https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/" >🔗</a> **[SpaceNews]** Senate committee takes up nominees for NASA chief financial officer and inspector general
 - <a href="https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/" >🔗</a> **[Arstechnica]** NASA takes an all-hands-on-deck approach in its return to the Moon
 - <a href="https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/" >🔗</a> **[SpaceNews]** Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/" >🔗</a> **[NASA]** Water Surges Into Navajo Reservoir
 - <a href="https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/" >🔗</a> **[NASASpaceflight]** Isaacman lays out SLS path to the 2030s
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/" >🔗</a> **[NASA]** NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities
-- <a href="https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/" >🔗</a> **[NASA]** NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261112T013115">2026-11-12 01:31:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261112T020218">2026-11-12 02:02:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
