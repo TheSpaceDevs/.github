@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-explains-delay-in-signing-maiaspace-launcher-challenge-contract/" >🔗</a> **[European Spaceflight]** ESA Explains Delay in Signing MaiaSpace Launcher Challenge Contract
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/" >🔗</a> **[NASA]** APOD: 2026 November 12 – Moon, Venus and Spica Meet
 - <a href="https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/" >🔗</a> **[NASA]** Scotland’s Flow Country
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5063-5069 Rocks and Chips
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/" >🔗</a> **[SpaceNews]** Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push
 - <a href="https://europeanspaceflight.com/fire-damage-delays-installation-of-simulated-lunar-greenhouse-in-germany/" >🔗</a> **[European Spaceflight]** Fire Damage Delays Installation of Simulated Lunar Greenhouse in Germany
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/" >🔗</a> **[NASA]** APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact
-- <a href="https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/" >🔗</a> **[NASA]** Water Surges Into Navajo Reservoir
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261112T103101">2026-11-12 10:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261112T110111">2026-11-12 11:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
