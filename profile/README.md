@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/how-esa-astronauts-return-from-space" >🔗</a> **[ESA]** How ESA astronauts return from space
+- <a href="https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/esa-astronaut-reserve-celebrates-completion-of-training" >🔗</a> **[ESA]** ESA astronaut reserve celebrates completion of training
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/" >🔗</a> **[NASA]** NASA’s Hubble Offers Cosmic Sampler of Targets for Roman
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/" >🔗</a> **[NASA]** Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA
 - <a href="https://europeanspaceflight.com/esa-explains-delay-in-signing-maiaspace-launcher-challenge-contract/" >🔗</a> **[European Spaceflight]** ESA Explains Delay in Signing MaiaSpace Launcher Challenge Contract
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5063-5069 Rocks and Chips
 - <a href="https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/" >🔗</a> **[SpaceNews]** Senate committee takes up nominees for NASA chief financial officer and inspector general
 - <a href="https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/" >🔗</a> **[Arstechnica]** NASA takes an all-hands-on-deck approach in its return to the Moon
-- <a href="https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/" >🔗</a> **[SpaceNews]** Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare
-- <a href="https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/" >🔗</a> **[SpaceNews]** Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261112T143049">2026-11-12 14:30:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261112T150123">2026-11-12 15:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
