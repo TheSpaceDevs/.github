@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/" >🔗</a> **[SpaceNews]** Senate committee takes up nominees for NASA chief financial officer and inspector general
 - <a href="https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/" >🔗</a> **[Arstechnica]** NASA takes an all-hands-on-deck approach in its return to the Moon
 - <a href="https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/" >🔗</a> **[SpaceNews]** Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare
 - <a href="https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/" >🔗</a> **[SpaceNews]** Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/" >🔗</a> **[NASASpaceflight]** Isaacman lays out SLS path to the 2030s
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/" >🔗</a> **[NASA]** NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities
 - <a href="https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/" >🔗</a> **[NASA]** NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston
-- <a href="https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/" >🔗</a> **[Arstechnica]** One space station company sues another for copying its work
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261111T233105">2026-11-11 23:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261112T000427">2026-11-12 00:04:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
