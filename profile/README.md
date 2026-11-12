@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: November 2026
+- <a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/" >🔗</a> **[NASASpaceflight]** ULA’s Vulcan set to return to flight with first Amazon Leo payload
 - <a href="https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/how-esa-astronauts-return-from-space" >🔗</a> **[ESA]** How ESA astronauts return from space
 - <a href="https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/esa-astronaut-reserve-celebrates-completion-of-training" >🔗</a> **[ESA]** ESA astronaut reserve celebrates completion of training
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/" >🔗</a> **[NASA]** NASA’s Hubble Offers Cosmic Sampler of Targets for Roman
@@ -100,8 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/" >🔗</a> **[NASA]** APOD: 2026 November 12 – Moon, Venus and Spica Meet
 - <a href="https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/" >🔗</a> **[NASA]** Scotland’s Flow Country
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5063-5069 Rocks and Chips
-- <a href="https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/" >🔗</a> **[SpaceNews]** Senate committee takes up nominees for NASA chief financial officer and inspector general
-- <a href="https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/" >🔗</a> **[Arstechnica]** NASA takes an all-hands-on-deck approach in its return to the Moon
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261112T173052">2026-11-12 17:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261112T180134">2026-11-12 18:01:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
