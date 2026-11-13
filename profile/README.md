@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/" >🔗</a> **[Spaceflight Now]** ULA’s Vulcan rocket plans return to flight with launch of 40 Leo satellites for Amazon
+- <a href="https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/" >🔗</a> **[Arstechnica]** Rocket Report: Starship set for historic test flight; a century of Electron
 - <a href="https://europeanspaceflight.com/esa-confirms-latest-prometheus-tests-not-connected-to-themis-hop-preparations/" >🔗</a> **[European Spaceflight]** ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/" >🔗</a> **[NASA]** APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/" >🔗</a> **[NASA]** A Global Rebound for Mangroves
@@ -100,8 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-looking-for-new-ways-to-return-perseverance-samples-from-mars/" >🔗</a> **[SpacePolicyOnline.com]** NASA Looking for New Ways to Return Perseverance Samples From Mars
 - <a href="https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/" >🔗</a> **[SpaceNews]** AST SpaceMobile presses case for developing own launch vehicle
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/" >🔗</a> **[NASA]** I Am Artemis Katie Spicer
-- <a href="https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/" >🔗</a> **[SpaceNews]** UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology
-- <a href="https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/" >🔗</a> **[SpaceNews]** What role does industry play in Europe’s space sovereignty push?
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T123208">2026-11-13 12:32:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T130231">2026-11-13 13:02:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
