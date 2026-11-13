@@ -106,6 +106,7 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/" >🔗</a> **[NASASpaceflight]** ULA’s Vulcan set to return to flight with first Amazon Leo payload
 - <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week
 - <a href="https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/" >🔗</a> **[Spaceflight Now]** United Launch Alliance announces mid-November return to flight for Vulcan rocket
 - <a href="https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/" >🔗</a> **[Arstechnica]** Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?
@@ -116,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T083051">2026-11-13 08:30:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T090122">2026-11-13 09:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
