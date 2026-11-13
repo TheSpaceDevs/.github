@@ -96,6 +96,8 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the second time, wh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/outbursts-from-a-massive-star/" >🔗</a> **[NASA]** Outbursts from a Massive Star
+- <a href="https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/" >🔗</a> **[NASA]** Gemini Astronaut Photos Inspired Early Earth Observation Program
 - <a href="https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/" >🔗</a> **[Spaceflight Now]** ULA’s Vulcan rocket plans return to flight with launch of 40 Leo satellites for Amazon
 - <a href="https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/" >🔗</a> **[Arstechnica]** Rocket Report: Starship set for historic test flight; a century of Electron
 - <a href="https://europeanspaceflight.com/esa-confirms-latest-prometheus-tests-not-connected-to-themis-hop-preparations/" >🔗</a> **[European Spaceflight]** ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations
@@ -104,8 +106,6 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the second time, wh
 - <a href="https://spacepolicyonline.com/news/senate-appropriations-cjs-subcommittee-proposes-24-9-billion-for-nasa-in-fy2027/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriations CJS Subcommittee Proposes $24.9 Billion for NASA in FY2027
 - <a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/" >🔗</a> **[NASASpaceflight]** Starship Flight 15 to attempt first catch of both stages
 - <a href="https://spacepolicyonline.com/news/nasa-looking-for-new-ways-to-return-perseverance-samples-from-mars/" >🔗</a> **[SpacePolicyOnline.com]** NASA Looking for New Ways to Return Perseverance Samples From Mars
-- <a href="https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/" >🔗</a> **[SpaceNews]** AST SpaceMobile presses case for developing own launch vehicle
-- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/" >🔗</a> **[NASA]** I Am Artemis Katie Spicer
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the second time, wh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T163054">2026-11-13 16:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T170128">2026-11-13 17:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
