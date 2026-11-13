@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/senate-appropriations-cjs-subcommittee-proposes-24-9-billion-for-nasa-in-fy2027/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriations CJS Subcommittee Proposes $24.9 Billion for NASA in FY2027
+- <a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/" >🔗</a> **[NASASpaceflight]** Starship Flight 15 to attempt first catch of both stages
 - <a href="https://spacepolicyonline.com/news/nasa-looking-for-new-ways-to-return-perseverance-samples-from-mars/" >🔗</a> **[SpacePolicyOnline.com]** NASA Looking for New Ways to Return Perseverance Samples From Mars
 - <a href="https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/" >🔗</a> **[SpaceNews]** AST SpaceMobile presses case for developing own launch vehicle
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/" >🔗</a> **[NASA]** I Am Artemis Katie Spicer
@@ -100,8 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/" >🔗</a> **[NASA]** Heart in the Sky at NASA Kennedy
 - <a href="https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/" >🔗</a> **[Arstechnica]** Building a rocket is hard. AST SpaceMobile thinks it's "simple."
 - <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: November 2026
-- <a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/" >🔗</a> **[NASASpaceflight]** ULA’s Vulcan set to return to flight with first Amazon Leo payload
-- <a href="https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/how-esa-astronauts-return-from-space" >🔗</a> **[ESA]** How ESA astronauts return from space
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T043048">2026-11-13 04:30:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T050113">2026-11-13 05:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
