@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-looking-for-new-ways-to-return-perseverance-samples-from-mars/" >🔗</a> **[SpacePolicyOnline.com]** NASA Looking for New Ways to Return Perseverance Samples From Mars
 - <a href="https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/" >🔗</a> **[SpaceNews]** AST SpaceMobile presses case for developing own launch vehicle
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/" >🔗</a> **[NASA]** I Am Artemis Katie Spicer
 - <a href="https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/" >🔗</a> **[SpaceNews]** UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology
@@ -101,7 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: November 2026
 - <a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/" >🔗</a> **[NASASpaceflight]** ULA’s Vulcan set to return to flight with first Amazon Leo payload
 - <a href="https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/how-esa-astronauts-return-from-space" >🔗</a> **[ESA]** How ESA astronauts return from space
-- <a href="https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/esa-astronaut-reserve-celebrates-completion-of-training" >🔗</a> **[ESA]** ESA astronaut reserve celebrates completion of training
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T023051">2026-11-13 02:30:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T030125">2026-11-13 03:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
