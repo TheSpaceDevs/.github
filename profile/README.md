@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/" >🔗</a> **[NASA]** APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda
+- <a href="https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/" >🔗</a> **[NASA]** A Global Rebound for Mangroves
 - <a href="https://spacepolicyonline.com/news/senate-appropriations-cjs-subcommittee-proposes-24-9-billion-for-nasa-in-fy2027/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriations CJS Subcommittee Proposes $24.9 Billion for NASA in FY2027
 - <a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/" >🔗</a> **[NASASpaceflight]** Starship Flight 15 to attempt first catch of both stages
 - <a href="https://spacepolicyonline.com/news/nasa-looking-for-new-ways-to-return-perseverance-samples-from-mars/" >🔗</a> **[SpacePolicyOnline.com]** NASA Looking for New Ways to Return Perseverance Samples From Mars
@@ -100,8 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/" >🔗</a> **[SpaceNews]** UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology
 - <a href="https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/" >🔗</a> **[SpaceNews]** What role does industry play in Europe’s space sovereignty push?
 - <a href="https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/" >🔗</a> **[NASA]** Heart in the Sky at NASA Kennedy
-- <a href="https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/" >🔗</a> **[Arstechnica]** Building a rocket is hard. AST SpaceMobile thinks it's "simple."
-- <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: November 2026
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T053055">2026-11-13 05:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T060245">2026-11-13 06:02:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
