@@ -96,6 +96,7 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the second time, wh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/" >🔗</a> **[Spaceflight Now]** Live Coverage: Starship Flight 15 attempts to recover full vehicle in double launch pad catch
 - <a href="https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/" >🔗</a> **[SpaceNews]** Commercial Space Federation Welcomes CesiumAstro as a New Associate Member
 - <a href="https://www.nasa.gov/image-article/outbursts-from-a-massive-star/" >🔗</a> **[NASA]** Outbursts from a Massive Star
 - <a href="https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/" >🔗</a> **[NASA]** Gemini Astronaut Photos Inspired Early Earth Observation Program
@@ -105,7 +106,6 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the second time, wh
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/" >🔗</a> **[NASA]** APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/" >🔗</a> **[NASA]** A Global Rebound for Mangroves
 - <a href="https://spacepolicyonline.com/news/senate-appropriations-cjs-subcommittee-proposes-24-9-billion-for-nasa-in-fy2027/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriations CJS Subcommittee Proposes $24.9 Billion for NASA in FY2027
-- <a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/" >🔗</a> **[NASASpaceflight]** Starship Flight 15 to attempt first catch of both stages
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the second time, wh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T193050">2026-11-13 19:30:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T200207">2026-11-13 20:02:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
