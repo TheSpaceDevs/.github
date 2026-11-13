@@ -26,7 +26,7 @@ from *<a href="https://en.wikipedia.org/wiki/SpaceX_Starbase#Launch_site_(Orbita
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T224500">2026-11-13 22:45:00 UTC</a>.  Until
 then, this pad will have been used for 3
 out of 23 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -51,7 +51,7 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the second time, wh
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T224500">2026-11-13 22:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Starlink Group 31-2 (Starship Flight 15)&location=SpaceX Starbase, TX, USA&dates=20261113T224500Z%2F20261114T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Starlink Group 31-2 (Starship Flight 15)** from SpaceX Starbase, TX, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T224500">2026-11-13 22:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Starlink Group 31-2 (Starship Flight 15)&location=SpaceX Starbase, TX, USA&dates=20261113T224500Z%2F20261114T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Starlink Group 31-2 (Starship Flight 15)** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261114T005000">2026-11-14 00:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | MKA Kinosputnik, KOEN and others&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20261114T005000Z%2F20261114T015000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | MKA Kinosputnik, KOEN and others** from Vostochny Cosmodrome, Siberia, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261114T053000">2026-11-14 05:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Mountain God Rises (iQPS Launch 10)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20261114T053000Z%2F20261114T053000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Mountain God Rises (iQPS Launch 10)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261114T173200">2026-11-14 17:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vulcan VC6L | Amazon Leo (LV-01)&location=Cape Canaveral SFS, FL, USA&dates=20261114T173200Z%2F20261114T180100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vulcan VC6L | Amazon Leo (LV-01)** from Cape Canaveral SFS, FL, USA.
@@ -124,7 +124,7 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the second time, wh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T200207">2026-11-13 20:02:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T203100">2026-11-13 20:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
