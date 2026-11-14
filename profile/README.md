@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/spacex-catches-a-starship/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Catches a Starship
 - <a href="https://europeanspaceflight.com/next-vega-c-launch-edges-closer-to-christmas-day-as-satellites-arrive-late/" >🔗</a> **[European Spaceflight]** Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late
 - <a href="https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/" >🔗</a> **[Arstechnica]** Starship flight 15 powers to orbit—setting up a possible catch on Saturday
 - <a href="https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/" >🔗</a> **[SpacePolicyOnline.com]** Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?
@@ -101,7 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/" >🔗</a> **[NASA]** Gemini Astronaut Photos Inspired Early Earth Observation Program
 - <a href="https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/" >🔗</a> **[Spaceflight Now]** ULA’s Vulcan rocket plans return to flight with launch of 40 Leo satellites for Amazon
 - <a href="https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/" >🔗</a> **[Arstechnica]** Rocket Report: Starship set for historic test flight; a century of Electron
-- <a href="https://europeanspaceflight.com/esa-confirms-latest-prometheus-tests-not-connected-to-themis-hop-preparations/" >🔗</a> **[European Spaceflight]** ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261114T213049">2026-11-14 21:30:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261114T220111">2026-11-14 22:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
