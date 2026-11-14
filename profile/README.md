@@ -95,6 +95,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/" >🔗</a> **[SpacePolicyOnline.com]** Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?
 - <a href="https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/" >🔗</a> **[Spaceflight Now]** Live Coverage: Starship Flight 15 attempts to recover full vehicle in double launch pad catch
 - <a href="https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/" >🔗</a> **[SpaceNews]** Commercial Space Federation Welcomes CesiumAstro as a New Associate Member
 - <a href="https://www.nasa.gov/image-article/outbursts-from-a-massive-star/" >🔗</a> **[NASA]** Outbursts from a Massive Star
@@ -104,7 +105,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://europeanspaceflight.com/esa-confirms-latest-prometheus-tests-not-connected-to-themis-hop-preparations/" >🔗</a> **[European Spaceflight]** ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/" >🔗</a> **[NASA]** APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/" >🔗</a> **[NASA]** A Global Rebound for Mangroves
-- <a href="https://spacepolicyonline.com/news/senate-appropriations-cjs-subcommittee-proposes-24-9-billion-for-nasa-in-fy2027/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriations CJS Subcommittee Proposes $24.9 Billion for NASA in FY2027
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261113T233048">2026-11-13 23:30:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261114T000415">2026-11-14 00:04:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
