@@ -19,32 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Soyuz 2.1b/Fregat-M | MKA Kinosputnik, KOEN and others**. It is scheduled to be launched by *Russian Federal Space Agency (ROSCOSMOS)*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vostochny_Cosmodrome">Cosmodrome Site 1S</a>, Vostochny Cosmodrome, Siberia, Russian Federation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261114T005000">2026-11-14 00:50:00 UTC</a>.  Until
-then, this pad will have been used for 20
-out of 21 launches from this location. The launch status is currently
+**Electron | The Mountain God Rises (iQPS Launch 10)**. It is scheduled to be launched by *Rocket Lab*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1A</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261114T053000">2026-11-14 05:30:00 UTC</a>.  Until
+then, this pad will have been used for 45
+out of 86 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Technology* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Earth Science* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:
-
-* MKA Kinosputnik
-* KOEN, KA MT-LAB
-* NPO Kaisant 6U cubesat with a Germes modem
-* NPO Kaisant 16U cubesat with Gonets modems
+  Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Soyuz-2" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=51.884395,128.333932" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -59,6 +54,7 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261123T000000">2026-11-23 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 64 Block 2 | Amazon Leo (LE-04)&location=Guiana Space Centre, French Guiana&dates=20261123T000000Z%2F20261123T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 64 Block 2 | Amazon Leo (LE-04)** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261123T160400">2026-11-23 16:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | USSF-266&location=Vandenberg SFB, CA, USA&dates=20261123T160400Z%2F20261123T200400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | USSF-266** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261124T050300">2026-11-24 05:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | Progress MS-36 (97P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20261124T050300Z%2F20261124T050300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b | Progress MS-36 (97P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261124T070000">2026-11-24 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 12 | SatNet LEO Group TBD?&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20261124T070000Z%2F20261124T100000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 12 | SatNet LEO Group TBD?** from Wenchang Space Launch Site, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -94,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/" >🔗</a> **[Arstechnica]** Starship flight 15 powers to orbit—setting up a possible catch on Saturday
 - <a href="https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/" >🔗</a> **[SpacePolicyOnline.com]** Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?
 - <a href="https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/" >🔗</a> **[Spaceflight Now]** Live Coverage: Starship Flight 15 attempts to recover full vehicle in double launch pad catch
 - <a href="https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/" >🔗</a> **[SpaceNews]** Commercial Space Federation Welcomes CesiumAstro as a New Associate Member
@@ -103,16 +100,16 @@ into *a Sun-Synchronous Orbit
 - <a href="https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/" >🔗</a> **[Arstechnica]** Rocket Report: Starship set for historic test flight; a century of Electron
 - <a href="https://europeanspaceflight.com/esa-confirms-latest-prometheus-tests-not-connected-to-themis-hop-preparations/" >🔗</a> **[European Spaceflight]** ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/" >🔗</a> **[NASA]** APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda
-- <a href="https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/" >🔗</a> **[NASA]** A Global Rebound for Mangroves
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261114T010112">2026-11-14 01:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261114T013111">2026-11-14 01:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
