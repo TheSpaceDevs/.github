@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-november-15-leonid-meteors-through-orion/" >🔗</a> **[NASA]** APOD: 2026 November 15 – Leonid Meteors Through Orion
 - <a href="https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/" >🔗</a> **[Arstechnica]** With Starship catch, SpaceX still shows it can dazzle the world
 - <a href="https://spacepolicyonline.com/news/spacex-catches-a-starship/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Catches a Starship
 - <a href="https://europeanspaceflight.com/next-vega-c-launch-edges-closer-to-christmas-day-as-satellites-arrive-late/" >🔗</a> **[European Spaceflight]** Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late
@@ -101,7 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/" >🔗</a> **[SpaceNews]** Commercial Space Federation Welcomes CesiumAstro as a New Associate Member
 - <a href="https://www.nasa.gov/image-article/outbursts-from-a-massive-star/" >🔗</a> **[NASA]** Outbursts from a Massive Star
 - <a href="https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/" >🔗</a> **[NASA]** Gemini Astronaut Photos Inspired Early Earth Observation Program
-- <a href="https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/" >🔗</a> **[Spaceflight Now]** ULA’s Vulcan rocket plans return to flight with launch of 40 Leo satellites for Amazon
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261115T053104">2026-11-15 05:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261115T060241">2026-11-15 06:02:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
