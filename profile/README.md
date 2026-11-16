@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/" >🔗</a> **[SpaceNews]** SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor
+- <a href="https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/" >🔗</a> **[Arstechnica]** When will humans actually fly on Starship?
+- <a href="https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/" >🔗</a> **[NASA]** Sentinel-6B in Orbit Around Earth
 - <a href="https://www.nasa.gov/image-article/thunderbirds-in-formation/" >🔗</a> **[NASA]** Thunderbirds in Formation
 - <a href="https://europeanspaceflight.com/uk-mod-defends-satcom-resilience-amid-spacex-starshield-concerns/" >🔗</a> **[European Spaceflight]** UK MOD Defends Satcom Resilience Amid SpaceX Starshield Concerns
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Jim Mirandy
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/" >🔗</a> **[NASA]** APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/" >🔗</a> **[NASA]** The Last Ice on Puncak Jaya
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-15-21-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 15-21, 2026
-- <a href="https://spacepolicyonline.com/news/vulcans-return-to-flight-fails/" >🔗</a> **[SpacePolicyOnline.com]** Vulcan’s Return-to-Flight Fails
-- <a href="https://www.spacescout.info/2026/11/starship-returns-to-its-launch-pad-from-orbit/" >🔗</a> **[Space Scout]** Starship Returns to its Launch Pad From Orbit
-- <a href="https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/" >🔗</a> **[Spaceflight Now]** ULA suffers first total mission failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261116T193101">2026-11-16 19:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261116T200114">2026-11-16 20:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
