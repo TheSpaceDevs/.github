@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-15-21-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 15-21, 2026
 - <a href="https://spacepolicyonline.com/news/vulcans-return-to-flight-fails/" >🔗</a> **[SpacePolicyOnline.com]** Vulcan’s Return-to-Flight Fails
 - <a href="https://www.spacescout.info/2026/11/starship-returns-to-its-launch-pad-from-orbit/" >🔗</a> **[Space Scout]** Starship Returns to its Launch Pad From Orbit
 - <a href="https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/" >🔗</a> **[Spaceflight Now]** ULA suffers first total mission failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/next-vega-c-launch-edges-closer-to-christmas-day-as-satellites-arrive-late/" >🔗</a> **[European Spaceflight]** Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late
 - <a href="https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/" >🔗</a> **[Arstechnica]** Starship flight 15 powers to orbit—setting up a possible catch on Saturday
 - <a href="https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/" >🔗</a> **[SpacePolicyOnline.com]** Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?
-- <a href="https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/" >🔗</a> **[Spaceflight Now]** Live Coverage: Starship Flight 15 attempts to recover full vehicle in double launch pad catch
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261115T233100">2026-11-15 23:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261116T000536">2026-11-16 00:05:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
