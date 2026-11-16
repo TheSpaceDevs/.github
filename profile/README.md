@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/uk-mod-defends-satcom-resilience-amid-spacex-starshield-concerns/" >🔗</a> **[European Spaceflight]** UK MOD Defends Satcom Resilience Amid SpaceX Starshield Concerns
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Jim Mirandy
 - <a href="https://www.spacescout.info/2026/11/analysis-vulcan-failure-reflects-an-industry-in-disarray/" >🔗</a> **[Space Scout]** Analysis: Vulcan Failure Reflects an Industry in Disarray
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/" >🔗</a> **[NASA]** APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.spacescout.info/2026/11/starship-returns-to-its-launch-pad-from-orbit/" >🔗</a> **[Space Scout]** Starship Returns to its Launch Pad From Orbit
 - <a href="https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/" >🔗</a> **[Spaceflight Now]** ULA suffers first total mission failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-15-leonid-meteors-through-orion/" >🔗</a> **[NASA]** APOD: 2026 November 15 – Leonid Meteors Through Orion
-- <a href="https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/" >🔗</a> **[Arstechnica]** With Starship catch, SpaceX still shows it can dazzle the world
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261116T180141">2026-11-16 18:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261116T183058">2026-11-16 18:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
