@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Jim Mirandy
+- <a href="https://www.spacescout.info/2026/11/analysis-vulcan-failure-reflects-an-industry-in-disarray/" >🔗</a> **[Space Scout]** Analysis: Vulcan Failure Reflects an Industry in Disarray
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/" >🔗</a> **[NASA]** APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/" >🔗</a> **[NASA]** The Last Ice on Puncak Jaya
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-15-21-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 15-21, 2026
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/" >🔗</a> **[Spaceflight Now]** ULA suffers first total mission failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-15-leonid-meteors-through-orion/" >🔗</a> **[NASA]** APOD: 2026 November 15 – Leonid Meteors Through Orion
 - <a href="https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/" >🔗</a> **[Arstechnica]** With Starship catch, SpaceX still shows it can dazzle the world
-- <a href="https://spacepolicyonline.com/news/spacex-catches-a-starship/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Catches a Starship
-- <a href="https://europeanspaceflight.com/next-vega-c-launch-edges-closer-to-christmas-day-as-satellites-arrive-late/" >🔗</a> **[European Spaceflight]** Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261116T150058">2026-11-16 15:00:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261116T153727">2026-11-16 15:37:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
