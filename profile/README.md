@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/" >🔗</a> **[NASA]** A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover
 - <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions
 - <a href="https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/" >🔗</a> **[NASA]** NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion
 - <a href="https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/" >🔗</a> **[SpaceNews]** SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/uk-mod-defends-satcom-resilience-amid-spacex-starshield-concerns/" >🔗</a> **[European Spaceflight]** UK MOD Defends Satcom Resilience Amid SpaceX Starshield Concerns
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Jim Mirandy
 - <a href="https://www.spacescout.info/2026/11/analysis-vulcan-failure-reflects-an-industry-in-disarray/" >🔗</a> **[Space Scout]** Analysis: Vulcan Failure Reflects an Industry in Disarray
-- <a href="https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/" >🔗</a> **[NASA]** APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261116T223052">2026-11-16 22:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261116T230130">2026-11-16 23:01:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
