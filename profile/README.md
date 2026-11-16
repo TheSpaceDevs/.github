@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/" >🔗</a> **[NASA]** NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion
 - <a href="https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/" >🔗</a> **[SpaceNews]** SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor
 - <a href="https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/" >🔗</a> **[Arstechnica]** When will humans actually fly on Starship?
 - <a href="https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/" >🔗</a> **[NASA]** Sentinel-6B in Orbit Around Earth
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.spacescout.info/2026/11/analysis-vulcan-failure-reflects-an-industry-in-disarray/" >🔗</a> **[Space Scout]** Analysis: Vulcan Failure Reflects an Industry in Disarray
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/" >🔗</a> **[NASA]** APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/" >🔗</a> **[NASA]** The Last Ice on Puncak Jaya
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-15-21-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 15-21, 2026
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261116T203053">2026-11-16 20:30:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261116T210200">2026-11-16 21:02:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
