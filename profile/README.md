@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/" >🔗</a> **[NASA]** BPS Digital AVATAR Challenge
+- <a href="https://spacepolicyonline.com/news/senate-appropriators-release-1-072-trillion-defense-bill/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriators Release $1.072 Trillion Defense Bill
+- <a href="https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/" >🔗</a> **[NASA]** New Album of Baby Star Sounds Shared by NASA’s Chandra
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/" >🔗</a> **[NASA]** NASA to Cover 35th SpaceX Resupply Mission Space Station Departure
 - <a href="https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/" >🔗</a> **[Arstechnica]** The data is very preliminary, but Vulcan failure may not be due to BE-4 engines
 - <a href="https://arstechnica.com/space/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/" >🔗</a> **[Arstechnica]** Sources: Vulcan launch anomaly investigation is complex
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/" >🔗</a> **[SpaceNews]** How AI is pushing satellites to evolve
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/" >🔗</a> **[NASA]** NASA Invites Media, Public to View Roman Telescope’s First Images
 - <a href="https://www.nasa.gov/image-article/space-selfie-2/" >🔗</a> **[NASA]** Space Selfie
-- <a href="https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/" >🔗</a> **[European Spaceflight]** ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio
-- <a href="https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/" >🔗</a> **[SpaceNews]** Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027
-- <a href="https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/" >🔗</a> **[NASA]** APOD: 2026 November 17 – Milky Way versus Aurora
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261117T203058">2026-11-17 20:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261117T210109">2026-11-17 21:01:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
