@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5072-5076: The Return of the Polygons
+- <a href="https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/" >🔗</a> **[SpaceNews]** How AI is pushing satellites to evolve
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/" >🔗</a> **[NASA]** NASA Invites Media, Public to View Roman Telescope’s First Images
 - <a href="https://www.nasa.gov/image-article/space-selfie-2/" >🔗</a> **[NASA]** Space Selfie
 - <a href="https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/" >🔗</a> **[European Spaceflight]** ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio
 - <a href="https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/" >🔗</a> **[SpaceNews]** Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/" >🔗</a> **[NASA]** Tossing Fireworks from Cloud to Cloud
 - <a href="https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/" >🔗</a> **[NASA]** Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago
 - <a href="https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/" >🔗</a> **[NASA]** A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover
-- <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions
-- <a href="https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/" >🔗</a> **[NASA]** NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion
-- <a href="https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/" >🔗</a> **[SpaceNews]** SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261117T173056">2026-11-17 17:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261117T180228">2026-11-17 18:02:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
