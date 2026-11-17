@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/" >🔗</a> **[NASA]** APOD: 2026 November 17 – Milky Way versus Aurora
+- <a href="https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/" >🔗</a> **[NASA]** Tossing Fireworks from Cloud to Cloud
 - <a href="https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/" >🔗</a> **[NASA]** Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago
 - <a href="https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/" >🔗</a> **[NASA]** A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover
 - <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/" >🔗</a> **[Arstechnica]** When will humans actually fly on Starship?
 - <a href="https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/" >🔗</a> **[NASA]** Sentinel-6B in Orbit Around Earth
 - <a href="https://www.nasa.gov/image-article/thunderbirds-in-formation/" >🔗</a> **[NASA]** Thunderbirds in Formation
-- <a href="https://europeanspaceflight.com/uk-mod-defends-satcom-resilience-amid-spacex-starshield-concerns/" >🔗</a> **[European Spaceflight]** UK MOD Defends Satcom Resilience Amid SpaceX Starshield Concerns
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/" >🔗</a> **[NASA]** Contractor to Civil Servant: NASA Welcomes Jim Mirandy
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261117T053054">2026-11-17 05:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261117T060250">2026-11-17 06:02:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
