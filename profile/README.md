@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/" >🔗</a> **[NASASpaceflight]** Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission
+- <a href="https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/" >🔗</a> **[NASA]** NASA Launches Nuclear Power Systems Student Contest
+- <a href="https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/" >🔗</a> **[NASA]** NASA Space Apps Challenge Breaks Global Hackathon Records
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/" >🔗</a> **[NASA]** BPS Digital AVATAR Challenge
 - <a href="https://spacepolicyonline.com/news/senate-appropriators-release-1-072-trillion-defense-bill/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriators Release $1.072 Trillion Defense Bill
 - <a href="https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/" >🔗</a> **[NASA]** New Album of Baby Star Sounds Shared by NASA’s Chandra
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/" >🔗</a> **[Arstechnica]** The data is very preliminary, but Vulcan failure may not be due to BE-4 engines
 - <a href="https://arstechnica.com/space/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/" >🔗</a> **[Arstechnica]** Sources: Vulcan launch anomaly investigation is complex
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons/" >🔗</a> **[NASA]** Curiosity Blog, Sols 5072-5076: The Return of the Polygons
-- <a href="https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/" >🔗</a> **[SpaceNews]** How AI is pushing satellites to evolve
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/" >🔗</a> **[NASA]** NASA Invites Media, Public to View Roman Telescope’s First Images
-- <a href="https://www.nasa.gov/image-article/space-selfie-2/" >🔗</a> **[NASA]** Space Selfie
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261117T223105">2026-11-17 22:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261117T230107">2026-11-17 23:01:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
