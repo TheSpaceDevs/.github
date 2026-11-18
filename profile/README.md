@@ -19,33 +19,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 2D | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="None">Launch Complex 9</a>, Taiyuan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261118T224300">2026-11-18 22:43:00 UTC</a>.  Until
-then, this pad will have been used for 80
-out of 163 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | USSF-317**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261120T024600">2026-11-20 02:46:00 UTC</a>.  Until
+then, this pad will have been used for 308
+out of 924 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Government/Top Secret* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Details TBD.
+  A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=38.863128,111.589567" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261118T224300">2026-11-18 22:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20261118T224300Z%2F20261118T230500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261120T024600">2026-11-20 02:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | USSF-317&location=Vandenberg SFB, CA, USA&dates=20261120T024600Z%2F20261120T064600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | USSF-317** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261120T115100">2026-11-20 11:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | SatNet LEO Group TBD?&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20261120T115100Z%2F20261120T121700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | SatNet LEO Group TBD?** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261121T034600">2026-11-21 03:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6C | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20261121T034600Z%2F20261121T041500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6C | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
@@ -55,6 +54,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261124T050300">2026-11-24 05:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | Progress MS-36 (97P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20261124T050300Z%2F20261124T050300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b | Progress MS-36 (97P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261124T070000">2026-11-24 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 12 | SatNet LEO Group TBD?&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20261124T070000Z%2F20261124T100000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 12 | SatNet LEO Group TBD?** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261125T000000">2026-11-25 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 24&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20261125T000000Z%2F20261125T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 24** from Jiuquan Satellite Launch Center, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261126T200000">2026-11-26 20:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | AT-Astra and Others (Spectrum Flight 3)&location=Andøya Spaceport&dates=20261126T200000Z%2F20261126T213000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | AT-Astra and Others (Spectrum Flight 3)** from Andøya Spaceport.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch
+- <a href="https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/" >🔗</a> **[SpaceNews]** Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers
 - <a href="https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/" >🔗</a> **[NASASpaceflight]** Voyager 1 reaches one light-day nearly 50 years after launch
 - <a href="https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/" >🔗</a> **[Spaceflight Now]** Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines
 - <a href="https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/" >🔗</a> **[SpaceNews]** All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center
@@ -98,18 +100,17 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/" >🔗</a> **[NASA]** NASA Announces Mid-Power Electric Rocket Challenge for US Companies
 - <a href="https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/" >🔗</a> **[NASA]** Empire State Building Goes Gold for Voyager
 - <a href="https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/" >🔗</a> **[Spaceflight Now]** NASA’s Voyager 1 is one light-day from Earth
-- <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/" >🔗</a> **[NASA]** What Is the Moon Base?
-- <a href="https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/" >🔗</a> **[NASA]** Thank You for Doing NASA Science!
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions
+- <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261118T223102">2026-11-18 22:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261118T230114">2026-11-18 23:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
