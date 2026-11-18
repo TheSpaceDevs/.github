@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/" >🔗</a> **[SpaceNews]** All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center
 - <a href="https://spacepolicyonline.com/news/insufficient-fuel-flow-may-have-doomed-vulcan/" >🔗</a> **[SpacePolicyOnline.com]** Insufficient Fuel Flow May Have Doomed Vulcan
 - <a href="https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/" >🔗</a> **[NASA]** MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/" >🔗</a> **[NASA]** NASA Announces Mid-Power Electric Rocket Challenge for US Companies
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/" >🔗</a> **[NASA]** Thank You for Doing NASA Science!
 - <a href="https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/" >🔗</a> **[Arstechnica]** Vulcan failure caused by inadequate fuel supply to engines, ULA says
 - <a href="https://spacenews.com/origami-and-solar-arrays/" >🔗</a> **[SpaceNews]** Origami and solar arrays
-- <a href="https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/" >🔗</a> **[NASA]** NASA Data Clinches First-of-Its-Kind Stellar Merger
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261118T203050">2026-11-18 20:30:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261118T210120">2026-11-18 21:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
