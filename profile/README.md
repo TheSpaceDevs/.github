@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/pld-space-investor-selects-miura-5-to-launch-demo-mission/" >🔗</a> **[European Spaceflight]** PLD Space Investor Selects MIURA 5 to Launch Demo Mission
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/" >🔗</a> **[NASA]** APOD: 2026 November 18 – An M-class Solar Flare
 - <a href="https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/" >🔗</a> **[NASA]** Sierra Snow Season Spins Up
 - <a href="https://spacepolicyonline.com/news/ula-investigating-low-booster-performance-in-vulcan-launch-failure/" >🔗</a> **[SpacePolicyOnline.com]** ULA Investigating Low Booster Performance in Vulcan Launch Failure
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/" >🔗</a> **[NASA]** BPS Digital AVATAR Challenge
 - <a href="https://spacepolicyonline.com/news/senate-appropriators-release-1-072-trillion-defense-bill/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriators Release $1.072 Trillion Defense Bill
 - <a href="https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/" >🔗</a> **[NASA]** New Album of Baby Star Sounds Shared by NASA’s Chandra
-- <a href="https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/" >🔗</a> **[NASA]** NASA to Cover 35th SpaceX Resupply Mission Space Station Departure
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261118T070125">2026-11-18 07:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261118T073101">2026-11-18 07:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
