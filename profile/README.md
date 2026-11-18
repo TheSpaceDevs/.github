@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/" >🔗</a> **[NASA]** Empire State Building Goes Gold for Voyager
+- <a href="https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/" >🔗</a> **[Spaceflight Now]** NASA’s Voyager 1 is one light-day from Earth
+- <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/" >🔗</a> **[NASA]** What Is the Moon Base?
+- <a href="https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/" >🔗</a> **[NASA]** Thank You for Doing NASA Science!
 - <a href="https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/" >🔗</a> **[Arstechnica]** Vulcan failure caused by inadequate fuel supply to engines, ULA says
 - <a href="https://spacenews.com/origami-and-solar-arrays/" >🔗</a> **[SpaceNews]** Origami and solar arrays
 - <a href="https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/" >🔗</a> **[NASA]** NASA Data Clinches First-of-Its-Kind Stellar Merger
 - <a href="https://europeanspaceflight.com/pld-space-investor-selects-miura-5-to-launch-demo-mission/" >🔗</a> **[European Spaceflight]** PLD Space Investor Selects MIURA 5 to Launch Demo Mission
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/" >🔗</a> **[NASA]** APOD: 2026 November 18 – An M-class Solar Flare
 - <a href="https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/" >🔗</a> **[NASA]** Sierra Snow Season Spins Up
-- <a href="https://spacepolicyonline.com/news/ula-investigating-low-booster-performance-in-vulcan-launch-failure/" >🔗</a> **[SpacePolicyOnline.com]** ULA Investigating Low Booster Performance in Vulcan Launch Failure
-- <a href="https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/" >🔗</a> **[NASASpaceflight]** Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission
-- <a href="https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/" >🔗</a> **[NASA]** NASA Launches Nuclear Power Systems Student Contest
-- <a href="https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/" >🔗</a> **[NASA]** NASA Space Apps Challenge Breaks Global Hackathon Records
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261118T173055">2026-11-18 17:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261118T180122">2026-11-18 18:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
