@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/" >🔗</a> **[NASA]** APOD: 2026 November 19 – The Horsehead and Flame Nebulas
+- <a href="https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/" >🔗</a> **[NASA]** El Niño Rains Paint the Atacama
 - <a href="https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth/" >🔗</a> **[SpacePolicyOnline.com]** Voyager 1 Reaches New Milestone: One Light-Day from Earth
 - <a href="https://spacepolicyonline.com/news/nasa-and-fcc-nominations-advance-out-of-committee-despite-democratic-boycott/" >🔗</a> **[SpacePolicyOnline.com]** NASA and FCC Nominations Advance Out of Committee Despite Democratic Boycott
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/" >🔗</a> **[Spaceflight Now]** Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines
 - <a href="https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/" >🔗</a> **[SpaceNews]** All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center
 - <a href="https://spacepolicyonline.com/news/insufficient-fuel-flow-may-have-doomed-vulcan/" >🔗</a> **[SpacePolicyOnline.com]** Insufficient Fuel Flow May Have Doomed Vulcan
-- <a href="https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/" >🔗</a> **[NASA]** MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/" >🔗</a> **[NASA]** NASA Announces Mid-Power Electric Rocket Challenge for US Companies
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261119T053101">2026-11-19 05:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261119T060244">2026-11-19 06:02:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
