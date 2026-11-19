@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-awards-ohb-e102m-contract-for-clearspace-1-debris-removal-mission/" >🔗</a> **[European Spaceflight]** ESA Awards OHB €102M Contract for ClearSpace-1 Debris Removal Mission
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/" >🔗</a> **[NASA]** APOD: 2026 November 19 – The Horsehead and Flame Nebulas
 - <a href="https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/" >🔗</a> **[NASA]** El Niño Rains Paint the Atacama
 - <a href="https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth/" >🔗</a> **[SpacePolicyOnline.com]** Voyager 1 Reaches New Milestone: One Light-Day from Earth
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/" >🔗</a> **[NASASpaceflight]** Voyager 1 reaches one light-day nearly 50 years after launch
 - <a href="https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/" >🔗</a> **[Spaceflight Now]** Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines
 - <a href="https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/" >🔗</a> **[SpaceNews]** All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center
-- <a href="https://spacepolicyonline.com/news/insufficient-fuel-flow-may-have-doomed-vulcan/" >🔗</a> **[SpacePolicyOnline.com]** Insufficient Fuel Flow May Have Doomed Vulcan
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261119T070116">2026-11-19 07:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261119T073056">2026-11-19 07:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
