@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth/" >🔗</a> **[SpacePolicyOnline.com]** Voyager 1 Reaches New Milestone: One Light-Day from Earth
 - <a href="https://spacepolicyonline.com/news/nasa-and-fcc-nominations-advance-out-of-committee-despite-democratic-boycott/" >🔗</a> **[SpacePolicyOnline.com]** NASA and FCC Nominations Advance Out of Committee Despite Democratic Boycott
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch
 - <a href="https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/" >🔗</a> **[SpaceNews]** Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/insufficient-fuel-flow-may-have-doomed-vulcan/" >🔗</a> **[SpacePolicyOnline.com]** Insufficient Fuel Flow May Have Doomed Vulcan
 - <a href="https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/" >🔗</a> **[NASA]** MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/" >🔗</a> **[NASA]** NASA Announces Mid-Power Electric Rocket Challenge for US Companies
-- <a href="https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/" >🔗</a> **[NASA]** Empire State Building Goes Gold for Voyager
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261119T033059">2026-11-19 03:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261119T040145">2026-11-19 04:01:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
