@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-and-fcc-nominations-advance-out-of-committee-despite-democratic-boycott/" >🔗</a> **[SpacePolicyOnline.com]** NASA and FCC Nominations Advance Out of Committee Despite Democratic Boycott
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch
 - <a href="https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/" >🔗</a> **[SpaceNews]** Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers
 - <a href="https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/" >🔗</a> **[NASASpaceflight]** Voyager 1 reaches one light-day nearly 50 years after launch
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/" >🔗</a> **[NASA]** MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/" >🔗</a> **[NASA]** NASA Announces Mid-Power Electric Rocket Challenge for US Companies
 - <a href="https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/" >🔗</a> **[NASA]** Empire State Building Goes Gold for Voyager
-- <a href="https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/" >🔗</a> **[Spaceflight Now]** NASA’s Voyager 1 is one light-day from Earth
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261118T233052">2026-11-18 23:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261119T000424">2026-11-19 00:04:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
