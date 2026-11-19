@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-sweet-spot-for-constellation-size/" >🔗</a> **[SpaceNews]** The sweet spot for constellation size
 - <a href="https://spacenews.com/making-the-case-for-optical/" >🔗</a> **[SpaceNews]** Making the case for optical
 - <a href="https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/" >🔗</a> **[NASA]** NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars
 - <a href="https://www.nasa.gov/image-article/lake-pelku/" >🔗</a> **[NASA]** Lake Pelku
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/esa-awards-ohb-e102m-contract-for-clearspace-1-debris-removal-mission/" >🔗</a> **[European Spaceflight]** ESA Awards OHB €102M Contract for ClearSpace-1 Debris Removal Mission
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/" >🔗</a> **[NASA]** APOD: 2026 November 19 – The Horsehead and Flame Nebulas
 - <a href="https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/" >🔗</a> **[NASA]** El Niño Rains Paint the Atacama
-- <a href="https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth/" >🔗</a> **[SpacePolicyOnline.com]** Voyager 1 Reaches New Milestone: One Light-Day from Earth
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261119T173103">2026-11-19 17:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261119T180133">2026-11-19 18:01:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
