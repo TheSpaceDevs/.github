@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/" >🔗</a> **[Arstechnica]** Google turns to Blue Origin for a rocket, but its long-term problem remains
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/" >🔗</a> **[NASA]** Challenge: Public Input on Life and the World in 2075
 - <a href="https://spacenews.com/the-sweet-spot-for-constellation-size/" >🔗</a> **[SpaceNews]** The sweet spot for constellation size
 - <a href="https://spacenews.com/making-the-case-for-optical/" >🔗</a> **[SpaceNews]** Making the case for optical
 - <a href="https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/" >🔗</a> **[NASA]** NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/" >🔗</a> **[NASA]** NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth
 - <a href="https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/" >🔗</a> **[Arstechnica]** To make Moon landings easier, NASA is making life harder for Orion
 - <a href="https://europeanspaceflight.com/esa-awards-ohb-e102m-contract-for-clearspace-1-debris-removal-mission/" >🔗</a> **[European Spaceflight]** ESA Awards OHB €102M Contract for ClearSpace-1 Debris Removal Mission
-- <a href="https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/" >🔗</a> **[NASA]** APOD: 2026 November 19 – The Horsehead and Flame Nebulas
-- <a href="https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/" >🔗</a> **[NASA]** El Niño Rains Paint the Atacama
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261119T193102">2026-11-19 19:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261119T200152">2026-11-19 20:01:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
