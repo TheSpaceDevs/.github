@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/" >🔗</a> **[NASA]** NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions
+- <a href="https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/" >🔗</a> **[NASA]** NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth
 - <a href="https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/" >🔗</a> **[Arstechnica]** To make Moon landings easier, NASA is making life harder for Orion
 - <a href="https://europeanspaceflight.com/esa-awards-ohb-e102m-contract-for-clearspace-1-debris-removal-mission/" >🔗</a> **[European Spaceflight]** ESA Awards OHB €102M Contract for ClearSpace-1 Debris Removal Mission
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/" >🔗</a> **[NASA]** APOD: 2026 November 19 – The Horsehead and Flame Nebulas
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-and-fcc-nominations-advance-out-of-committee-despite-democratic-boycott/" >🔗</a> **[SpacePolicyOnline.com]** NASA and FCC Nominations Advance Out of Committee Despite Democratic Boycott
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch
 - <a href="https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/" >🔗</a> **[SpaceNews]** Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers
-- <a href="https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/" >🔗</a> **[NASASpaceflight]** Voyager 1 reaches one light-day nearly 50 years after launch
-- <a href="https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/" >🔗</a> **[Spaceflight Now]** Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261119T143049">2026-11-19 14:30:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261119T150126">2026-11-19 15:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
