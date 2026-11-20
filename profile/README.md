@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/" >🔗</a> **[NASA]** New NASA Seed Funding Primes Small Businesses for Innovation
 - <a href="https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/" >🔗</a> **[NASASpaceflight]** Following Ship 42’s catch, SpaceX looks to the future
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/" >🔗</a> **[NASA]** NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center
 - <a href="https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/" >🔗</a> **[NASA]** NASA’s Curiosity Mars Rover Collects Samples
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch classified payload for the U.S. Space Force
 - <a href="https://www.nasaspaceflight.com/2026/11/relativity-update-1116/" >🔗</a> **[NASASpaceflight]** Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch
 - <a href="https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/" >🔗</a> **[Arstechnica]** Google turns to Blue Origin for a rocket, but its long-term problem remains
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/" >🔗</a> **[NASA]** Challenge: Public Input on Life and the World in 2075
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261120T203100">2026-11-20 20:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261120T210106">2026-11-20 21:01:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
