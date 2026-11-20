@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch classified payload for the U.S. Space Force
 - <a href="https://www.nasaspaceflight.com/2026/11/relativity-update-1116/" >🔗</a> **[NASASpaceflight]** Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch
 - <a href="https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/" >🔗</a> **[Arstechnica]** Google turns to Blue Origin for a rocket, but its long-term problem remains
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/" >🔗</a> **[NASA]** Challenge: Public Input on Life and the World in 2075
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/lake-pelku/" >🔗</a> **[NASA]** Lake Pelku
 - <a href="https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/" >🔗</a> **[NASA]** NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions
 - <a href="https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/" >🔗</a> **[NASA]** NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth
-- <a href="https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/" >🔗</a> **[Arstechnica]** To make Moon landings easier, NASA is making life harder for Orion
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261119T233104">2026-11-19 23:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261120T000416">2026-11-20 00:04:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
