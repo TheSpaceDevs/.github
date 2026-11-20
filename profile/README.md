@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/" >🔗</a> **[NASA]** Curiosity Spots Drifting Twilight Clouds
+- <a href="https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/" >🔗</a> **[Arstechnica]** Incoming House chair threatens SpaceX funding over Ukraine controversy
 - <a href="https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/" >🔗</a> **[NASA]** New NASA Seed Funding Primes Small Businesses for Innovation
 - <a href="https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/" >🔗</a> **[NASASpaceflight]** Following Ship 42’s catch, SpaceX looks to the future
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/" >🔗</a> **[NASA]** NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/" >🔗</a> **[NASA]** APOD: 2026 November 20 – V-G-R
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/" >🔗</a> **[NASA]** The Stormy Southwest Pacific
 - <a href="https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch classified payload for the U.S. Space Force
-- <a href="https://www.nasaspaceflight.com/2026/11/relativity-update-1116/" >🔗</a> **[NASASpaceflight]** Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch
-- <a href="https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/" >🔗</a> **[Arstechnica]** Google turns to Blue Origin for a rocket, but its long-term problem remains
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261120T223056">2026-11-20 22:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261120T230117">2026-11-20 23:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
