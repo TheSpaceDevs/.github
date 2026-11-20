@@ -92,6 +92,7 @@ The constellation will eventually consists of 13000 satellites.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/danish-soldiers-are-sneaking-starlink-terminals-into-greenland/" >🔗</a> **[European Spaceflight]** Danish Soldiers Are Sneaking Starlink Terminals into Greenland
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/" >🔗</a> **[NASA]** APOD: 2026 November 20 – V-G-R
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/" >🔗</a> **[NASA]** The Stormy Southwest Pacific
 - <a href="https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch classified payload for the U.S. Space Force
@@ -101,7 +102,6 @@ The constellation will eventually consists of 13000 satellites.
 - <a href="https://spacenews.com/the-sweet-spot-for-constellation-size/" >🔗</a> **[SpaceNews]** The sweet spot for constellation size
 - <a href="https://spacenews.com/making-the-case-for-optical/" >🔗</a> **[SpaceNews]** Making the case for optical
 - <a href="https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/" >🔗</a> **[NASA]** NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars
-- <a href="https://www.nasa.gov/image-article/lake-pelku/" >🔗</a> **[NASA]** Lake Pelku
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The constellation will eventually consists of 13000 satellites.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261120T070120">2026-11-20 07:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261120T073129">2026-11-20 07:31:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
