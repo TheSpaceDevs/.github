@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/denmarks-gomspace-secures-e8m-contract-for-blue-origin-moon-mission/" >🔗</a> **[European Spaceflight]** Denmark’s GomSpace Secures €8M Contract for Blue Origin Moon Mission
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/" >🔗</a> **[NASA]** APOD: 2026 November 21 – Voyager’s Neptune
 - <a href="https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/" >🔗</a> **[NASA]** Curiosity Spots Drifting Twilight Clouds
 - <a href="https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/" >🔗</a> **[Arstechnica]** Incoming House chair threatens SpaceX funding over Ukraine controversy
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/" >🔗</a> **[NASA]** NASA’s Curiosity Mars Rover Collects Samples
 - <a href="https://europeanspaceflight.com/danish-soldiers-are-sneaking-starlink-terminals-into-greenland/" >🔗</a> **[European Spaceflight]** Danish Soldiers Are Sneaking Starlink Terminals into Greenland
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/" >🔗</a> **[NASA]** APOD: 2026 November 20 – V-G-R
-- <a href="https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/" >🔗</a> **[NASA]** The Stormy Southwest Pacific
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261121T060240">2026-11-21 06:02:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261121T063521">2026-11-21 06:35:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
