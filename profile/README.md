@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office
 - <a href="https://europeanspaceflight.com/denmarks-gomspace-secures-e8m-contract-for-blue-origin-moon-mission/" >🔗</a> **[European Spaceflight]** Denmark’s GomSpace Secures €8M Contract for Blue Origin Moon Mission
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/" >🔗</a> **[NASA]** APOD: 2026 November 21 – Voyager’s Neptune
 - <a href="https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/" >🔗</a> **[NASA]** Curiosity Spots Drifting Twilight Clouds
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/" >🔗</a> **[NASA]** NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center
 - <a href="https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/" >🔗</a> **[NASA]** NASA’s Curiosity Mars Rover Collects Samples
 - <a href="https://europeanspaceflight.com/danish-soldiers-are-sneaking-starlink-terminals-into-greenland/" >🔗</a> **[European Spaceflight]** Danish Soldiers Are Sneaking Starlink Terminals into Greenland
-- <a href="https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/" >🔗</a> **[NASA]** APOD: 2026 November 20 – V-G-R
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261121T173049">2026-11-21 17:30:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261121T180106">2026-11-21 18:01:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
