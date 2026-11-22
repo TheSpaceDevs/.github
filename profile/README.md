@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-22-29-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 22-29, 2026
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/" >🔗</a> **[NASA]** 65 Years of Human Spaceflight at NASA Johnson
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/" >🔗</a> **[NASA]** APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno
 - <a href="https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office
@@ -101,7 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/" >🔗</a> **[Arstechnica]** Incoming House chair threatens SpaceX funding over Ukraine controversy
 - <a href="https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/" >🔗</a> **[NASA]** New NASA Seed Funding Primes Small Businesses for Innovation
 - <a href="https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/" >🔗</a> **[NASASpaceflight]** Following Ship 42’s catch, SpaceX looks to the future
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/" >🔗</a> **[NASA]** NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261122T213051">2026-11-22 21:30:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261122T220107">2026-11-22 22:01:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
