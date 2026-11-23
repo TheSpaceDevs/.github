@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/11/23/nasa-seeks-to-begin-intergalactic-freight-network-with-1-3-billion-block-purchase-of-rockets-orbital-transfer-vehicles/" >🔗</a> **[Spaceflight Now]** NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles
+- <a href="https://www.nasaspaceflight.com/2026/11/progress-ms-36/" >🔗</a> **[NASASpaceflight]** Progress MS-36 set to launch to ISS from Baikonur
+- <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/" >🔗</a> **[NASA]** NASA Awards Contract for NOAA’s Near Earth Orbit Network Program
 - <a href="https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/" >🔗</a> **[Arstechnica]** Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret
 - <a href="https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/" >🔗</a> **[Spaceflight Now]** As it happened: NG-25 preview news teleconference
 - <a href="https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/" >🔗</a> **[NASA]** Studying Cancer Cells in Microgravity
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/" >🔗</a> **[NASA]** NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space
 - <a href="https://europeanspaceflight.com/eutelsat-wins-60-million-us-space-force-contract/" >🔗</a> **[European Spaceflight]** Eutelsat Wins $60 Million US Space Force Contract
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/" >🔗</a> **[NASA]** NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution
-- <a href="https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/" >🔗</a> **[NASA]** APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251
-- <a href="https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/" >🔗</a> **[NASA]** Laser Focus at the Top of the World
-- <a href="https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/" >🔗</a> **[NASASpaceflight]** China details its path to a crewed Moon landing before 2030
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261123T213102">2026-11-23 21:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261123T220150">2026-11-23 22:01:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
