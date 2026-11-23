@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch classified payload for the U.S. Space Force
+- <a href="https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/" >🔗</a> **[Spaceflight Now]** Live coverage: Arianespace to launch Amazon Leo sats amid rocket crunch
 - <a href="https://spaceflightnow.com/2026/11/23/nasa-seeks-to-begin-intergalactic-freight-network-with-1-3-billion-block-purchase-of-rockets-orbital-transfer-vehicles/" >🔗</a> **[Spaceflight Now]** NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles
 - <a href="https://www.nasaspaceflight.com/2026/11/progress-ms-36/" >🔗</a> **[NASASpaceflight]** Progress MS-36 set to launch to ISS from Baikonur
 - <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/" >🔗</a> **[NASA]** NASA Awards Contract for NOAA’s Near Earth Orbit Network Program
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/" >🔗</a> **[NASA]** Studying Cancer Cells in Microgravity
 - <a href="https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/" >🔗</a> **[NASA]** NASA Seeks Partners to Design First Nuclear Reactor for the Moon
 - <a href="https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/" >🔗</a> **[NASA]** NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space
-- <a href="https://europeanspaceflight.com/eutelsat-wins-60-million-us-space-force-contract/" >🔗</a> **[European Spaceflight]** Eutelsat Wins $60 Million US Space Force Contract
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/" >🔗</a> **[NASA]** NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261123T223108">2026-11-23 22:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261123T230121">2026-11-23 23:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
