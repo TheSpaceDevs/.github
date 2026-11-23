@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/" >🔗</a> **[NASA]** APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251
+- <a href="https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/" >🔗</a> **[NASA]** Laser Focus at the Top of the World
 - <a href="https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/" >🔗</a> **[NASASpaceflight]** China details its path to a crewed Moon landing before 2030
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-22-29-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 22-29, 2026
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/" >🔗</a> **[NASA]** 65 Years of Human Spaceflight at NASA Johnson
@@ -100,8 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/denmarks-gomspace-secures-e8m-contract-for-blue-origin-moon-mission/" >🔗</a> **[European Spaceflight]** Denmark’s GomSpace Secures €8M Contract for Blue Origin Moon Mission
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/" >🔗</a> **[NASA]** APOD: 2026 November 21 – Voyager’s Neptune
 - <a href="https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/" >🔗</a> **[NASA]** Curiosity Spots Drifting Twilight Clouds
-- <a href="https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/" >🔗</a> **[Arstechnica]** Incoming House chair threatens SpaceX funding over Ukraine controversy
-- <a href="https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/" >🔗</a> **[NASA]** New NASA Seed Funding Primes Small Businesses for Innovation
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261123T053055">2026-11-23 05:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261123T060327">2026-11-23 06:03:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
