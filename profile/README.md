@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/" >🔗</a> **[Spaceflight Now]** As it happened: NG-25 preview news teleconference
+- <a href="https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/" >🔗</a> **[NASA]** Studying Cancer Cells in Microgravity
+- <a href="https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/" >🔗</a> **[NASA]** NASA Seeks Partners to Design First Nuclear Reactor for the Moon
 - <a href="https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/" >🔗</a> **[NASA]** NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space
 - <a href="https://europeanspaceflight.com/eutelsat-wins-60-million-us-space-force-contract/" >🔗</a> **[European Spaceflight]** Eutelsat Wins $60 Million US Space Force Contract
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/" >🔗</a> **[NASA]** NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/" >🔗</a> **[NASA]** Laser Focus at the Top of the World
 - <a href="https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/" >🔗</a> **[NASASpaceflight]** China details its path to a crewed Moon landing before 2030
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-22-29-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 22-29, 2026
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/" >🔗</a> **[NASA]** 65 Years of Human Spaceflight at NASA Johnson
-- <a href="https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/" >🔗</a> **[NASA]** APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno
-- <a href="https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261123T173048">2026-11-23 17:30:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261123T180204">2026-11-23 18:02:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
