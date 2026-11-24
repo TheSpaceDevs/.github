@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/" >🔗</a> **[NASA]** APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group
+- <a href="https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/" >🔗</a> **[NASA]** Eruption Extends Iwo Jima’s Beach
 - <a href="https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/" >🔗</a> **[NASASpaceflight]** Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits
 - <a href="https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch classified payload for the U.S. Space Force
 - <a href="https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/" >🔗</a> **[Spaceflight Now]** Live coverage: Arianespace to launch Amazon Leo sats amid rocket crunch
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/" >🔗</a> **[NASA]** NASA Awards Contract for NOAA’s Near Earth Orbit Network Program
 - <a href="https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/" >🔗</a> **[Arstechnica]** Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret
 - <a href="https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/" >🔗</a> **[Spaceflight Now]** As it happened: NG-25 preview news teleconference
-- <a href="https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/" >🔗</a> **[NASA]** Studying Cancer Cells in Microgravity
-- <a href="https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/" >🔗</a> **[NASA]** NASA Seeks Partners to Design First Nuclear Reactor for the Moon
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261124T053122">2026-11-24 05:31:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261124T060250">2026-11-24 06:02:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
