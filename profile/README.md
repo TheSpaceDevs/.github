@@ -34,7 +34,7 @@ into *a Low Earth Orbit
 <blockquote>
   Shenzhou 24 will be the 24th flight of the Shenzhou program.
 
-The first astronaut from Pakistan is expected to fly on this on a short duration mission, with another Chinese astronaut to undergo a year long expedition.
+The first astronaut from Pakistan, Muhammad Zeeshan Ali, will fly on this on a short duration mission, with Chinese astronaut Zhu Yangzhu of Shenzhou 23 to undergo a year long expedition and stay on the CSS in exchange.
 </blockquote>
 
 <p float="left" align="center">
@@ -111,7 +111,7 @@ The first astronaut from Pakistan is expected to fly on this on a short duration
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261124T200109">2026-11-24 20:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261124T203132">2026-11-24 20:31:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
