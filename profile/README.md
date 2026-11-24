@@ -90,6 +90,7 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/" >🔗</a> **[NASA]** NASA Hubble’s New View of NGC 4394 Raises the Bar
 - <a href="https://europeanspaceflight.com/bepicolombo-enters-orbit-around-mercury-despite-software-glitch/" >🔗</a> **[European Spaceflight]** BepiColombo Enters Orbit Around Mercury Despite “Software Glitch”
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/" >🔗</a> **[NASA]** APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group
 - <a href="https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/" >🔗</a> **[NASA]** Eruption Extends Iwo Jima’s Beach
@@ -99,7 +100,6 @@ into *a Polar Orbit
 - <a href="https://spaceflightnow.com/2026/11/23/nasa-seeks-to-begin-intergalactic-freight-network-with-1-3-billion-block-purchase-of-rockets-orbital-transfer-vehicles/" >🔗</a> **[Spaceflight Now]** NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles
 - <a href="https://www.nasaspaceflight.com/2026/11/progress-ms-36/" >🔗</a> **[NASASpaceflight]** Progress MS-36 set to launch to ISS from Baikonur
 - <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/" >🔗</a> **[NASA]** NASA Awards Contract for NOAA’s Near Earth Orbit Network Program
-- <a href="https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/" >🔗</a> **[Arstechnica]** Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261124T143109">2026-11-24 14:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261124T150113">2026-11-24 15:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
