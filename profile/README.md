@@ -92,16 +92,16 @@ The first astronaut from Pakistan, Muhammad Zeeshan Ali, will fly on this on a s
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/white-house-requests-billions-for-nasa-golden-dome-in-next-cr/" >🔗</a> **[SpacePolicyOnline.com]** White House Requests Billions for NASA, Golden Dome in Next CR
+- <a href="https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/" >🔗</a> **[NASA]** NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema
+- <a href="https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/" >🔗</a> **[NASA]** Teams Lock in Mission Architecture for NASA’s SR-1 Freedom
+- <a href="https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/" >🔗</a> **[NASASpaceflight]** BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch
 - <a href="https://europeanspaceflight.com/arianespace-completes-10th-ariane-6-flight-with-next-expected-on-17-december/" >🔗</a> **[European Spaceflight]** Arianespace Completes 10th Ariane 6 Flight With Next Expected on 17 December
 - <a href="https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/" >🔗</a> **[NASA]** Amateur Astronomer? Be a Kilonova Catcher!
 - <a href="https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/" >🔗</a> **[NASA]** NASA’s Northrop Grumman CRS-25 Mission Overview
 - <a href="https://science.nasa.gov/earth/agu-hyperwall-schedule/" >🔗</a> **[NASA]** AGU Hyperwall Schedule
 - <a href="https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/" >🔗</a> **[NASA]** Webb Reveals New Details in Supernova Remnant
 - <a href="https://www.nasaspaceflight.com/2026/11/shenzhou-24/" >🔗</a> **[NASASpaceflight]** Tiangong Space Station to welcome first international visitor
-- <a href="https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/" >🔗</a> **[Arstechnica]** NASA may get $2 billion boost as White House seeks to accelerate Artemis
-- <a href="https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/" >🔗</a> **[NASA]** NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes
-- <a href="https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/" >🔗</a> **[SpaceNews]** Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution
-- <a href="https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/" >🔗</a> **[NASA]** NASA Hubble’s New View of NGC 4394 Raises the Bar
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The first astronaut from Pakistan, Muhammad Zeeshan Ali, will fly on this on a s
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261124T210116">2026-11-24 21:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261124T213051">2026-11-24 21:30:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
