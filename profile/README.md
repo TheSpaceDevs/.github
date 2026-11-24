@@ -45,7 +45,6 @@ into *a Polar Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261124T155500">2026-11-24 15:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | USSF-266&location=Vandenberg SFB, CA, USA&dates=20261124T155500Z%2F20261124T195500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | USSF-266** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261125T000800">2026-11-25 00:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 24&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20261125T000800Z%2F20261125T004800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 24** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261126T093000">2026-11-26 09:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20261126T093000Z%2F20261126T095200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261127T000000">2026-11-27 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Night Owls Never Sleep (StriX Launch 14)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20261127T000000Z%2F20261127T000500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Night Owls Never Sleep (StriX Launch 14)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
@@ -90,6 +89,7 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/" >🔗</a> **[SpaceNews]** Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution
 - <a href="https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/" >🔗</a> **[NASA]** NASA Hubble’s New View of NGC 4394 Raises the Bar
 - <a href="https://europeanspaceflight.com/bepicolombo-enters-orbit-around-mercury-despite-software-glitch/" >🔗</a> **[European Spaceflight]** BepiColombo Enters Orbit Around Mercury Despite “Software Glitch”
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/" >🔗</a> **[NASA]** APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group
@@ -99,7 +99,6 @@ into *a Polar Orbit
 - <a href="https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/" >🔗</a> **[Spaceflight Now]** Live coverage: Arianespace to launch Amazon Leo sats amid rocket crunch
 - <a href="https://spaceflightnow.com/2026/11/23/nasa-seeks-to-begin-intergalactic-freight-network-with-1-3-billion-block-purchase-of-rockets-orbital-transfer-vehicles/" >🔗</a> **[Spaceflight Now]** NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles
 - <a href="https://www.nasaspaceflight.com/2026/11/progress-ms-36/" >🔗</a> **[NASASpaceflight]** Progress MS-36 set to launch to ISS from Baikonur
-- <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/" >🔗</a> **[NASA]** NASA Awards Contract for NOAA’s Near Earth Orbit Network Program
 
 
 ### Launch-related News 🚀
@@ -110,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261124T153050">2026-11-24 15:30:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261124T160125">2026-11-24 16:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
