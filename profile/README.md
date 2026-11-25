@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/" >🔗</a> **[NASA]** Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard
+- <a href="https://www.nasa.gov/image-article/eye-of-the-sahara/" >🔗</a> **[NASA]** Eye of the Sahara
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/" >🔗</a> **[NASA]** NASA’s Hubble Views Ocean of Stars in Groundwork for Roman
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/" >🔗</a> **[NASA]** APOD: 2026 November 25 – SPHEREx Seeing Through Dust
 - <a href="https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/" >🔗</a> **[NASA]** Georgia’s Pecan Belt
@@ -98,17 +100,16 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/white-house-requests-billions-for-nasa-golden-dome-in-next-cr/" >🔗</a> **[SpacePolicyOnline.com]** White House Requests Billions for NASA, Golden Dome in Next CR
 - <a href="https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/" >🔗</a> **[NASA]** NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema
 - <a href="https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/" >🔗</a> **[NASA]** Teams Lock in Mission Architecture for NASA’s SR-1 Freedom
-- <a href="https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/" >🔗</a> **[NASASpaceflight]** BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch
-- <a href="https://europeanspaceflight.com/arianespace-completes-10th-ariane-6-flight-with-next-expected-on-17-december/" >🔗</a> **[European Spaceflight]** Arianespace Completes 10th Ariane 6 Flight With Next Expected on 17 December
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-112426/" >🔗</a> **[NASASpaceflight]** Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261125T163113">2026-11-25 16:31:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261125T170202">2026-11-25 17:02:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
