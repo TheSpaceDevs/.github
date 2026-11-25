@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/" >🔗</a> **[NASA]** NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement
 - <a href="https://europeanspaceflight.com/maiaspace-ships-maia-mechanical-models-to-launch-site/" >🔗</a> **[European Spaceflight]** MaiaSpace Ships Maia Mechanical Models to Launch Site
 - <a href="https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/" >🔗</a> **[Arstechnica]** The FCC has authorized SpaceX to deploy 1 million satellites
 - <a href="https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/" >🔗</a> **[NASA]** NASA Eyes Crop Candidates for Future Menus
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/" >🔗</a> **[NASA]** APOD: 2026 November 25 – SPHEREx Seeing Through Dust
 - <a href="https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/" >🔗</a> **[NASA]** Georgia’s Pecan Belt
 - <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-112426/" >🔗</a> **[NASASpaceflight]** Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions
-- <a href="https://spacepolicyonline.com/news/first-pakistani-astronaut-enroute-to-tiangong/" >🔗</a> **[SpacePolicyOnline.com]** First Pakistani Astronaut Enroute to Tiangong
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261125T193100">2026-11-25 19:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261125T200123">2026-11-25 20:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
