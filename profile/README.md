@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/" >🔗</a> **[NASA]** APOD: 2026 November 25 – SPHEREx Seeing Through Dust
+- <a href="https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/" >🔗</a> **[NASA]** Georgia’s Pecan Belt
 - <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-112426/" >🔗</a> **[NASASpaceflight]** Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions
 - <a href="https://spacepolicyonline.com/news/first-pakistani-astronaut-enroute-to-tiangong/" >🔗</a> **[SpacePolicyOnline.com]** First Pakistani Astronaut Enroute to Tiangong
 - <a href="https://spacepolicyonline.com/news/white-house-requests-billions-for-nasa-golden-dome-in-next-cr/" >🔗</a> **[SpacePolicyOnline.com]** White House Requests Billions for NASA, Golden Dome in Next CR
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/" >🔗</a> **[NASASpaceflight]** BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch
 - <a href="https://europeanspaceflight.com/arianespace-completes-10th-ariane-6-flight-with-next-expected-on-17-december/" >🔗</a> **[European Spaceflight]** Arianespace Completes 10th Ariane 6 Flight With Next Expected on 17 December
 - <a href="https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/" >🔗</a> **[NASA]** Amateur Astronomer? Be a Kilonova Catcher!
-- <a href="https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/" >🔗</a> **[NASA]** NASA’s Northrop Grumman CRS-25 Mission Overview
-- <a href="https://science.nasa.gov/earth/agu-hyperwall-schedule/" >🔗</a> **[NASA]** AGU Hyperwall Schedule
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261125T053047">2026-11-25 05:30:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261125T060255">2026-11-25 06:02:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
