@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/maiaspace-ships-maia-mechanical-models-to-launch-site/" >🔗</a> **[European Spaceflight]** MaiaSpace Ships Maia Mechanical Models to Launch Site
+- <a href="https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/" >🔗</a> **[Arstechnica]** The FCC has authorized SpaceX to deploy 1 million satellites
+- <a href="https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/" >🔗</a> **[NASA]** NASA Eyes Crop Candidates for Future Menus
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/" >🔗</a> **[NASA]** Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard
 - <a href="https://www.nasa.gov/image-article/eye-of-the-sahara/" >🔗</a> **[NASA]** Eye of the Sahara
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/" >🔗</a> **[NASA]** NASA’s Hubble Views Ocean of Stars in Groundwork for Roman
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/" >🔗</a> **[NASA]** Georgia’s Pecan Belt
 - <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-112426/" >🔗</a> **[NASASpaceflight]** Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions
 - <a href="https://spacepolicyonline.com/news/first-pakistani-astronaut-enroute-to-tiangong/" >🔗</a> **[SpacePolicyOnline.com]** First Pakistani Astronaut Enroute to Tiangong
-- <a href="https://spacepolicyonline.com/news/white-house-requests-billions-for-nasa-golden-dome-in-next-cr/" >🔗</a> **[SpacePolicyOnline.com]** White House Requests Billions for NASA, Golden Dome in Next CR
-- <a href="https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/" >🔗</a> **[NASA]** NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema
-- <a href="https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/" >🔗</a> **[NASA]** Teams Lock in Mission Architecture for NASA’s SR-1 Freedom
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261125T183048">2026-11-25 18:30:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261125T190111">2026-11-25 19:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
