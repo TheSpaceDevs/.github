@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/thales-alenia-space-to-establish-dedicated-company-for-cargo-return-services/" >🔗</a> **[European Spaceflight]** Thales Alenia Space to Establish Dedicated Company for Cargo Return Services
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/" >🔗</a> **[NASA]** APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis
 - <a href="https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/" >🔗</a> **[NASA]** Seeking Refuge on Resolution Island
 - <a href="https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/" >🔗</a> **[Spaceflight Now]** FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/" >🔗</a> **[Arstechnica]** The FCC has authorized SpaceX to deploy 1 million satellites
 - <a href="https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/" >🔗</a> **[NASA]** NASA Eyes Crop Candidates for Future Menus
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/" >🔗</a> **[NASA]** Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard
-- <a href="https://www.nasa.gov/image-article/eye-of-the-sahara/" >🔗</a> **[NASA]** Eye of the Sahara
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261126T130105">2026-11-26 13:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261126T133100">2026-11-26 13:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
