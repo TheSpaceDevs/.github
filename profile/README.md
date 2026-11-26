@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/" >🔗</a> **[NASASpaceflight]** FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040
 - <a href="https://spacenews.com/the-bare-knuckled-future-of-life-in-space-with-tim-marshall/" >🔗</a> **[SpaceNews]** The ‘bare-knuckled’ future of life in space with Tim Marshall
 - <a href="https://europeanspaceflight.com/thales-alenia-space-to-establish-dedicated-company-for-cargo-return-services/" >🔗</a> **[European Spaceflight]** Thales Alenia Space to Establish Dedicated Company for Cargo Return Services
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/" >🔗</a> **[NASA]** APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/" >🔗</a> **[NASA]** NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement
 - <a href="https://europeanspaceflight.com/maiaspace-ships-maia-mechanical-models-to-launch-site/" >🔗</a> **[European Spaceflight]** MaiaSpace Ships Maia Mechanical Models to Launch Site
 - <a href="https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/" >🔗</a> **[Arstechnica]** The FCC has authorized SpaceX to deploy 1 million satellites
-- <a href="https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/" >🔗</a> **[NASA]** NASA Eyes Crop Candidates for Future Menus
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261126T223058">2026-11-26 22:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261126T230107">2026-11-26 23:01:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
