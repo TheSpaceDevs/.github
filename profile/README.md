@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/" >🔗</a> **[NASA]** APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis
+- <a href="https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/" >🔗</a> **[NASA]** Seeking Refuge on Resolution Island
 - <a href="https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/" >🔗</a> **[Spaceflight Now]** FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites
 - <a href="https://spacepolicyonline.com/news/fcc-approves-elon-musks-one-million-orbital-data-centers/" >🔗</a> **[SpacePolicyOnline.com]** FCC Approves Elon Musk’s One Million Orbital Data Centers
 - <a href="https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/" >🔗</a> **[NASA]** NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/" >🔗</a> **[NASA]** NASA Eyes Crop Candidates for Future Menus
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/" >🔗</a> **[NASA]** Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard
 - <a href="https://www.nasa.gov/image-article/eye-of-the-sahara/" >🔗</a> **[NASA]** Eye of the Sahara
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/" >🔗</a> **[NASA]** NASA’s Hubble Views Ocean of Stars in Groundwork for Roman
-- <a href="https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/" >🔗</a> **[NASA]** APOD: 2026 November 25 – SPHEREx Seeing Through Dust
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261126T053052">2026-11-26 05:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261126T060306">2026-11-26 06:03:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
