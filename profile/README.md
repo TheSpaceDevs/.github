@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/" >🔗</a> **[Spaceflight Now]** FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites
+- <a href="https://spacepolicyonline.com/news/fcc-approves-elon-musks-one-million-orbital-data-centers/" >🔗</a> **[SpacePolicyOnline.com]** FCC Approves Elon Musk’s One Million Orbital Data Centers
 - <a href="https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/" >🔗</a> **[NASA]** NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement
 - <a href="https://europeanspaceflight.com/maiaspace-ships-maia-mechanical-models-to-launch-site/" >🔗</a> **[European Spaceflight]** MaiaSpace Ships Maia Mechanical Models to Launch Site
 - <a href="https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/" >🔗</a> **[Arstechnica]** The FCC has authorized SpaceX to deploy 1 million satellites
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/eye-of-the-sahara/" >🔗</a> **[NASA]** Eye of the Sahara
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/" >🔗</a> **[NASA]** NASA’s Hubble Views Ocean of Stars in Groundwork for Roman
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/" >🔗</a> **[NASA]** APOD: 2026 November 25 – SPHEREx Seeing Through Dust
-- <a href="https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/" >🔗</a> **[NASA]** Georgia’s Pecan Belt
-- <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-112426/" >🔗</a> **[NASASpaceflight]** Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261126T010121">2026-11-26 01:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261126T013102">2026-11-26 01:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
