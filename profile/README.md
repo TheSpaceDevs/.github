@@ -89,6 +89,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/" >🔗</a> **[SpaceNews]** Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates
+- <a href="https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/" >🔗</a> **[NASA]** Artemis III Astronaut Andre Douglas Visits VAB
 - <a href="https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/" >🔗</a> **[NASASpaceflight]** Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut
 - <a href="https://europeanspaceflight.com/hundreds-of-arianegroup-workers-strike-in-bremen/" >🔗</a> **[European Spaceflight]** Hundreds of ArianeGroup Workers Strike in Bremen
 - <a href="https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/" >🔗</a> **[NASA]** NASA’s NG-25 Mission to Launch Pioneering Space Crops Research
@@ -97,8 +99,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/" >🔗</a> **[NASASpaceflight]** FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040
 - <a href="https://spacenews.com/the-bare-knuckled-future-of-life-in-space-with-tim-marshall/" >🔗</a> **[SpaceNews]** The ‘bare-knuckled’ future of life in space with Tim Marshall
 - <a href="https://europeanspaceflight.com/thales-alenia-space-to-establish-dedicated-company-for-cargo-return-services/" >🔗</a> **[European Spaceflight]** Thales Alenia Space to Establish Dedicated Company for Cargo Return Services
-- <a href="https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/" >🔗</a> **[NASA]** APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis
-- <a href="https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/" >🔗</a> **[NASA]** Seeking Refuge on Resolution Island
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261127T153052">2026-11-27 15:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261127T160151">2026-11-27 16:01:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
