@@ -24,8 +24,8 @@ The next space launch, retrieved from our
 from *<a href="None">Launch Complex 9A</a>, Taiyuan Satellite Launch Center, People's Republic of China*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261129T034600">2026-11-29 03:46:00 UTC</a>.  Until
-then, this pad will have been used for 30
-out of 164 launches from this location. The launch status is currently
+then, this pad will have been used for 31
+out of 165 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Unknown* and the payload will be injected
 into *an Unknown
@@ -89,6 +89,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/" >🔗</a> **[NASASpaceflight]** Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut
+- <a href="https://europeanspaceflight.com/hundreds-of-arianegroup-workers-strike-in-bremen/" >🔗</a> **[European Spaceflight]** Hundreds of ArianeGroup Workers Strike in Bremen
+- <a href="https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/" >🔗</a> **[NASA]** NASA’s NG-25 Mission to Launch Pioneering Space Crops Research
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/" >🔗</a> **[NASA]** APOD: 2026 November 27 – The Moon Watchers
 - <a href="https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/" >🔗</a> **[NASA]** Shivelyuch Socked In
 - <a href="https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/" >🔗</a> **[NASASpaceflight]** FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040
@@ -96,9 +99,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/thales-alenia-space-to-establish-dedicated-company-for-cargo-return-services/" >🔗</a> **[European Spaceflight]** Thales Alenia Space to Establish Dedicated Company for Cargo Return Services
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/" >🔗</a> **[NASA]** APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis
 - <a href="https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/" >🔗</a> **[NASA]** Seeking Refuge on Resolution Island
-- <a href="https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/" >🔗</a> **[Spaceflight Now]** FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites
-- <a href="https://spacepolicyonline.com/news/fcc-approves-elon-musks-one-million-orbital-data-centers/" >🔗</a> **[SpacePolicyOnline.com]** FCC Approves Elon Musk’s One Million Orbital Data Centers
-- <a href="https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/" >🔗</a> **[NASA]** NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261127T143048">2026-11-27 14:30:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261127T150123">2026-11-27 15:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
