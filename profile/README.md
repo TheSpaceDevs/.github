@@ -89,6 +89,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/11/28/live-coverage-spacex-to-launch-satellites-for-u-s-space-forces-data-network/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch satellites for U.S. Space Force’s data network
 - <a href="https://europeanspaceflight.com/hyimpulse-completes-first-hot-fire-test-with-sl1-thrust-vector-control-system/" >🔗</a> **[European Spaceflight]** HyImpulse Completes First Hot-Fire Test with SL1 Thrust Vector Control System
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph/" >🔗</a> **[NASA]** APOD: 2026 November 28 – Apollo 17 VIP Site Anaglyph
 - <a href="https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/" >🔗</a> **[SpaceNews]** Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates
@@ -98,7 +99,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/" >🔗</a> **[NASA]** NASA’s NG-25 Mission to Launch Pioneering Space Crops Research
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/" >🔗</a> **[NASA]** APOD: 2026 November 27 – The Moon Watchers
 - <a href="https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/" >🔗</a> **[NASA]** Shivelyuch Socked In
-- <a href="https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/" >🔗</a> **[NASASpaceflight]** FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261128T143050">2026-11-28 14:30:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261128T150107">2026-11-28 15:01:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
