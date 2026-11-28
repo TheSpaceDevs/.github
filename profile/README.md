@@ -89,6 +89,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/hyimpulse-completes-first-hot-fire-test-with-sl1-thrust-vector-control-system/" >🔗</a> **[European Spaceflight]** HyImpulse Completes First Hot-Fire Test with SL1 Thrust Vector Control System
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph/" >🔗</a> **[NASA]** APOD: 2026 November 28 – Apollo 17 VIP Site Anaglyph
 - <a href="https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/" >🔗</a> **[SpaceNews]** Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates
 - <a href="https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/" >🔗</a> **[NASA]** Artemis III Astronaut Andre Douglas Visits VAB
@@ -98,7 +99,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/" >🔗</a> **[NASA]** APOD: 2026 November 27 – The Moon Watchers
 - <a href="https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/" >🔗</a> **[NASA]** Shivelyuch Socked In
 - <a href="https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/" >🔗</a> **[NASASpaceflight]** FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040
-- <a href="https://spacenews.com/the-bare-knuckled-future-of-life-in-space-with-tim-marshall/" >🔗</a> **[SpaceNews]** The ‘bare-knuckled’ future of life in space with Tim Marshall
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261128T060247">2026-11-28 06:02:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20261128T063620">2026-11-28 06:36:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
